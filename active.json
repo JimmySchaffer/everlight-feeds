@@ -1,30 +1,30 @@
 {
-  "batch_id": "batch_20260210_223615",
-  "created_at": "2026-02-10T22:36:15.427170",
+  "batch_id": "batch_20260212_060839",
+  "created_at": "2026-02-12T06:08:39.684239",
   "story_count": 50,
   "stories": [
     {
-      "id": "batch_20260211_063550__story_001",
+      "id": "story_001_11yearold_discovers_ancient_turtle_fossil_on_blm_land",
       "title": "11-year-old discovers ancient turtle fossil on BLM land",
-      "summary": "An 11-year-old's day of rockhounding turned into an incredible moment of discovery when he found a fossilized turtle dating back nearly 48 million years in Wyoming. This remarkable find highlights the wonders of our natural history and the joy of exploration.",
+      "summary": "An 11-year-old named Touren Pope made an incredible discovery while rockhounding in southwest Wyoming: a fossilized turtle shell dating back nearly 48 million years! This remarkable find not only highlights the rich prehistoric life of the Greater Green River Basin but also showcases the importance of exploration and curiosity in our natural world. Touren's keen eye and adventurous spirit turned a routine outing into a significant archaeological moment, reminding us that history is often just beneath our feet.",
       "category": "Discovery",
       "categories": [
         "Discovery",
         "Other"
       ],
-      "source_url": "https://www.greenriverstar.com/story/2026/01/22/people/11-year-old-discovers-ancient-turtle-fossil-on-blm-land/13531.html",
+      "source_url": "HTTPS://www.greenriverstar.com/story/2026/01/22/people/11-year-old-discovers-ancient-turtle-fossil-on-blm-land/13531.html",
       "source_name": "greenriverstar.com",
       "published_ts": 1769121420000,
       "image_url": "https://www.greenriverstar.com/home/cms_data/dfault/photos/stories/id/3/1/13531/s_top"
     },
     {
-      "id": "batch_20260211_063550__story_002",
+      "id": "story_002_is_being_virtuous_good_for_you_or_just_people_around_you_a_s",
       "title": "Is being virtuous good for you \u2013 or just people around you? A study suggests traits like compassion may support your own well-being",
-      "summary": "A recent study suggests that practicing virtues like compassion and patience not only benefits those around us but also enhances our own well-being. This research echoes the wisdom of ancient philosophers, showing that kindness can lead to personal growth and happiness.",
-      "category": "Transformation",
+      "summary": "New research suggests that virtues like compassion and patience not only benefit those around us but also enhance our own well-being. This study challenges the long-held belief that being virtuous is solely for the benefit of others, revealing that practicing kindness can lead to greater happiness for ourselves. By examining daily moments of virtue, the researchers found that embracing these traits can create a positive feedback loop, enriching both our lives and the lives of those we touch.",
+      "category": "Discovery",
       "categories": [
-        "Transformation",
-        "Science"
+        "Discovery",
+        "Spiritual"
       ],
       "source_url": "http://monroecountyherald.com/premium/theconversation/stories/is-being-virtuous-good-for-you-or-just-people-around-you-a-study-suggests-traits-like,153747",
       "source_name": "monroecountyherald.com",
@@ -32,9 +32,9 @@
       "image_url": "https://images.theconversation.com/files/713918/original/file-20260122-64-8j8psd.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C2120%2C1413&q=45&auto=format&w=1050&h=700&fit=crop"
     },
     {
-      "id": "batch_20260211_063550__story_003",
+      "id": "story_003_teacher_shocked_as_hes_presented_with_94000_supercar_outside",
       "title": "Teacher shocked as he's presented with \u00a394,000 supercar outside school",
-      "summary": "A teacher in Eastbourne was left in disbelief after winning a \u00a394,000 supercar just weeks after his previous car was totaled in an accident. This unexpected windfall has turned his luck around in the most extravagant way!",
+      "summary": "Jeff Taylor, a dedicated teacher from Eastbourne, received the surprise of a lifetime when he won a \u00a394,000 supercar just weeks after losing his own car in an accident. The unexpected gift, delivered by an online competition firm, left him in shock and surrounded by his colleagues. This delightful twist of fate not only replaced his lost vehicle but also brought joy and excitement to his school community, proving that sometimes luck can turn around just when you need it.",
       "category": "Surprise",
       "categories": [
         "Surprise",
@@ -46,9 +46,9 @@
       "image_url": "https://www.theargus.co.uk/resources/images/20461652.jpg?type=og-image"
     },
     {
-      "id": "batch_20260211_063550__story_004",
+      "id": "story_004_snowplow_driver_saves_stranded_motorist_in_indianapolis",
       "title": "Snowplow driver saves stranded motorist in Indianapolis",
-      "summary": "In a heartwarming act of community spirit, a snowplow driver in Indianapolis came to the rescue of a stranded motorist during a heavy snowfall. His timely assistance not only helped the driver get back on the road but also showcased the importance of looking out for one another in tough conditions.",
+      "summary": "In a heartwarming act of community spirit, snowplow driver Tony Odom came to the rescue of Jose Trejo, who was stranded in heavy snowfall in Indianapolis. After being flagged down, Odom not only helped Trejo get his car unstuck but also assisted several others in the neighborhood. This story highlights the power of neighbors helping neighbors during tough times, reminding us that kindness and support can shine through even the harshest weather.",
       "category": "Rescue",
       "categories": [
         "Rescue",
@@ -60,9 +60,9 @@
       "image_url": "https://www.wishtv.com/wp-content/uploads/2026/01/26/STORM-ROAD-CONDITIONS-11-PKG.transfer_frame_688.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_005",
+      "id": "story_005_nelson_donates_kidney_to_cousin_huge_gift",
       "title": "Nelson donates kidney to cousin: \u2018Huge gift\u2019",
-      "summary": "Lacey Nelson made a life-changing decision when she donated a kidney to her cousin, Max Amsden, who was in desperate need of a transplant. Her selfless act not only saved his life but also strengthened their family bond, showcasing the power of generosity.",
+      "summary": "Lacey Nelson made a life-changing decision when she donated a kidney to her cousin, Max Amsden, who was facing end-stage kidney failure. Despite not having seen him for years, Lacey\u2019s willingness to help demonstrates the power of family bonds and the incredible impact of selfless acts. Her journey from blood donation to organ donation showcases the profound generosity that can exist within families, reminding us of the importance of connection and support in times of need.",
       "category": "Generosity",
       "categories": [
         "Generosity",
@@ -74,13 +74,13 @@
       "image_url": "https://www.journalnd.com/wp-content/uploads/images/2026-01-21/3p1-1200x628.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_006",
+      "id": "story_006_otter_tail_county_appraiser_commended_for_compassionate_care",
       "title": "Otter Tail County appraiser commended for compassionate care during crisis",
-      "summary": "Todd Finkelson, an appraiser in Otter Tail County, is being recognized for his compassionate response during a crisis. His quick thinking helped save a life when he intervened after a property owner expressed alarming thoughts, demonstrating the impact of caring for others.",
-      "category": "Human Story",
+      "summary": "Todd Finkelson, an appraiser in Otter Tail County, displayed remarkable compassion and quick thinking when he intervened in a potential crisis during a routine property visit. By offering support to a distressed individual and contacting law enforcement, Todd played a crucial role in preventing a tragedy. His actions not only saved a life but also exemplified the profound impact one person can have in a moment of need, proving that kindness and awareness can make all the difference.",
+      "category": "Rescue",
       "categories": [
-        "Human Story",
-        "Rescue"
+        "Rescue",
+        "Human Story"
       ],
       "source_url": "https://henningadvocate.com/2026/01/20/otter-tail-county-appraiser-commended-for-compassionate-care-during-crisis/",
       "source_name": "henningadvocate.com",
@@ -88,9 +88,9 @@
       "image_url": "https://henningadvocate.com/wp-content/uploads/sites/2/2026/01/Finkelson-Commendation-1_13_2026.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_007",
+      "id": "story_007_blue_spring_state_park_proves_accessibility_belongs_in_natur",
       "title": "Blue Spring State Park proves accessibility belongs in nature",
-      "summary": "A family took their father, a double amputee, on a hike at Blue Spring State Park, proving that accessibility in nature is essential. This outing not only transformed their father's experience but also highlighted the importance of inclusivity in outdoor activities.",
+      "summary": "A recent 'rolling hike' at Blue Spring State Park allowed Mitch Geier, a double amputee, to reconnect with nature alongside his family. Thanks to all-terrain chairs provided by the park, Mitch was able to experience the outdoors in a way he never thought possible after his health challenges. This initiative not only transformed Mitch's experience but also highlighted the importance of accessibility in nature, ensuring everyone can enjoy the beauty of the outdoors regardless of their physical limitations.",
       "category": "Transformation",
       "categories": [
         "Transformation",
@@ -102,9 +102,9 @@
       "image_url": "https://www.beacononlinenews.com/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-8.49.56\u202fAM-1200x628.png"
     },
     {
-      "id": "batch_20260211_063550__story_008",
+      "id": "story_008_worlds_oldest_known_rock_art_predates_modern_humans_entrance",
       "title": "World's oldest known rock art predates modern humans' entrance into Europe \u2014 and it was found in an Indonesian cave",
-      "summary": "Scientists have uncovered the world's oldest known rock art, a hand stencil dating back at least 67,800 years in Indonesia. This discovery not only sheds light on early human creativity but also enriches our understanding of prehistoric life.",
+      "summary": "Scientists have uncovered the world's oldest known rock art, a hand stencil dating back at least 67,800 years, in a cave in Indonesia. This groundbreaking discovery not only provides insight into the early presence of modern humans in the region but also enriches our understanding of human creativity and expression long before recorded history. As researchers continue to explore these ancient sites, we gain a deeper appreciation for the artistic capabilities of our ancestors.",
       "category": "Discovery",
       "categories": [
         "Discovery",
@@ -116,9 +116,9 @@
       "image_url": "https://cdn.mos.cms.futurecdn.net/ZPQTpczJ4AcrdVVASRJZVb-2560-80.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_009",
+      "id": "story_009_downtown_church_takes_rare_step_amid_cold_opens_doors_as_ove",
       "title": "Downtown church takes rare step amid cold, opens doors as overnight shelter",
-      "summary": "In a heartening move, St. Paul\u2019s Cathedral in London opened its doors as an overnight shelter for the homeless during extreme cold weather. This initiative not only provides warmth and safety but also fosters a sense of community and compassion in the heart of the city.",
+      "summary": "In a remarkable act of compassion, St. Paul\u2019s Cathedral in London opened its doors as an overnight shelter for the homeless during a severe cold snap. This historic cathedral, known for its community outreach, welcomed around 50 individuals seeking warmth and safety, showcasing the power of community support in times of need.",
       "category": "Community",
       "categories": [
         "Community",
@@ -130,13 +130,13 @@
       "image_url": "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2026/01/Ldn20260126MH0197-copy.LF_.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_010",
+      "id": "story_010_huntingtons_disease_has_local_man_walkingrunning_causeway_br",
       "title": "Huntington\u2019s Disease Has Local Man Walking/Running Causeway Bridge Daily",
-      "summary": "Rip Wagner, who battles Huntington\u2019s disease, has turned his daily walks over the Causeway Bridge into a testament of resilience and determination. His commitment to movement is not just about exercise; it's a powerful way to combat the challenges of his condition.",
+      "summary": "Rip Wagner, diagnosed with Huntington's disease, has turned his daily walks and runs across the Causeway Bridge into a powerful testament to resilience. By maintaining a rigorous exercise routine, he actively combats the progression of his condition while inspiring others with his determination. Rip's journey showcases the importance of movement and positivity in facing life's challenges, reminding us that every step forward is a victory worth celebrating.",
       "category": "Transformation",
       "categories": [
         "Transformation",
-        "Sports"
+        "Human Story"
       ],
       "source_url": "https://www.thesandpaper.net/articles/bridging-hope-motion-against-huntingtons-disease/",
       "source_name": "thesandpaper.net",
@@ -144,9 +144,9 @@
       "image_url": "https://www.thesandpaper.net/wp-content/uploads/2026/01/Causeway-Runner-39.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_011",
+      "id": "story_011_local_students_join_forces_to_combat_hunger_in_georgia_and_k",
       "title": "Local students join forces to combat hunger in Georgia and Kentucky",
-      "summary": "Students from Lanier High School's band and football team have united to combat hunger in Georgia and Kentucky. Partnering with Meals to Missions, they are making a meaningful impact by addressing food insecurity in their communities.",
+      "summary": "Students from Lanier High School in Georgia are uniting to combat hunger by partnering with Meals to Missions to raise funds for 10,000 nutritious meals. This initiative not only addresses food insecurity locally but also reaches underserved communities in Kentucky, demonstrating the impact of youth-led efforts in making a difference.",
       "category": "Community",
       "categories": [
         "Community",
@@ -158,9 +158,9 @@
       "image_url": "https://www.northgwinnettvoice.com/wp-content/uploads/2025/07/Geneva_Melanie-EDITED-65.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_012",
+      "id": "story_012_heroic_central_new_york_police_officer_getting_national_atte",
       "title": "Heroic Central New York Police Officer Getting National Attention",
-      "summary": "Officer Jamie Pastorello from Syracuse has captured hearts after he stopped to help a woman struggling with groceries in freezing weather. His simple act of kindness not only made a significant difference in her day but also serves as a reminder of the compassion that exists in our communities.",
+      "summary": "Officer Jamie Pastorello from Syracuse has captured hearts with his compassionate act of helping a woman struggling with groceries in freezing weather. This simple gesture led to a community outpouring of support for Rhea Holmes, who had been living in difficult circumstances. The bond formed between the officer and Rhea not only transformed her life but also highlighted the profound impact of empathy and kindness, proving that even small actions can lead to significant change.",
       "category": "Human Story",
       "categories": [
         "Human Story",
@@ -172,9 +172,9 @@
       "image_url": "https://townsquare.media/site/39/files/2026/01/attachment-618312980_122109271779185947_8209419608064193528_n.jpg?w=1200&q=75&format=natural"
     },
     {
-      "id": "batch_20260211_063550__story_013",
+      "id": "story_013_orlando_va_program_uses_dungeons_dragons_to_support_veteran",
       "title": "Orlando VA Program Uses Dungeons & Dragons to Support Veteran Wellness",
-      "summary": "The Orlando VA Healthcare System is using Dungeons & Dragons as a unique tool for veteran wellness. Through the REVEAL Program, veterans are finding connection and healing, showcasing how creativity and community can transform lives.",
+      "summary": "At the Orlando VA Healthcare System, veterans are finding healing and connection through tabletop role-playing games like Dungeons & Dragons. The REVEAL Program, led by Navy Veteran Victor Mitchell, uses gaming to foster teamwork and emotional wellness, proving that creativity can be a powerful tool for overcoming trauma and isolation.",
       "category": "Transformation",
       "categories": [
         "Transformation",
@@ -186,9 +186,9 @@
       "image_url": "https://westorlandonews.com/wp-content/uploads/2026/01/OrlandoVA_DD.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_014",
+      "id": "story_014_ai_predicts_future_disease_risk_using_sleep_patterns",
       "title": "AI predicts future disease risk using sleep patterns",
-      "summary": "Stanford researchers have developed an innovative AI model called SleepFM that predicts future disease risks based on sleep patterns. This groundbreaking technology highlights the significant impact of sleep on overall health, paving the way for better preventative measures and health management.",
+      "summary": "Stanford researchers have developed an innovative AI model called SleepFM that predicts the risk of over 130 diseases based on sleep patterns. By analyzing extensive sleep recordings from thousands of participants, this groundbreaking technology offers insights into how sleep impacts overall health, potentially transforming our understanding of wellness and disease prevention.",
       "category": "Discovery",
       "categories": [
         "Discovery",
@@ -200,11 +200,12 @@
       "image_url": "https://stanforddaily.com/wp-content/uploads/2025/02/20250213-Rainy-Day-7.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_015",
+      "id": "story_015_this_minnesota_bar_was_built_from_300year_old_wood",
       "title": "This Minnesota Bar Was Built From 300-Year Old Wood",
-      "summary": "Discover a unique bar in Minnesota built from wood over 300 years old, sourced from an abandoned railroad bridge. The Trestle Inn not only serves ice-cold beer but also carries a rich history, making it a must-visit spot for locals and travelers alike.",
-      "category": "Other",
+      "summary": "The Trestle Inn in Minnesota, built from 300-year-old wood salvaged from an abandoned railroad bridge, stands as a testament to sustainable practices and historical preservation. This unique bar not only offers a glimpse into the past but also serves as a gathering place for the community, blending history with modern hospitality.",
+      "category": "Transformation",
       "categories": [
+        "Transformation",
         "Other"
       ],
       "source_url": "https://krocnews.com/minnesota-bar-300-year-old-wood/",
@@ -213,13 +214,13 @@
       "image_url": "https://townsquare.media/site/65/files/2026/01/attachment-image-credit-google-maps-1.jpg?w=1200&q=75&format=natural"
     },
     {
-      "id": "batch_20260211_063550__story_016",
+      "id": "story_016_this_diy_genius_has_powered_his_entire_home_with_old_laptop",
       "title": "This DIY Genius Has Powered His Entire Home With Old Laptop Batteries Since 2016",
-      "summary": "One innovative homeowner has turned e-waste into a sustainable energy source by powering his entire home with old laptop batteries since 2016. This remarkable transformation not only showcases ingenuity but also promotes environmental responsibility.",
-      "category": "Transformation",
+      "summary": "A resourceful homeowner has turned e-waste into a sustainable energy solution by powering his entire home with repurposed laptop batteries since 2016. This innovative approach not only showcases creativity and resilience but also highlights the potential of recycling technology to create a greener future.",
+      "category": "Discovery",
       "categories": [
-        "Transformation",
-        "Discovery"
+        "Discovery",
+        "Transformation"
       ],
       "source_url": "https://www.iowaparkleader.com/this-diy-genius-has-powered-his-entire-home-with-old-laptop-batteries-since-2016/",
       "source_name": "iowaparkleader.com",
@@ -227,9 +228,9 @@
       "image_url": "https://www.iowaparkleader.com/wp-content/uploads/2026/01/1769009243_This-DIY-Genius-Has-Powered-His-Entire-Home-With-Old.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_017",
+      "id": "story_017_why_simply_saying_hello_makes_the_world_better",
       "title": "Why simply saying \u2018hello\u2019 makes the world better",
-      "summary": "In a world dominated by technology, the simple act of saying 'hello' can make a significant difference. This story emphasizes the importance of human connection and how small gestures can revitalize our communities.",
+      "summary": "In a world increasingly dominated by technology, the simple act of greeting someone can foster connection and improve community spirit. A call to revive casual conversations and friendly hellos emphasizes the importance of social interactions in combating loneliness and building a sense of belonging.",
       "category": "Community",
       "categories": [
         "Community",
@@ -241,9 +242,9 @@
       "image_url": "https://baylorlariat.com/wp-content/uploads/2026/01/Brady-Harris-39-scaled.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_018",
+      "id": "story_018_at_408_mph_this_drone_has_just_set_a_guinnesscertified_recor",
       "title": "At 408 mph, this drone has just set a Guinness-certified record and the best part is, it was entirely built in-house using a 3D printer",
-      "summary": "A father-son duo in South Africa has set a Guinness World Record by creating a 3D-printed drone that reached an astonishing speed of 408 mph. This achievement showcases the potential of homegrown innovation and the exciting future of technology.",
+      "summary": "A father-son duo from South Africa has set a Guinness World Record by creating a 3D-printed quadcopter that reached an astonishing speed of 408 mph. Their achievement illustrates the power of innovation and home-based engineering, proving that extraordinary feats can emerge from creativity and determination.",
       "category": "Discovery",
       "categories": [
         "Discovery",
@@ -255,9 +256,9 @@
       "image_url": "https://hometownjournal.biz/wp-content/uploads/2026/01/hometownjournal.biz-at-408-mph-this-drone-has-just-set-a-guinness-certified-record-and-the-best-part-is-it-was-entirely-built-in-house-using-a-3d-printer-4042132.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_019",
+      "id": "story_019_north_carolina_amazon_driver_from_charlotte_donates_entire_1",
       "title": "North Carolina Amazon Driver From Charlotte Donates Entire $10,000 Reward to Local Children\u2019s Hospital After Receiving Record Customer Thanks",
-      "summary": "A Charlotte Amazon driver, GreyIon Anthony, made headlines after donating his entire $10,000 reward to a local children's hospital. His incredible act of generosity highlights the power of kindness and community spirit.",
+      "summary": "After being recognized as one of Amazon's most-thanked drivers, Charlotte-based delivery driver GreyIon Anthony made headlines by donating his entire $10,000 reward to a local children's hospital. His selfless act of generosity highlights the impact of kindness and community support, inspiring others to give back.",
       "category": "Generosity",
       "categories": [
         "Generosity",
@@ -269,9 +270,9 @@
       "image_url": "https://saludastandard-sentinel.com/wp-content/uploads/2026/01/North-Carolina-Amazon-Driver-From-Charlotte-Donates-Entire-10000-Reward-to-Local-Childrens-Hospital-After-Receiving-Record-Customer-Thanks.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_020",
+      "id": "story_020_the_40year_career_that_quietly_helped_redefine_an_arkansas_g",
       "title": "The 40-Year Career that Quietly Helped Redefine an Arkansas Gas Utility",
-      "summary": "Fred Kirkwood's 40-year career story is intertwined with a love story that began in college. His journey reflects personal growth and the choices that shaped his path, illustrating how passion can redefine one's professional life.",
+      "summary": "Fred Kirkwood's 40-year career with Arkansas Oklahoma Gas reflects a journey of love and commitment. Choosing a path that allowed him to stay close to his family, Kirkwood's story is a reminder of how personal connections can shape our professional lives and lead to meaningful contributions in our communities.",
       "category": "Human Story",
       "categories": [
         "Human Story",
@@ -283,9 +284,9 @@
       "image_url": "https://arkansasbusiness.wppcdn.com/wp-content/uploads/2026/01/Kirkwood-with-family_-Im-getting-names.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_021",
+      "id": "story_021_central_oregon_innovator_nears_launch_of_flying_car",
       "title": "Central Oregon innovator nears launch of flying car",
-      "summary": "After nearly two decades of hard work, Central Oregon innovator Sam Bousfield is on the brink of launching a flying car that can drive on streets and take off from small airports. This groundbreaking project could revolutionize personal transportation, making the dream of flying cars a reality.",
+      "summary": "Sam Bousfield's dream of creating a flying car is closer to reality than ever! After nearly two decades of hard work, his company, Samson Sky, is on the brink of launching the Switchblade, a vehicle that can drive on roads and take to the skies. With the first test vehicle under construction and production set to start soon, this innovation could revolutionize travel. Bousfield's commitment to keeping R&D in Central Oregon while expanding globally showcases the potential of local ingenuity in the face of international markets.",
       "category": "Discovery",
       "categories": [
         "Discovery",
@@ -297,9 +298,9 @@
       "image_url": "https://bendbulletin.com/wp-content/uploads/sites/10/2026/01/Flying-Car-012526-011.jpg?w=640"
     },
     {
-      "id": "batch_20260211_063550__story_022",
+      "id": "story_022_uncovering_the_extraordinary_life_of_joseph_reynolds",
       "title": "Uncovering the Extraordinary Life of Joseph Reynolds",
-      "summary": "As Ireland commemorates its revolutionary era, a researcher has unveiled the remarkable life of Joseph Reynolds, who dedicated fifty years to three different causes. His story sheds light on the complexities of history and the individuals who shaped it.",
+      "summary": "The remarkable life of Joseph Reynolds, an Irish revolutionary and veteran, is being brought to light just as Ireland commemorates its revolutionary history. From surviving harsh prison conditions to serving in the U.S. Army during World War II, Reynolds' journey reflects resilience and dedication to multiple causes over decades. His story, researched by his grandniece, highlights not only his personal sacrifices but also the broader impact of historical events on individual lives.",
       "category": "Human Story",
       "categories": [
         "Human Story",
@@ -311,9 +312,9 @@
       "image_url": "https://www.irishecho.com/uploads/article/2026/1/14672/Reynolds.jpg?t=1769187848"
     },
     {
-      "id": "batch_20260211_063550__story_023",
+      "id": "story_023_man_goes_from_homelessness_to_helping",
       "title": "Man goes from homelessness to helping",
-      "summary": "A veteran's journey from homelessness to helping others highlights the power of connection in recovery. Through the VA Peer Support Program, he now shares his experiences to inspire and support fellow veterans facing similar challenges.",
+      "summary": "Alexander Amstutz, once homeless, has transformed his life and is now a beacon of hope for fellow veterans as a peer support specialist. At the VA Clinic, he uses his own experiences to guide others through their recovery journeys. This story highlights the power of connection and support in overcoming life's challenges, showing that sometimes the best way to heal is to help others.",
       "category": "Transformation",
       "categories": [
         "Transformation",
@@ -325,9 +326,9 @@
       "image_url": "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2026/01/25222151/VA-PEER-SUPPORT2-web-375x500.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_024",
+      "id": "story_024_columbia_falls_runners_complete_24hour_runathon_to_support_i",
       "title": "Columbia Falls runners complete 24-hour run-a-thon to support injured teammate",
-      "summary": "Columbia Falls High School cross country teammates completed a 24-hour run-a-thon to raise funds for their injured teammate, Hazel Alexander. Their collective effort not only supports her recovery but also strengthens the bonds within their community.",
+      "summary": "The Columbia Falls High School cross country team has come together in an inspiring show of support for their injured teammate, Hazel Alexander. They organized a 24-hour run-a-thon to raise funds for her recovery after a serious accident. This event not only showcases their dedication to Hazel but also highlights the strength of community spirit and the lengths friends will go to support one another in tough times.",
       "category": "Community",
       "categories": [
         "Community",
@@ -339,9 +340,9 @@
       "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/007bda1/2147483647/strip/true/crop/4284x2249+0+1731/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fe0%2F18%2Fc5cced0149fab717ee18dfbfc4a0%2Fimg-0129.jpeg"
     },
     {
-      "id": "batch_20260211_063550__story_025",
+      "id": "story_025_the_artemis_2_astronauts_will_observe_parts_of_the_moon_huma",
       "title": "The Artemis 2 Astronauts Will Observe Parts of the Moon Humans Have Never Laid Eyes On",
-      "summary": "NASA's Artemis 2 mission is set to make history as astronauts will observe parts of the Moon that have never been seen by human eyes. This mission marks a significant step towards humanity's return to the lunar surface, paving the way for future exploration.",
+      "summary": "NASA's Artemis 2 mission is set to make history as astronauts prepare to observe parts of the Moon that have never been seen by human eyes. This mission marks the first crewed flight to the Moon in over 50 years, paving the way for future lunar exploration. The crew will not only test spaceflight systems but also conduct groundbreaking scientific research, making this a pivotal moment for space exploration and our understanding of the Moon.",
       "category": "Discovery",
       "categories": [
         "Discovery",
@@ -353,9 +354,9 @@
       "image_url": "https://gizmodo.com/app/uploads/2026/01/artemis_i_earth_after_opf-1200x675.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_026",
+      "id": "story_026_iqaluit_students_turn_science_and_math_into_a_business",
       "title": "Iqaluit students turn science and math into a business",
-      "summary": "Students at \u00c9cole des Trois-Soleils in Iqaluit are turning their science and math skills into a thriving business by creating custom 3D-printed products. This initiative not only fosters creativity but also empowers young minds to explore entrepreneurship.",
+      "summary": "Students at \u00c9cole des Trois-Soleils in Iqaluit are turning their science and math skills into entrepreneurial ventures through their robotics club. By creating and selling 3D-printed products, these young innovators are not only learning valuable skills but also fostering a sense of community and creativity. Their projects, from custom orders to fun designs, showcase the exciting intersection of education and business.",
       "category": "Discovery",
       "categories": [
         "Discovery",
@@ -367,9 +368,9 @@
       "image_url": "https://nunatsiaq.com/wp-content/uploads/2026/01/IMG_9826-1200x630.jpeg"
     },
     {
-      "id": "batch_20260211_063550__story_027",
+      "id": "story_027_owners_of_san_francisco_restaurants_offer_housing_to_employe",
       "title": "Owners of San Francisco restaurants offer housing to employees",
-      "summary": "In a generous move, the owners of Rich Table in San Francisco are providing housing for their employees. By offering furnished apartments with utilities included, they are creating a supportive environment that prioritizes the well-being of their staff.",
+      "summary": "In a heartening initiative, the owners of Rich Table in San Francisco are offering housing to their employees. By renting out furnished apartments at reduced rates, they are addressing the housing crisis while showing genuine care for their staff. This thoughtful approach not only supports their employees but also sets a positive example for other businesses in the community.",
       "category": "Generosity",
       "categories": [
         "Generosity",
@@ -381,9 +382,9 @@
       "image_url": "https://media.nbcbayarea.com/2026/01/45270473783-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675"
     },
     {
-      "id": "batch_20260211_063550__story_028",
+      "id": "story_028_calf_rescued_from_harmony_coast_cliff_after_being_missing_fo",
       "title": "Calf Rescued from Harmony Coast Cliff After Being Missing for Over a Week",
-      "summary": "A 5-month-old calf is safe after a daring rescue from a steep coastal cliff where it had been stranded for over a week. Firefighters worked tirelessly to bring the calf back to safety, showcasing the commitment to animal welfare in the community.",
+      "summary": "A dramatic rescue unfolded on the Harmony Coast when a 5-month-old calf, missing for over a week, was saved from a steep cliff. Thanks to the keen eye of a ranch dog and the swift action of specialized rescue teams, the calf was safely hoisted back to solid ground. This heartening story reminds us of the dedication of rescue teams and the unexpected bonds between animals and their human caretakers.",
       "category": "Rescue",
       "categories": [
         "Rescue"
@@ -394,9 +395,9 @@
       "image_url": "https://www.edhat.com/wp-content/uploads/2026/01/SLOfire-calf-rescue-1.24.26.jpeg"
     },
     {
-      "id": "batch_20260211_063550__story_029",
+      "id": "story_029_fall_river_standout_multisport_athlete_has_begun_the_fight_o",
       "title": "Fall River standout multi-sport athlete has begun the fight of his young life with community support",
-      "summary": "Fall River standout athlete Wesley Araujo is facing a tough battle against leukemia, but he\u2019s not alone. With the unwavering support of his community, he channels his competitive spirit into this fight for his life, inspiring those around him.",
+      "summary": "Wesley Araujo, a talented young athlete from Fall River, is facing a challenging battle against leukemia. The community has rallied around him, creating the #WesStrong movement to raise funds for his medical expenses. This outpouring of support not only highlights the strength of community but also the resilience of a young athlete determined to overcome adversity.",
       "category": "Transformation",
       "categories": [
         "Transformation",
@@ -408,13 +409,13 @@
       "image_url": "https://fallriverreporter.com/wp-content/uploads/2026/01/Wesley-Araujo.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_030",
+      "id": "story_030_her_ancestors_were_expelled_from_spain_now_shes_bringing_bag",
       "title": "Her ancestors were expelled from Spain. Now she\u2019s bringing bagels to Madrid.",
-      "summary": "Tamara Cohen is bridging her Sephardic heritage and modern culinary trends by bringing bagels to Madrid, a city previously devoid of them. Her journey not only revives a piece of history but also enriches the local food scene.",
-      "category": "Human Story",
+      "summary": "Tamara Cohen is bringing a taste of home to Madrid with her bagel restaurant, Maz\u00e1l, after immigrating through Spain\u2019s Sephardic ancestry law. Her journey from uncertainty to entrepreneurship highlights the power of cultural heritage and the impact of food in bridging communities. As bagels gain popularity in Madrid, Cohen's story is a testament to the resilience and creativity of those who seek to celebrate their roots.",
+      "category": "Transformation",
       "categories": [
-        "Human Story",
-        "Community"
+        "Transformation",
+        "Human Story"
       ],
       "source_url": "https://forward.com/fast-forward/799815/her-ancestors-were-expelled-from-spain-now-shes-bringing-bagels-to-madrid/",
       "source_name": "forward.com",
@@ -422,13 +423,13 @@
       "image_url": "https://forward.com/wp-content/uploads/2026/01/IMG_7716-2.jpeg?_t=1769206971"
     },
     {
-      "id": "batch_20260211_063550__story_031",
+      "id": "story_031_from_rescues_to_smiles_how_pamela_kramer_glickman_built_san",
       "title": "From Rescues To Smiles: How Pamela Kramer Glickman Built San Diego\u2019s Beloved Pammy\u2019s Pony Parties Mobile Petting Zoo",
-      "summary": "Pamela Kramer Glickman\u2019s journey began with a rescued lamb named Julian, leading her to create Pammy\u2019s Pony Parties, a beloved mobile petting zoo in San Diego. This initiative not only brings joy to children but also highlights the bond between humans and animals, showcasing the power of compassion and community involvement.",
-      "category": "Rescue",
+      "summary": "Pamela Kramer Glickman has transformed her love for animals into a cherished mobile petting zoo, Pammy\u2019s Pony Parties, in San Diego. Starting with a rescued lamb named Julian, she created a joyful experience for families, bringing education and compassion to birthday parties and community events. Over 15 years, her business has not only provided smiles but also fostered connections between people and animals, making a lasting impact on the community.",
+      "category": "Community",
       "categories": [
-        "Rescue",
-        "Community"
+        "Community",
+        "Transformation"
       ],
       "source_url": "http://www.sandiegoville.com/2026/01/from-rescues-to-smiles-how-pamela.html",
       "source_name": "sandiegoville.com",
@@ -436,9 +437,9 @@
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSvv9wfC-ocwbw0wmoFt4fG4hPj7UfrPZnWQZW1OZwc64F8iW-fFKAWsLIBJ6T2HVBKVTNUtrrsJgEdqvC1-Kh2lWVMq5SwHo_aBtUhuPTX7GEqjfIbZo2q2hZk8COa4b4lL5Ud71S8DTd_43soVCw1T1ML788rJSJdo2rlHZ-gFo4-EinMaypTQOXY-dZ/w1200-h630-p-k-no-nu/Screenshot%202026-01-24%20at%206.47.11%E2%80%AFPM.png"
     },
     {
-      "id": "batch_20260211_063550__story_032",
+      "id": "story_032_neighbors_helping_neighbors_friendship_circle_volunteers_bri",
       "title": "Neighbors helping neighbors: Friendship Circle volunteers bring warmth in the cold",
-      "summary": "On a frigid day, volunteers at Friendship Circle Caf\u00e9 and Bakery came together to prepare hot meals for neighbors in need. Their efforts not only provided warmth through food but also fostered a spirit of kindness and community support during challenging weather.",
+      "summary": "When temperatures plummeted, the Friendship Circle Caf\u00e9 and Bakery sprang into action, organizing volunteers to prepare and deliver hot soup to those in need. Rabbi Levi Stein and his team worked tirelessly to ensure that isolated individuals received nourishment and warmth during the harsh winter. This initiative highlights the power of community support and the importance of looking out for one another, especially in challenging times.",
       "category": "Community",
       "categories": [
         "Community",
@@ -450,9 +451,9 @@
       "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/a4b4d5c/2147483647/strip/true/crop/1440x756+0+313/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F69%2F38%2F234cc5ba408cbe0211e7ee3dc346%2Ffriendship-cookies.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_033",
+      "id": "story_033_could_a_drug_slow_aging_uwmadison_researchers_seek_answers_i",
       "title": "Could a drug slow aging? UW-Madison researchers seek answers in trial",
-      "summary": "Researchers at UW-Madison are exploring whether a drug used for organ transplant patients, rapamycin, could slow aging in humans. Early evidence suggests it may enhance both the quality and longevity of life, sparking excitement about potential breakthroughs in gerontology.",
+      "summary": "Researchers at the University of Wisconsin-Madison are exploring whether the drug rapamycin, originally developed for organ transplant patients, could slow aging in humans. With promising results in animals, the team is conducting a clinical trial to determine its effects on human longevity. This study could pave the way for groundbreaking advancements in health and aging, offering hope for improved quality of life as we grow older.",
       "category": "Discovery",
       "categories": [
         "Discovery",
@@ -464,13 +465,13 @@
       "image_url": "https://bloximages.chicago2.vip.townnews.com/captimes.com/content/tncms/assets/v3/editorial/5/26/526760e1-2ce5-4b7b-ae0e-b5f6a4f1e618/673b9863547e8.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
     },
     {
-      "id": "batch_20260211_063550__story_034",
+      "id": "story_034_stlandry_parish_warming_shelter_offers_hope_amid_freeze",
       "title": "St.Landry Parish warming shelter offers hope amid freeze",
-      "summary": "As freezing temperatures hit St. Landry Parish, local leaders have opened a warming shelter to provide safety and comfort for those in need. This initiative not only offers beds and hot meals but also creates a sense of community and belonging for individuals facing hardship.",
+      "summary": "In St. Landry Parish, a warming shelter has opened its doors to provide refuge for those affected by freezing temperatures. Local leaders and volunteers are working tirelessly to ensure that everyone has a safe place to stay, complete with warm meals and beds. This initiative highlights the community's compassion and commitment to supporting its most vulnerable members during harsh weather conditions.",
       "category": "Community",
       "categories": [
         "Community",
-        "Rescue"
+        "Generosity"
       ],
       "source_url": "https://www.katc.com/st-landry-parish/st-landry-parish-warming-shelter-offers-hope-amid-freeze",
       "source_name": "katc.com",
@@ -478,9 +479,9 @@
       "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/c3ac3ca/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fausw2%2Fslices%2Ff40%2Ff777e7b891e1459dabc1eab38a649e4f%2Ff40eb33e4ecc425d9c2457183c1d5c08%2Fposter_e80b8da596fa427c9703ddd6047ae397.jpeg"
     },
     {
-      "id": "batch_20260211_063550__story_035",
+      "id": "story_035_utah_man_with_rare_facial_condition_sees_his_life_story_told",
       "title": "Utah man with rare facial condition sees his life story told on the big screen",
-      "summary": "Ben Kjar, a Utah man with a rare facial condition, is sharing his inspiring journey through the documentary 'STANDOUT: The Ben Kjar Story.' His story, now on the big screen, aims to inspire others facing challenges to embrace their uniqueness and resilience.",
+      "summary": "Ben Kjar's inspiring journey is now captured on the big screen in the documentary 'STANDOUT: The Ben Kjar Story.' Born with Crouzon Syndrome, Kjar faced bullying and adversity but transformed his challenges into motivation, becoming a champion wrestler and a beacon of hope for others. His story, now reaching audiences nationwide, aims to inspire individuals to overcome their own obstacles and pursue greatness.",
       "category": "Human Story",
       "categories": [
         "Human Story",
@@ -492,13 +493,13 @@
       "image_url": "https://cdn.ksltv.com/ksltv/wp-content/uploads/2026/01/Standout_Still3.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_036",
+      "id": "story_036_mason_city_birthday_party_turns_extra_wild_after_guest_wins",
       "title": "Mason City birthday party turns extra wild after guest wins $100K lottery prize",
-      "summary": "A birthday party in Mason City took an unexpected turn when a guest won a whopping $100,000 from a lottery scratch ticket. The joyous chaos that erupted among family members added an unforgettable twist to the celebration, proving that surprises can make special moments even more memorable.",
+      "summary": "A birthday party in Mason City turned into an unforgettable celebration when Alyea Carter Greenan scratched off a $100,000 lottery ticket among family members. The joyous moment erupted in cheers and hugs, marking not only a significant win but also a chance to pay off student loans and create lasting memories with loved ones. This delightful surprise adds an extra layer of joy to a family gathering.",
       "category": "Surprise",
       "categories": [
         "Surprise",
-        "Humor"
+        "Community"
       ],
       "source_url": "https://northiowatoday.com/2026/01/23/mason-city-birthday-party-turns-extra-wild-after-guest-wins-100k-lottery-prize/",
       "source_name": "northiowatoday.com",
@@ -506,9 +507,9 @@
       "image_url": "https://northiowatoday.com/wp-content/uploads/2026/01/Alyea-Carter-Greenan-of-Mason-City-wins-100k-lottery-prize-2026-e1769192154421.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_037",
+      "id": "story_037_the_man_who_showed_that_faith_and_reason_align",
       "title": "The Man Who Showed That Faith and Reason Align",
-      "summary": "A thought-provoking exploration reveals that faith and reason can coexist harmoniously, challenging the common belief that they are mutually exclusive. This narrative encourages a deeper understanding of how both can enrich our lives and perspectives.",
+      "summary": "A thought-provoking commentary explores the alignment of faith and reason, encouraging readers to find harmony between their spiritual beliefs and rational thought. This piece invites reflection on how these two aspects of life can coexist and enrich one another, offering a fresh perspective on the intersection of spirituality and intellect.",
       "category": "Spiritual",
       "categories": [
         "Spiritual",
@@ -520,9 +521,9 @@
       "image_url": "https://www.dailysignal.com/wp-content/uploads/2026/01/PSGettyImages-1425827289.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_038",
+      "id": "story_038_markey_study_finds_targeted_radiation_therapy_can_be_safely",
       "title": "Markey study finds targeted radiation therapy can be safely combined with chemotherapy",
-      "summary": "A groundbreaking study from the University of Kentucky Markey Cancer Center reveals that combining targeted radiation therapy with high-dose chemotherapy can improve outcomes for stage IV cancer patients. This innovative approach allows for continuous treatment without interruptions, offering new hope in the fight against cancer.",
+      "summary": "A groundbreaking study from the University of Kentucky Markey Cancer Center reveals that targeted radiation therapy can be safely combined with chemotherapy for stage IV cancer patients. This innovative approach allows patients to continue their chemotherapy without interruption, potentially improving their outcomes. The research highlights the importance of integrating advanced treatment options to enhance patient care and offers new hope for those battling advanced cancer.",
       "category": "Discovery",
       "categories": [
         "Discovery",
@@ -534,9 +535,9 @@
       "image_url": "https://ae-lane-report.s3.amazonaws.com/wp-content/uploads/2026/01/23110544/UK-Markey-Bernard.jpeg"
     },
     {
-      "id": "batch_20260211_063550__story_039",
+      "id": "story_039_200k_bikes_200k_readers_cycle_rewrites_kids_futures_one_bike",
       "title": "200K bikes, 200K readers: CYCLE rewrites kids\u2019 futures one bike at a time",
-      "summary": "Changing Young Children\u2019s Lives Through Education (CYCLE) has reached an incredible milestone by distributing its 200,000th bike to children in Title I schools. This initiative not only promotes literacy but also empowers kids by rewarding their reading achievements with their very first bicycle.",
+      "summary": "CYCLE is making a significant impact in Houston by linking literacy growth to the joy of receiving a bicycle. Celebrating the distribution of its 200,000th bike, the organization rewards students in Title I schools for meeting reading goals. This initiative not only promotes literacy but also instills valuable lessons about hard work and achievement, helping to rewrite the futures of countless children.",
       "category": "Community",
       "categories": [
         "Community",
@@ -548,13 +549,13 @@
       "image_url": "https://defendernetwork.com/wp-content/uploads/2026/01/ascfdav.png"
     },
     {
-      "id": "batch_20260211_063550__story_040",
+      "id": "story_040_new_redmond_drone_program_is_changing_emergency_response",
       "title": "New Redmond Drone Program Is Changing Emergency Response",
-      "summary": "Redmond, WA, is revolutionizing emergency response with a new drone program that enhances safety and efficiency. This innovative approach promises faster response times and smarter decision-making, paving the way for a more responsive community.",
+      "summary": "The Redmond Police Department is enhancing emergency response with its new Drone as First Responder program. The Skydio X10 drone promises faster response times and improved safety for officers and the community. By providing real-time visual information, this innovative technology aims to revolutionize how emergencies are managed, ensuring quicker and more effective responses to critical situations.",
       "category": "Discovery",
       "categories": [
         "Discovery",
-        "Community"
+        "Science"
       ],
       "source_url": "https://newstalk870.am/ixp/134/p/emergency-drone-program-redmond/",
       "source_name": "newstalk870.am",
@@ -562,9 +563,9 @@
       "image_url": "https://townsquare.media/site/134/files/2026/01/attachment-untitled-design-98-16.jpg?w=1200&q=75&format=natural"
     },
     {
-      "id": "batch_20260211_063550__story_041",
+      "id": "story_041_omaha_native_rows_solo_across_atlantic_in_worlds_toughest_ro",
       "title": "Omaha native rows solo across Atlantic in World\u2019s Toughest Row",
-      "summary": "Omaha native Taryn Smith is taking on the challenge of a lifetime by rowing solo across the Atlantic Ocean in the World\u2019s Toughest Row. After nearly three years of preparation, she\u2019s competing in a grueling 3,000-mile race that showcases her determination and endurance, inspiring others to push their limits.",
+      "summary": "Omaha native Taryn Smith is embarking on a remarkable journey as she rows solo across the Atlantic Ocean in the World\u2019s Toughest Row. After nearly three years of intense training, Smith is competing in this grueling 3,000-mile race from the Canary Islands to Antigua, showcasing her adventurous spirit and determination. With no prior rowing experience, she is not only challenging herself but also advocating for Girls on the Run, inspiring others to embrace their passions and push their limits.",
       "category": "Transformation",
       "categories": [
         "Transformation",
@@ -576,9 +577,9 @@
       "image_url": "https://thereader.com/wp-content/uploads/2026/01/taryn_smith.min-800x600-1.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_042",
+      "id": "story_042_ridiculously_cute_coastal_martens_are_secretive_osu_scientis",
       "title": "Ridiculously Cute Coastal Martens are Secretive, OSU Scientists are Getting to Know Them",
-      "summary": "Oregon State University researchers are uncovering the secrets of the coastal marten, a charming yet elusive creature nearly driven to extinction. Their research aims to better understand this adorable forest carnivore, contributing to conservation efforts and highlighting the importance of biodiversity.",
+      "summary": "Researchers at Oregon State University are uncovering the secrets of the coastal marten, a small carnivore nearly driven to extinction. Using non-invasive methods, they gathered vital data on the marten population and habitat, informing conservation efforts for this threatened species. Their findings emphasize the need for protective measures as climate change and habitat loss pose significant risks to these adorable creatures.",
       "category": "Discovery",
       "categories": [
         "Discovery",
@@ -590,13 +591,13 @@
       "image_url": "https://corvallisadvocate.com/wp-content/uploads/2026/01/54973932676_15dd1b5f6a_c_0-Marten-OSU.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_043",
+      "id": "story_043_fdny_paramedics_help_deliver_baby_at_whitehall_ferry_termina",
       "title": "FDNY paramedics help deliver baby at Whitehall Ferry Terminal",
-      "summary": "FDNY paramedics showcased their quick thinking and dedication by assisting in the delivery of a baby at the Whitehall Ferry Terminal. Their heroic actions not only brought new life into the world but also highlighted the vital role of emergency responders.",
+      "summary": "Two FDNY paramedics made headlines after assisting with the delivery of a baby at the Whitehall Ferry Terminal. Their quick thinking and expertise ensured the safety of both mother and child during an unexpected situation. This incident highlights the dedication and readiness of emergency responders to handle any challenge, reinforcing the importance of community safety and support.",
       "category": "Rescue",
       "categories": [
         "Rescue",
-        "Human Story"
+        "Community"
       ],
       "source_url": "https://www.silive.com/news/2026/01/fdny-paramedics-help-deliver-baby-at-whitehall-ferry-terminal.html",
       "source_name": "silive.com",
@@ -604,9 +605,9 @@
       "image_url": "https://www.silive.com/resizer/v2/YTMLUC3MNFF2NIFI66VRCIP46I.jpg?auth=8db03a05acef89640e341ee239aed4984016bc18e8c97415b1f7583d4a1ecfea&width=1280&smart=true&quality=90"
     },
     {
-      "id": "batch_20260211_063550__story_044",
+      "id": "story_044_newborn_puppies_saved_after_being_left_in_box",
       "title": "Newborn puppies saved after being left in box",
-      "summary": "Nine newborn puppies were saved by the San Marcos Regional Animal Shelter after being abandoned in a box. Thanks to the swift action of the shelter staff and rescue partners, these tiny pups received the care they desperately needed to survive.",
+      "summary": "Nine newborn puppies were saved by the San Marcos Regional Animal Shelter after being abandoned in a box. Thanks to the quick actions of a good Samaritan and the shelter's dedicated staff, these vulnerable pups received the care they needed. The community's support and collaboration with rescue partners ensured that the puppies were placed in loving foster homes, showcasing the power of compassion in action.",
       "category": "Rescue",
       "categories": [
         "Rescue",
@@ -618,13 +619,13 @@
       "image_url": "https://static2.sanmarcosrecord.com/data/articles/xga-4x3-newborn-puppies-saved-after-being-left-in-box-1769183124.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_045",
+      "id": "story_045_celebrating_evelyn_harris_her_voice_filled_the_room_again",
       "title": "Celebrating Evelyn Harris: Her voice filled the room again",
-      "summary": "The celebration of life for acclaimed singer Evelyn Harris turned into a heartfelt tribute as her voice filled the room once again. Friends, family, and fans gathered to honor her legacy, reminding everyone of the enduring impact of love and music.",
+      "summary": "The celebration of life for acclaimed singer Evelyn Harris brought together family, friends, and fans to honor her legacy through music. Despite her passing, her recorded voice filled the room, allowing attendees to sing along and remember her contributions to music and activism. This heartfelt gathering exemplified the power of community and the enduring impact of a beloved artist.",
       "category": "Community",
       "categories": [
         "Community",
-        "Human Story"
+        "Spiritual"
       ],
       "source_url": "https://gazettenet.com/2026/01/25/celebrating-evelyn-harris-her-voice-filled-the-room-again/",
       "source_name": "gazettenet.com",
@@ -632,13 +633,13 @@
       "image_url": "https://i0.wp.com/gazettenet.com/wp-content/uploads/2026/01/HarrisCelebration-hg-Jacobi-01242026-01-scaled.jpg?fit=2560%2C1762&quality=89&ssl=1"
     },
     {
-      "id": "batch_20260211_063550__story_046",
+      "id": "story_046_oral_surgeon_fixes_smiles_transforms_lives_in_bangladesh",
       "title": "Oral Surgeon Fixes Smiles, Transforms Lives in Bangladesh",
-      "summary": "Oral surgeon John Wallace and his team from Smile Bangladesh are changing lives one smile at a time. For over two decades, they\u2019ve been repairing cleft lips and palates in Bangladesh, providing hope and new beginnings for countless individuals who previously faced stigma and hardship.",
+      "summary": "Dr. John Wallace and his team at Smile Bangladesh are changing lives one smile at a time by providing crucial surgeries for children with cleft lips and palates. Operating in a country with limited access to such medical care, Wallace's nonprofit has been transforming lives for over two decades, offering hope and a chance for a better future. Each surgery, costing around $300, not only restores physical appearance but also opens doors to improved nutrition, communication, and social integration.",
       "category": "Transformation",
       "categories": [
         "Transformation",
-        "Human Story"
+        "Community"
       ],
       "source_url": "https://www.peoplenewspapers.com/2026/01/20/oral-surgeon-fixes-smiles-transforms-lives-in-bangladesh/",
       "source_name": "parkcitiespeople.com",
@@ -646,9 +647,9 @@
       "image_url": "https://www.peoplenewspapers.com/wp-content/uploads/2026/01/IMG_8850_WEB.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_047",
+      "id": "story_047_beloved_mini_horse_missing_as_community_rallies_to_help",
       "title": "Beloved mini horse missing as community rallies to help",
-      "summary": "The community has united to support the owner of Ricky, a beloved mini horse who has touched many lives as a therapy animal. His absence has sparked an outpouring of love and concern, highlighting the deep connections formed between animals and people.",
+      "summary": "The community has rallied around Kim Sherwood, the owner of a beloved mini horse named Ricky, who went missing after a barn fire. Known for his role as a therapy and educational horse, Ricky has touched many lives. Volunteers are actively searching for him, showcasing the deep connections he has fostered within the community. The outpouring of support highlights the impact one small creature can have on so many.",
       "category": "Community",
       "categories": [
         "Community",
@@ -660,13 +661,13 @@
       "image_url": "https://www.harborlightnews.com/wp-content/uploads/images/2026-01-21/7p1.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_048",
+      "id": "story_048_tiny_falcons_are_helping_keep_the_food_supply_safe_on_cherry",
       "title": "Tiny falcons are helping keep the food supply safe on cherry farms",
-      "summary": "American kestrels, the smallest falcons, are playing a crucial role in protecting cherry farms in northern Michigan. By hunting small pests, these birds of prey help maintain the health of orchards, showcasing a unique partnership between wildlife and agriculture.",
+      "summary": "American kestrels, the smallest falcons, are playing a vital role in protecting cherry farms in northern Michigan. By preying on pests that threaten crops, these birds not only help farmers reduce damage but also lower the risk of food-borne illnesses. New research shows that orchards with kestrels experience significantly less crop damage, demonstrating the beneficial relationship between wildlife and agriculture.",
       "category": "Discovery",
       "categories": [
         "Discovery",
-        "Community"
+        "Science"
       ],
       "source_url": "https://arstechnica.com/science/2026/01/tiny-falcons-are-helping-keep-the-food-supply-safe-on-cherry-farms/",
       "source_name": "arstechnica.com",
@@ -674,12 +675,12 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/kestrel-1152x648.jpg"
     },
     {
-      "id": "batch_20260211_063550__story_049",
+      "id": "story_049_young_cancer_survivor_from_alexandria_celebrated_new_years_w",
       "title": "Young cancer survivor from Alexandria celebrated New Year\u2019s with surprise Caps tickets",
-      "summary": "Sutton Bullard, a young cancer survivor, had a New Year\u2019s Eve to remember with surprise tickets to see the Caps play and a special reunion with her favorite player. This joyful moment marked a triumphant end to a challenging year for Sutton.",
-      "category": "Surprise",
+      "summary": "Sutton Bullard, a 7-year-old cancer survivor, celebrated the New Year with surprise tickets to see her favorite hockey team, the Washington Capitals. After completing her chemotherapy, Sutton's dream came true when she not only attended the game but also reunited with goaltender Logan Thompson, who had supported her during her treatment. This heartwarming moment marks a new chapter in Sutton's life, filled with hope and joy.",
+      "category": "Transformation",
       "categories": [
-        "Surprise",
+        "Transformation",
         "Human Story"
       ],
       "source_url": "https://www.alxnow.com/2026/01/22/young-cancer-survivor-from-alexandria-celebrated-new-years-with-surprise-caps-tickets/",
@@ -688,9 +689,9 @@
       "image_url": "https://www.alxnow.com/files/2026/01/IMG_3288-e1768324300135.jpeg"
     },
     {
-      "id": "batch_20260211_063550__story_050",
+      "id": "story_050_flashtags_could_revolutionize_livestock_protection_in_the_we",
       "title": "FlashTags Could Revolutionize Livestock Protection In The West",
-      "summary": "Innovative technology is being tested to protect livestock in Montana, featuring lighted animals to deter predators. This creative approach could significantly reduce losses for ranchers, blending science with practical solutions for agricultural challenges.",
+      "summary": "A new technology called FlashTags could revolutionize livestock protection in the West. These motion-activated LED ear tags emit random light patterns to deter predators like wolves and coyotes, reducing conflicts for ranchers. This innovative approach not only protects livestock but also promotes coexistence with wildlife, offering a promising solution to a long-standing issue in farming.",
       "category": "Discovery",
       "categories": [
         "Discovery",
