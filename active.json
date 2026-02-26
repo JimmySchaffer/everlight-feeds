@@ -22,8 +22,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 4,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "20% center",
+      "image_scale": 1
     },
     {
       "id": "story_023_man_goes_from_homelessness_to_helping",
@@ -44,8 +44,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 2,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "10% center",
+      "image_scale": 1
     },
     {
       "id": "story_003_albertus_magnus_students_send_letters_with_love",
@@ -65,8 +65,8 @@
       "image_confidence": "high",
       "visual_affinity": 3,
       "headline_pull": 3,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "15% center",
+      "image_scale": 1
     },
     {
       "id": "story_009_downtown_church_takes_rare_step_amid_cold_opens_doors_as_ove",
@@ -88,7 +88,7 @@
       "visual_affinity": 3,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_039_200k_bikes_200k_readers_cycle_rewrites_kids_futures_one_bike",
@@ -110,7 +110,7 @@
       "visual_affinity": 5,
       "headline_pull": 5,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_001_a_passing_angel_rescues_woman_8months_pregnant_from_her_sink",
@@ -132,7 +132,7 @@
       "visual_affinity": 4,
       "headline_pull": 5,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_001_new_snow_shoveling_site_encourages_residents_to_take_safety",
@@ -153,7 +153,7 @@
       "visual_affinity": 2,
       "headline_pull": 3,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_002_as_he_battles_cancer_richard_dibella_drives_others_to_treatm",
@@ -174,8 +174,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 5,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "center left",
+      "image_scale": 1
     },
     {
       "id": "story_004_township_commends_elizabeth_ross_who_overcame_a_physical_dis",
@@ -196,8 +196,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 4,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "center left",
+      "image_scale": 1
     },
     {
       "id": "story_005_nelson_donates_kidney_to_cousin_huge_gift",
@@ -218,8 +218,8 @@
       "image_confidence": "high",
       "visual_affinity": 3,
       "headline_pull": 3,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "20% center",
+      "image_scale": 1
     },
     {
       "id": "story_008_the_accidental_brilliance_of_bizarre_bazaar",
@@ -242,7 +242,7 @@
       "visual_affinity": 3,
       "headline_pull": 2,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_024_columbia_falls_runners_complete_24hour_runathon_to_support_i",
@@ -264,8 +264,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 4,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "center left",
+      "image_scale": 1
     },
     {
       "id": "story_027_owners_of_san_francisco_restaurants_offer_housing_to_employe",
@@ -287,7 +287,7 @@
       "visual_affinity": 3,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_032_abundant_hospitality_in_a_season_of_cold",
@@ -308,8 +308,8 @@
       "image_confidence": "high",
       "visual_affinity": 3,
       "headline_pull": 3,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "top center",
+      "image_scale": 1
     },
     {
       "id": "story_044_newborn_puppies_saved_after_being_left_in_box",
@@ -331,7 +331,7 @@
       "visual_affinity": 5,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_003_neighborhood_dog_leads_police_to_missing_3yearold_lassie_fou",
@@ -354,7 +354,7 @@
       "visual_affinity": 4,
       "headline_pull": 5,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_005_a_coin_flip_that_led_to_helping_change_lives_uh_project_help",
@@ -377,7 +377,7 @@
       "visual_affinity": 5,
       "headline_pull": 3,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_007_refrog_initiative_turns_tcu_moveout_waste_into_community_don",
@@ -399,7 +399,7 @@
       "visual_affinity": 4,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_008_it_took_a_village_crews_dig_up_road_to_rescue_manatee_trappe",
@@ -422,7 +422,7 @@
       "visual_affinity": 5,
       "headline_pull": 5,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_011_local_students_join_forces_to_combat_hunger_in_georgia_and_k",
@@ -444,7 +444,7 @@
       "visual_affinity": 4,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_014_mend_and_munch",
@@ -465,8 +465,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 2,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "20% center",
+      "image_scale": 1
     },
     {
       "id": "story_035_utah_man_with_rare_facial_condition_sees_his_life_story_told",
@@ -487,8 +487,8 @@
       "image_confidence": "high",
       "visual_affinity": 3,
       "headline_pull": 3,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "35% center",
+      "image_scale": 1
     },
     {
       "id": "story_040_everyone_deserves_a_second_chance",
@@ -509,8 +509,8 @@
       "image_confidence": "high",
       "visual_affinity": 3,
       "headline_pull": 2,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "top center",
+      "image_scale": 1
     },
     {
       "id": "story_012_heroic_central_new_york_police_officer_getting_national_atte",
@@ -531,8 +531,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 3,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "center right",
+      "image_scale": 1
     },
     {
       "id": "story_002_fast_action_and_group_effort_saves_dog_from_icy_plunge",
@@ -553,8 +553,8 @@
       "image_confidence": "medium",
       "visual_affinity": 5,
       "headline_pull": 4,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "top center",
+      "image_scale": 1
     },
     {
       "id": "story_006_dog_rescued_after_43_days_lost_in_the_colorado_rockies",
@@ -576,7 +576,7 @@
       "visual_affinity": 5,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_007_blue_spring_state_park_proves_accessibility_belongs_in_natur",
@@ -598,7 +598,7 @@
       "visual_affinity": 4,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_009_poly_prep_students_staff_pack_and_deliver_food_to_community",
@@ -618,8 +618,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 3,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "top center",
+      "image_scale": 1
     },
     {
       "id": "story_010_huntingtons_disease_has_local_man_walkingrunning_causeway_br",
@@ -640,8 +640,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 4,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "center left",
+      "image_scale": 1
     },
     {
       "id": "story_013_isaac_mwebazemukama_transforms_sustainability_and_youth_empo",
@@ -664,7 +664,7 @@
       "visual_affinity": 3,
       "headline_pull": 3,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_016_standing_ovation_for_smithtown_father_and_son",
@@ -685,8 +685,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 2,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "top center",
+      "image_scale": 1
     },
     {
       "id": "story_017_shes_building_a_support_network_for_nashvilles_live_music_co",
@@ -708,7 +708,7 @@
       "visual_affinity": 3,
       "headline_pull": 3,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_017_why_simply_saying_hello_makes_the_world_better",
@@ -730,7 +730,7 @@
       "visual_affinity": 2,
       "headline_pull": 3,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_019_work_recovery_and_second_chances_on_a_wisconsin_manufacturin",
@@ -752,7 +752,7 @@
       "visual_affinity": 4,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_021_child_and_adult_rescued_water_at_belmont_harbor",
@@ -774,7 +774,7 @@
       "visual_affinity": 4,
       "headline_pull": 3,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_025_cranford_man_displays_good_humor_selling_ice_cream_from_a_tr",
@@ -796,7 +796,7 @@
       "visual_affinity": 5,
       "headline_pull": 5,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_025_lorain_high_school_teacher_gives_the_ultimate_valentines_day",
@@ -818,7 +818,7 @@
       "visual_affinity": 3,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_026_pet_sanctuary_takes_in_overflow_from_homeless_shelter_amid_u",
@@ -840,7 +840,7 @@
       "visual_affinity": 5,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_027_foster_kids_were_exiting_hospital_in_gowns_following_crisis",
@@ -862,7 +862,7 @@
       "visual_affinity": 4,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_029_fall_river_standout_multisport_athlete_has_begun_the_fight_o",
@@ -885,7 +885,7 @@
       "visual_affinity": 4,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_032_neighbors_helping_neighbors_friendship_circle_volunteers_bri",
@@ -905,8 +905,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 3,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "top center",
+      "image_scale": 1
     },
     {
       "id": "story_034_mother_of_3_reunites_with_good_samaritan_after_crashing_into",
@@ -927,8 +927,8 @@
       "image_confidence": "high",
       "visual_affinity": 5,
       "headline_pull": 4,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "25% center",
+      "image_scale": 1
     },
     {
       "id": "story_043_fdny_paramedics_help_deliver_baby_at_whitehall_ferry_termina",
@@ -950,8 +950,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 5,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "center left",
+      "image_scale": 1
     },
     {
       "id": "story_046_oral_surgeon_fixes_smiles_transforms_lives_in_bangladesh",
@@ -973,7 +973,7 @@
       "visual_affinity": 5,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_048_pitt_meadows_school_creates_kindness_cards_for_people_in_nee",
@@ -993,8 +993,8 @@
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 3,
-      "image_position": "center",
-      "image_scale": 1.0
+      "image_position": "top center",
+      "image_scale": 1
     },
     {
       "id": "story_049_young_cancer_survivor_from_alexandria_celebrated_new_years_w",
@@ -1017,7 +1017,7 @@
       "visual_affinity": 4,
       "headline_pull": 5,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_008_worlds_oldest_known_rock_art_predates_modern_humans_entrance",
@@ -1039,7 +1039,7 @@
       "visual_affinity": 3,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_026_local_brewery_will_discount_its_beer_based_on_how_much_snow",
@@ -1061,7 +1061,7 @@
       "visual_affinity": 4,
       "headline_pull": 5,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_004_colorado_police_deliver_food_after_arrest",
@@ -1083,7 +1083,7 @@
       "visual_affinity": 4,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     },
     {
       "id": "story_048_tiny_falcons_are_helping_keep_the_food_supply_safe_on_cherry",
@@ -1105,7 +1105,7 @@
       "visual_affinity": 5,
       "headline_pull": 4,
       "image_position": "center",
-      "image_scale": 1.0
+      "image_scale": 1
     }
   ]
 }
