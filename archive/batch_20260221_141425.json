@@ -1,0 +1,722 @@
+{
+  "batch_id": "batch_20260221_141425",
+  "created_at": "2026-02-21T14:14:25.570047",
+  "story_count": 50,
+  "stories": [
+    {
+      "id": "story_001_new_snow_shoveling_site_encourages_residents_to_take_safety",
+      "title": "New snow shoveling site encourages residents to take safety into their own hands",
+      "summary": "After seeing kids forced to walk in the street due to snow-covered sidewalks, Marblehead resident Ed Lewis created Snow Patrol\u2014a web app that lets neighbors flag areas needing shoveling. The tool has already gained traction in the community, turning frustration into collective action and proving that sometimes the person who notices a problem is the one who can fix it.",
+      "category": "Community",
+      "categories": [
+        "Community",
+        "Other"
+      ],
+      "source_url": "https://marbleheadcurrent.org/2026/02/17/new-snow-shoveling-site-encourages-residents-to-take-safety-into-their-own-hands/",
+      "source_name": "marbleheadcurrent.org",
+      "published_ts": 1771711896774,
+      "image_url": "https://marbleheadcurrent.org/wp-content/uploads/2026/02/Febblizzard-11-SMALL-1.jpg"
+    },
+    {
+      "id": "story_002_fast_action_and_group_effort_saves_dog_from_icy_plunge",
+      "title": "Fast Action and Group Effort Saves Dog from Icy Plunge",
+      "summary": "When Ken Rhoads glanced out his window and spotted ripples in the iced-over Lagoon Pond, he discovered a 150-pound Bernese Mountain dog named Remi struggling in freezing water. Quick thinking and teamwork from neighbors saved the dog's life after he'd wandered onto thin ice and fallen through while his frantic owner searched nearby streets.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community"
+      ],
+      "source_url": "https://vineyardgazette.com/news/2026/02/11/fast-action-and-group-effort-saves-dog-icy-plunge",
+      "source_name": "vineyardgazette.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://vineyardgazette.com/sites/default/files/article-assets/main-photos/2026/remi_img_1925.jpg"
+    },
+    {
+      "id": "story_003_neighborhood_dog_leads_police_to_missing_3yearold_lassie_fou",
+      "title": "Neighborhood dog leads police to missing 3-year-old: 'Lassie found him'",
+      "summary": "A neighborhood dog turned hero when it led Louisville Metro Police directly to a missing 3-year-old child. The spontaneous rescue became a community effort, with one officer joking that 'Lassie found him' after the loyal pup guided searchers to the lost toddler.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community"
+      ],
+      "source_url": "https://www.wfla.com/news/national/neighborhood-dog-leads-police-to-missing-3-year-old-lassie-found-him/",
+      "source_name": "wfla.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://picsum.photos/seed/2003/800/600"
+    },
+    {
+      "id": "story_004_colorado_police_deliver_food_after_arrest",
+      "title": "Colorado Police Deliver Food After Arrest",
+      "summary": "A DoorDash driver in Colorado got pulled over for expired tags and arrested on an outstanding warrant\u2014but Wheat Ridge police officers weren't about to let a good meal go cold. They completed the delivery themselves, surprising the customer at the door with both their dinner and quite the story to tell.",
+      "category": "Humor",
+      "categories": [
+        "Humor",
+        "Community"
+      ],
+      "source_url": "https://95rockfm.com/ixp/48/p/doordashing-police-delivery/",
+      "source_name": "95rockfm.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://townsquare.media/site/48/files/2026/02/attachment-2-515.jpg?w=1200&format=natural"
+    },
+    {
+      "id": "story_005_community_comes_together_to_rescue_trapped_cat_in_brewster",
+      "title": "Community Comes Together to Rescue Trapped Cat in Brewster",
+      "summary": "When a cat's cries echoed from a storm drain in Brewster during freezing weather, the community rallied. Local well companies, septic services, and volunteers from Putnam AdvoCATS worked together with specialized equipment to locate and free the trapped feline, turning what could have been tragedy into a display of neighborhood kindness.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community"
+      ],
+      "source_url": "https://www.putnampresstimes.com/post/community-comes-together-to-rescue-trapped-cat-in-brewster",
+      "source_name": "putnampresstimes.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://static.wixstatic.com/media/7c6df1_1af412af166a4d22bc5b51c449ab5ead~mv2.jpg/v1/fill/w_1000,h_477,al_c,q_85,usm_0.66_1.00_0.01/7c6df1_1af412af166a4d22bc5b51c449ab5ead~mv2.jpg"
+    },
+    {
+      "id": "story_006_dog_rescued_after_43_days_lost_in_the_colorado_rockies",
+      "title": "Dog Rescued After 43 Days Lost In The Colorado Rockies",
+      "summary": "Rocky, an 11-year-old Lab-boxer mix, survived 43 days alone in Colorado's Rocky Mountains after escaping his harness during a cross-country move. Despite subzero temps, wolf territory, and dropping from 50 to 26 pounds, the resilient pup was finally spotted and rescued by Summit Lost Pet Rescue, then reunited with his owner in California.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Surprise"
+      ],
+      "source_url": "https://cowboystatedaily.com/2026/02/17/new-jersey-dog-rescued-after-43-days-lost-in-the-colorado-rockies/",
+      "source_name": "cowboystatedaily.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://cowboystatedaily.imgix.net/rescued-dog-2-17-26.jpg"
+    },
+    {
+      "id": "story_007_from_homeless_to_oru_do_you_believe_god_can_do_the_impossibl",
+      "title": "From homeless to ORU: \u2018Do you believe God can do the impossible?\u2019",
+      "summary": "David Henrique Lima de Oliveira spent his childhood homeless in Brazil, selling sandwiches at six years old to help his struggling family survive. A stranger's question at a bus stop\u2014'Do you believe God can do the impossible?'\u2014stayed with him through years of poverty and uncertainty, eventually shaping a journey from sleeping in a stranger's clay room to attending ORU.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Human Story",
+        "Spiritual"
+      ],
+      "source_url": "https://oruoracle.com/1571/features/from-homeless-to-oru-do-you-believe-god-can-do-the-impossible/",
+      "source_name": "oruoracle.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://oruoracle.com/wp-content/uploads/2026/02/davidheadshot.jpg"
+    },
+    {
+      "id": "story_008_it_took_a_village_crews_dig_up_road_to_rescue_manatee_trappe",
+      "title": "'It took a village': Crews dig up road to rescue manatee trapped in Florida storm drain",
+      "summary": "Multiple agencies in Melbourne Beach teamed up to rescue a juvenile male manatee trapped in a storm drain after an architectural firm employee reported hearing the animal. Crews actually dug up the road to free the stuck sea creature, proving that sometimes saving a life requires heavy machinery and serious coordination.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community"
+      ],
+      "source_url": "https://www.wfla.com/news/florida/it-took-a-village-crews-in-florida-dig-up-road-to-rescue-manatee-trapped-in-storm-drain/",
+      "source_name": "wfla.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://picsum.photos/seed/7993/800/600"
+    },
+    {
+      "id": "story_009_5_rare_deepsea_creatures_you_wont_believe_exist",
+      "title": "5 Rare Deep-Sea Creatures You Won\u2019t Believe Exist",
+      "summary": "The deep ocean's twilight zone\u2014650 to 3,300 feet down\u2014hides creatures so rare they're spotted less often than Bigfoot. Recent sightings include the king-of-the-salmon, a ribbonfish that usually dwells 3,000 feet deep but surfaced just 15 feet down in Monterey Bay, plus other bizarre organisms like the giant phantom jelly that evade even the best underwater cameras.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Science"
+      ],
+      "source_url": "https://www.mentalfloss.com/animals/rare-deep-sea-creatures?utm_source=RSS",
+      "source_name": "mentalfloss.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_58,w_1500,h_843/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01khpcbp7gj5c4twn8s4.png"
+    },
+    {
+      "id": "story_010_baby_delivered_in_parking_lot_of_nj_quickchek_on_valentines",
+      "title": "Baby delivered in parking lot of N.J. QuickChek on Valentine\u2019s Day",
+      "summary": "A New Jersey couple got the ultimate Valentine's Day surprise when their baby decided not to wait for the hospital. After pulling into a QuickChek parking lot and calling 911, they welcomed their son with help from Officer Antonio Grigoli and Old Bridge EMTs\u2014proving that roses and chocolate have serious competition in the delivery department.",
+      "category": "Surprise",
+      "categories": [
+        "Surprise",
+        "Human Story"
+      ],
+      "source_url": "https://www.nj.com/middlesex/2026/02/baby-delivered-in-parking-lot-of-nj-quickchek-on-valentines-day.html",
+      "source_name": "nj.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://www.nj.com/resizer/v2/LVQFEFPHGZELNEY2HQDYIHE7WY.jpg?auth=75ac2222adc18c1b8d8b50187416c87747c9920458bc8c36e645b5e34d1605f2&width=1280&smart=true&quality=90"
+    },
+    {
+      "id": "story_011_buddy_the_police_therapy_dog_brings_comfort_to_victims_and_o",
+      "title": "Buddy The Police Therapy Dog Brings Comfort To Victims And Officers",
+      "summary": "Buddy, a black English Lab and certified therapy dog at Green River Police Department, brings comfort to traumatized children and stressed officers alike. What started as a college paper by Detective Martha Holzgrafe became a reality when Buddy joined the force, spending his days offering cuddles, waiting outside the chief's office with a tennis ball, and becoming more famous than his handler.",
+      "category": "Community",
+      "categories": [
+        "Community",
+        "Rescue"
+      ],
+      "source_url": "https://www.sweetwaternow.com/buddy-the-police-therapy-dog-brings-comfort-to-victims-and-officers/?utm_source=rss&utm_medium=rss&utm_campaign=buddy-the-police-therapy-dog-brings-comfort-to-victims-and-officers",
+      "source_name": "sweetwaternow.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://sweetwaternow.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/02/2.18.26BuddyTheThrapyDawg.jpg"
+    },
+    {
+      "id": "story_012_what_hollywood_can_learn_from_iron_lung",
+      "title": "What Hollywood can learn from \u2018Iron Lung\u2019",
+      "summary": "YouTuber Markiplier's self-financed film \"Iron Lung\" grossed $35.2 million on just a $3 million budget\u201411 times its production cost. The claustrophobic submarine thriller proves that creativity trumps massive budgets, setting mostly in one location with a single wall screen as the only light source, while big-budget Hollywood movies increasingly struggle at the box office.",
+      "category": "Surprise",
+      "categories": [
+        "Surprise",
+        "Other"
+      ],
+      "source_url": "https://ucsdguardian.org/2026/02/17/what-hollywood-can-learn-from-iron-lung/",
+      "source_name": "ucsdguardian.org",
+      "published_ts": 1771711896774,
+      "image_url": "https://ucsdguardian.org/wp-content/uploads/2026/02/Iron-Lung-Art-by-Catherine-Xu-_-The-UCSD-Guardian.png"
+    },
+    {
+      "id": "story_013_isaac_mwebazemukama_transforms_sustainability_and_youth_empo",
+      "title": "Isaac Mwebazemukama Transforms Sustainability and Youth Empowerment in Uganda",
+      "summary": "Isaac Mwebazemukama, inspired by his teacher father who believed education could solve any challenge, founded Leaf Lives Africa to tackle hunger and environmental issues in Uganda. Through the Aspire Leaders Program, this social innovator is building sustainable agriculture and conservation initiatives that empower youth and lay the groundwork for a greener, hunger-free Africa for future generations.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Community",
+        "Generosity"
+      ],
+      "source_url": "https://africa.com/isaac-mwebazemukama-transforms-sustainability-and-youth-empowerment-in-uganda/",
+      "source_name": "africa.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://africa.com/wp-content/uploads/2026/02/Screenshot-2026-02-18-at-14-38-44-IMG_5145-1-1050x1400.jpg-JPEG-Image-1050-\u00c3\u0097-1400-pixels.png"
+    },
+    {
+      "id": "story_014_ut_students_work_behind_the_scenes_at_the_2026_super_bowl",
+      "title": "UT students work behind the scenes at the 2026 Super Bowl",
+      "summary": "Ten University of Tennessee business students got to work behind the scenes at the Super Bowl through the Big Orange Combine program, gaining real-world experience in sports management and human resources. The program, led by Dr. Debra Mackey for over a decade, pushes students out of their comfort zones to network with industry professionals and learn that taking risks can lead to unexpected career opportunities.",
+      "category": "Sports",
+      "categories": [
+        "Sports",
+        "Human Story"
+      ],
+      "source_url": "https://utdailybeacon.com/208581/arts-and-culture/ut-students-work-behind-the-scenes-at-the-2026-super-bowl/",
+      "source_name": "utdailybeacon.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://utdailybeacon.com/wp-content/uploads/2026/02/IMG_4075.jpeg"
+    },
+    {
+      "id": "story_015_from_heartbreak_to_help_the_story_behind_a_colstrip_nonprofi",
+      "title": "From Heartbreak to Help: The Story Behind a Colstrip Nonprofit Changing Lives",
+      "summary": "A Colstrip nonprofit is making a meaningful impact in the community. The organization's founding story stems from a personal heartbreak that motivated its creation, though specific details about their work and mission aren't fully provided in the available information.",
+      "category": "Other",
+      "categories": [
+        "Other"
+      ],
+      "source_url": "https://kmhk.com/ixp/109/p/syds-wish-colstrip-montana/",
+      "source_name": "kmhk.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://townsquare.media/site/109/files/2026/02/attachment-1-59.jpg?w=1200&format=natural"
+    },
+    {
+      "id": "story_016_astronomers_trace_lost_luna_9_lander_on_moons_surface",
+      "title": "Astronomers Trace Lost Luna 9 Lander on Moon's Surface",
+      "summary": "Astronomers using AI and advanced imaging have potentially located the Soviet Luna 9 lander, which achieved the first soft landing on the Moon in 1966 but disappeared for decades. The breakthrough could finally solve a 60-year-old space mystery and confirm the exact resting place of this historic spacecraft that gave humanity its first close-up views of the lunar surface.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Science"
+      ],
+      "source_url": "https://thesheffieldpress.com/astronomers-trace-lost-luna-9-lander-on-moons-surface-mlh5bt4c",
+      "source_name": "thesheffieldpress.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://thesheffieldpress.com/uploads/astronomers-trace-lost-luna-9-lander-on-moons-surface-10d92c-og.webp"
+    },
+    {
+      "id": "story_017_this_mathematician_proved_the_random_walk_theorem_to_clear_h",
+      "title": "This mathematician proved the random walk theorem to clear his name as a lurker",
+      "summary": "Mathematician George P\u00f3lya kept awkwardly bumping into the same couple during his forest walks, looking like a total creeper. To prove he wasn't lurking on purpose, he developed the random walk theorem\u2014a brilliant mathematical proof showing that wanderers are mathematically destined to cross paths, officially clearing his name through pure mathematical genius.",
+      "category": "Humor",
+      "categories": [
+        "Humor",
+        "Discovery",
+        "Science"
+      ],
+      "source_url": "https://www.scientificamerican.com/article/this-mathematician-proved-the-random-walk-theorem-to-clear-his-name-as-a/",
+      "source_name": "scientificamerican.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://static.scientificamerican.com/dam/m/b174bf202c355c33/original/sa0326Math01.jpg?m=1770410426.763&w=1200"
+    },
+    {
+      "id": "story_018_marysville_couple_give_selflessly_to_kids_anyone_in_need_uns",
+      "title": "Marysville couple give selflessly to kids, anyone in need | Unsung Hero",
+      "summary": "A Marysville couple with five children of their own welcomed two more kids into their home, treating them with the same love and care as their biological children. Known for their calm, graceful approach to any crisis, they've created a home where every child feels a true sense of belonging and security.",
+      "category": "Generosity",
+      "categories": [
+        "Generosity",
+        "Community",
+        "Human Story"
+      ],
+      "source_url": "https://www.seattleschild.com/marysville-couple-give-selflessly-to-kids-anyone-in-need-unsung-hero-teresa-justin-kerr/",
+      "source_name": "seattleschild.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://images.seattleschild.com/wp-content/uploads/2026/02/Kerr-Teresa-and-Justin-e1771278017691.jpg"
+    },
+    {
+      "id": "story_019_you_feel_like_youre_really_making_a_difference_organizers_pr",
+      "title": "\u2018You feel like you\u2019re really making a difference:\u2019 Organizers preparing for 41st Annual Benefit Oyster Roast",
+      "summary": "Two Virginia churches are hosting their 41st annual oyster roast fundraiser, an event that raises $40,000-$60,000 each year to help families facing medical hardships. This year's proceeds will support a single mother caring for her daughter with cerebral palsy\u2014continuing a decades-long tradition that has literally kept families in their homes.",
+      "category": "Generosity",
+      "categories": [
+        "Generosity",
+        "Community"
+      ],
+      "source_url": "https://www.fredericksburgfreepress.com/2026/02/18/you-feel-like-youre-really-making-a-difference-organizers-preparing-for-41st-annual-benefit-oyster-roast/",
+      "source_name": "fredericksburg.today",
+      "published_ts": 1771711896774,
+      "image_url": "https://ddrqacl1jpsyp.cloudfront.net/wp-content/uploads/2026/02/18134726/IMG_2881.jpg"
+    },
+    {
+      "id": "story_020_lanett_employee_recognized_for_heroic_efforts",
+      "title": "Lanett employee recognized for heroic efforts",
+      "summary": "While reading meters on a freezing 25-degree morning, a city electrical worker discovered an elderly man who had fallen on his porch and couldn't get up. His quick call to 911 likely saved the man's life, and the city council honored him with a proclamation for his swift action.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community"
+      ],
+      "source_url": "https://www.valleytimes-news.com/news/lanett-employee-recognized-for-heroic-efforts-b38266d0",
+      "source_name": "valleytimes-news.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://public-assets-prod.pubgen.ai/brand_9663c318-8556-4b3e-aa17-33bf5d7ebaea/asset_3cef067f-10ec-4897-8844-6ea29351af47.jpg?w=1200"
+    },
+    {
+      "id": "story_021_child_and_adult_rescued_water_at_belmont_harbor",
+      "title": "Child and adult rescued water at Belmont Harbor",
+      "summary": "When a child and adult fell into Lake Michigan at Chicago's Belmont Harbor, a bystander didn't hesitate\u2014they jumped into the freezing water to help. All three were taken to the hospital following the dramatic rescue at the city harbor.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community"
+      ],
+      "source_url": "https://wgntv.com/news/chicago-news/child-and-adult-rescued-water-at-belmont-harbor/",
+      "source_name": "cltv.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://picsum.photos/seed/259/800/600"
+    },
+    {
+      "id": "story_022_alexander_amp_mandaree_boys_basketball_teams_join_in_showing",
+      "title": "Alexander &amp; Mandaree Boys Basketball Teams Join In Showing What Great Sportsmanship Means",
+      "summary": "Two high school basketball teams showed what sportsmanship truly means during a senior night game. The visiting Warriors paused the game to let an injured senior shoot one final basket at his home court, then later allowed a freshman with autism\u2014who'd faced bullying growing up\u2014to score, celebrating with him as the crowd erupted in cheers.",
+      "category": "Community",
+      "categories": [
+        "Community",
+        "Human Story",
+        "Sports"
+      ],
+      "source_url": "HTTPS://www.roundupweb.com/story/2026/02/18/sports/alexander-andamp-mandaree-boys-basketball-teams-join-in-showing-what-great-sportsmanship-means/23776.html",
+      "source_name": "roundupweb.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://www.roundupweb.com/home/cms_data/dfault/photos/stories/id/7/6/23776/s_top"
+    },
+    {
+      "id": "story_023_680000_natural_state_jackpot_winner_to_split_prize_with_frie",
+      "title": "$680,000 Natural State Jackpot Winner to Split Prize With Friend",
+      "summary": "A North Little Rock man won a $680,000 lottery jackpot and immediately decided to split it evenly with his best friend of several decades. The pair, who initially thought they'd won just $1,000, say they plan to use the money to help others rather than change their lifestyles.",
+      "category": "Generosity",
+      "categories": [
+        "Generosity",
+        "Surprise",
+        "Human Story"
+      ],
+      "source_url": "https://kygl.com/ixp/152/p/north-little-rock-jackpot-win/",
+      "source_name": "kygl.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://townsquare.media/site/152/files/2026/02/attachment-untitled-design-2026-02-16t150243-519.jpg?w=1200&q=75&format=natural"
+    },
+    {
+      "id": "story_024_stronger_after_setbacks_will_russells_road_back_to_states",
+      "title": "Stronger after setbacks: Will Russell\u2019s road back to states",
+      "summary": "After two devastating season-ending injuries over three years\u2014including a broken collarbone that crushed his state tournament dreams\u2014a high school wrestler refused to quit. With support from his coach and team, he rebuilt himself both physically and mentally, finally qualifying for the state championship as a senior.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Sports",
+        "Human Story"
+      ],
+      "source_url": "https://www.longislandpress.com/2026/02/18/stronger-after-setbacks-will-russells-road-back-to-states/",
+      "source_name": "massapequaobserver.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://www.longislandpress.com/wp-content/uploads/2026/02/0206_R6I_0882.jpg?w=1200&p=q"
+    },
+    {
+      "id": "story_025_cranford_man_displays_good_humor_selling_ice_cream_from_a_tr",
+      "title": "Cranford man displays \u2018good humor\u2019 selling ice cream from a truck made of snow",
+      "summary": "A New Jersey man sculpted a life-size ice cream truck entirely out of snow and started selling real Good Humor bars from it to raise money for a children's hospital. The 30-hour project has already raised over $5,000, honoring both his friend who received care there and his 104-year-old father who volunteered at the same hospital for years.",
+      "category": "Generosity",
+      "categories": [
+        "Generosity",
+        "Community",
+        "Humor"
+      ],
+      "source_url": "https://njtoday.news/2026/02/17/cranford-man-displays-good-humor-selling-ice-cream-from-a-truck-made-of-snow/",
+      "source_name": "njtoday.net",
+      "published_ts": 1771711896774,
+      "image_url": "https://njtoday.news/wp-content/uploads/2026/02/Robert-Schotts-retrofitted-snow-and-ice-1953-Chevy-truck.jpg"
+    },
+    {
+      "id": "story_026_local_brewery_will_discount_its_beer_based_on_how_much_snow",
+      "title": "Local brewery will discount its beer based on how much snow falls. They're predicting drafts will sell for 25 cents",
+      "summary": "A Philadelphia brewery is turning a massive snowstorm into a party by offering $1 off beer for every inch that falls. With forecasts predicting 12-18 inches, their $8 craft brew could drop to just 25 cents\u2014giving snowbound locals a creative reason to venture out and warm up together.",
+      "category": "Community",
+      "categories": [
+        "Community",
+        "Humor"
+      ],
+      "source_url": "https://www.phillyvoice.com/human-robot-beer-snow-discount/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
+      "source_name": "phillyvoice.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://media.phillyvoice.com/media/images/Human_robot_snow_deal.2e16d0ba.fill-1200x630-c0.png"
+    },
+    {
+      "id": "story_027_ogisd_fccla_students_spread_love_with_90_bouquets_at_premier",
+      "title": "OGISD FCCLA Students Spread Love with 90 Bouquets at Premiere of Alice Assisted Living",
+      "summary": "High school FCCLA students capped off their busy Valentine's week by hand-delivering 90 flower bouquets to residents at an assisted living facility. Beyond the flowers, they stayed to chat and connect, creating genuine moments of joy between generations while strengthening their community bonds.",
+      "category": "Generosity",
+      "categories": [
+        "Generosity",
+        "Community"
+      ],
+      "source_url": "https://www.alicetx.com/2026/02/17/ogisd-fccla-students-spread-love-with-90-bouquets-at-premiere-of-alice-assisted-living/",
+      "source_name": "alicetx.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://www.alicetx.com/wp-content/uploads/sites/82/2026/02/634863394_1486569666590378_2838357977773123207_n.jpg"
+    },
+    {
+      "id": "story_028_paxton_churchs_ceiling_collapses_community_steps_up_to_help",
+      "title": "Paxton church's ceiling collapses; community steps up to help",
+      "summary": "Pastor Keith Reuther walked into his Paxton, Illinois sanctuary to pray and found a one-ton beam had collapsed from the ceiling. The local community quickly stepped up to help the church recover.",
+      "category": "Community",
+      "categories": [
+        "Community",
+        "Surprise"
+      ],
+      "source_url": "https://www.wcia.com/news/ford-county/paxton-churchs-ceiling-collapses-community-steps-up-to-help/",
+      "source_name": "illinoishomepage.net",
+      "published_ts": 1771711896774,
+      "image_url": "https://picsum.photos/seed/743/800/600"
+    },
+    {
+      "id": "story_029_what_if_we_showed_a_little_more_kindness_in_west_alabama",
+      "title": "What If We Showed A Little More Kindness In West Alabama",
+      "summary": "A writer in West Alabama noticed a stressed young woman at a stoplight and offered a simple gesture of kindness. The moment reminded him how rare\u2014and necessary\u2014small acts of goodness have become.",
+      "category": "Human Story",
+      "categories": [
+        "Human Story",
+        "Community",
+        "Generosity"
+      ],
+      "source_url": "https://wtug.com/ixp/532/p/spreading-kindness-tuscaloosa/",
+      "source_name": "wtug.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://townsquare.media/site/532/files/2026/02/attachment-adam-nemeroff-_pdprax9dm8-unsplash.jpg?w=1200&format=natural"
+    },
+    {
+      "id": "story_030_teacher_of_the_month_recognized_for_using_pineapples_and_pos",
+      "title": "\u2018Teacher of the Month\u2019 recognized for using pineapples and positivity to teach persistence in the classroom",
+      "summary": "First-grade teacher Courtney Malahais goes by \"Miss Pineapple\" and fills her Anderson Elementary classroom with music, movement, and motivation. Her students are \"persistent pineapples,\" learning to climb the ladder of positivity and persistence every day.",
+      "category": "Human Story",
+      "categories": [
+        "Human Story",
+        "Community"
+      ],
+      "source_url": "https://www.wwaytv3.com/teacher-of-the-month-recognized-for-using-pineapples-and-positivity-to-teach-persistence-in-the-classroom/",
+      "source_name": "wwaytv3.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://www.wwaytv3.com/content/uploads/2026/02/z/u/dbfb65082c37c42d05816426de1d933853d26d88_fl9-720p_25.jpg"
+    },
+    {
+      "id": "story_031_bountiful_teen_battles_back_from_neardeath_now_competes_to_b",
+      "title": "Bountiful teen battles back from near\u2011death, now competes to become \u2018America\u2019s Most Artistic Kid\u2019",
+      "summary": "Ledger, 17, nearly died after a baseball struck his face, causing a traumatic brain injury. During months of recovery in a dark, quiet house, he taught himself to paint\u2014and now he's competing to become America's Most Artistic Kid.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Human Story",
+        "Discovery"
+      ],
+      "source_url": "https://ksltv.com/local-news/americas-most-artistic-kid/879104/",
+      "source_name": "ksltv.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://ksltv.com/wp-content/uploads/2026/02/hero.jpeg"
+    },
+    {
+      "id": "story_032_jaden_smith_wants_to_feed_the_unhoused_on_las_skid_row_and_s",
+      "title": "Jaden Smith Wants to Feed the Unhoused on L.A.\u2019s Skid Row and Spread Positivity Through His \u2018I LOVE YOU\u2019\u00a0Brand",
+      "summary": "Jaden Smith dreams of opening a permanent spot on L.A.'s Skid Row to serve free meals daily through his I LOVE YOU brand. He's been running a vegan food truck since 2019, feeding thousands of unhoused Angelenos with plans to expand nationwide.",
+      "category": "Generosity",
+      "categories": [
+        "Generosity",
+        "Community",
+        "Human Story"
+      ],
+      "source_url": "https://www.kjwl.com/2026/02/18/jaden-smith-wants-to-feed-the-unhoused-on-l-a-s-skid-row-and-spread-positivity-through-his-i-love-you-brand/",
+      "source_name": "kjwl.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1104/2026/02/18183142/2HpFicp855866.png"
+    },
+    {
+      "id": "story_033_teen_corner_we_can_be_friends_even_if_we_dont_always_agree",
+      "title": "Teen Corner \u2014 We can be friends even if we don\u2019t always agree",
+      "summary": "Teen columnist Braelynn Smith reflects on how quickly people hate others over differing opinions. She wishes we could see past one disagreement and find the million things we might have in common instead.",
+      "category": "Human Story",
+      "categories": [
+        "Human Story",
+        "Community"
+      ],
+      "source_url": "https://harlanenterprise.net/2026/02/18/teen-corner-we-can-be-friends-even-if-we-dont-always-agree/",
+      "source_name": "harlanenterprise.net",
+      "published_ts": 1771711896774,
+      "image_url": "https://harlanenterprise.net/wp-content/uploads/sites/49/2026/02/Braelynn-Smith.jpg?w=881"
+    },
+    {
+      "id": "story_034_mother_of_3_reunites_with_good_samaritan_after_crashing_into",
+      "title": "Mother of 3 reunites with good Samaritan after crashing into canal",
+      "summary": "After suffering a seizure while driving, Shyeniqua Wilkins crashed into a Florida canal with her three kids inside. Casey Curtis saw the crash in his rearview mirror and pulled all four from the sinking car\u2014now they call him family.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community",
+        "Human Story"
+      ],
+      "source_url": "https://wsvn.com/news/local/florida/mother-of-3-reunites-with-good-samaritan-after-crashing-into-canal/",
+      "source_name": "wsvn.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/02/021726-Mother-of-3-reunites-with-good-Samaritan-after-crashing-into-canal.png"
+    },
+    {
+      "id": "story_035_marathon_does_it_again_fundraiser_for_bartender_battling_can",
+      "title": "MARATHON DOES IT AGAIN: FUNDRAISER FOR BARTENDER BATTLING CANCER NETS $138K",
+      "summary": "The Marathon, Florida community raised over $138,000 for bartender Rachele \"Roach\" Kruse as she battles cancer. A sold-out fundraiser, silent auctions, and a GoFundMe came together to build her a war chest for treatment.",
+      "category": "Generosity",
+      "categories": [
+        "Generosity",
+        "Community"
+      ],
+      "source_url": "https://keysweekly.com/42/marathon-does-it-again-fundraiser-for-bartender-battling-cancer-nets-138k/",
+      "source_name": "keysweekly.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://keysweekly.com/wp-content/uploads/2026/01/IMG_8953-Large.jpeg"
+    },
+    {
+      "id": "story_036_meet_harry_an_86yearold_practicing_black_belt",
+      "title": "Meet Harry, an 86-year-old practicing black belt",
+      "summary": "Harry Ericson, 86, is a second-degree black belt who practices Taekwondo every week at a studio marked \"Junior.\" The age label doesn't stop him from showing up and staying sharp in his martial arts journey.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Human Story",
+        "Sports"
+      ],
+      "source_url": "https://www.wkbn.com/news/local-news/boardman-news/meet-harry-an-86-year-old-practicing-black-belt/",
+      "source_name": "wkbn.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://picsum.photos/seed/392/800/600"
+    },
+    {
+      "id": "story_037_young_entrepreneur_starts_handmade_in_michigan_cornhole_comp",
+      "title": "Young entrepreneur starts handmade in Michigan cornhole company in parents\u2019 basement",
+      "summary": "Ross O'Donnell turned a basement hobby into Blast Cornhole, a full-scale custom cornhole business in Michigan. Starting at 17, he now runs a complete factory making regulation boards and bags\u2014no Shark Tank needed.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Human Story",
+        "Community"
+      ],
+      "source_url": "https://www.mlive.com/detroit/2026/02/young-entrepreneur-starts-handmade-in-michigan-cornhole-company-in-parents-basement.html",
+      "source_name": "mlive.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://www.mlive.com/resizer/v2/BSEYD4J6YFAORATWRCZJMGCPZE.jpeg?auth=07e5caaa6e25dd24ce38410fe469b81950ec865ebbb67d4e95c65ad1fc1def1f&width=1280&smart=true&quality=90"
+    },
+    {
+      "id": "story_038_beyond_grateful_south_florida_man_reunites_with_medical_team",
+      "title": "\u2018Beyond grateful\u2019: South Florida man reunites with medical team that saved his life after heart health scare",
+      "summary": "Kerry Osborne had a heart attack while driving and told his phone to navigate him to the nearest hospital. Dr. Henry Cusnir at HCA Florida Westside Hospital found a completely blocked artery and performed an emergency procedure through Osborne's wrist, saving his life. Months later, Osborne reunited with the medical team, grateful for listening to his body and taking quick action.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Human Story"
+      ],
+      "source_url": "https://wsvn.com/news/local/broward/beyond-grateful-south-florida-man-reunites-with-medical-team-that-saved-his-life-after-heart-health-scare/",
+      "source_name": "wsvn.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/02/21726-Heart-Attack.png"
+    },
+    {
+      "id": "story_039_dog_crashes_olympics_and_steals_the_show",
+      "title": "Dog crashes Olympics and steals the show",
+      "summary": "A confident dog crashed the women's team sprint qualifications at the Winter Olympics, running alongside skiers near the finish line like it totally belonged there. The unexpected four-legged competitor brought pure joy to everyone watching. One broadcaster called it \"somebody who wants to be part of the Olympic action\"\u2014and honestly, that dog nailed it.",
+      "category": "Humor",
+      "categories": [
+        "Humor",
+        "Surprise",
+        "Sports"
+      ],
+      "source_url": "https://kosi101.com/a-dog-crashed-the-olympics-and-totally-stole-the-show/",
+      "source_name": "kosi101.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://kosi101.com/wp-content/uploads/2026/02/GettyImages-2261595147.jpg"
+    },
+    {
+      "id": "story_040_everyone_deserves_a_second_chance",
+      "title": "Everyone Deserves a Second Chance",
+      "summary": "A 12-year-old caught vaping at school turned his life around through Monongalia County Teen Court, where peers hear cases of first-time offenders. Less than a year later, his grades improved 40% and he's excited to study music in high school. The peer-led program gives young people a chance to take control of their futures while teaching volunteers about justice and leadership.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Community",
+        "Human Story"
+      ],
+      "source_url": "https://morgantownmag.com/everyone-deserves-a-second-chance/?utm_source=rss&utm_medium=rss&utm_campaign=everyone-deserves-a-second-chance",
+      "source_name": "morgantownmag.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://morgantownmag.com/wp-content/uploads/MonCountyTeenCourt4-scaled.jpeg"
+    },
+    {
+      "id": "story_041_months_after_receiving_lifesaving_kidney_donation_bayside_ma",
+      "title": "Months after receiving life-saving kidney donation, Bayside man is working to help others find donors and spread awareness",
+      "summary": "Marc Perez credits social media for connecting him with a kidney donor after he was diagnosed with advanced kidney disease. After receiving his life-saving transplant last October, the 41-year-old is now helping others find donors by spreading awareness. He says he's grateful for a second chance to fulfill his goals and live the second half of his life.",
+      "category": "Generosity",
+      "categories": [
+        "Generosity",
+        "Transformation",
+        "Human Story"
+      ],
+      "source_url": "https://qns.com/2026/02/life-saving-kidney-donation-bayside-man-help-other/",
+      "source_name": "qns.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://qns.com/wp-content/uploads/2026/02/IMG_0871-e1771360463655.jpg?quality=51&w=1200&p=q"
+    },
+    {
+      "id": "story_042_one_child_three_adults_rescued_from_icy_water_at_glenwood_la",
+      "title": "One Child, Three Adults Rescued From Icy Water At Glenwood Lake Park",
+      "summary": "When a 9-year-old fell through melting ice at Glenwood Lake Park, three adults jumped in to save him\u2014and needed rescuing themselves. Fire crews threw ropes and pulled everyone to safety from 8-10 feet of water, all refusing medical treatment despite the freezing ordeal. Quick thinking and teamwork turned a scary situation into a successful rescue.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community"
+      ],
+      "source_url": "https://opinion-tribune.com/news/one-child-three-adults-rescued-icy-water-glenwood-lake-park",
+      "source_name": "opinion-tribune.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://opinion-tribune.com/sites/default/files/styles/article/public/field/image/GFD.jpg?itok=yUiXMjru"
+    },
+    {
+      "id": "story_043_how_to_stay_motivated_when_youre_a_team_of_one",
+      "title": "How to stay motivated when you\u2019re a team of one",
+      "summary": "Nearly half of self-employed professionals experience loneliness, but staying motivated solo is possible with the right approach. Design your workday around when you're most productive, use time-blocking to stay focused, and create structure that works for you. Working alone doesn't have to mean feeling isolated if you're intentional about how you spend your time.",
+      "category": "Other",
+      "categories": [
+        "Other"
+      ],
+      "source_url": "https://www.fastcompany.com/91486899/how-to-stay-motivated-when-youre-a-team-of-one",
+      "source_name": "fastcompany.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://picsum.photos/seed/1941/800/600"
+    },
+    {
+      "id": "story_044_permit_yourself_others_to_do_new_things_imperfectly",
+      "title": "Permit yourself, others to do new things imperfectly",
+      "summary": "A YouTuber's first time playing Minecraft reminded one writer that everyone starts somewhere\u2014and that's okay. Expecting perfection when trying something new can paralyze you, but embracing imperfection makes learning possible. Research shows that novelty facilitates learning, so taking the risk of doing something badly is actually worth the reward.",
+      "category": "Other",
+      "categories": [
+        "Other"
+      ],
+      "source_url": "https://baylorlariat.com/2026/02/17/permit-yourself-others-to-do-new-things-imperfectly/",
+      "source_name": "baylorlariat.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://baylorlariat.com/wp-content/uploads/2026/02/Arden-Berry-12-2048x1366-1.jpg"
+    },
+    {
+      "id": "story_045_see_the_good_douglas_runner_becomes_first_person_with_artifi",
+      "title": "SEE THE GOOD: Douglas runner becomes first person with artificial heart valve to run all 6 major marathons",
+      "summary": "Ed Barnes from Douglas became the first person with an artificial heart valve to complete all six major marathons. After open heart surgery in high school, he didn't let his condition stop him from pursuing his passion. Now he mentors cardiac patients through Abbott Heartmates, proving that recovery doesn't mean giving up on your dreams.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Sports",
+        "Human Story"
+      ],
+      "source_url": "https://whdh.com/news/see-the-good-douglas-runner-becomes-first-person-with-artificial-heart-valve-to-run-all-6-major-marathons/",
+      "source_name": "whdh.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://whdh.com/wp-content/uploads/sites/3/2026/02/021826-douglas-runner.jpg?quality=60&strip=color"
+    },
+    {
+      "id": "story_046_surfers_rescue_family_of_six_after_their_boat_capsizes",
+      "title": "Surfers Rescue Family Of Six After Their Boat Capsizes",
+      "summary": "When a boat carrying a family of six capsized trying to outrun massive waves, nearby surfers immediately paddled out to rescue them. Among the heroes were two 14-year-olds, Ian Anderson and Emilio Puhve, who helped pull the family to safety in a dramatic scene caught on camera.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community"
+      ],
+      "source_url": "https://www.kfqd.com/surfers-rescue-family-of-six-after-their-boat-capsizes/",
+      "source_name": "kfqd.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://www.alphamediahub.com/wp-content/uploads/2026/02/0-63.jpg?icb=1771711787"
+    },
+    {
+      "id": "story_047_trooper_saves_infant_on_valentines_day",
+      "title": "Trooper Saves Infant On Valentines Day",
+      "summary": "Maryland State Trooper Nicholas Warren was finishing a routine traffic stop on Valentine's Day when a panicked driver pulled up saying their baby was choking. Without hesitation, Warren grabbed the infant and performed back blows, clearing the obstruction within moments and saving the child's life before EMS arrived.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Community"
+      ],
+      "source_url": "https://firststateupdate.com/2026/02/trooper-saves-infant-on-valentines-day/",
+      "source_name": "firststateupdate.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://firststateupdate.com/wp-content/uploads/2023/08/image-65.png"
+    },
+    {
+      "id": "story_048_pitt_meadows_school_creates_kindness_cards_for_people_in_nee",
+      "title": "Pitt Meadows school creates kindness cards for people in need",
+      "summary": "Students at Edith McDermott Elementary created 78 kindness cards for people in need at the local Salvation Army, sparking a district-wide challenge ahead of Pink Shirt Day. Two other schools joined in to create even more cards. Teacher Kaitlyn Brett wanted to show her students that their kindness can make an impact beyond the classroom walls.",
+      "category": "Community",
+      "categories": [
+        "Community",
+        "Generosity"
+      ],
+      "source_url": "https://mapleridgenews.com/2026/02/17/pitt-meadows-school-creates-kindness-cards-for-people-in-need/",
+      "source_name": "mapleridgenews.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://mapleridgenews.com/wp-content/uploads/sites/5/2026/02/41605725_web1_260217-MRN-CF-cards-SalvationArmy-PinkShirt-EdithMcDermott_2.jpg?w=1024"
+    },
+    {
+      "id": "story_049_woman_rescued_from_the_deepest_cave_in_texas",
+      "title": "Woman Rescued from the Deepest Cave in Texas",
+      "summary": "A researcher was rescued from 470 feet underground in Sorcerer's Cave\u2014Texas's deepest cave at 579 feet\u2014after being hit by a dislodged rock while climbing. Rescue crews navigated through treacherous passages with names like 'Poltergeist Pit' and 'Demon Drop' to bring her to safety, and she's now stable and receiving treatment in Odessa after being airlifted from the scene.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "source_url": "https://1023thebullfm.com/ixp/175/p/sorcerers-cave-rescue-texas/",
+      "source_name": "1023blakefm.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://townsquare.media/site/175/files/2026/02/attachment-gettyimages-450471544.jpg?w=1200&format=natural"
+    },
+    {
+      "id": "story_050_neenah_man_credits_a_thedacare_nurses_kindness_for_saving_hi",
+      "title": "Neenah man credits a ThedaCare nurse\u2019s kindness for saving his life four years ago",
+      "summary": "Mike Yonkers was volunteering at ThedaCare hospital when chest pains hit. Flight nurse Erin Rusch noticed something was off, walked him to the ER, and likely saved his life\u2014he was having a heart attack. Four years later, Yonkers credits that brief act of kindness for giving him a second chance.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Human Story",
+        "Generosity"
+      ],
+      "source_url": "https://kfiz.com/neenah-man-credits-a-thedacare-nurses-kindness-for-saving-his-life-four-years-ago/",
+      "source_name": "kfiz.com",
+      "published_ts": 1771711896774,
+      "image_url": "https://kfiz.com/wp-content/uploads/2026/02/f2271a05-e44a-444d-a059-4db015ab9308.jpg"
+    }
+  ]
+}
