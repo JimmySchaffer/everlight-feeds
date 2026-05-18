@@ -1,0 +1,115 @@
+{
+  "batch_id": "loveland_oh_20260509_001",
+  "created_at": "2026-05-09T18:00:00Z",
+  "story_count": 3,
+  "display_mode_counts": {
+    "image": 3,
+    "text": 0
+  },
+  "stories": [
+    {
+      "id": "loveland_oh_20260509_001__story_001",
+      "title": "Granny's Garden School: how one Loveland program reaches every 1st-through-4th-grader in town",
+      "summary": "Granny's Garden School, founded by Roberta Paolo, runs garden-based science, math, and health lessons for every 1st-through-4th-grader in Loveland City Schools. The program donates a portion of every harvest to the local food pantry through the growing season.",
+      "extended_summary": "Granny's Garden School is a Loveland nonprofit that runs hands-on garden curriculum for every 1st-through-4th-grader in Loveland City Schools — the kind of program that many districts have tried and few sustain. According to a 2019 profile in Loveland Magazine, the program had already been operating for over fifteen years at that point (founded by Roberta Paolo in the early 2000s) and had become recognized as one of the largest comprehensive school-garden initiatives in the country. The lessons are integrated into the school day on the Loveland Primary and Elementary campuses; harvested produce is donated weekly to the Loveland Food Pantry during growing season. The replicable lesson is its scope: not an enrichment program for some kids, but a curriculum touch for every kid in those grades. Source: Loveland Magazine, October 2019.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Community",
+        "Transformation"
+      ],
+      "source_url": "https://lovelandmagazine.com/grannys-garden-school-continues-in-loveland/",
+      "source_name": "Loveland Magazine",
+      "published_ts": 1571616000000,
+      "image_url": "https://i0.wp.com/lovelandmagazine.com/wp-content/uploads/2019/10/feature-granny-garden-school-.jpg",
+      "display_mode": "image",
+      "display_reason": "lead photo from Loveland Magazine article",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "city": "Loveland",
+      "provenance": "evelyn_curated",
+      "sections": [
+        "loveland_oh"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      }
+    },
+    {
+      "id": "loveland_oh_20260509_001__story_002",
+      "title": "Four pristine acres on the Little Miami River will stay open forever — Loveland's preservation playbook",
+      "summary": "Loveland is using state Clean Ohio grant funds to purchase nearly four acres of pristine forest along the Little Miami River that had been slated for residential development. City Manager Dave Kennedy and the Schildmeyer property owners worked the proposal into a permanent open-space sale instead.",
+      "extended_summary": "A February 2026 WCPO report by Sam Harasimowicz traces how a small Ohio town is using a state-grant tool to lock natural land out of the development pipeline. About four acres along N. Riverside Avenue, owned by the Schildmeyer family, had been heading toward residential build-out. City Manager Dave Kennedy describes the riverbank as \"pristine to a different level,\" and over the past year worked with the family on an alternative: a Clean Ohio grant from the state's Public Works Commission funds the purchase, the property converts to permanent open space, and a local conservation partner takes on long-term stewardship. Kennedy: \"When we get the sale completed, that will forever ensure that this property is open space.\" Resident Ty Mentrup, who fishes the stretch, frames the local stake: \"We would like to see it to where we still have some access to the natural beauty without it being concrete.\" The replicable lesson is the funding-mechanism plus negotiation pattern: a Clean-Ohio-style grant program, a willing landowner, and a city ready to do the paperwork can convert a development parcel into forever-open space.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Community",
+        "Discovery"
+      ],
+      "source_url": "https://www.wcpo.com/news/local-news/hamilton-county/loveland/it-is-pristine-to-a-different-level-loveland-taking-steps-to-protect-stretch-of-green-space-forever",
+      "source_name": "WCPO",
+      "published_ts": 1772232371000,
+      "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/2164648/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fb6%2F0e%2F62348f494f2486ffeecfb95a7dcd%2Flove-land.jpg",
+      "display_mode": "image",
+      "display_reason": "lead photo from WCPO article",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "city": "Loveland",
+      "provenance": "evelyn_curated",
+      "sections": [
+        "loveland_oh"
+      ],
+      "section_scores": {
+        "limelight": 4,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      }
+    },
+    {
+      "id": "loveland_oh_20260509_001__story_003",
+      "title": "From shirt factory to working art colony: Loveland's Studios on Main, twenty years in",
+      "summary": "Shawn and Chandra Custis bought a Loveland building in 2005 with antique-mall plans. After a glass artist asked about studio space, they pivoted — and spent the next decade-plus turning a 30,000-square-foot former school and shirt factory into a working art colony with more than 30 resident artists.",
+      "extended_summary": "The building at the heart of this story has had three lives: a long stint as West Loveland Elementary School, a midcentury turn as the Clifton Shirt Factory (around 1948), and now, since the Custis family bought it in 2005, an arts campus called Studios on Main. The plan was an antique mall. A glass artist asked about studio space; the plan changed. According to a City Lifestyle / Loveland Lifestyle profile by Bill Furbee, more than thirty resident artists now work there across painting, pottery, stained glass, fiber arts, and music — a creative-placemaking model in the form of a single rehabilitated building. One resident, Johanna Kremer, is quoted: \"The diversity of talented artists is inspiring — we've become a more close-knit community.\" The replicable lesson is adaptive reuse: an empty industrial building, a 20-year horizon, and a small steward family can host a working art colony.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Community"
+      ],
+      "source_url": "https://citylifestyle.com/articles/home-is-where-the-art-is-8",
+      "source_name": "City Lifestyle (Loveland Lifestyle)",
+      "published_ts": 1700000000000,
+      "image_url": "https://studiosonmain.com/wp-content/uploads/2024/03/cropped-cropped-304874218_568150218437524_6299205740845680390_n-1.jpg",
+      "display_mode": "image",
+      "display_reason": "Studios on Main self-hosted promotional image (article photographer's images not directly addressable)",
+      "image_confidence": "medium",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "city": "Loveland",
+      "provenance": "evelyn_curated",
+      "sections": [
+        "loveland_oh"
+      ],
+      "section_scores": {
+        "limelight": 4,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      }
+    }
+  ]
+}

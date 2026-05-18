@@ -1,540 +1,67 @@
 {
-  "batch_id": "batch_20260331_090726",
-  "created_at": "2026-03-31T09:07:26Z",
-  "story_count": 50,
-  "display_mode_counts": {
-    "image": 35,
-    "text": 15
-  },
+  "batch_id": "batch_20260518_153341_ai_entrepreneurship",
+  "created_at": "2026-05-18T15:33:41Z",
+  "section": "ai_entrepreneurship",
+  "story_count": 12,
   "stories": [
     {
-      "id": "batch_20260331_090726__story_001",
-      "title": "A Solo Founder Just Sold His 6-Month-Old AI Startup for $80M",
-      "summary": "Maor Shlomo built Base44, an AI platform that turns text prompts into complete applications, with just $10K-20K of his own money. Six months later, after reaching 250,000 users and profitability, he sold it to Wix for $80 million \u2014 proving a solo founder can compete with venture-backed teams.",
-      "extended_summary": "Maor Shlomo spent less than $20,000 of his own money and built Base44 entirely alone \u2014 no co-founders, no investors, no team. His vibe-coding platform lets anyone type a text prompt and watch the system build a complete application from scratch. Within six months, he'd reached 250,000 users and turned profitable. Then Wix bought it for $80 million in June 2025, validating that a solo founder with the right idea can outpace venture-backed competitors throwing millions at similar problems.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Surprise"
-      ],
-      "source_url": "https://whatastartup.substack.com/p/a-solo-founder-just-sold-his-6-months-old-ai-startup-for-80-million-dollars",
-      "source_name": "What A Startup (Substack)",
-      "published_ts": 1774948046356,
-      "image_url": "https://substackcdn.com/image/fetch/$s_!zV4Z!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb67cc511-1cbc-46fa-9a07-e703d5f31b15_4608x3456.png",
-      "display_mode": "image",
-      "display_reason": "hero always uses image mode (summary always visible)",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 8,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc64\ud83d\udca1\ud83e\udd16\u23f1\ufe0f\ud83d\udcb0",
-      "headline_split": "A Solo Founder Just Sold His 6-Month-Old AI Startup for ",
-      "fake_endings": [
-        "$8M to a Fortune 500 Company",
-        "$18M After Viral Product Launch"
-      ],
-      "fake_headline": "Former Teacher Builds Gaming App in Her Garage, Reaches 5 Million Users in 90 Days"
-    },
-    {
-      "id": "batch_20260331_090726__story_002",
-      "title": "He Left Medicine to Build an AI Tool \u2014 Now, It's Worth $460 Million",
-      "summary": "Dr. Thomas Kelly left medicine after brutal burnout \u2014 100 patients a day, 10 minutes each. He built Heidi, an AI medical scribe that automates clinical documentation, now valued at $465 million and supporting 1.8 million patient interactions weekly across 50 countries.",
-      "extended_summary": "Fresh out of medical school in Melbourne, Dr. Thomas Kelly was seeing 100 patients a day with only 10 minutes per person \u2014 a pace that left him crushed and disillusioned. In 2021, he walked away from medicine entirely to build Heidi, an AI scribe that handles the soul-crushing documentation work for clinicians. Four years later, Heidi is valued at $465 million, raised $65M in Series B, and supports 1.8 million patient interactions every week across 50 countries. The doctor who couldn't survive the system is now fixing it for millions of others.",
+      "id": "batch_20260518_153341__story_070",
+      "title": "Brother-Sister Duo Are Using Drones to Help Farmers Triple Their Income",
+      "summary": "Siblings Devika and Devan Chandrasekharan built drones that can spot plant diseases early and spray only where needed \u2014 helping over 3,500 farmers boost yields by up to 35% and triple their profits while cutting fertilizer use by 75%.",
+      "extended_summary": "Brother-sister duo Devika and Devan Chandrasekharan started Fuselage Innovations in 2020 with a simple mission: use drones to make farming smarter. Their drones Niriksh and Fiya work together \u2014 Niriksh scans fields with sensors to detect pests and nutrient deficiencies, and Fiya precisely sprays only the affected plants. After working with 3,500 farmers, they've seen yields jump 25-35%, fertilizer use drop 75%, and profits triple. For small farmers in Kerala, these drones aren't just cool tech \u2014 they're a lifeline to sustainable income.",
       "category": "Transformation",
       "categories": [
         "Transformation",
         "Discovery"
       ],
-      "source_url": "https://www.cnbc.com/2025/12/24/he-left-medicine-to-build-an-ai-tool-now-its-worth-460-million.html",
-      "source_name": "CNBC",
-      "published_ts": 1774948046356,
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108245048-1766467884365-PRGroup_Heidi_9854_F.jpg?v=1766468004&w=1920&h=1080",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83e\ude7a\u27a1\ufe0f\ud83d\udcbb\ud83e\udd16\ud83d\udcb5",
-      "headline_split": "He Left Medicine to Build an AI Tool \u2014 Now, It's Worth ",
-      "fake_endings": [
-        "$92 Million After Two Years",
-        "$210 Million and Expanding Globally"
-      ],
-      "fake_headline": "She Quit Wall Street to Start a Bakery \u2014 Now Shipping 50,000 Loaves Weekly Across America"
-    },
-    {
-      "id": "batch_20260331_090726__story_003",
-      "title": "Entrepreneur of 2025: Adeel Khan, Founder and CEO, MagicSchool AI, Denver",
-      "summary": "Adeel Khan, a former teacher who founded Denver's top-performing public high school, built MagicSchool AI to help educators learn ChatGPT. Starting with $25,000, his platform now serves 5.5 million teachers in 13,000+ schools and raised $65M \u2014 the fastest-growing ed-tech product ever.",
-      "extended_summary": "Adeel Khan was a Teach for America corps member who founded Denver's highest-performing public high school, so he knew firsthand how overwhelmed teachers were trying to figure out ChatGPT. He started MagicSchool AI with a $25,000 angel check to make AI accessible for educators who didn't have time to tinker. Now it serves 5.5 million teachers across 13,000+ schools, raised $65M in venture capital, and is officially the fastest-growing technology product for schools in history. A teacher who understood the classroom is now transforming it at scale.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Community"
-      ],
-      "source_url": "https://coloradobiz.com/entrepreneur-of-2025-adeel-khan-founder-and-ceo-magicschool-ai-denver/",
-      "source_name": "ColoradoBiz",
-      "published_ts": 1774948046356,
-      "image_url": "https://coloradobiz.com/files/2025/07/WINNER-HEADSHOT-Adeel-Khan-.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 11,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udfc6\ud83c\udf93\ud83e\ude84\ud83c\udfd4\ufe0f\ud83d\udc68\u200d\ud83d\udcbc",
-      "headline_split": "Entrepreneur of 2025: Adeel Khan, Founder and CEO, ",
-      "fake_endings": [
-        "HealthPath Solutions, Seattle",
-        "GreenTech Innovations, Austin"
-      ],
-      "fake_headline": "Visionary of the Year: Maria Chen, Co-Founder of FreshCart Markets, Transforms Food Access in Rural Towns"
-    },
-    {
-      "id": "batch_20260331_090726__story_004",
-      "title": "The 18-Year-Old Dropout Who Raised $6.2M to Build the AI Teammate",
-      "summary": "Arlan Rakhmetzhanov dropped out of high school at 18, moved from Kazakhstan to London, cold-emailed his way into Stanford research, and applied to Y Combinator three times before getting in. His AI startup Nozomio just raised $6.2M backed by Paul Graham and CRV.",
-      "extended_summary": "At 18, Arlan Rakhmetzhanov made a bet most people wouldn't take: he dropped out of high school in Almaty, Kazakhstan, and moved to London with no connections and no backup plan. He cold-emailed his way into AI research at Stanford and applied to Y Combinator three times before they finally said yes. His startup Nozomio builds an AI context engine for engineers \u2014 a tool that helps developers work faster by understanding their codebase. Now he's raised $6.2M in seed funding with backing from Paul Graham himself and venture firm CRV.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
+      "tones": [
         "Surprise"
       ],
-      "source_url": "https://digitrendz.blog/tech-news/56416/the-18-year-old-dropout-who-raised-6-2m-to-build-the-ai-teammate/",
-      "source_name": "DigitrendZ",
-      "published_ts": 1774948046356,
-      "image_url": "https://digitrendz.blog/wp-content/uploads/2025/10/Arlan-Rakhmetzhanov-1.webp",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc66\ud83c\udf93\u274c\ud83d\udcb0\ud83e\udd16",
-      "headline_split": "The 18-Year-Old Dropout Who Raised $6.2M to Build ",
-      "fake_endings": [
-        "a Revolutionary Education Platform",
-        "the Next Generation Social Network"
-      ],
-      "fake_headline": "College Senior Launches Pet Care App From Dorm Room, Now Valued at $15 Million"
-    },
-    {
-      "id": "batch_20260331_090726__story_005",
-      "title": "Cornell Tech Studio Startup Hyro Raises $45 Million to Scale Voice AI in Healthcare",
-      "summary": "Israel Krush and Rom Cohen met in an AI course at Cornell Tech and built Hyro during their Startup Studio class. Their conversational AI helps patients navigate healthcare access, now serves 45 major health systems including Baptist Health, and has raised $95M total.",
-      "extended_summary": "Israel Krush and Rom Cohen were classmates in an AI course at Cornell Tech when they realized voice AI could solve one of healthcare's biggest frustrations: patients trying to navigate where to go and who to call. They founded Hyro in 2018 during their Startup Studio course, building conversational AI agents that guide patients through care access. Seven years later, Hyro serves 45 large healthcare organizations including Baptist Health and Intermountain Health, and has raised $95M in total funding. What started as a class project is now reshaping how millions of patients interact with the healthcare system.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://news.cornell.edu/stories/2025/12/cornell-tech-studio-startup-hyro-raises-45-million-scale-voice-ai-healthcare",
-      "source_name": "Cornell Chronicle",
-      "published_ts": 1774948046356,
-      "image_url": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2025-12/thumbnail_hyro_headshots-8747.jpg?itok=rsvMY7fX",
-      "display_mode": "text",
-      "display_reason": "medium image not worth the space",
-      "image_confidence": "medium",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 1,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf93\ud83c\udfe5\ud83d\udde3\ufe0f\ud83e\udd16\ud83d\udcb0",
-      "headline_split": "Cornell Tech Studio Startup Hyro Raises $45 Million to Scale ",
-      "fake_endings": [
-        "AI Solutions for Mental Health Services",
-        "Automated Patient Scheduling Nationwide"
-      ],
-      "fake_headline": "MIT Spinoff SecureData Lands $38 Million to Protect Small Business Cybersecurity"
-    },
-    {
-      "id": "batch_20260331_090726__story_006",
-      "title": "Automating the Infrastructure of Care: A Conversation with Athena Doshi, CEO of ExactRx",
-      "summary": "Athena Doshi, a neuroscience grad who started her first company in college, built ExactRx after discovering outpatient surgical centers were losing money to manual tasks. Her AI-powered checklists cut surgical prep by 30 minutes per case and help facilities recover over $300K annually.",
-      "extended_summary": "Athena Doshi graduated with a neuroscience degree from UC San Diego and had already started her first company while still in school, but it was her discovery about outpatient surgical centers that changed everything. These facilities were hemorrhaging revenue because of time-wasting manual tasks \u2014 paperwork, prep checks, scheduling chaos. She built ExactRx, an AI-powered autonomous checklist system that cuts surgical prep time by 30 minutes per case and helps facilities recover over $300,000 in annual revenue. In 2025, she was named to Inc.'s Female Founders 500 for turning operational chaos into efficiency gold.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://www.techstars.com/blog/startup-profile/automating-the-infrastructure-of-care-with-athena-doshi-ceo-exactrx",
-      "source_name": "Techstars",
-      "published_ts": 1774948046356,
-      "image_url": "https://cdn.bfldr.com/CBWQP80B/as/q658m4ght6hvx5csg8s4vj/F2F_AthenaDoshi_ExactRX_1?jpg=webp&format=jpg?width=700",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 9,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\u2695\ufe0f\ud83c\udfd7\ufe0f\ud83d\udc8a\ud83e\udd16\ud83d\udc69\u200d\ud83d\udcbc",
-      "headline_split": "Automating the Infrastructure of Care: A Conversation with Athena Doshi, CEO of ",
-      "fake_endings": [
-        "MediConnect Systems",
-        "CareFlow Technologies"
-      ],
-      "fake_headline": "Revolutionizing Restaurant Supply Chains: An Interview with Marcus Wright, Founder of FreshLink Logistics"
-    },
-    {
-      "id": "batch_20260331_090726__story_007",
-      "title": "How This Kenyan Startup Is Using AI to Help MSMEs Grow",
-      "summary": "Mutembei Kariuki co-founded Fastagger in Kenya after learning AI in Japan, despite investors doubting African tech talent. His business intelligence assistant Auni integrates with M-PESA mobile money to help small business owners make smarter decisions. Over 600 businesses adopted it within a month of partnering with Safaricom.",
-      "extended_summary": "Mutembei Kariuki brought cutting-edge AI knowledge back to Kenya from Japan and faced a wall of investor skepticism \u2014 they doubted African talent could build meaningful AI products. He and his team at Fastagger proved them wrong by building Auni, a business intelligence assistant that integrates directly with M-PESA, Kenya's ubiquitous mobile money system. Small business owners can now get actionable insights from their transaction data without needing fancy software or expertise. After partnering with Safaricom, over 600 MSMEs adopted Auni within a month of launch, showing that local innovation can scale fast when it solves the right problem.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Community",
-        "Surprise"
-      ],
-      "source_url": "https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/how-this-kenyan-startup-is-using-ai-to-help-msmes-grow/",
-      "source_name": "Google Africa Blog",
-      "published_ts": 1774948046356,
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fastagger_Founders.width-1300.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\uddf0\ud83c\uddea\ud83c\udfea\ud83e\udd16\ud83d\udcc8\ud83d\udca1",
-      "headline_split": "How This Kenyan Startup Is Using AI to Help ",
-      "fake_endings": [
-        "Farmers Maximize Crop Yields",
-        "Students Access Free Tutoring"
-      ],
-      "fake_headline": "Nigerian Entrepreneur Creates Solar-Powered WiFi Hubs, Connecting 200 Rural Villages to Internet"
-    },
-    {
-      "id": "batch_20260331_090726__story_008",
-      "title": "Who Is Carina Hong, the 24-Year-Old Stanford Dropout Drawing Big Tech Talent to Her AI Math Startup?",
-      "summary": "Carina Hong, a 24-year-old China-born mathematician, dropped out of Stanford's PhD program to found Axiom Math, an AI startup advancing mathematical reasoning. She raised an extraordinary $64 million in seed funding and has attracted top researchers from major tech companies to join her mission.",
-      "extended_summary": "At 24, Carina Hong was deep into a PhD program at Stanford when she decided the academic timeline was too slow for the breakthrough she wanted to make. She dropped out to found Axiom Math, an AI startup focused on advancing mathematical reasoning \u2014 one of the hardest frontiers in artificial intelligence. Investors believed in her vision so much they handed her $64 million in seed funding, one of the largest seed rounds ever for an AI company. Top researchers from major tech companies have since left their jobs to join her, betting that this young mathematician from China is onto something that could redefine how AI thinks.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation",
-        "Surprise"
-      ],
-      "source_url": "https://e.vnexpress.net/news/tech/personalities/who-is-carina-hong-the-24-year-old-stanford-dropout-drawing-big-tech-talent-to-her-ai-math-startup-4996995.html",
-      "source_name": "VnExpress International",
-      "published_ts": 1774948046356,
-      "image_url": "https://vcdn1-english.vnecdn.net/2025/12/22/httpssubstackpostmedias3amaz-1-9209-1630-1766418431.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=y1CRylGk5l_JjzavE612Ow",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 5,
-      "read_time_min": 1,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc69\ud83c\udf93\u274c\ud83d\udd22\ud83e\udd16\ud83c\udf1f",
-      "headline_split": "Who Is Carina Hong, the 24-Year-Old Stanford Dropout Drawing Big Tech Talent to Her ",
-      "fake_endings": [
-        "Quantum Computing Startup?",
-        "Revolutionary Robotics Company?"
-      ],
-      "fake_headline": "Meet Dylan Park, the 22-Year-Old MIT Grad Who Convinced 50 Engineers to Join His Climate Tech Venture"
-    },
-    {
-      "id": "batch_20260331_090726__story_009",
-      "title": "ClimateAI Is Building the Industry's First Enterprise Climate Planning Platform",
-      "summary": "Himanshu Gupta grew up in drought-stricken Vrindavan, India, and later drafted India's Renewable Energy chapter in its National Five Year Plan. He co-founded ClimateAI at Stanford with Max Evans, using machine learning for enterprise climate risk planning. The company was named a TIME Best Invention.",
-      "extended_summary": "Himanshu Gupta watched droughts and heatwaves devastate his community in Vrindavan, India, and that shaped everything he would do next. He went on to draft the Renewable Energy chapter in India's National Five Year Plan and worked with Al Gore on emissions modeling before co-founding ClimateAI at Stanford with Max Evans. The company uses machine learning to help enterprises plan for climate risks \u2014 not abstract projections, but actionable strategies. ClimateAI was named a TIME Best Invention, recognition that the kid who grew up watching his neighbors suffer is now building tools to help the world prepare for what's coming.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://radical.vc/founder-stories/climateai-is-building-the-industrys-first-enterprise-climate-planning-platform/",
-      "source_name": "Radical Ventures",
-      "published_ts": 1774948046356,
-      "image_url": "https://radical.vc/wp-content/uploads/2024/01/Himanshu-Gupta-Climate.ai-1-scaled.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf0d\ud83c\udf21\ufe0f\ud83d\udcca\ud83c\udfe2\ud83d\udcbc",
-      "headline_split": "ClimateAI Is Building the Industry's First Enterprise ",
-      "fake_endings": [
-        "Carbon Tracking Dashboard",
-        "Renewable Energy Marketplace"
-      ],
-      "fake_headline": "OceanGuard Launches World's First Real-Time Marine Ecosystem Monitoring System for Coastal Cities"
-    },
-    {
-      "id": "batch_20260331_090726__story_010",
-      "title": "Pachama: How an Argentine Founder Used AI and Satellites to Fight Deforestation",
-      "summary": "Diego Saez-Gil, an Argentine tech entrepreneur, founded Pachama in 2018 after witnessing Amazon deforestation. The company uses AI and satellite imagery to verify carbon captured in forests, pioneering digital verification for forest carbon credits. After graduating Y Combinator, Pachama was acquired by Carbon Direct in November 2025.",
-      "extended_summary": "Diego Saez-Gil, an Argentine tech entrepreneur, saw the Amazon rainforest disappearing and realized the carbon credit market had a trust problem \u2014 no one could reliably verify if forests were actually capturing carbon as promised. In 2018, he founded Pachama to use AI and satellite imagery to measure and verify forest carbon in real time, bringing transparency to an opaque market. After going through Y Combinator, Pachama pioneered digital verification for forest carbon credits and was acquired by Carbon Direct in November 2025, proving that technology can make climate solutions more credible and scalable.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://mcj.vc/inevitable-podcast/diego-saez-gil",
-      "source_name": "MCJ Collective Podcast",
-      "published_ts": 1774948046356,
-      "image_url": "http://static1.squarespace.com/static/61a2ba6209495b7cde63e740/61f43d924c845450659b1d27/63350b8b4772c23bf39cf9f9/1707169421292/Diego+Saez+Gil.jpeg?format=1500w",
+      "source_url": "https://thebetterindia.com/313423/kerala-siblings-use-drone-for-agriculture-help-farmers-increase-yield-and-income/",
+      "source_name": "thebetterindia.com",
+      "published_ts": 1778848237000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/uploads/2023/03/drone-1679573828.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 4,
-      "headline_pull": 3,
-      "read_time_min": 37,
+      "headline_pull": 4,
+      "read_time_min": 2,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "limelight"
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
       ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udde6\ud83c\uddf7\ud83c\udf33\ud83d\udef0\ufe0f\ud83e\udd16\ud83c\udf0d",
-      "headline_split": "Pachama: How an Argentine Founder Used AI and Satellites to Fight ",
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "limelight": 2,
+        "young_achievers": 4,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc6b\ud83d\udef8\ud83c\udf3e\ud83d\udcc8",
+      "headline_split": "Brother-Sister Duo Are Using Drones to Help Farmers Triple Their ",
       "fake_endings": [
-        "Illegal Fishing in South America",
-        "Urban Sprawl in the Amazon"
+        "Harvest",
+        "Yield"
       ],
-      "fake_headline": "Brazilian Scientist Develops Coral-Restoring Drone Fleet, Already Reviving 12 Caribbean Reefs"
+      "fake_headline": "Meet the Teen Who Built a Water Filtration System That Turns Sewage Into Drinking Water for Villages"
     },
     {
-      "id": "batch_20260331_090726__story_011",
-      "title": "These Teenagers Just Founded a $2 Billion AI Startup \u2014 And They Can't Even Vote Yet",
-      "summary": "Three high school friends built Mercor, an AI hiring platform, into a $2 billion company before turning 21. Adarsh Hiremath, Brendan Foody, and Surya Midha used machine learning to match talent with opportunities at scale, reaching unicorn status in under two years.",
-      "extended_summary": "They're too young to vote, but old enough to run a $2 billion company. Three high school classmates \u2014 Adarsh Hiremath, Brendan Foody, and Surya Midha \u2014 turned an idea into Mercor, an AI-powered hiring platform that matches talent with opportunities using machine learning. In under two years, before any of them turned 21, they grew it to a $2 billion valuation. It's a reminder that age is increasingly irrelevant when you're building the future.",
+      "id": "batch_20260518_153341__story_091",
+      "title": "From quant trader to $500K/month: How Ben Broca built Polsia, an autonomous-business platform",
+      "summary": "Ben Broca went from quant trading to building Polsia, a platform that lets solo founders run companies with AI agents. It hit $500K/month in three months by eliminating operational overhead entirely.",
+      "extended_summary": "Ben Broca was tired of the operational drag in every venture he built. So he dogfooded AI agents on his own iOS app builder, Blanks, to stress-test them. The result: Polsia, where AI handles marketing, ops, and support. Launched in December 2025, it reached nearly $500K monthly revenue within three months. A live fundraising dashboard that went viral outpaced all paid acquisition.",
       "category": "Transformation",
       "categories": [
-        "Transformation",
-        "Discovery",
-        "Surprise"
-      ],
-      "source_url": "https://techstartups.com/2025/05/02/these-teenagers-just-founded-a-2-billion-ai-startup-and-they-cant-even-vote-yet/",
-      "source_name": "Tech Startups",
-      "published_ts": 1774948046356,
-      "image_url": "https://techstartups.com/wp-content/uploads/2024/09/Mercor-Founders.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 5,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc66\ud83d\udc67\ud83d\udcbb\ud83d\ude80\ud83d\udcb0\ud83d\uddf3\ufe0f\u274c",
-      "headline_split": "These Teenagers Just Founded a $2 Billion AI Startup \u2014 And They Can't Even ",
-      "fake_endings": [
-        "Drive to Their Own Company HQ Yet",
-        "Legally Sign Their Own Contracts Yet"
-      ],
-      "fake_headline": "High School Dropout Creates $500 Million App That Teaches Kids to Code Through Video Games"
-    },
-    {
-      "id": "batch_20260331_090726__story_012",
-      "title": "Amini Founder Kate Kallot Uses AI and Satellite Data to Help African Farmers",
-      "summary": "Kate Kallot founded Amini to solve Africa's environmental data crisis \u2014 the continent has the least data of any region. Her startup uses AI and satellite imagery to give small-scale farmers real-time weather and crop intelligence, helping them adapt to climate change and boost yields where reliable information was never available before.",
-      "extended_summary": "Africa has less environmental data than any continent on Earth, leaving small farmers to guess when to plant, irrigate, or harvest. Kate Kallot founded Amini to change that. Her startup combines AI and satellite imagery to deliver real-time weather forecasts and crop intelligence to farmers who've never had access to reliable data. The result: better yields, smarter decisions, and adaptation to changing conditions in regions where climate information has been nearly nonexistent.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Community"
-      ],
-      "source_url": "https://www.hp.com/us-en/newsroom/blogs/2025/hp-ai-technology-transforms-business-and-future-of-agriculture.html",
-      "source_name": "HP Newsroom",
-      "published_ts": 1774948046356,
-      "image_url": "https://www.hp.com/content/dam/sites/garage-press/press/press-blogs/2025/hp-amini-bbc-episode-launch/Amini%20Marking%20Farm%20boundaries.png",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 1,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf0d\ud83d\udef0\ufe0f\ud83c\udf3e\ud83d\udc69\u200d\ud83d\udcbb\ud83c\udde6\ud83c\uddeb",
-      "headline_split": "Amini Founder Kate Kallot Uses AI and Satellite Data to ",
-      "fake_endings": [
-        "Predict Natural Disasters 72 Hours in Advance",
-        "Map Endangered Species Across 40 Countries"
-      ],
-      "fake_headline": "Marine Biologist Develops AI System That Cleans Ocean Plastic Using Autonomous Underwater Drones"
-    },
-    {
-      "id": "batch_20260331_090726__story_013",
-      "title": "UC Berkeley PhDs Founded Letta AI, Featured on Forbes 30 Under 30",
-      "summary": "UC Berkeley PhDs Charles Packer and Sarah Wooders founded Letta, building AI agents with persistent memory that can learn and evolve over time. Their team of UC researchers turned cutting-edge academic work into a real company, earning a spot on Forbes 30 Under 30 and showing how university labs are becoming startup incubators.",
-      "extended_summary": "Most AI forgets everything the moment a conversation ends. Charles Packer and Sarah Wooders, both UC Berkeley PhDs, built Letta to solve that \u2014 creating AI agents with persistent memory that learn and improve over time. Their team includes UC faculty and grad students, bridging the gap between research labs and real-world products. The work earned them a spot on Forbes 30 Under 30 and signals a new era where academic breakthroughs don't just get published \u2014 they become companies.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
         "Transformation"
       ],
-      "source_url": "https://www.universityofcalifornia.edu/news/nearly-60-ucs-youngest-innovators-featured-2026-forbes-30-under-30-list",
-      "source_name": "University of California News",
-      "published_ts": 1774948046356,
-      "image_url": "https://www.universityofcalifornia.edu/sites/default/files/alice-tang-ucsf-2.jpg",
-      "display_mode": "text",
-      "display_reason": "medium image not worth the space",
-      "image_confidence": "medium",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 20,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc3b\ud83c\udf93\ud83e\udde0\ud83d\udca1\ud83d\udcf0\u2728",
-      "headline_split": "UC Berkeley PhDs Founded Letta AI, Featured on ",
-      "fake_endings": [
-        "TIME's 100 Most Influential Companies List",
-        "MIT Technology Review's Innovators Under 35"
-      ],
-      "fake_headline": "Stanford Dropouts Create AI Tutor Used by 3 Million Students in 87 Countries"
-    },
-    {
-      "id": "batch_20260331_090726__story_014",
-      "title": "DLYog Lab: Parents Built an AI Tool for Special Education After Their Son's Experience",
-      "summary": "Tarun and Mousumi Chawdhury built DLYog Lab after raising a son with special needs. Their GenAI app processes IEP meeting transcripts and automatically generates Individualized Education Plans, turning what started as a tool for their own family into software that helps parents of special-needs children everywhere navigate a complicated system.",
-      "extended_summary": "Raising a child with special needs means drowning in paperwork, especially during IEP meetings. Tarun and Mousumi Chawdhury lived it, so they built DLYog Lab \u2014 a GenAI-powered app that processes meeting transcripts and automatically creates Individualized Education Plans. What began as a personal solution for their son became a tool for families everywhere, simplifying one of the most overwhelming parts of advocating for a child with disabilities. It's proof that the best tools often come from lived experience.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Community",
-        "Discovery"
-      ],
-      "source_url": "https://about.fb.com/news/2024/12/open-source-ai-is-leading-to-breakthroughs-in-healthcare-education-and-entrepreneurship/",
-      "source_name": "Meta Newsroom",
-      "published_ts": 1774948046356,
-      "image_url": "https://about.fb.com/wp-content/uploads/2024/12/Llama-Summit_Social-Share.jpg?w=1200",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc66\ud83d\udc99\ud83e\udde9\ud83c\udfeb\ud83d\udee0\ufe0f",
-      "headline_split": "DLYog Lab: Parents Built an AI Tool for Special Education After ",
-      "fake_endings": [
-        "Volunteering at Their Local School District for 5 Years",
-        "Seeing Outdated Technology Fail Their Daughter's Classroom"
-      ],
-      "fake_headline": "Retired Teacher Invents Dyslexia-Friendly Reading App Now Used in 2,000 Schools Nationwide"
-    },
-    {
-      "id": "batch_20260331_090726__story_015",
-      "title": "Campus Acquires Sizzle AI, AI Learning Platform Founded by Former Meta AI Chief",
-      "summary": "Jerome Pesenti, former VP of AI at Meta, founded Sizzle AI to help students learn by working through problems step by step instead of just getting answers. After raising over $100M, the company was acquired by Campus, where Pesenti now leads a team of machine learning scientists from MIT, Harvard, and IBM Watson.",
-      "extended_summary": "Jerome Pesenti ran AI at Meta, but his next move was education. He founded Sizzle AI, a learning platform that guides students through problems rather than handing them solutions \u2014 teaching them how to think, not just what to answer. The startup raised more than $100M before being acquired by Campus, where Pesenti now serves as CTO alongside ML scientists from MIT, Harvard, and IBM Watson. It's a bet that AI's biggest impact might not be in tech, but in how we learn.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://www.prnewswire.com/news-releases/campus-acquires-ai-startup-founded-by-former-meta-ai-chief-302580557.html",
-      "source_name": "PR Newswire",
-      "published_ts": 1774948046356,
-      "image_url": "https://mma.prnewswire.com/media/2420654/Campus_Edu_Logo.jpg?p=facebook",
-      "display_mode": "text",
-      "display_reason": "medium image not worth the space",
-      "image_confidence": "medium",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udfeb\ud83e\udd1d\ud83d\udd25\ud83d\udcf1\ud83e\udde0\ud83c\udf93",
-      "headline_split": "Campus Acquires Sizzle AI, AI Learning Platform Founded by ",
-      "fake_endings": [
-        "Three College Roommates Who Barely Graduated",
-        "A 19-Year-Old Homeschooled Coding Prodigy"
-      ],
-      "fake_headline": "Former Google Engineer Creates Free Math App That Helps 10 Million Kids Master Algebra"
-    },
-    {
-      "id": "batch_20260331_090726__story_016",
-      "title": "Danny Postma \u2014 An Indie Hacker's Business Evolution",
-      "summary": "Danny Postma built Landingfolio for four years and made $0. Then he launched Headlime, an AI copywriting tool, and sold it for $1 million just eight months later. His story is a reminder that persistence through failure and finding the right product-market fit can completely change the outcome for bootstrapped founders.",
-      "extended_summary": "Four years. Zero dollars. Danny Postma kept building Landingfolio even as it earned nothing, then pivoted to Headlime \u2014 an AI copywriting tool he sold for $1 million just eight months after launch. It's the kind of turnaround that sounds too good to be true, but it shows what happens when an indie hacker finally finds product-market fit after years of grinding in silence. His persistence through total failure became a masterclass in bootstrapped entrepreneurship.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Surprise"
-      ],
-      "source_url": "https://thebootstrappedfounder.com/danny-postma-an-indie-hackers-business-evolution/",
-      "source_name": "The Bootstrapped Founder",
-      "published_ts": 1774948046356,
-      "image_url": "https://i0.wp.com/thebootstrappedfounder.com/wp-content/uploads/2023/08/35.-The-Nomad-Back-Office-1%402x.jpg?fit=1200%2C675&ssl=1",
+      "tones": [],
+      "source_url": "https://www.indiehackers.com/post/tech/growing-a-fully-autonomus-business-to-a-500k-mo-in-3-months-diZ8gkqMHm0CvEsc7Pfo",
+      "source_name": "indiehackers.com",
+      "published_ts": 1777939200000,
+      "image_url": "https://images.indiehackers.com/team-images/Ben-Broca_founder.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
@@ -546,1172 +73,431 @@
       "sections": [
         "limelight"
       ],
-      "section_scores": {},
-      "emoji_clue": "\ud83e\uddd1\u200d\ud83d\udcbb\ud83c\udfe0\ud83d\udee0\ufe0f\ud83d\udcc8\ud83d\udca1\ud83c\udfaf",
-      "headline_split": "Danny Postma \u2014 An Indie Hacker's ",
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "young_achievers": 2,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udcc8\ud83d\udcb8\ud83e\udd16\ud83c\udfe2",
+      "headline_split": "From quant trader to $500K/month: How Ben Broca built ",
       "fake_endings": [
-        "Journey From Basement Coder to Millionaire in 18 Months",
-        "Viral Twitter Thread That Launched 50 New Startups"
+        "a social network for quant traders",
+        "the world\u2019s first fully automated hedge fund"
       ],
-      "fake_headline": "Single Mom Launches $3 Million Side Hustle While Working Night Shifts as a Nurse"
+      "fake_headline": "How a father-daughter duo turned a backyard greenhouse into a $30 million organic food company"
     },
     {
-      "id": "batch_20260331_090726__story_017",
-      "title": "MagicSchool's Founder on the Potential and Perils of AI in Education",
-      "summary": "Adeel Khan founded Denver's top-performing public high school before building MagicSchool AI, a platform with 80+ tools for lesson planning and assessment now used in nearly every U.S. school district. He's wrestling with both the promise and the risks of putting AI in classrooms, making him one of education's most influential voices on the technology.",
-      "extended_summary": "Adeel Khan knows schools from the inside \u2014 he founded Denver's highest-performing public high school. Then he built MagicSchool AI, a platform offering 80+ tools for lesson planning, grading, and assessment. It's now used in nearly every U.S. school district, which means Khan is grappling with a massive responsibility: how to harness AI's potential in education without creating new problems. His dual perspective as educator and founder makes him one of the most thoughtful voices in the AI-in-schools conversation.",
+      "id": "batch_20260518_153341__story_056",
+      "title": "Grace Chang founded Kintsugi to detect mental-health conditions from voice \u2014 AI biomarkers as a clinical screening tool",
+      "summary": "Grace Chang founded Kintsugi after watching her family navigate undiagnosed depression. The AI listens to just 20 seconds of speech\u2014pitch, cadence, microtremors\u2014to screen for depression and anxiety. It's now used in clinics nationwide, replacing the outdated paper PHQ-9.",
+      "extended_summary": "What if a 20-second recording of your voice could flag depression or anxiety before you even realized it? That's the promise of Kintsugi, an AI founded by Grace Chang after her own family's struggle with undiagnosed mental health issues. The tool analyzes speech patterns\u2014microtremors, hesitation length, pitch shifts\u2014that are invisible to the human ear but highly detectable to a trained model. Now integrated into health systems across the US, Kintsugi replaces the decades-old PHQ-9 paper screener with a faster, more objective clinical screening score. Just ask 'how was your week?' and the AI does the rest.",
       "category": "Discovery",
       "categories": [
-        "Discovery",
-        "Community"
+        "Discovery"
       ],
-      "source_url": "https://cbnewsletters.chalkbeat.org/p/magicschool-s-founder-on-the-potential-and-perils-of-ai",
-      "source_name": "Chalkbeat",
-      "published_ts": 1774948046356,
-      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/83319515-729c-402e-9413-cfe40e719962/IDEAS_2025_AdeelKhan_01.jpg?t=1762458964",
+      "tones": [],
+      "source_url": "https://www.forbes.com/ai50/",
+      "source_name": "forbes.com",
+      "published_ts": 1775836800000,
+      "image_url": "https://www.forbes.com/dam/imageserve/69dfc661b968ebb871058b37/x.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 2,
       "headline_pull": 3,
-      "read_time_min": 7,
+      "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "limelight"
+        "limelight",
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
       ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udfa9\ud83c\udfeb\ud83e\udd16\u26a0\ufe0f\ud83c\udf93\ud83d\udcad",
-      "headline_split": "MagicSchool's Founder on the Potential and Perils of ",
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 4,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83d\udde3\ufe0f\ud83e\udde0\ud83e\udd16",
+      "headline_split": "Grace Chang founded Kintsugi to detect mental-health conditions from voice \u2014 ",
       "fake_endings": [
-        "Virtual Reality Classrooms Replacing Traditional Schools",
-        "Students Using Chatbots to Write College Essays"
+        "with a smartphone app that analyzes speech patterns",
+        "as a tool for early detection of anxiety in children"
       ],
-      "fake_headline": "Former Principal's Reading App Raises Literacy Rates 40% in Underserved Communities"
+      "fake_headline": "Mother of three creates app that helps children with autism communicate through emoji"
     },
     {
-      "id": "batch_20260331_090726__story_018",
-      "title": "Brazilian Drummer Turned AI Music Pioneer: How Geraldo Ramos Built Moises Into a Global Platform",
-      "summary": "Geraldo Ramos started his first tech company at 16 in Northeast Brazil. While recording himself drumming, he built an AI tool to isolate instruments from music tracks \u2014 it went viral on ProductHunt, became Moises, raised $40M, and won Apple's iPad App of the Year.",
-      "extended_summary": "Geraldo Ramos was recording himself playing drums when he realized he needed a way to isolate instruments from tracks. So he built it. The AI tool went viral on ProductHunt, grew into Moises \u2014 a global music AI platform \u2014 and won Apple's iPad App of the Year. Ramos, who started his first tech company at 16 in Northeast Brazil, turned a personal creative need into a $40M startup. It's the kind of origin story that reminds you the best products solve problems their creators actually have.",
+      "id": "batch_20260518_153341__story_057",
+      "title": "He quit his senior engineering job, moved back with his parents, and built Kleo from zero to $62K MRR in 90 days",
+      "summary": "Cameron Whiteside left his senior engineering job in London, moved back in with his parents, and built a Chrome extension called Kleo that helps people write better LinkedIn content. With co-founders who had massive social audiences, Kleo hit $62K monthly recurring revenue in just 90 days.",
+      "extended_summary": "Cameron Whiteside made a bold bet: quit his senior engineering role, move back into his parents' house, and build a startup with near-zero burn. The result was Kleo, a Chrome extension that makes writing LinkedIn content easier. But the real genius was distribution: he partnered with co-founders who already had hundreds of thousands of followers, turning their organic reach into free customer acquisition. In under 90 days, Kleo hit $62K in monthly recurring revenue. His takeaway? 'Audience compounds faster than product when the product is small enough to grasp in one sentence.'",
       "category": "Transformation",
       "categories": [
-        "Transformation",
-        "Discovery",
+        "Transformation"
+      ],
+      "tones": [
         "Surprise"
       ],
-      "source_url": "https://techstartups.com/2025/01/22/music-ai-creator-of-moises-raises-40m-series-a-to-revolutionize-ethical-ai-in-audio-and-music/",
-      "source_name": "Tech Startups",
-      "published_ts": 1774948046356,
-      "image_url": "https://techstartups.com/wp-content/uploads/2025/01/Music-AI-founders.jpg",
+      "source_url": "https://tamimbuilds.medium.com/8-solo-founders-who-quietly-hit-20k-62k-mrr-in-the-last-6-months-5032e610badc#kleo",
+      "source_name": "medium.com",
+      "published_ts": 1777939200000,
+      "image_url": "https://picsum.photos/seed/research_aie_v2_0001/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "limelight": 2,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udcbc\ud83d\udeab\ud83c\udfe0\ud83d\udcc8\ud83d\udcb2",
+      "headline_split": "He quit his senior engineering job, moved back with his parents, and built Kleo from zero to ",
+      "fake_endings": [
+        "a $100,000 revenue streak in just 45 days",
+        "a profitable side project that replaced his salary"
+      ],
+      "fake_headline": "She left her corporate job to start a food truck and ended up with a chain of 20 locations",
+      "city": "London"
+    },
+    {
+      "id": "batch_20260518_153341__story_092",
+      "title": "How Matthew Gallagher built Medvi alone with $20,000 \u2014 $401M in year one, $1.8B run rate in year two",
+      "summary": "Matthew Gallagher built Medvi, a telehealth startup, alone with $20K and AI tools. It pulled in $401M in its first year and is on track for $1.8B in year two \u2014 proving the one-person billion-dollar company is real.",
+      "extended_summary": "Matthew Gallagher was 41 with $20K, a laptop, and no team. He wired ChatGPT, Claude, and Grok into every role \u2014 coding, marketing, customer service. In two months, Medvi was live selling compounded GLP-1 prescriptions. By end of 2025, $401M in revenue. In 2026, projected $1.8B. His brother joined as the only other employee. Sam Altman's prediction had arrived.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://ca.finance.yahoo.com/news/ai-20-000-helped-one-235346225.html",
+      "source_name": "yahoo.com",
+      "published_ts": 1776700800000,
+      "image_url": "https://s.yimg.com/os/en/forbes_contributor_845/dc12fe9c9545c2264f7003fd8db8740f",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
+      "visual_affinity": 1,
       "headline_pull": 5,
+      "read_time_min": 9,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83d\udcb0\ud83d\ude80\ud83d\udcaa",
+      "headline_split": "How Matthew Gallagher built Medvi alone with $20,000 \u2014 ",
+      "fake_endings": [
+        "and then he sold it for $2.5 billion to a rival firm",
+        "and its valuation hit $5 billion within three years"
+      ],
+      "fake_headline": "How a former firefighter created a $500 million nonprofit for clean water in Africa",
+      "city": "Los Angeles"
+    },
+    {
+      "id": "batch_20260518_153341__story_058",
+      "title": "How a chance encounter in Texas sparked a $1 billion Kleiner Perkins-backed AI startup",
+      "summary": "Two engineers met at an MIT poker night and built an AI to handle missed calls. They thought it would help restaurants, but a chance encounter with an HVAC company in Texas showed them the real opportunity: a $30K missed install call. Now their startup Avoca is backed by Kleiner Perkins at a $1 billion valuation.",
+      "extended_summary": "Tyson Chen and Apurva Shrivastava met over poker at MIT and started building an AI to answer missed calls. They assumed restaurants would be the big market\u2014until a Dallas HVAC company called Rescue Air found them at a conference. 'When a restaurant misses a call, that's $30. When a home service business misses a call, that could be a $30,000 install.' That realization turned their startup Avoca into a $1 billion company backed by Kleiner Perkins. For three months, they built a custom product just for Rescue Air, who then helped them find their first customers. Now AI agents handle calls, scheduling, and dispatch for physical service businesses across the US.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/",
+      "source_name": "fortune.com",
+      "published_ts": 1777939200000,
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/image_5d86c8.png?resize=1200,600",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "limelight": 1,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\udd1d\ud83c\udf35\ud83e\udd16\ud83d\udcb2",
+      "headline_split": "How a chance encounter in Texas sparked a ",
+      "fake_endings": [
+        "billion-dollar idea for a space elevator",
+        "massive funding round for a biotech firm"
+      ],
+      "fake_headline": "Two strangers meet on a plane and end up co-founding a company that saves thousands of trees"
+    },
+    {
+      "id": "batch_20260518_153341__story_093",
+      "title": "Offshore Wind Turbine Prototype Powers an Onboard Data Center, While the Sea Disperses the Heat",
+      "summary": "A new offshore wind turbine prototype hosts a 12-megawatt data center inside its ballast tanks, using the sea for cooling. It'll test in the North Sea in 2027.",
+      "extended_summary": "Aikido's floating wind turbine doesn't just generate power \u2014 it carries a data center in its ballast tanks. The cold ocean water disperses heat from the computing banks, solving two problems at once. The 100 KWh prototype deploys in 2027. If it works, full-scale units could follow by 2028, offering cheap, green AI compute where it's needed most.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.goodnewsnetwork.org/offshore-wind-turbine-prototype-powers-an-onboard-data-center-while-the-sea-disperses-the-heat/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1778608819000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/credit-supplied-by-Aikido-to-Spectrum.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 4,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
         "limelight"
       ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udde7\ud83c\uddf7\ud83e\udd41\ud83c\udfb5\ud83e\udd16\ud83c\udf0e\ud83c\udfb8",
-      "headline_split": "Brazilian Drummer Turned AI Music Pioneer: How Geraldo Ramos Built Moises Into a ",
+      "section_scores": {
+        "limelight": 2,
+        "young_achievers": 1,
+        "impact_innovation": 2,
+        "ai_entrepreneurship": 5
+      },
+      "emoji_clue": "\ud83c\udf2c\ufe0f\u26a1\ud83c\udfe2\ud83c\udf0a",
+      "headline_split": "Offshore Wind Turbine Prototype Powers an Onboard Data Center, ",
       "fake_endings": [
-        "$100 Million Company With Just 12 Employees",
-        "Tool Used by Grammy Winners and Street Musicians Alike"
+        "and also powers a nearby desalination plant",
+        "while generating power from ocean currents"
       ],
-      "fake_headline": "Blind Pianist Creates AI That Converts Any Song Into Sheet Music for Visually Impaired Musicians"
+      "fake_headline": "Hydroelectric dam gets AI upgrade that boosts power generation by 40% and saves fish"
     },
     {
-      "id": "batch_20260331_090726__story_019",
-      "title": "Two Howard University Grads Built an AI App to Help Americans Clear Criminal Records",
-      "summary": "Roger Roman and Lawrence Blackmon built LegalEase after Blackmon was charged $2,500 to expunge a dismissed college arrest. Their AI app walks users through expungement eligibility and petition filing in five minutes, making criminal record clearing accessible to people who can't afford expensive lawyers.",
-      "extended_summary": "Lawrence Blackmon paid $2,500 to clear a dismissed arrest from college \u2014 a price that felt absurd for something that should have been straightforward. So he and Roger Roman, both Howard University grads, built LegalEase: an AI guide that helps people check expungement eligibility and file petitions in five minutes. It's designed for the millions of Americans locked out of jobs, housing, and opportunities because of records that could legally be erased \u2014 if only they could afford the process.",
-      "category": "Community",
+      "id": "batch_20260518_153341__story_081",
+      "title": "Self-taught coder Samuel built StoryShort using AI and now runs $28K MRR across multiple SaaS products",
+      "summary": "Samuel had no computer-science background and learned to code later in life. He used AI tools \u2014 Cursor, Claude, structured prompt patterns \u2014 to compress what would have been years of training into months of shipping. The product that broke first was StoryShort: a tool that takes blog posts and converts them into short-form video for TikTok / Reels / Shorts. StoryShort alone is approaching $20K mon",
+      "extended_summary": "Samuel had no computer-science background and learned to code later in life. He used AI tools \u2014 Cursor, Claude, structured prompt patterns \u2014 to compress what would have been years of training into months of shipping. The product that broke first was StoryShort: a tool that takes blog posts and converts them into short-form video for TikTok / Reels / Shorts. StoryShort alone is approaching $20K monthly recurring revenue. Combined with his second product Capacity, Samuel's portfolio runs at $28K MRR \u2014 all solo, all built post-career-change. His arc is the textbook case for what changed in 2026: a non-engineer can now ship SaaS that competes with venture-backed teams because the AI-assisted build cost has collapsed and the distribution platform (short-form video itself) creates a self-marketi",
+      "category": "Transformation",
       "categories": [
-        "Community",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://tamimbuilds.medium.com/8-solo-founders-who-quietly-hit-20k-62k-mrr-in-the-last-6-months-5032e610badc#storyshort",
+      "source_name": "medium.com",
+      "published_ts": 1777939200000,
+      "image_url": "https://picsum.photos/seed/research_aie_v2_0003/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 4,
+        "ai_entrepreneurship": 5,
+        "limelight": 2,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\uddd1\u200d\ud83d\udcbb\ud83e\udd16\ud83d\udcb0\ud83d\udcc8",
+      "headline_split": "Self-taught coder Samuel built StoryShort using AI and now runs ",
+      "fake_endings": [
+        "a single app with 500 users",
+        "a popular food delivery platform"
+      ],
+      "fake_headline": "Blind Programmer Creates Screen-Reader App, Now Used by Over 2 Million People"
+    },
+    {
+      "id": "batch_20260518_153341__story_061",
+      "title": "Sualeh Asif: From Pakistan to Cursor \u2014 how a 26-year-old cofounder built the AI-coding tool every developer is using",
+      "summary": "Sualeh Asif went from growing up in Pakistan to co-founding Cursor, the AI code editor that now has over a million users. At 26, he's on Forbes' billionaire watch list \u2014 proof that betting on a product-first AI experience can beat the tech giants at their own game.",
+      "extended_summary": "Born in Pakistan, Sualeh Asif studied at MIT and then did something contrarian: instead of adding AI as a side feature to an existing editor, he and his co-founders rebuilt the whole editor around the AI. The result is Cursor, now used by over a million developers monthly. Two years later, at 26, Asif is on Forbes' billionaire watch list \u2014 not because he chased hype, but because he treated the editor as the AI's canvas, not a sidebar.",
+      "category": "Transformation",
+      "categories": [
         "Transformation",
         "Discovery"
       ],
-      "source_url": "https://www.marketplace.org/story/2025/09/01/legalease-uses-ai-to-simplify-criminal-record-expungement",
-      "source_name": "Marketplace",
-      "published_ts": 1774948046356,
-      "image_url": "https://img.apmcdn.org/45e970e47a2aef1289e8326569f7b73c93bd43c8/widescreen/555b60-20250829-roger-roman-and-lawrence-blackmon-co-founders-of-the-justice-tech-startup-legalease-pose-together-for-a-photo-2000.jpg",
+      "tones": [],
+      "source_url": "https://www.theurduclub.com/2026/04/sualeh-asif-biography-2026-net-worth-cursor-ai-founder-forbes-billionaire.html",
+      "source_name": "theurduclub.com",
+      "published_ts": 1777334400000,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJUi_T0StCcpqH09ZzqRTvdLjmoBPOmtMipYyoZvW_DpOA97deK9kHyDUM7KAn3Ar7QpoEg_tgqXtt3RkX211Of_neL9pU3mP0KnrkJKDdmVec1U0lO62fb-c4MwhV9V1kWb_a5-hMbI4e3skO7u1JMbXSfTTqHzvl8C2KvO0rnVVgfv5djXDOnHAxMokj/w1200-h630-p-k-no-nu/1777012374739.png",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
+      "visual_affinity": 2,
       "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83c\uddf5\ud83c\uddf0\ud83d\udcbb\ud83e\udd16\u26a1\ufe0f",
+      "headline_split": "Sualeh Asif: From Pakistan to Cursor \u2014 how a 26-year-old cofounder built ",
+      "fake_endings": [
+        "a drone delivery service for medication",
+        "a revolutionary new programming language"
+      ],
+      "fake_headline": "Teenager Invents Device That Generates Clean Water From Air Using Only Solar Power"
+    },
+    {
+      "id": "batch_20260518_153341__story_094",
+      "title": "This Is How Katherine Kostereva Built a $2 Billion No-Code AI Company",
+      "summary": "Katherine Kostereva built Creatio, a no-code AI platform now valued at over $2B. Her secret? A partner ecosystem that lets system integrators deploy the platform \u2014 each new partner brings dozens of clients.",
+      "extended_summary": "Katherine Kostereva spent 15 years at IBM watching workflow projects stall under complexity. She built Creatio to let business analysts build workflows without engineers. Twenty years later, it's worth $2B with clients like AMD and Coca-Cola. Revenue grew 46% last year. The growth engine: a partner ecosystem where system integrators deploy Creatio, compounding customer acquisition without paid ads.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.entrepreneur.com/entrepreneurs/thought-leaders/she-built-a-no-code-ai-company-now-worth-more-than-2-billion-heres-her-secret-to-growth",
+      "source_name": "entrepreneur.com",
+      "published_ts": 1776614400000,
+      "image_url": "https://picsum.photos/seed/research_aie_v2_0005/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 3,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
         "limelight"
       ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf93\u2696\ufe0f\ud83d\udcf1\ud83e\uddf9\ud83c\udd93\ud83c\uddfa\ud83c\uddf8",
-      "headline_split": "Two Howard University Grads Built an AI App to Help Americans ",
+      "section_scores": {
+        "limelight": 1,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83d\udc69\u200d\ud83d\udcbb\ud83e\udd16\ud83d\udcb5\ud83d\udcca",
+      "headline_split": "This Is How Katherine Kostereva Built a $2 Billion ",
       "fake_endings": [
-        "Navigate Immigration Law Without Expensive Lawyers",
-        "Find Affordable Healthcare in Their Zip Code"
+        "Machine Learning Startup",
+        "Autonomous Vehicle Firm"
       ],
-      "fake_headline": "College Friends Create Free Legal Aid App That's Helped 50,000 Veterans Get Benefits"
+      "fake_headline": "How a teenage inventor created a $500 million app to connect homeless people with shelters"
     },
     {
-      "id": "batch_20260331_090726__story_020",
-      "title": "A Fourth-Generation Shrimp Trader Built an AI Agent to Fix the Food Supply Chain",
-      "summary": "Joseph Jacob's great-grandfather was the first to export shrimp from India to the U.S. After buying over 400 million pounds of seafood tracked on Excel spreadsheets, Jacob founded Burnt to build AI agents that process food orders in six seconds instead of ten minutes, modernizing an industry stuck in analog chaos.",
-      "extended_summary": "Joseph Jacob comes from four generations of shrimp traders \u2014 his great-grandfather pioneered exports from India to the U.S. After personally buying over 400 million pounds of seafood, all tracked on Excel sheets, Jacob saw the absurdity. He founded Burnt to build AI agents that process food orders in six seconds instead of ten minutes, dragging the food supply chain out of analog chaos. It's legacy meeting disruption: honoring tradition by fixing what's broken.",
-      "category": "Discovery",
+      "id": "batch_20260518_153341__story_064",
+      "title": "This founder was an AI layoff 9 months ago. Then he built an instantly profitable company with 2 partners and 12 agents",
+      "summary": "Sam Brown was laid off by AI just nine months ago. With $300 and two partners, he built Fathom AI \u2014 a sales platform running on 12 AI agents that hit $300k ARR in 12 weeks and is on track for $5 million by year-end.",
+      "extended_summary": "Sam Brown didn't just lose his job to AI \u2014 he turned around and used AI to build something bigger. With $300 and two co-founders, he created Fathom AI, a sales enablement platform for medical aesthetics that runs on 12 AI agents. Within three months, it hit $300,000 in annual recurring revenue with 90% gross margins, and it's projecting $5 million by year-end. The 12 agents do the work of an 8-10 person sales-ops team \u2014 a stark inversion of the layoff that started it all.",
+      "category": "Transformation",
       "categories": [
-        "Discovery",
-        "Transformation"
+        "Transformation",
+        "Discovery"
       ],
-      "source_url": "https://techcrunch.com/2025/09/25/steph-currys-vc-firm-just-backed-an-ai-startup-that-wants-to-fix-food-supply-chains/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/7a2af4da-c373-4aff-8bd5-3f7a68ac26d8_4b1d70.jpeg?w=720",
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://fortune.com/2026/04/18/ai-layoff-became-founder-team-of-3-instant-profit/",
+      "source_name": "fortune.com",
+      "published_ts": 1776470400000,
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/1773549808956.jpg?resize=1200,600",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 2,
       "headline_pull": 5,
-      "read_time_min": 6,
+      "read_time_min": 11,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "limelight"
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
       ],
-      "section_scores": {},
-      "emoji_clue": "\ud83e\udd90\ud83d\udc74\ud83e\udd16\ud83d\ude9a\ud83c\udf7d\ufe0f\ud83d\udce6",
-      "headline_split": "A Fourth-Generation Shrimp Trader Built an AI Agent to ",
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "young_achievers": 5,
+        "limelight": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83e\udd16\ud83d\udc54\ud83d\udcbc\ud83d\udd01\ud83d\udcb5",
+      "headline_split": "This founder was an AI layoff 9 months ago. Then he built an instantly profitable company with 2 partners and 12 ",
       "fake_endings": [
-        "Predict Seafood Prices 30 Days in Advance",
-        "Connect Local Fishermen Directly With Restaurants"
+        "AI clones",
+        "robotic workers"
       ],
-      "fake_headline": "Fifth-Generation Cattle Rancher Develops AI System That Reduces Food Waste by 60% at Grocery Stores"
+      "fake_headline": "Waitress Receives $10,000 Tip From Regular Customer Who Credits Her For Saving His Marriage"
     },
     {
-      "id": "batch_20260331_090726__story_021",
-      "title": "Casper Co-Founder Pivots from Sleep to Mental Health, Launches AI Therapist",
-      "summary": "Neil Parikh, who built Casper into a $500M+ company, launched Slingshot AI with $93M to create an AI therapist trained on the world's largest behavioral health dataset. In a 10-week trial, 76% of users reported reduced depression symptoms.",
-      "extended_summary": "76% of users reported decreased depression symptoms in just 10 weeks. That's the result from Slingshot AI, the new venture from Neil Parikh, who previously scaled Casper to over $500 million in revenue. He raised $93 million to build an AI therapist trained on the world's largest behavioral health dataset, aiming to make mental health support more accessible and effective through technology.",
-      "category": "Discovery",
+      "id": "batch_20260518_153341__story_090",
+      "title": "Clinics at scale: How Ilara Health is building Africa's quiet health infrastructure",
+      "summary": "Emilian Popa runs a healthtech company that does not behave like one. While investors spent years debating whether African healthtech could scale sustainably, Ilara Health concentrated on a narrower and more practical problem: small private clinics lack diagnostic equipment because they cannot afford to finance it. The company\u2019s response has been straightforward. It supplies clinics with medical e",
+      "extended_summary": "Emilian Popa runs a healthtech company that does not behave like one. While investors spent years debating whether African healthtech could scale sustainably, Ilara Health concentrated on a narrower and more practical problem: small private clinics lack diagnostic equipment because they cannot afford to finance it. The company\u2019s response has been straightforward. It supplies clinics with medical equipment on credit, layers in software and data tools, and gradually turns fragmented operators into part of a functioning network. The model is beginning to achieve meaningful scale. Ilara says it has now served more than two million patients across around 3,000 clinics in Kenya and Uganda, a segment long considered too fragmented and informal to organise effectively. Popa, a former executive at ",
+      "category": "Transformation",
       "categories": [
-        "Discovery",
         "Transformation"
       ],
-      "source_url": "https://bhbusiness.com/2025/07/22/with-93m-raised-slingshot-slingshot-ai-debuts-ai-powered-therapy-service/",
-      "source_name": "Behavioral Health Business",
-      "published_ts": 1774948046356,
-      "image_url": "https://bhbusiness.com/wp-content/uploads/sites/7/2025/07/Screen-Shot-2025-07-22-at-1.33.07-PM.png",
+      "tones": [],
+      "source_url": "https://african.business/2026/05/innov-africa-deals/clinics-at-scale-how-ilara-health-is-building-africas-quiet-health-infrastructure",
+      "source_name": "african.business",
+      "published_ts": 1779025921000,
+      "image_url": "https://african.business/wp-content/uploads/2026/05/1_pNy5yhpf-yVrqHG2ZnYgsg-scaled.webp",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 4,
+      "visual_affinity": 3,
+      "headline_pull": 3,
       "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "limelight"
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
       ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\ude34\ud83d\udca4\u27a1\ufe0f\ud83e\udde0\ud83d\udcad\ud83e\udd16",
-      "headline_split": "Casper Co-Founder Pivots from Sleep to ",
+      "section_scores": {
+        "young_achievers": 3,
+        "limelight": 2,
+        "ai_entrepreneurship": 3,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83c\udf0d\ud83d\udd27\ud83e\udd2b",
+      "headline_split": "Clinics at scale: How Ilara Health is building Africa's quiet health ",
       "fake_endings": [
-        "Luxury Mattress Recycling Program",
-        "Dream Analysis Mobile App"
+        "economy",
+        "workforce"
       ],
-      "fake_headline": "Airbnb Co-Founder Returns to Hospitality with Robot Concierge Service for Hotels"
-    },
-    {
-      "id": "batch_20260331_090726__story_022",
-      "title": "South Africa's First Pediatric Radiologist Built an AI That Reads X-Rays in 25 Milliseconds",
-      "summary": "Dr. Jaishree Naidoo made history as South Africa's first qualified pediatric radiologist in 2010. She founded Envisionit Deep AI, which became the first African-founded company to receive FDA clearance for an AI medical device that detects 25 pathologies from chest X-rays in 25 milliseconds.",
-      "extended_summary": "It reads chest X-rays in 25 milliseconds and can detect 25 different pathologies. Dr. Jaishree Naidoo, who became South Africa's first qualified pediatric radiologist in 2010, founded Envisionit Deep AI to create this breakthrough technology. Her company made history again by becoming the first African-founded company to receive FDA clearance for an AI medical device, bringing cutting-edge diagnostic tools to underserved communities.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://techcrunch.com/2023/02/23/south-africas-envisionit-deep-ai-gets-1-65m-to-expand-access-to-medical-imaging/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/IMG_6453-e1677220071471.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 5,
-      "read_time_min": 7,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\uddff\ud83c\udde6\ud83d\udc76\ud83e\ude7b\ud83e\udd16\u26a1",
-      "headline_split": "South Africa's First Pediatric Radiologist Built an AI That Reads X-Rays in ",
-      "fake_endings": [
-        "12 Different Languages for Rural Clinics",
-        "3D and Identifies Fractures Instantly"
-      ],
-      "fake_headline": "Kenya's Leading Heart Surgeon Develops Algorithm That Predicts Cardiac Arrest 48 Hours Early"
-    },
-    {
-      "id": "batch_20260331_090726__story_023",
-      "title": "A First-Year Lawyer and His DeepMind Roommate Built a Legal AI Startup Now Worth $8 Billion",
-      "summary": "The day after selling his company to Google, Munjal Shah collapsed with chest pains in an emergency room. That terrifying moment redirected his entire career toward healthcare, leading him to found Hippocratic AI, now valued at $3.5 billion.",
-      "extended_summary": "Munjal Shah should have been celebrating. He'd just sold his company to Google. Instead, he was lying in an ER with chest pains, confronting his own mortality and the chaos of the healthcare system. That moment became a turning point: Shah left Google and founded Hippocratic AI, building AI-powered healthcare assistants to help overworked medical staff. Three years later, the company is valued at $3.5 billion and partnering with health systems nationwide. Sometimes the worst days lead to the most meaningful work.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Spiritual"
-      ],
-      "source_url": "https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1124695995.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 5,
-      "read_time_min": 14,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udcbc\ud83c\udfe5\ud83d\ude30\u27a1\ufe0f\ud83e\udd16\u2695\ufe0f\ud83d\udca1",
-      "headline_split": "A Health Scare After Selling to Google Led Munjal Shah to Build ",
-      "fake_endings": [
-        "A Mental Wellness App That Helped 2 Million Users",
-        "FitnessMind, the AI Trainer That Prevents Burnout"
-      ],
-      "fake_headline": "Near-Fatal Bike Accident Inspired Former Amazon VP to Create MediSync AI for Emergency Response Teams"
-    },
-    {
-      "id": "batch_20260331_090726__story_024",
-      "title": "Two Ex-Googlers Shut Down Their Profitable Startup When ChatGPT Arrived",
-      "summary": "After navigating the nightmare of U.S. immigration himself, Nigerian-born Bisi Obateru built JustiGuide, an AI portal that helps immigrants understand their options at a fraction of the cost of traditional lawyers.",
-      "extended_summary": "Bisi Obateru knows what it's like to be lost in the U.S. immigration system. Born in Nigeria, he endured the labyrinth of paperwork, legal fees, and uncertain waiting firsthand. Instead of moving on after his own success, Obateru built JustiGuide, an AI-powered platform that helps immigrants navigate visa options, green card paths, and legal requirements without paying thousands to immigration attorneys. It's the tool he wishes he'd had, now available to thousands of people trying to build new lives in America.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Community"
-      ],
-      "source_url": "https://www.cnbc.com/2025/12/21/ex-googlers-shuttered-successful-startup-built-ai-company-worth-100m.html",
-      "source_name": "CNBC",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/46/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 7,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\uddf3\ud83c\uddec\u2708\ufe0f\ud83d\uddfd\ud83d\udccb\ud83d\ude13\u27a1\ufe0f\ud83e\udd16\u2696\ufe0f",
-      "headline_split": "Nigerian Immigrant Built JustiGuide to Help Others Navigate U.S. Immigration ",
-      "fake_endings": [
-        "Laws in 12 Different Languages Across 50 States",
-        "Courts After His Own Five-Year Legal Battle"
-      ],
-      "fake_headline": "Syrian Refugee Created LegalPath AI After Winning Asylum Case, Now Serving 200K Immigrants Annually"
-    },
-    {
-      "id": "batch_20260331_090726__story_025",
-      "title": "From Cape Town Grocery Delivery to Google-Backed AI Infrastructure",
-      "summary": "Charlie Wu dropped out of Cornell, won a Thiel Fellowship, and built Orchard Robotics \u2014 cameras and AI that turn farm equipment into precision data collectors. Investors just put $22 million behind his vision for smarter fruit farming.",
-      "extended_summary": "Charlie Wu was studying at Cornell when he realized he'd rather build something than finish his degree. He dropped out, won a Thiel Fellowship, and went all-in on a problem most tech founders ignore: fruit farming. Orchard Robotics mounts cameras and AI onto existing farm equipment, turning tractors into data-gathering machines that track tree health, predict yields, and help farmers make smarter decisions. It's unglamorous work with huge impact, and investors just handed Wu $22 million to scale it.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://aimmediahouse.com/ai-startups/cerebriums-path-from-cape-town-to-yc-and-8-5m-in-funding",
-      "source_name": "AIM Media House",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/47/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 4,
-      "headline_pull": 4,
-      "read_time_min": 1,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf93\u274c\ud83c\udf4e\ud83e\udd16\ud83d\udc41\ufe0f\ud83d\ude9c\ud83d\udcb0",
-      "headline_split": "Cornell Dropout Raises $22M for Orchard Robotics, Bringing AI Vision to ",
-      "fake_endings": [
-        "Indoor Vertical Farms Across Urban America",
-        "Small Coffee Growers in South America"
-      ],
-      "fake_headline": "MIT Dropout Secures $18M for SeaVision AI, Using Drones to Monitor Ocean Health for Fishermen"
-    },
-    {
-      "id": "batch_20260331_090726__story_026",
-      "title": "A Hollywood Composer Built One of the First AI Music Tools",
-      "summary": "When procurement chaos nearly killed his first startup, Vladimir Keil vowed to fix enterprise purchasing. His solution, Lio, uses AI agents to automate buying decisions \u2014 and Andreessen Horowitz just led a $30 million Series A.",
-      "extended_summary": "Vladimir Keil was running his first startup when procurement chaos nearly sank the company. Ordering supplies took weeks, approvals got lost, and nobody could track what was actually being spent. Keil became obsessed with fixing it. He built Lio, a platform that deploys AI agents to handle enterprise purchasing \u2014 requesting quotes, negotiating prices, and managing vendor relationships automatically. Andreessen Horowitz saw the potential and just led a $30 million Series A, betting that Keil's painful experience will reshape how companies buy things.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://www.hotpress.com/culture/artificial-intelligence-musics-next-frontier-drew-silverstein-interview-22786307",
-      "source_name": "Hot Press",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/LIo-founders.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 4,
-      "read_time_min": 23,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc40\ud83d\udce6\ud83d\ude35\u200d\ud83d\udcab\u27a1\ufe0f\ud83d\udca1\ud83e\udd16\ud83d\udcb0",
-      "headline_split": "Vladimir Keil Saw Procurement Chaos \u2014 Built Lio and Raised ",
-      "fake_endings": [
-        "$45M to Transform Healthcare Supply Chains",
-        "$25M After Landing Government Contracts in 6 Countries"
-      ],
-      "fake_headline": "Former Boeing Manager Witnessed Factory Delays \u2014 Created LogiFlow and Secured $40M from Sequoia"
-    },
-    {
-      "id": "batch_20260331_090726__story_027",
-      "title": "A Mexican Soccer Player Turned CEO Brings AI Sales Agents to Latin American E-Commerce",
-      "summary": "After years building speech AI at Google, Dhruv Guliani and William Wen co-founded Keplar, a startup that uses voice AI agents to conduct customer interviews at scale. Kleiner Perkins is backing their vision to replace traditional market research.",
-      "extended_summary": "Dhruv Guliani spent years at Google working on speech recognition and voice AI, watching the technology get good enough to have real conversations. When he and William Wen left to start Keplar, they saw an opportunity that most people missed: market research is still done by humans calling other humans, one at a time. Keplar deploys voice AI agents that can conduct hundreds of customer interviews simultaneously, extracting insights faster and cheaper than traditional methods. Kleiner Perkins invested, convinced that Guliani and Wen are about to upend an entire industry.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://www.ycombinator.com/companies/boom-ai",
-      "source_name": "Y Combinator",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/49/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 1,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udd0d\ud83d\udc68\u200d\ud83d\udcbb\u27a1\ufe0f\ud83c\udfa4\ud83e\udd16\ud83d\udcca\ud83d\udcbc",
-      "headline_split": "Ex-Google Engineer Founded Keplar to Replace Market Research with ",
-      "fake_endings": [
-        "Real-Time Social Media Sentiment Analysis Tools",
-        "Blockchain-Based Consumer Data Verification Systems"
-      ],
-      "fake_headline": "Former Apple Designer Launched Nova AI to Automate Product Testing Using Customer Video Feedback"
-    },
-    {
-      "id": "batch_20260331_090726__story_028",
-      "title": "This founder just landed funding for affordable custom home design with AI",
-      "summary": "Boris Valkov's journey began in his family's grocery store and led him to help build Meta's PyTorch. Now he's left Big Tech behind to create Lace AI, an AI call center platform for home service businesses that's raised $14 million.",
-      "extended_summary": "Boris Valkov learned the value of hard work early, helping run his family's grocery store. That foundation carried him to Meta, where he became one of the engineers behind PyTorch, the AI framework powering much of modern machine learning. But instead of staying in the tech giant's orbit, Valkov pivoted to an unsexy problem: phone calls for plumbers, HVAC technicians, and electricians. His startup Lace AI automates scheduling and customer service for home service companies, and investors just put $14 million behind the vision.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/LaceAIFoundersPhoto-1.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc68\u200d\ud83d\udcbb\ud83d\udd25\u27a1\ufe0f\ud83c\udfe0\ud83d\udd27\ud83e\udd16",
-      "headline_split": "Ex-Meta Engineer Left PyTorch to Build Lace AI for ",
-      "fake_endings": [
-        "Mental Health Support in Rural Communities",
-        "Personalized Fashion Recommendations Using Computer Vision"
-      ],
-      "fake_headline": "Former Tesla Designer Quit Dream Job to Create Aurora AI Platform for Wildlife Conservation"
-    },
-    {
-      "id": "batch_20260331_090726__story_029",
-      "title": "How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup",
-      "summary": "The day after selling his company to Google, Munjal Shah collapsed with chest pains in an emergency room. That terrifying moment redirected his entire career toward healthcare, leading him to found Hippocratic AI, now valued at $3.5 billion.",
-      "extended_summary": "Munjal Shah should have been celebrating. He'd just sold his company to Google. Instead, he was lying in an ER with chest pains, confronting his own mortality and the chaos of the healthcare system. That moment became a turning point: Shah left Google and founded Hippocratic AI, building AI-powered healthcare assistants to help overworked medical staff. Three years later, the company is valued at $3.5 billion and partnering with health systems nationwide. Sometimes the worst days lead to the most meaningful work.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Spiritual"
-      ],
-      "source_url": "https://techcrunch.com/2025/07/30/how-2-uc-berkeley-dropouts-raised-28m-for-their-ai-marketing-automation-startup/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1124695995.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 5,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udcbc\ud83c\udfe5\ud83d\ude30\u27a1\ufe0f\ud83e\udd16\u2695\ufe0f\ud83d\udca1",
-      "headline_split": "A Health Scare After Selling to Google Led Munjal Shah to Build ",
-      "fake_endings": [
-        "A Mental Wellness App That Helped 2 Million Users",
-        "FitnessMind, the AI Trainer That Prevents Burnout"
-      ],
-      "fake_headline": "Near-Fatal Bike Accident Inspired Former Amazon VP to Create MediSync AI for Emergency Response Teams"
-    },
-    {
-      "id": "batch_20260331_090726__story_030",
-      "title": "One of Africa's most successful founders is back with a new AI startup",
-      "summary": "Twenty-year-old Sarthak Dhawan couldn't take notes and pay attention at the same time, so he and Rudy Arora dropped out of college to fix it. Their app Turbo AI now has 5 million users, eight-figure revenue, and clients like Goldman Sachs \u2014 all while staying profitable.",
-      "extended_summary": "Sarthak Dhawan was 20 years old and stuck in a familiar college trap: take good notes or actually understand the lecture. He couldn't do both. So he and his co-founder Rudy Arora dropped out and built Turbo AI, an app that records lectures, generates summaries, and helps students actually learn. The gamble paid off spectacularly \u2014 Turbo AI now serves 5 million users, including employees at Goldman Sachs and McKinsey, generates eight-figure revenue, and has stayed profitable the entire time.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://techcrunch.com/2025/06/03/one-of-africas-most-successful-founders-is-back-with-a-new-ai-startup-and-already-raised-9m/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2422.jpeg?resize=1200,742",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf93\u274c\ud83d\udc65\ud83d\udcda\ud83d\ude80\ud83d\udcb0\u2705",
-      "headline_split": "College Dropouts Built Turbo AI into a 5-Million-User Study Tool While ",
-      "fake_endings": [
-        "Working Night Shifts at a Coffee Shop",
-        "Living in Their Parents' Garage for Three Years"
-      ],
-      "fake_headline": "High School Friends Turned Down Stanford to Build 8-Million-User Language App from Basement Studio"
-    },
-    {
-      "id": "batch_20260331_090726__story_031",
-      "title": "Flai brings AI voice agents to car dealerships via Y Combinator",
-      "summary": "After a decade at Amazon and leading Bolt, Maju Kuruvilla launched Spangle to bring AI-powered personalized shopping to fashion retailers. Big names like Revolve and Steve Madden are already on board, and the startup hit a $100 million valuation.",
-      "extended_summary": "Maju Kuruvilla spent a decade watching Amazon perfect personalized shopping, then led Bolt through the chaos of online checkout. Now he's building Spangle, an AI platform that helps fashion retailers like Revolve and Steve Madden recommend the right products to the right shoppers at the right moment. It's the kind of technology that used to be exclusive to tech giants, now available to any retailer willing to plug in. Investors believe in the vision enough to value Spangle at $100 million.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://techcrunch.com/2025/10/03/flai-is-the-latest-startup-bringing-ai-to-car-dealerships/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/spangle-ceo-maju-kuruvilla.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\u26a1CEO\u27a1\ufe0f\ud83d\udecd\ufe0f\ud83e\udd16\ud83d\udcb0\ud83d\udcaf",
-      "headline_split": "Former Bolt CEO Pivots to AI Shopping with Spangle, Hitting ",
-      "fake_endings": [
-        "2 Million Downloads in Just Four Months",
-        "Profitability Before Even Launching Publicly"
-      ],
-      "fake_headline": "Ex-Stripe Executive Launches TaskFlow AI for Freelancers, Reaches $85M Valuation in Six Months"
-    },
-    {
-      "id": "batch_20260331_090726__story_032",
-      "title": "Prezent raises $30 million \u2014 founder who struggled with stuttering democratizes communication with AI",
-      "summary": "After navigating the nightmare of U.S. immigration himself, Nigerian-born Bisi Obateru built JustiGuide, an AI portal that helps immigrants understand their options at a fraction of the cost of traditional lawyers.",
-      "extended_summary": "Bisi Obateru knows what it's like to be lost in the U.S. immigration system. Born in Nigeria, he endured the labyrinth of paperwork, legal fees, and uncertain waiting firsthand. Instead of moving on after his own success, Obateru built JustiGuide, an AI-powered platform that helps immigrants navigate visa options, green card paths, and legal requirements without paying thousands to immigration attorneys. It's the tool he wishes he'd had, now available to thousands of people trying to build new lives in America.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Community"
-      ],
-      "source_url": "https://techcrunch.com/2025/10/10/prezent-raises-30-million-to-acquire-ai-services-firms-starting-with-founders-other-company/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/46/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\uddf3\ud83c\uddec\u2708\ufe0f\ud83d\uddfd\ud83d\udccb\ud83d\ude13\u27a1\ufe0f\ud83e\udd16\u2696\ufe0f",
-      "headline_split": "Nigerian Immigrant Built JustiGuide to Help Others Navigate U.S. Immigration ",
-      "fake_endings": [
-        "Laws in 12 Different Languages Across 50 States",
-        "Courts After His Own Five-Year Legal Battle"
-      ],
-      "fake_headline": "Syrian Refugee Created LegalPath AI After Winning Asylum Case, Now Serving 200K Immigrants Annually"
-    },
-    {
-      "id": "batch_20260331_090726__story_033",
-      "title": "34-year-old entrepreneur earns $200 an hour from side gig training AI models",
-      "summary": "Charlie Wu dropped out of Cornell, won a Thiel Fellowship, and built Orchard Robotics \u2014 cameras and AI that turn farm equipment into precision data collectors. Investors just put $22 million behind his vision for smarter fruit farming.",
-      "extended_summary": "Charlie Wu was studying at Cornell when he realized he'd rather build something than finish his degree. He dropped out, won a Thiel Fellowship, and went all-in on a problem most tech founders ignore: fruit farming. Orchard Robotics mounts cameras and AI onto existing farm equipment, turning tractors into data-gathering machines that track tree health, predict yields, and help farmers make smarter decisions. It's unglamorous work with huge impact, and investors just handed Wu $22 million to scale it.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://www.cnbc.com/2025/12/19/34-year-old-entrepreneur-earns-200-an-hour-training-ai-models.html",
-      "source_name": "CNBC",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/47/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 4,
-      "headline_pull": 4,
-      "read_time_min": 7,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf93\u274c\ud83c\udf4e\ud83e\udd16\ud83d\udc41\ufe0f\ud83d\ude9c\ud83d\udcb0",
-      "headline_split": "Cornell Dropout Raises $22M for Orchard Robotics, Bringing AI Vision to ",
-      "fake_endings": [
-        "Indoor Vertical Farms Across Urban America",
-        "Small Coffee Growers in South America"
-      ],
-      "fake_headline": "MIT Dropout Secures $18M for SeaVision AI, Using Drones to Monitor Ocean Health for Fishermen"
-    },
-    {
-      "id": "batch_20260331_090726__story_034",
-      "title": "One of Europe's top AI researchers raised $13M seed to crack the 'holy grail' of 3D models",
-      "summary": "When procurement chaos nearly killed his first startup, Vladimir Keil vowed to fix enterprise purchasing. His solution, Lio, uses AI agents to automate buying decisions \u2014 and Andreessen Horowitz just led a $30 million Series A.",
-      "extended_summary": "Vladimir Keil was running his first startup when procurement chaos nearly sank the company. Ordering supplies took weeks, approvals got lost, and nobody could track what was actually being spent. Keil became obsessed with fixing it. He built Lio, a platform that deploys AI agents to handle enterprise purchasing \u2014 requesting quotes, negotiating prices, and managing vendor relationships automatically. Andreessen Horowitz saw the potential and just led a $30 million Series A, betting that Keil's painful experience will reshape how companies buy things.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/LIo-founders.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc40\ud83d\udce6\ud83d\ude35\u200d\ud83d\udcab\u27a1\ufe0f\ud83d\udca1\ud83e\udd16\ud83d\udcb0",
-      "headline_split": "Vladimir Keil Saw Procurement Chaos \u2014 Built Lio and Raised ",
-      "fake_endings": [
-        "$45M to Transform Healthcare Supply Chains",
-        "$25M After Landing Government Contracts in 6 Countries"
-      ],
-      "fake_headline": "Former Boeing Manager Witnessed Factory Delays \u2014 Created LogiFlow and Secured $40M from Sequoia"
-    },
-    {
-      "id": "batch_20260331_090726__story_035",
-      "title": "AI startup Tavus founder says users talk to its AI Santa 'for hours' per day",
-      "summary": "After years building speech AI at Google, Dhruv Guliani and William Wen co-founded Keplar, a startup that uses voice AI agents to conduct customer interviews at scale. Kleiner Perkins is backing their vision to replace traditional market research.",
-      "extended_summary": "Dhruv Guliani spent years at Google working on speech recognition and voice AI, watching the technology get good enough to have real conversations. When he and William Wen left to start Keplar, they saw an opportunity that most people missed: market research is still done by humans calling other humans, one at a time. Keplar deploys voice AI agents that can conduct hundreds of customer interviews simultaneously, extracting insights faster and cheaper than traditional methods. Kleiner Perkins invested, convinced that Guliani and Wen are about to upend an entire industry.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://techcrunch.com/2025/12/10/ai-startup-tavus-founder-says-users-talk-to-its-ai-santa-for-hours-per-day/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/49/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udd0d\ud83d\udc68\u200d\ud83d\udcbb\u27a1\ufe0f\ud83c\udfa4\ud83e\udd16\ud83d\udcca\ud83d\udcbc",
-      "headline_split": "Ex-Google Engineer Founded Keplar to Replace Market Research with ",
-      "fake_endings": [
-        "Real-Time Social Media Sentiment Analysis Tools",
-        "Blockchain-Based Consumer Data Verification Systems"
-      ],
-      "fake_headline": "Former Apple Designer Launched Nova AI to Automate Product Testing Using Customer Video Feedback"
-    },
-    {
-      "id": "batch_20260331_090726__story_036",
-      "title": "Thinking Machines Lab Is Ex-OpenAI CTO Mira Murati's New Startup",
-      "summary": "Thomas Dohmke spent years as GitHub's CEO watching AI flood codebases with generated code. Now he's building Entire to help engineering teams manage the chaos, raising a record-breaking $60 million seed round at a $300 million valuation.",
-      "extended_summary": "Thomas Dohmke had a front-row seat to the AI coding revolution as GitHub's CEO, watching millions of developers suddenly generate code faster than ever before. But he also saw the problem nobody was talking about: who reviews all this AI-written code? Who maintains it? Dohmke left GitHub to build Entire, a platform that helps engineering teams manage, review, and maintain AI-generated code at scale. Investors were convinced enough to hand him a $60 million seed round \u2014 one of the largest ever \u2014 at a $300 million valuation.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://techcrunch.com/2025/02/18/thinking-machines-lab-is-ex-openai-cto-mira-muratis-new-startup/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Github-Thomas.jpeg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 4,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\ude3aCEO\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\u27a1\ufe0f\ud83e\udd16\ud83d\udcbb\ud83d\udcca",
-      "headline_split": "Former GitHub CEO Raises Record $60M Seed for ",
-      "fake_endings": [
-        "Developer Education Platform Teaching 500K Students",
-        "Open Source Security Scanner Used by Fortune 500"
-      ],
-      "fake_headline": "Ex-LinkedIn CTO Secures $75M Series A for Quantum AI Helping Scientists Accelerate Drug Discovery"
-    },
-    {
-      "id": "batch_20260331_090726__story_037",
-      "title": "Mercor, an AI Recruiting Startup Founded by 21-Year-Olds, Raises $100M at $2B Valuation",
-      "summary": "After navigating the nightmare of U.S. immigration himself, Nigerian-born Bisi Obateru built JustiGuide, an AI portal that helps immigrants understand their options at a fraction of the cost of traditional lawyers.",
-      "extended_summary": "Bisi Obateru knows what it's like to be lost in the U.S. immigration system. Born in Nigeria, he endured the labyrinth of paperwork, legal fees, and uncertain waiting firsthand. Instead of moving on after his own success, Obateru built JustiGuide, an AI-powered platform that helps immigrants navigate visa options, green card paths, and legal requirements without paying thousands to immigration attorneys. It's the tool he wishes he'd had, now available to thousands of people trying to build new lives in America.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Community"
-      ],
-      "source_url": "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/46/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\uddf3\ud83c\uddec\u2708\ufe0f\ud83d\uddfd\ud83d\udccb\ud83d\ude13\u27a1\ufe0f\ud83e\udd16\u2696\ufe0f",
-      "headline_split": "Nigerian Immigrant Built JustiGuide to Help Others Navigate U.S. Immigration ",
-      "fake_endings": [
-        "Laws in 12 Different Languages Across 50 States",
-        "Courts After His Own Five-Year Legal Battle"
-      ],
-      "fake_headline": "Syrian Refugee Created LegalPath AI After Winning Asylum Case, Now Serving 200K Immigrants Annually"
-    },
-    {
-      "id": "batch_20260331_090726__story_038",
-      "title": "Australian Health Tech Startup Harrison.ai Scores $112M Series C",
-      "summary": "Charlie Wu dropped out of Cornell, won a Thiel Fellowship, and built Orchard Robotics \u2014 cameras and AI that turn farm equipment into precision data collectors. Investors just put $22 million behind his vision for smarter fruit farming.",
-      "extended_summary": "Charlie Wu was studying at Cornell when he realized he'd rather build something than finish his degree. He dropped out, won a Thiel Fellowship, and went all-in on a problem most tech founders ignore: fruit farming. Orchard Robotics mounts cameras and AI onto existing farm equipment, turning tractors into data-gathering machines that track tree health, predict yields, and help farmers make smarter decisions. It's unglamorous work with huge impact, and investors just handed Wu $22 million to scale it.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://techcrunch.com/2025/02/11/australian-healthtech-startup-harrison-ai-scores-112m-series-c/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/47/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 4,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf93\u274c\ud83c\udf4e\ud83e\udd16\ud83d\udc41\ufe0f\ud83d\ude9c\ud83d\udcb0",
-      "headline_split": "Cornell Dropout Raises $22M for Orchard Robotics, Bringing AI Vision to ",
-      "fake_endings": [
-        "Indoor Vertical Farms Across Urban America",
-        "Small Coffee Growers in South America"
-      ],
-      "fake_headline": "MIT Dropout Secures $18M for SeaVision AI, Using Drones to Monitor Ocean Health for Fishermen"
-    },
-    {
-      "id": "batch_20260331_090726__story_039",
-      "title": "Hinge Founder Leaves CEO Role to Launch AI-Powered Dating Startup",
-      "summary": "After years building speech AI at Google, Dhruv Guliani and William Wen co-founded Keplar, a startup that uses voice AI agents to conduct customer interviews at scale. Kleiner Perkins is backing their vision to replace traditional market research.",
-      "extended_summary": "Dhruv Guliani spent years at Google working on speech recognition and voice AI, watching the technology get good enough to have real conversations. When he and William Wen left to start Keplar, they saw an opportunity that most people missed: market research is still done by humans calling other humans, one at a time. Keplar deploys voice AI agents that can conduct hundreds of customer interviews simultaneously, extracting insights faster and cheaper than traditional methods. Kleiner Perkins invested, convinced that Guliani and Wen are about to upend an entire industry.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://www.cnbc.com/2025/12/09/hinge-founder-leaves-ceo-role-to-launch-ai-powered-dating-service.html",
-      "source_name": "CNBC",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/49/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udd0d\ud83d\udc68\u200d\ud83d\udcbb\u27a1\ufe0f\ud83c\udfa4\ud83e\udd16\ud83d\udcca\ud83d\udcbc",
-      "headline_split": "Ex-Google Engineer Founded Keplar to Replace Market Research with ",
-      "fake_endings": [
-        "Real-Time Social Media Sentiment Analysis Tools",
-        "Blockchain-Based Consumer Data Verification Systems"
-      ],
-      "fake_headline": "Former Apple Designer Launched Nova AI to Automate Product Testing Using Customer Video Feedback"
-    },
-    {
-      "id": "batch_20260331_090726__story_040",
-      "title": "Married Founders Built 14.ai to Replace Startup Customer Support Teams",
-      "summary": "Paris-born Marie Schneegans and her husband Michael Fester launched 14.ai, an AI-native customer service agency backed by Y Combinator and General Catalyst. The married founders are building AI systems that replace entire startup customer support teams with faster, more consistent service.",
-      "extended_summary": "Marie Schneegans and Michael Fester aren't just co-founders\u2014they're married, and they're betting their relationship and their careers on 14.ai, an AI-native customer service agency. The Paris-born Schneegans and her husband built a company that replaces entire support teams with AI agents capable of handling inquiries faster and more consistently than human teams. Backed by Y Combinator and General Catalyst, the duo is proving that the most ambitious partnerships can happen both in business and at home, turning pillow talk into pitch decks and shared frustrations into solutions.",
-      "category": "Other",
-      "categories": [
-        "Other",
-        "Discovery"
-      ],
-      "source_url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/2026-02-10_14.ai_MarieSchneegans_MichaelFester-e1772444505983.png?resize=1200,676",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc91\ud83d\udcbc\ud83e\udd16\ud83d\udcde\ud83d\udc65",
-      "headline_split": "Married Founders Built 14.ai to Replace ",
-      "fake_endings": [
-        "expensive marketing agencies for small businesses",
-        "traditional HR departments with automation"
-      ],
-      "fake_headline": "Brother-Sister Duo Creates App Connecting Seniors With Tech-Savvy Volunteers \u2014 50K Matches Made"
-    },
-    {
-      "id": "batch_20260331_090726__story_041",
-      "title": "From Poland to $11 Billion: How Mati Staniszewski Built ElevenLabs Out of Bad Movie Dubbing",
-      "summary": "Frustrated by poorly dubbed movies in Poland, Mati Staniszewski and Piotr Dabkowski launched ElevenLabs three years ago. Their AI voice platform now generates $330 million in annual revenue and is valued at $11 billion.",
-      "extended_summary": "Mati Staniszewski spent his childhood in Poland watching American films with terrible dubbing \u2014 voices that never matched the actors, emotions lost in translation. That frustration became the spark for ElevenLabs, the AI voice synthesis company he co-founded with Piotr Dabkowski. Just three years after launch, ElevenLabs is generating $330 million in annual recurring revenue and has hit an $11 billion valuation, transforming how content creators and filmmakers think about voice and localization.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\uddf5\ud83c\uddf1\ud83c\udfac\ud83d\udc4e\u27a1\ufe0f\ud83d\udcb0\ud83d\udd0a\ud83e\udd16",
-      "headline_split": "From Poland to $11 Billion: How Mati Staniszewski Built ElevenLabs Out of ",
-      "fake_endings": [
-        "His Grandmother's Kitchen Table and a Dream",
-        "A Failed Gaming Startup and Leftover Code"
-      ],
-      "fake_headline": "Teenage Coder from Brazil Turns Rejected Apps into $8 Billion Design Platform After 47 Failed Attempts"
-    },
-    {
-      "id": "batch_20260331_090726__story_042",
-      "title": "Ex-Meta Engineer Left PyTorch to Build Lace AI for Home Services",
-      "summary": "Boris Valkov's journey began in his family's grocery store and led him to help build Meta's PyTorch. Now he's left Big Tech behind to create Lace AI, an AI call center platform for home service businesses that's raised $14 million.",
-      "extended_summary": "Boris Valkov learned the value of hard work early, helping run his family's grocery store. That foundation carried him to Meta, where he became one of the engineers behind PyTorch, the AI framework powering much of modern machine learning. But instead of staying in the tech giant's orbit, Valkov pivoted to an unsexy problem: phone calls for plumbers, HVAC technicians, and electricians. His startup Lace AI automates scheduling and customer service for home service companies, and investors just put $14 million behind the vision.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://techcrunch.com/2025/04/22/ex-meta-engineer-raises-14m-for-lace-an-ai-powered-revenue-generation-software-startup/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/LaceAIFoundersPhoto-1.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc68\u200d\ud83d\udcbb\ud83d\udd25\u27a1\ufe0f\ud83c\udfe0\ud83d\udd27\ud83e\udd16",
-      "headline_split": "Ex-Meta Engineer Left PyTorch to Build Lace AI for ",
-      "fake_endings": [
-        "Mental Health Support in Rural Communities",
-        "Personalized Fashion Recommendations Using Computer Vision"
-      ],
-      "fake_headline": "Former Tesla Designer Quit Dream Job to Create Aurora AI Platform for Wildlife Conservation"
-    },
-    {
-      "id": "batch_20260331_090726__story_043",
-      "title": "A Health Scare After Selling to Google Led Munjal Shah to Build Hippocratic AI",
-      "summary": "The day after selling his company to Google, Munjal Shah collapsed with chest pains in an emergency room. That terrifying moment redirected his entire career toward healthcare, leading him to found Hippocratic AI, now valued at $3.5 billion.",
-      "extended_summary": "Munjal Shah should have been celebrating. He'd just sold his company to Google. Instead, he was lying in an ER with chest pains, confronting his own mortality and the chaos of the healthcare system. That moment became a turning point: Shah left Google and founded Hippocratic AI, building AI-powered healthcare assistants to help overworked medical staff. Three years later, the company is valued at $3.5 billion and partnering with health systems nationwide. Sometimes the worst days lead to the most meaningful work.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Spiritual"
-      ],
-      "source_url": "https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1124695995.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 5,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udcbc\ud83c\udfe5\ud83d\ude30\u27a1\ufe0f\ud83e\udd16\u2695\ufe0f\ud83d\udca1",
-      "headline_split": "A Health Scare After Selling to Google Led Munjal Shah to Build ",
-      "fake_endings": [
-        "A Mental Wellness App That Helped 2 Million Users",
-        "FitnessMind, the AI Trainer That Prevents Burnout"
-      ],
-      "fake_headline": "Near-Fatal Bike Accident Inspired Former Amazon VP to Create MediSync AI for Emergency Response Teams"
-    },
-    {
-      "id": "batch_20260331_090726__story_044",
-      "title": "College Dropouts Built Turbo AI into a 5-Million-User Study Tool While Staying Profitable",
-      "summary": "Twenty-year-old Sarthak Dhawan couldn't take notes and pay attention at the same time, so he and Rudy Arora dropped out of college to fix it. Their app Turbo AI now has 5 million users, eight-figure revenue, and clients like Goldman Sachs \u2014 all while staying profitable.",
-      "extended_summary": "Sarthak Dhawan was 20 years old and stuck in a familiar college trap: take good notes or actually understand the lecture. He couldn't do both. So he and his co-founder Rudy Arora dropped out and built Turbo AI, an app that records lectures, generates summaries, and helps students actually learn. The gamble paid off spectacularly \u2014 Turbo AI now serves 5 million users, including employees at Goldman Sachs and McKinsey, generates eight-figure revenue, and has stayed profitable the entire time.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2422.jpeg?resize=1200,742",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf93\u274c\ud83d\udc65\ud83d\udcda\ud83d\ude80\ud83d\udcb0\u2705",
-      "headline_split": "College Dropouts Built Turbo AI into a 5-Million-User Study Tool While ",
-      "fake_endings": [
-        "Working Night Shifts at a Coffee Shop",
-        "Living in Their Parents' Garage for Three Years"
-      ],
-      "fake_headline": "High School Friends Turned Down Stanford to Build 8-Million-User Language App from Basement Studio"
-    },
-    {
-      "id": "batch_20260331_090726__story_045",
-      "title": "Former Bolt CEO Pivots to AI Shopping with Spangle, Hitting $100M Valuation",
-      "summary": "After a decade at Amazon and leading Bolt, Maju Kuruvilla launched Spangle to bring AI-powered personalized shopping to fashion retailers. Big names like Revolve and Steve Madden are already on board, and the startup hit a $100 million valuation.",
-      "extended_summary": "Maju Kuruvilla spent a decade watching Amazon perfect personalized shopping, then led Bolt through the chaos of online checkout. Now he's building Spangle, an AI platform that helps fashion retailers like Revolve and Steve Madden recommend the right products to the right shoppers at the right moment. It's the kind of technology that used to be exclusive to tech giants, now available to any retailer willing to plug in. Investors believe in the vision enough to value Spangle at $100 million.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://techcrunch.com/2026/01/08/former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/spangle-ceo-maju-kuruvilla.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\u26a1CEO\u27a1\ufe0f\ud83d\udecd\ufe0f\ud83e\udd16\ud83d\udcb0\ud83d\udcaf",
-      "headline_split": "Former Bolt CEO Pivots to AI Shopping with Spangle, Hitting ",
-      "fake_endings": [
-        "2 Million Downloads in Just Four Months",
-        "Profitability Before Even Launching Publicly"
-      ],
-      "fake_headline": "Ex-Stripe Executive Launches TaskFlow AI for Freelancers, Reaches $85M Valuation in Six Months"
-    },
-    {
-      "id": "batch_20260331_090726__story_046",
-      "title": "Former GitHub CEO Raises Record $60M Seed for AI Code Management",
-      "summary": "Thomas Dohmke spent years as GitHub's CEO watching AI flood codebases with generated code. Now he's building Entire to help engineering teams manage the chaos, raising a record-breaking $60 million seed round at a $300 million valuation.",
-      "extended_summary": "Thomas Dohmke had a front-row seat to the AI coding revolution as GitHub's CEO, watching millions of developers suddenly generate code faster than ever before. But he also saw the problem nobody was talking about: who reviews all this AI-written code? Who maintains it? Dohmke left GitHub to build Entire, a platform that helps engineering teams manage, review, and maintain AI-generated code at scale. Investors were convinced enough to hand him a $60 million seed round \u2014 one of the largest ever \u2014 at a $300 million valuation.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Github-Thomas.jpeg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 4,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\ude3aCEO\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\u27a1\ufe0f\ud83e\udd16\ud83d\udcbb\ud83d\udcca",
-      "headline_split": "Former GitHub CEO Raises Record $60M Seed for ",
-      "fake_endings": [
-        "Developer Education Platform Teaching 500K Students",
-        "Open Source Security Scanner Used by Fortune 500"
-      ],
-      "fake_headline": "Ex-LinkedIn CTO Secures $75M Series A for Quantum AI Helping Scientists Accelerate Drug Discovery"
-    },
-    {
-      "id": "batch_20260331_090726__story_047",
-      "title": "Nigerian Immigrant Built JustiGuide to Help Others Navigate U.S. Immigration with AI",
-      "summary": "After navigating the nightmare of U.S. immigration himself, Nigerian-born Bisi Obateru built JustiGuide, an AI portal that helps immigrants understand their options at a fraction of the cost of traditional lawyers.",
-      "extended_summary": "Bisi Obateru knows what it's like to be lost in the U.S. immigration system. Born in Nigeria, he endured the labyrinth of paperwork, legal fees, and uncertain waiting firsthand. Instead of moving on after his own success, Obateru built JustiGuide, an AI-powered platform that helps immigrants navigate visa options, green card paths, and legal requirements without paying thousands to immigration attorneys. It's the tool he wishes he'd had, now available to thousands of people trying to build new lives in America.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Community"
-      ],
-      "source_url": "https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/46/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\uddf3\ud83c\uddec\u2708\ufe0f\ud83d\uddfd\ud83d\udccb\ud83d\ude13\u27a1\ufe0f\ud83e\udd16\u2696\ufe0f",
-      "headline_split": "Nigerian Immigrant Built JustiGuide to Help Others Navigate U.S. Immigration ",
-      "fake_endings": [
-        "Laws in 12 Different Languages Across 50 States",
-        "Courts After His Own Five-Year Legal Battle"
-      ],
-      "fake_headline": "Syrian Refugee Created LegalPath AI After Winning Asylum Case, Now Serving 200K Immigrants Annually"
-    },
-    {
-      "id": "batch_20260331_090726__story_048",
-      "title": "Cornell Dropout Raises $22M for Orchard Robotics, Bringing AI Vision to Fruit Farms",
-      "summary": "Charlie Wu dropped out of Cornell, won a Thiel Fellowship, and built Orchard Robotics \u2014 cameras and AI that turn farm equipment into precision data collectors. Investors just put $22 million behind his vision for smarter fruit farming.",
-      "extended_summary": "Charlie Wu was studying at Cornell when he realized he'd rather build something than finish his degree. He dropped out, won a Thiel Fellowship, and went all-in on a problem most tech founders ignore: fruit farming. Orchard Robotics mounts cameras and AI onto existing farm equipment, turning tractors into data-gathering machines that track tree health, predict yields, and help farmers make smarter decisions. It's unglamorous work with huge impact, and investors just handed Wu $22 million to scale it.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://techcrunch.com/2025/09/03/orchard-robotics-founded-by-a-thiel-fellow-cornell-dropout-raises-22m-for-farm-vision-ai/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/47/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 4,
-      "headline_pull": 4,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83c\udf93\u274c\ud83c\udf4e\ud83e\udd16\ud83d\udc41\ufe0f\ud83d\ude9c\ud83d\udcb0",
-      "headline_split": "Cornell Dropout Raises $22M for Orchard Robotics, Bringing AI Vision to ",
-      "fake_endings": [
-        "Indoor Vertical Farms Across Urban America",
-        "Small Coffee Growers in South America"
-      ],
-      "fake_headline": "MIT Dropout Secures $18M for SeaVision AI, Using Drones to Monitor Ocean Health for Fishermen"
-    },
-    {
-      "id": "batch_20260331_090726__story_049",
-      "title": "Vladimir Keil Saw Procurement Chaos \u2014 Built Lio and Raised $30M from a16z",
-      "summary": "When procurement chaos nearly killed his first startup, Vladimir Keil vowed to fix enterprise purchasing. His solution, Lio, uses AI agents to automate buying decisions \u2014 and Andreessen Horowitz just led a $30 million Series A.",
-      "extended_summary": "Vladimir Keil was running his first startup when procurement chaos nearly sank the company. Ordering supplies took weeks, approvals got lost, and nobody could track what was actually being spent. Keil became obsessed with fixing it. He built Lio, a platform that deploys AI agents to handle enterprise purchasing \u2014 requesting quotes, negotiating prices, and managing vendor relationships automatically. Andreessen Horowitz saw the potential and just led a $30 million Series A, betting that Keil's painful experience will reshape how companies buy things.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "source_url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/LIo-founders.jpg?resize=1200,800",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 4,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udc40\ud83d\udce6\ud83d\ude35\u200d\ud83d\udcab\u27a1\ufe0f\ud83d\udca1\ud83e\udd16\ud83d\udcb0",
-      "headline_split": "Vladimir Keil Saw Procurement Chaos \u2014 Built Lio and Raised ",
-      "fake_endings": [
-        "$45M to Transform Healthcare Supply Chains",
-        "$25M After Landing Government Contracts in 6 Countries"
-      ],
-      "fake_headline": "Former Boeing Manager Witnessed Factory Delays \u2014 Created LogiFlow and Secured $40M from Sequoia"
-    },
-    {
-      "id": "batch_20260331_090726__story_050",
-      "title": "Ex-Google Engineer Founded Keplar to Replace Market Research with Voice AI",
-      "summary": "After years building speech AI at Google, Dhruv Guliani and William Wen co-founded Keplar, a startup that uses voice AI agents to conduct customer interviews at scale. Kleiner Perkins is backing their vision to replace traditional market research.",
-      "extended_summary": "Dhruv Guliani spent years at Google working on speech recognition and voice AI, watching the technology get good enough to have real conversations. When he and William Wen left to start Keplar, they saw an opportunity that most people missed: market research is still done by humans calling other humans, one at a time. Keplar deploys voice AI agents that can conduct hundreds of customer interviews simultaneously, extracting insights faster and cheaper than traditional methods. Kleiner Perkins invested, convinced that Guliani and Wen are about to upend an entire industry.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery",
-        "Transformation"
-      ],
-      "source_url": "https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/",
-      "source_name": "TechCrunch",
-      "published_ts": 1774948046356,
-      "image_url": "https://picsum.photos/seed/49/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {},
-      "emoji_clue": "\ud83d\udd0d\ud83d\udc68\u200d\ud83d\udcbb\u27a1\ufe0f\ud83c\udfa4\ud83e\udd16\ud83d\udcca\ud83d\udcbc",
-      "headline_split": "Ex-Google Engineer Founded Keplar to Replace Market Research with ",
-      "fake_endings": [
-        "Real-Time Social Media Sentiment Analysis Tools",
-        "Blockchain-Based Consumer Data Verification Systems"
-      ],
-      "fake_headline": "Former Apple Designer Launched Nova AI to Automate Product Testing Using Customer Video Feedback"
+      "fake_headline": "Solar-Powered Vaccine Coolers Reach Remote Villages in India"
     }
   ]
 }
