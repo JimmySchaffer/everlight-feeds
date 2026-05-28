@@ -1,7 +1,7 @@
 {
-  "batch_id": "batch_20260528_145330",
-  "created_at": "2026-05-28T14:53:30.921101",
-  "story_count": 5,
+  "batch_id": "batch_20260528_152855",
+  "created_at": "2026-05-28T15:28:55.181008",
+  "story_count": 7,
   "stories": [
     {
       "id": "batch_20260528_181310__story_053",
@@ -203,6 +203,87 @@
         "$50k net profit in one month"
       ],
       "fake_headline": "Meet the 70-Year-Old Who Learned to Code and Built an App That Feeds 500 Families Weekly"
+    },
+    {
+      "id": "batch_20260528_192839__story_001",
+      "title": "After growing up on a dairy farm, this Peter Thiel-backed founder is using AI to save cattle ranching",
+      "summary": "From dairy farm to AI ranch: Craig Piggott created solar-powered collars that track cattle health, using a 'cowgorithm' to help ranchers. Now his company is valued at $2 billion.",
+      "extended_summary": "Craig Piggott grew up milking cows on a New Zealand dairy farm. At 21, he founded Halter, building solar-powered smart collars that track cattle eating patterns, movement, and calving recovery \u2014 all analyzed by a 'cowgorithm.' The technology helps ranchers optimize grazing and health, potentially saving the struggling industry. Peter Thiel's Founders Fund led a $220M Series E, valuing the company at $2B. This profile captures the farmer-kid-turned-founder arc, showing how personal experience drove innovation.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://fortune.com/2026/04/13/halter-ceo-craig-piggott-peter-thiel-ai-cowgorithm/",
+      "source_name": "fortune.com",
+      "published_ts": 1776052800000,
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Craig-Piggott_Halter-CEO-3-e1776100052498.jpg?resize=1200,600",
+      "display_mode": "image",
+      "display_reason": "hero always uses image mode (summary always visible)",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 2,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83d\udc04\ud83d\udcbb\ud83e\udd16\ud83c\udf3e",
+      "headline_split": "After growing up on a dairy farm, this Peter Thiel-backed founder is using AI to ",
+      "fake_endings": [
+        "save family-owned dairies",
+        "optimize grazing patterns"
+      ],
+      "fake_headline": "67-Year-Old Barber Opens Free Haircut Shop for Homeless Veterans"
+    },
+    {
+      "id": "batch_20260528_192839__story_002",
+      "title": "This AI for doctors has saved them countless hours. Now it wants to make them 'near-omniscient'",
+      "summary": "Shiv Rao, a cardiologist and co-founder of Abridge, built an AI that turns doctor-patient conversations into clinical notes instantly. Now used in over 250 health systems, it's saved doctors countless hours \u2014 and gives a glimpse into a future where AI makes physicians 'near-omniscient.'",
+      "extended_summary": "Shiv Rao, a practicing cardiologist, saw firsthand how documentation overload burns out physicians. His company Abridge uses AI to convert doctor-patient conversations into structured clinical notes instantly. Now in use across 250+ health systems supporting 80 million conversations annually, it has saved countless hours. The profile highlights Rao's decision to keep treating patients while running a multi-billion-dollar company, offering a vision where AI makes doctors 'near-omniscient' \u2014 not by replacing them but by handling the busywork.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.fastcompany.com/91502005/abridge-most-innovative-companies-2026",
+      "source_name": "fastcompany.com",
+      "published_ts": 1772341200000,
+      "image_url": "https://picsum.photos/seed/research_aie_v4_0004/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "young_achievers": 2,
+        "impact_innovation": 3,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83e\ude7a\ud83e\udd16\ud83e\udde0\u23f0",
+      "headline_split": "This AI for doctors has saved them countless hours. Now it wants to make them ",
+      "fake_endings": [
+        "diagnose illnesses instantly",
+        "predict patient outcomes"
+      ],
+      "fake_headline": "Teen Develops Affordable Bionic Hand That Can Play Piano"
     }
   ]
 }
