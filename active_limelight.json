@@ -1,13 +1,55 @@
 {
-  "batch_id": "batch_20260528_023735",
-  "created_at": "2026-05-28T02:37:35.556555",
-  "story_count": 7,
+  "batch_id": "batch_20260528_141318",
+  "created_at": "2026-05-28T14:13:18.748261",
+  "story_count": 50,
   "stories": [
     {
-      "id": "batch_20260528_063734__story_001",
+      "id": "batch_20260528_181310__story_001",
+      "title": "(LISTEN): Jefferson City\u2019s police chief says awards banquet highlights the depth of his officers\u2019 heroism",
+      "summary": "After finishing his midnight shift, Jefferson City officer Jeremy Church heard a call on the radio and ran into a burning house to save a man. His chief says that selflessness is exactly what makes their force heroic\u201415 officers were honored at the annual awards banquet for acts like these.",
+      "extended_summary": "Officer Jeremy Church was already off-duty, heading home after a midnight shift, when a radio call changed everything. He turned around, ran into a burning house, and saved a man's life. At Jefferson City's fifth annual police foundation awards banquet, Church was one of 15 officers recognized for extraordinary bravery\u2014several had been shot at or injured while making arrests. Police Chief Eric Wilde insists these stories need to be heard: 'Some of the things our officers are doing everyday are so heroic.' The award ceremony is personal for him, a chance to honor the depth of their courage beyond the clutter of daily news.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://kwos.com/listen-jefferson-citys-police-chief-says-awards-banquet-highlights-the-depth-of-his-officers-heroism/",
+      "source_name": "kwos.com",
+      "published_ts": 1779958860000,
+      "image_url": "https://kwos.com/wp-content/uploads/sites/28/2026/05/jcpd.jpg",
+      "display_mode": "image",
+      "display_reason": "hero always uses image mode (summary always visible)",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 1,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83d\udc6e\u200d\u2642\ufe0f\ud83c\udfc6\ud83c\udfc5\ud83c\udf1f",
+      "headline_split": "Jefferson City's police chief says awards banquet highlights the depth of ",
+      "fake_endings": [
+        "the city's community outreach",
+        "their dedication to training"
+      ],
+      "fake_headline": "Local Librarian Donates 50,000 Books to Children's Hospitals Across the State",
+      "city": "Boone County"
+    },
+    {
+      "id": "batch_20260528_181310__story_002",
       "title": "30 Years of Volunteering Has Kept This California Creek Pristine",
-      "summary": "For 30 years, dedicated volunteers have restored Sausal Creek in Oakland into a thriving habitat for rainbow trout and endangered manzanita. Their tireless work proves that community stewardship can transform an urban waterway into a vibrant ecosystem.",
-      "extended_summary": "Oakland's Sausal Creek is now one of the only urban creeks in California with a wild rainbow trout population, thanks to 30 years of volunteer restoration led by Friends of Sausal Creek. Starting with de-weeding and invasive plant removal, the group has planted tens of thousands of native plants and monitors wildlife health. Their efforts have also preserved the endangered pallid manzanita shrub, turning a once-degraded waterway into a local treasure.",
+      "summary": "For 30 years, volunteers of Friends of Sausal Creek have restored Oakland's urban creek into a thriving habitat\u2014now one of the only California urban creeks with wild rainbow trout. They've planted thousands of native species and even monitor fish health to keep the watershed pristine.",
+      "extended_summary": "Three decades ago, Michael Thilgen and his neighbors started pulling weeds along Sausal Creek, a modest 3-mile waterway in Oakland. Today, it's a rare urban Eden: the only creek in California with a wild rainbow trout population and a home for the endangered pallid manzanita shrub. The all-volunteer Friends of Sausal Creek has removed invasive plants, restored native species, and runs seed-collecting hikes to sustain their work. Volunteer Kristy Brady checks water clarity and fish health regularly. They've introduced tens of thousands of native plants\u2014proving that dedicated community action can transform even a small creek into a vital ecological refuge.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -18,9 +60,9 @@
       "published_ts": 1779741037000,
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/credit-Friends-of-Sausal-Creek.jpg",
       "display_mode": "image",
-      "display_reason": "hero always uses image mode (summary always visible)",
+      "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
+      "visual_affinity": 4,
       "headline_pull": 4,
       "read_time_min": 3,
       "image_position": "center",
@@ -34,22 +76,182 @@
         "ai_entrepreneurship": 1,
         "impact_innovation": 2
       },
-      "emoji_clue": "\ud83d\udc50\ud83c\udf0a\ud83c\udf32\u2705",
+      "emoji_clue": "\ud83c\udfde\ufe0f\ud83e\uddf9\ud83c\udf05\u267b\ufe0f",
       "headline_split": "30 Years of Volunteering Has Kept This California Creek ",
       "fake_endings": [
-        "Clean for generations",
-        "Flowing with life"
+        "Clean and Flowing",
+        "Safe for Wildlife"
       ],
-      "fake_headline": "Volunteer Knitters Make 1,000 Blankets for Homeless Pets in Just One Year"
+      "fake_headline": "Teenager Builds Renewable Energy System for His Rural School"
     },
     {
-      "id": "batch_20260528_063734__story_002",
+      "id": "batch_20260528_181310__story_003",
+      "title": "A legacy of care finds new reach in Flower Mound",
+      "summary": "What started during the Great Depression as a Sunday school class taking in homeless children now serves 6,000 families a year. Lena Pope has expanded to Flower Mound, offering counseling and behavioral health services to meet families where they are\u2014geographically and financially.",
+      "extended_summary": "In the depths of the Great Depression, Lena Holston Pope and her Sunday school class saw neglected children with nowhere to go and opened their doors. They expected a few\u2014more than two dozen arrived. That act of faith grew into the Lena Pope Home, now an organization serving 6,000 children and families annually across North Texas. Nearly a century later, they've expanded to Flower Mound, bringing therapy and support closer to home. With over 20,000 therapy sessions each year addressing anxiety, trauma, and parenting challenges, Lena Pope meets families where they are\u2014both on a map and in their struggles. It's a legacy of care that refuses to stop growing.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.crosstimbersgazette.com/2026/05/27/a-legacy-of-care-finds-new-reach-in-flower-mound/",
+      "source_name": "crosstimbersgazette.com",
+      "published_ts": 1779956242000,
+      "image_url": "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2026/05/DSC07608.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 2,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udf38\ud83c\udfe1\u2764\ufe0f\ud83d\udce1",
+      "headline_split": "A legacy of care finds new reach ",
+      "fake_endings": [
+        "throughout the community",
+        "in digital format"
+      ],
+      "fake_headline": "Retired Nurse Opens Free Clinic for Homeless Animals",
+      "city": "Flower Mound"
+    },
+    {
+      "id": "batch_20260528_181310__story_004",
+      "title": "A schoolhouse legend has retired",
+      "summary": "After 40 years and 266 'kiddlets,' Aunt Susi has retired from her beloved schoolhouse. Hundreds of former students showed up for her final program\u2014flipping through photo albums she kept of every year, remembering phonics, manhole rain checks, and a whole lot of love.",
+      "extended_summary": "In 1985, Susan Grissom heard it was hard to find daycare in Edna, so she started Aunt Susi's Schoolhouse. For four decades, she taught her 'kiddlets' letters, numbers, states, and presidents\u2014along with manners, responsibility, and how to measure rain in manholes. Her students called her 'Aunt Susi,' their mothers were 'her crew,' and dads were 'gentle giants.' Every year was recorded on poster boards and in photo albums. At her final program, hundreds of former students came back, each finding their own year and flipping through memories. 'They were so happy,' she said. It wasn't just a daycare\u2014it was a family that stuck together for 40 years.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Humor"
+      ],
+      "source_url": "https://www.jacksonconews.com/article/2098,a-schoolhouse-legend-has-retired",
+      "source_name": "jacksonconews.com",
+      "published_ts": 1779897600000,
+      "image_url": "https://static2.jacksonconews.com/data/articles/xga-4x3-a-schoolhouse-legend-has-retired-1779538283.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udfeb\ud83c\udf93\ud83d\udc74\ud83d\udcda\u2728",
+      "headline_split": "A schoolhouse legend ",
+      "fake_endings": [
+        "is passing the torch",
+        "celebrates 50 years"
+      ],
+      "fake_headline": "Former NFL Player Opens Scholarship Fund for Underprivileged Students"
+    },
+    {
+      "id": "batch_20260528_181310__story_005",
+      "title": "A skin condition was this woman\u2019s greatest pain\u2014now, it\u2019s her superpower",
+      "summary": "Cristina Curp was shamed by a dermatologist as a teen for painful lumps that were actually hidradenitis suppurativa. Now she's the COO of HS Connect, educating thousands on social media about managing the condition with nutrition and community support.",
+      "extended_summary": "At 13, Cristina Curp was told her painful bumps were from poor hygiene and being overweight\u2014that shame stayed with her for years. But the lumps were actually hidradenitis suppurativa, a chronic inflammatory skin disease. Now 40, Curp has turned her greatest pain into purpose. As COO of HS Connect, she leads support groups, hosts events, and shares nutrition tips with over 200,000 followers on TikTok and Instagram. Her approach is direct and compassionate\u2014no shame, just science. She's created a space where others with HS can find community and hope. 'There's no shame on anyone in the way she talks about nutrition,' says the founder. Curp proves that even the most painful diagnoses can become a superpower.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://caplinnews.fiu.edu/cristina-curp-hidradenitis-suppurativa-hs-connect-skin-condition/",
+      "source_name": "sfmn.fiu.edu",
+      "published_ts": 1779812940000,
+      "image_url": "https://caplinnews.fiu.edu/wp-content/uploads/2026/04/0-1-7.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 5,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udc69\ud83e\udd8b\ud83d\udd25\ud83d\udcaa",
+      "headline_split": "A skin condition was this woman's greatest pain\u2014now, it's ",
+      "fake_endings": [
+        "her source of inspiration",
+        "her motivation to help others"
+      ],
+      "fake_headline": "Man With No Arms Wins Gold Medal in Swimming at Paralympics"
+    },
+    {
+      "id": "batch_20260528_181310__story_006",
+      "title": "A \u2018Rez Girl Trying to Make a Difference\u2019",
+      "summary": "Rosa Alvarez grew up in foster care on an Arizona reservation, kept close to her Yaqui culture thanks to the Indian Child Welfare Act. Now a tribal secretary, she's fostered 25 kids herself and fights to protect the law that kept her family together.",
+      "extended_summary": "Rosa Soto Alvarez remembers powwows, fry bread, and relatives speaking Yaqui around her\u2014all because the Indian Child Welfare Act (ICWA) ensured she stayed with Indigenous foster families. Without it, she says she would have lost her identity. Today, as a Pascua Yaqui tribal secretary and mother of three, she has opened her home to 25 foster children over the years, including three siblings who lived with her for six years. Alvarez works tirelessly to protect ICWA, which keeps Native foster kids connected to their tribes and cultures. 'I grew up there, raised my kids there,' she says. Her life is a testament to the law's power to break cycles of loss and build lasting roots.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://imprintnews.org/top-stories/a-rez-girl-trying-to-make-a-difference/274519",
+      "source_name": "chronicleofsocialchange.org",
+      "published_ts": 1779847992000,
+      "image_url": "https://imprintnews.org/wp-content/uploads/2026/05/rosa-michael-kids-grandkids.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 11,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udfde\ufe0f\ud83d\udc67\ud83c\udf0d\ud83d\udcaa",
+      "headline_split": "A 'Rez Girl Trying to Make ",
+      "fake_endings": [
+        "her Community Proud",
+        "the World Better"
+      ],
+      "fake_headline": "Young Inventor Creates Affordable Water Filter for Villages in Africa"
+    },
+    {
+      "id": "batch_20260528_181310__story_007",
       "title": "AI Used to Pinpoint Whale Heat Signatures to Prevent Ship Collisions in San Francisco Bay",
-      "summary": "Heat-sensing AI called Whale Spotter is now detecting grey whales in San Francisco Bay and alerting ships to avoid collisions. Within an hour of installation, it spotted 180 whale blows, offering a cutting-edge solution to protect migrating whales from deadly ship strikes.",
-      "extended_summary": "An hour after plugging in the first Whale Spotter device on Angel Island, researchers saw 180 whale blows\u2014the warm breath of grey whales captured by thermal imaging against the cold ocean. The AI instantly uploads these heat signatures to a digital map that mariners can access in real time, helping them navigate safely around the whales. With ship strikes being a leading cause of whale mortality, this innovative system could be a game-changer for conservation in busy urban bays.",
+      "summary": "Scientists in San Francisco Bay have installed thermal AI cameras that instantly detect whale breaths and alert ships. Within an hour of plugging in the first device, it spotted 180 blows\u2014a real-time solution to prevent deadly collisions with grey whales.",
+      "extended_summary": "Grey whales are showing up more often in San Francisco Bay, and ship strikes are a leading cause of death. Scientists at the Benioff Ocean Science Laboratory have a surprising new tool: thermal-sensing AI. The 'Whale Spotter' cameras detect the warm breath of a whale against the cold ocean and instantly upload the location to a digital map that mariners can check in real time. One camera on Angel Island recorded 180 blows within its first hour. 'This is a problem we can solve right now,' says director Dr. Douglas McCauley. With a second camera on a ferry to Vallejo, the system is already proving that technology can keep both whales and ships safe\u2014no expensive detours required.",
       "category": "Discovery",
       "categories": [
-        "Discovery"
+        "Discovery",
+        "Rescue"
       ],
       "tones": [
         "Surprise"
@@ -61,7 +263,7 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 4,
+      "visual_affinity": 5,
       "headline_pull": 5,
       "read_time_min": 2,
       "image_position": "center",
@@ -72,28 +274,630 @@
       ],
       "section_scores": {
         "young_achievers": 1,
-        "ai_entrepreneurship": 1,
+        "ai_entrepreneurship": 2,
         "impact_innovation": 5,
         "limelight": 5
       },
-      "emoji_clue": "\ud83e\udd16\ud83d\udc0b\ud83d\udd25\ud83d\udea2",
+      "emoji_clue": "\ud83d\udc0b\ud83e\udd16\ud83c\udf0a\ud83d\udea2\ud83d\udca1",
       "headline_split": "AI Used to Pinpoint Whale Heat Signatures to Prevent ",
       "fake_endings": [
-        "Ship Strikes in Busy Harbors",
-        "Whale Beaching Incidents"
+        "Accidental Fishing Net Entanglement",
+        "Whale Strandings on Beaches"
       ],
-      "fake_headline": "Community Garden in Detroit Provides Free Organic Vegetables to 500 Families Weekly"
+      "fake_headline": "Robot Bees Developed to Pollinate Crops and Reverse Bee Decline"
     },
     {
-      "id": "batch_20260528_063734__story_003",
+      "id": "batch_20260528_181310__story_008",
+      "title": "Altadena volunteers clear Eaton Fire lots before fire season \u2014 they need your help",
+      "summary": "After the Eaton Fire, Toni Bailey-Raines started Neighbors Helping Neighbors, clearing overgrown weeds for free on survivors' empty lots in Altadena. They've finished 10 lots\u2014but over 200 homeowners have signed up, and they need volunteers to avert another disaster.",
+      "extended_summary": "Toni Bailey-Raines is only 5'2\", but she's taking on 6-foot weeds. After the Eaton Fire, she started clearing her parents' burned lot in Altadena\u2014and realized everyone needed the same help to prevent another fire season catastrophe. Her group, Neighbors Helping Neighbors, has mowed and cleared 10 empty lots for free, with more than 200 homeowners waiting. Bailey-Raines works with a lawnmower, a blower, and pure grit. She's also co-founder of Altadena Talks Foundation, a nonprofit born from the fire. The work is hard, but the goal is simple: keep the community safe. They're pleading for more volunteers to join before the next fire season hits.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://laist.com/news/los-angeles-activities/neighbors-helping-neighbors-overgrown-weeds-clearance-lot",
+      "source_name": "laist.com",
+      "published_ts": 1779555600000,
+      "image_url": "https://scpr.brightspotcdn.com/dims4/default/9561f2a/2147483647/strip/true/crop/2560x1344+0+288/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F6f%2F23%2Fb762bf114c838e9cbd357c73184d%2Fpxl-20260520-220323675-mp.jpg",
+      "display_mode": "image",
+      "display_reason": "medium image but highly visual story",
+      "image_confidence": "medium",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udd25\ud83e\uddf9\ud83d\udc6b\ud83c\udd98\ud83c\udf32",
+      "headline_split": "Altadena volunteers clear Eaton Fire lots before fire season \u2014 ",
+      "fake_endings": [
+        "we made a huge impact",
+        "community steps up"
+      ],
+      "fake_headline": "Neighborhood Builds Underground Bunker to Protect Against Tornadoes"
+    },
+    {
+      "id": "batch_20260528_181310__story_009",
+      "title": "Angel Gregorio Reflects On DC Natives Day, Black And Forth And DC Culture",
+      "summary": "What started as a photo shoot to counter a magazine's portrayal of DC residents turned into an official city holiday. Entrepreneur Angel Gregorio reflects on DC Natives Day, the power of community, and the bittersweet changes in a city she loves.",
+      "extended_summary": "Angel Gregorio saw a Washingtonian Magazine campaign that didn't reflect the Black Washingtonians she knew\u2014so she and activist Tony Lewis Jr. staged their own photo shoot. Hundreds showed up at Union Market. That single moment snowballed into DC Natives Day, now an officially recognized city holiday. Gregorio, founder of Black and Forth and The Spice Suite, talks about the joy of seeing her city grow\u2014and the pain of watching longtime residents priced out. She's channeled her energy into creating farmers markets, pop-ups, and free business classes for Black entrepreneurs. 'We're still here,' she says. DC Natives Day is proof that grassroots pride can rewrite a city's narrative.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://mymajicdc.com/5806069/angel-gregorio-reflects-on-dc-natives-day-black-and-forth-and-dc-culture/",
+      "source_name": "mymajicdc.com",
+      "published_ts": 1779912007000,
+      "image_url": "https://mymajicdc.com/wp-content/uploads/sites/18/2026/05/17798935734856.png?strip=all&quality=80&w=1280&crop=0,0,100,720px",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 2,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 2,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\uddfd\ud83c\udfa4\ud83d\udcda\ud83c\udf06\ud83c\udfa8",
+      "headline_split": "Angel Gregorio Reflects On DC Natives Day, Black And Forth And ",
+      "fake_endings": [
+        "Community Heritage",
+        "History of the City"
+      ],
+      "fake_headline": "Brooklyn Artist Creates Giant Mural to Celebrate Local Immigrants",
+      "city": "District of Columbia"
+    },
+    {
+      "id": "batch_20260528_181310__story_010",
+      "title": "Berkeley land trust aims to keep artists housed in the Bay Area",
+      "summary": "A new Berkeley nonprofit helped 27-year-old artist Jaelynn Walls buy their first home in Oakland with $168,000 in downpayment assistance. Artist Space Trust aims to keep creatives housed in the Bay Area\u2014one artist at a time.",
+      "extended_summary": "Jaelynn Walls thought homeownership was years away\u2014they were crammed in a Tenderloin studio, spending most of their income on rent. Then they saw an Instagram post from Artist Space Trust, a new Berkeley nonprofit that helps artists secure affordable housing. Within three months, Walls and their wife got the keys to a three-bedroom in East Oakland. The trust helped them land $168,000 from CalHOME, a state program. Now Walls has space to write their next young-adult novel, quilt, and host out-of-town artist friends. Their mortgage takes a fraction of their income. 'This is the greatest thing that has ever happened to me,' they say. Artist Space Trust is proving that keeping artists in the Bay Area isn't a dream\u2014it's a blueprint.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://oaklandside.org/2026/05/21/artist-space-trust-berkeley/",
+      "source_name": "oaklandside.org",
+      "published_ts": 1779404580000,
+      "image_url": "https://oaklandside.org/wp-content/uploads/2026/05/20260511_ARTISTHOUSING_GC-10-KQED.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3,
+        "young_achievers": 4
+      },
+      "emoji_clue": "\ud83c\udfa8\ud83c\udfe0\ud83c\udf09\ud83c\udfe1\ud83d\udd12",
+      "headline_split": "Berkeley land trust aims to keep artists housed ",
+      "fake_endings": [
+        "in their studios",
+        "affordably"
+      ],
+      "fake_headline": "New York Program Provides Free Rent for Teachers in High-Cost Neighborhoods"
+    },
+    {
+      "id": "batch_20260528_181310__story_011",
+      "title": "CLAM meets target with Cottages deal",
+      "summary": "A tiny nonprofit secured the last piece of housing needed to shelter 150 displaced ranch workers in West Marin. The Cottages at Point Reyes will house 10 families, closing a hard-fought year-and-a-half campaign in one of the country's tightest housing markets.",
+      "extended_summary": "The Cottages at Point Reyes, a 15-acre vacation retreat operating since 1964, is now home to 10 displaced ranch families. The Community Land Trust Association of West Marin (CLAM) signed a lease with option to purchase after 18 months of scrambling to find housing for 150 people. This final deal meets a goal that seemed impossible in a market where affordable housing is almost nonexistent. The Howards, who owned the property for over a decade, will stay on the land while the units transition to permanent housing. For families uprooted by the Martinelli ranch closure, this is a rare chance to rebuild stability.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.ptreyeslight.com/news/clam-meets-target-with-cottages-deal/",
+      "source_name": "ptreyeslight.com",
+      "published_ts": 1779928225000,
+      "image_url": "https://www.ptreyeslight.com/wp-content/uploads/2022/03/featured.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 2,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83c\udfe1\ud83c\udfaf\ud83e\uddaa",
+      "headline_split": "CLAM meets target with ",
+      "fake_endings": [
+        "a new housing project",
+        "a record-breaking sale"
+      ],
+      "fake_headline": "Local Bakery Donates 10,000 Loaves to Food Banks in Record Year",
+      "city": "Point Reyes Station"
+    },
+    {
+      "id": "batch_20260528_181310__story_012",
+      "title": "Car show raises over $70k for Search and Rescue",
+      "summary": "A truck show in Moab raised more than double its goal for Grand County Search and Rescue, collecting $71,650. Organizer Chase Clavell, rescued after a 60-foot fall years ago, turned gratitude into action \u2014 and now 600 trucks from 36 states rolled in to help.",
+      "extended_summary": "Chase Clavell never forgot the Search and Rescue team that saved him after a 60-foot fall. So when he organized the C10 Red Rock Retreat truck show, he aimed to give back \u2014 and the response blew past every expectation. Initial hopes of $30,000 turned into $71,650 after over 600 trucks and attendees from 36 states, Canada, Denmark, and Australia showed up. Sheriff Jamison Wiggins says the donation will go directly toward equipment and specialized training. For Clavell, it's a full-circle moment: the team that saved his life now has more resources to save others.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.moabtimes.com/articles/car-show-raises-over-70k-for-search-and-rescue/",
+      "source_name": "moabtimes.com",
+      "published_ts": 1779886800000,
+      "image_url": "https://www.moabtimes.com/wp-content/uploads/2026/05/22-GCSO-donations-C10-car-show-1024x682.jpg",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\ude97\ud83d\udcb0\ud83c\udd98",
+      "headline_split": "Car show raises over $70k for ",
+      "fake_endings": [
+        "local animal shelters",
+        "a new community center"
+      ],
+      "fake_headline": "Teenager\u2019s Lemonade Stand Raises $15k for Children\u2019s Hospital",
+      "city": "Moab"
+    },
+    {
+      "id": "batch_20260528_181310__story_013",
+      "title": "Chicago comedians could get help buying health insurance from new fundraising alliance",
+      "summary": "A new pilot program will help 10 Chicago comedians pay their health insurance premiums. Co-founder Elizabeth Grossman started the Health Alliance for Chicago Comedians after hearing about a similar effort for musicians, addressing the financial strain that comes with gig work.",
+      "extended_summary": "Stand-up comic Deanna Ortiz juggles multiple gigs just to cover rent and her $80 monthly health insurance premium. She's one of the many Chicago comedians struggling with healthcare costs \u2014 a problem Elizabeth Grossman noticed while taking a comedy class. Grossman co-founded the Health Alliance for Chicago Comedians, a pilot program that will cover insurance premiums for 10 local comics through the next ACA open enrollment. The initiative mirrors a model used for musicians in Texas and aims to show that comedy deserves a place in arts advocacy. For Ortiz, it could mean less anxiety about affording her asthma inhaler \u2014 and more focus on making people laugh.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.wbez.org/health-medicine/2026/05/27/chicago-comedians-could-get-help-buying-health-insurance-from-new-fundraising-alliance",
+      "source_name": "wbez.org",
+      "published_ts": 1779913514000,
+      "image_url": "https://cst.brightspotcdn.com/dims4/default/7c503da/2147483647/strip/true/crop/3500x1998+0+237/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F71%2Fee6e66c6428d8365dd6f0e5dddf2%2Facacomedy-260526-027.jpg",
+      "display_mode": "text",
+      "display_reason": "medium image not worth the space",
+      "image_confidence": "medium",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udfa4\ud83c\udfe5\ud83e\udd1d",
+      "headline_split": "Chicago comedians could get help buying health insurance from ",
+      "fake_endings": [
+        "a surprise inheritance",
+        "a government grant program"
+      ],
+      "fake_headline": "Veterans in Texas Receive Free Home Repairs Through Volunteer Program",
+      "city": "Chicago"
+    },
+    {
+      "id": "batch_20260528_181310__story_014",
+      "title": "Children separated from mom find connection through books, letters, power of a voice",
+      "summary": "Through the Sent With Love program, incarcerated mothers at Century Regional Detention Facility record themselves reading children's books. The recordings and personal letters are sent home, giving kids a way to hear their mother's voice and feel connected despite the bars.",
+      "extended_summary": "At the Century Regional Detention Facility in Lynwood, mothers separated from their children are finding a way to stay close. The Sent With Love program lets them record themselves reading children's books aloud, then pairs each recording with a handwritten letter. Over 1,000 women have participated, creating keepsakes their kids can replay again and again. During a recent event, FOX 11 meteorologist Star Harvey shared her own story of perseverance and read from her book \"Shoot for the Stars.\" For mothers and children alike, these small acts of connection become lifelines across distance and time.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.foxla.com/news/children-separated-from-mom-find-connection-through-books-letters-power-voice",
+      "source_name": "foxla.com",
+      "published_ts": 1779876114000,
+      "image_url": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2026/05/1200/630/generic-web-main-10.jpg?ve=1&tl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udcda\u2709\ufe0f\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "headline_split": "Children separated from mom find connection through ",
+      "fake_endings": [
+        "video calls and social media",
+        "a shared love of cooking"
+      ],
+      "fake_headline": "Homeless Dog Found Wanders Into Shelter, Reunites With Owner After 3 Years",
+      "city": "Los Angeles County"
+    },
+    {
+      "id": "batch_20260528_181310__story_015",
+      "title": "Comment on Food group raising money to start a food hub, getting fresh produce to more corner stores and schools by Wilfred Quinlan",
+      "summary": "Saba Grocers Initiative plans to launch a community-owned food hub in Oakland, bringing fresh, affordable produce to 50 corner stores, schools, and food banks across Alameda County. A $2 million state grant gets them started, but they're asking the community to help raise $1.5 million.",
+      "extended_summary": "In neighborhoods where supermarkets are scarce and liquor stores double as grocery stops, access to fresh produce can be a matter of health. One customer, Elizabeth Ora, said her blood pressure dropped so much she no longer needs medication \u2014 thanks to a program that makes affordable vegetables available at local stores. The Saba Grocers Initiative wants to expand that impact: they're launching a community-owned food hub at Jack London Square by March, aiming to serve 50 stores, schools, hospitals, and food banks. A $2 million state grant covers part of the cost, but they're crowdfunding $1.5 million to fully realize the vision. If they don't hit the goal, they'll start smaller and keep raising funds \u2014 because even partial progress means more families eating well.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://oaklandnorth.net/2025/10/29/food-group-raising-money-to-start-a-food-hub-getting-fresh-produce-to-more-corner-stores-and-schools/comment-page-1/#comment-1953009",
+      "source_name": "oaklandnorth.net",
+      "published_ts": 1779883796000,
+      "image_url": "https://oaklandnorth.net/wp-content/uploads/2025/10/food2.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 2,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\udd66\ud83d\udcb5\ud83c\udfeb",
+      "headline_split": "Food group raising money to start a food hub, ",
+      "fake_endings": [
+        "distributing free meals to seniors",
+        "building urban gardens in low-income areas"
+      ],
+      "fake_headline": "Community Garden in Detroit Grows Over 5,000 Pounds of Vegetables for Local Families"
+    },
+    {
+      "id": "batch_20260528_181310__story_016",
+      "title": "Courage under pressure: RCSO\u2019s Doby pulls injured deputy from burning vehicle",
+      "summary": "Deputy Mason Doby pulled his colleague Deputy John Stevens from a burning patrol vehicle after a head-on collision. Stevens' leg was broken, flames visible through the windshield, and Doby didn't hesitate \u2014 he rushed in, deflated the airbag, and dragged him to safety.",
+      "extended_summary": "The crash happened in seconds: Deputy Stevens' patrol car swerved to avoid stopped traffic, collided head-on, and skidded into a field where the engine caught fire. Deputy Doby, driving right behind, stopped his own vehicle and ran to help. He found Stevens trapped behind a deflated airbag, smoke pouring from the hood. Stevens said his leg might be broken \u2014 Doby could already see flames through the windshield. Without waiting, he pulled Stevens out of the burning car, moments before the fire spread. The Rowan County Sheriff's Office later released a full narrative of the rescue, calling it an act of courage under pressure.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://www.salisburypost.com/2026/05/27/courage-under-pressure-rcsos-doby-pulls-injured-deputy-from-burning-vehicle/",
+      "source_name": "salisburypost.com",
+      "published_ts": 1779933960000,
+      "image_url": "https://www.salisburypost.com/wp-content/uploads/sites/9/2026/05/A-tow-truck-operator-removes-the-damaged-Rowan-County-Sheriffs-deputy-vehicle-from-its-resting-.jpg?w=648",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 1,
+        "young_achievers": 2,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83d\udd25\ud83d\ude93\ud83e\uddb8",
+      "headline_split": "Courage under pressure: RCSO\u2019s Doby pulls injured deputy from ",
+      "fake_endings": [
+        "a flooded river",
+        "a collapsing building"
+      ],
+      "fake_headline": "Teacher Rescues Student from Drowning at School Pool Party",
+      "city": "Salisbury"
+    },
+    {
+      "id": "batch_20260528_181310__story_017",
+      "title": "Endangered turtles get a boost",
+      "summary": "The Oregon Zoo released 22 endangered northwestern pond turtles into the Columbia River Gorge after raising them from hatchlings. By keeping them safe through their first year, the turtles grew to the size of 3-year-olds \u2014 big enough to avoid being eaten by bullfrogs.",
+      "extended_summary": "When northwestern pond turtles hatch, they're small enough to be gobbled up by bullfrogs. That's why biologists collect hatchlings from the wild and bring them to the Oregon Zoo's conservation lab, where heat lamps and plentiful food help them grow fast. In just one year, these 22 turtles reached the size of 3-year-olds \u2014 dodging the predator gauntlet that had driven their species down to only 150 individuals in the 1990s. This week, they were released back into the Columbia River Gorge, giving the endangered population a much-needed boost. It's a quiet, methodical rescue that's been running for decades, and it's working.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://www.camaspostrecord.com/news/2026/may/21/endangered-turtles-get-a-boost/",
+      "source_name": "camaspostrecord.com",
+      "published_ts": 1779400342000,
+      "image_url": "https://origin.camaspostrecord.com/wp-content/uploads/2026/05/05-14-northwestern_pond_turtles_8216997.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udc22\ud83c\udf3f\ud83d\udcc8",
+      "headline_split": "Endangered turtles get a ",
+      "fake_endings": [
+        "new habitat protection law",
+        "record number of hatchlings"
+      ],
+      "fake_headline": "Seal Population Rebounds Thanks to Beach Cleanup Efforts",
+      "city": "Camas"
+    },
+    {
+      "id": "batch_20260528_181310__story_018",
+      "title": "Follow the path to mental well-being",
+      "summary": "Hinsdale Central High School turned a weedy alcove into a 30-foot meditation labyrinth for students. The gravel path, championed by the Gender and Sexuality Alliance Club, offers a place to put away phones and find calm during stressful school days.",
+      "extended_summary": "For two years, the Gender and Sexuality Alliance Club at Hinsdale Central worked to turn an overlooked patch of land into something restorative. Now a 30-foot circular walking labyrinth sits there, made of gravel and edged with stone \u2014 a place where students can walk, breathe, and leave their phones behind. Social worker Peter Hutcheon, who helped bring the idea to life, says the path is designed for experiential therapy: a way to slow down without talking. The project cost $22,000, funded through donations and school support, and when it officially opens next school year, it will be a quiet refuge for anyone who needs a moment of peace.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Spiritual"
+      ],
+      "source_url": "HTTPS://www.thehinsdalean.com/story/2026/05/28/news/follow-the-path-to-mental-well-being/10924.html",
+      "source_name": "thehinsdalean.com",
+      "published_ts": 1779943740000,
+      "image_url": "https://www.thehinsdalean.com/home/cms_data/dfault/photos/stories/id/2/4/10924/s_top",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83e\udde0\ud83c\udf32\ud83d\udee4\ufe0f",
+      "headline_split": "Follow the path to ",
+      "fake_endings": [
+        "a happier life",
+        "inner peace and clarity"
+      ],
+      "fake_headline": "App Helps Users Track Mood and Reduce Anxiety by 40%",
+      "city": "Hinsdale"
+    },
+    {
+      "id": "batch_20260528_181310__story_019",
+      "title": "For Boston College Students in Recovery, BCRH Offers More Than Just A Place To Live",
+      "summary": "Boston College's Recovery Housing gives students in sobriety a place to live and thrive. Ned Hall says it gave him a better life than he ever expected \u2014 a structured, substance-free community that helped him rebuild after addiction.",
+      "extended_summary": "When Ned Hall, BC \u201924, arrived on Boston College\u2019s campus his freshman year, he never expected to live in Boston College Recovery Housing (BCRH). But after experiencing struggles with substance abuse, BCRH \u2014a residential community for BC students who have committed to long-term sobriety and recovery\u2014became more than just a place where Hall lived. \u201cIt really did give me my life back, probably even, like, a better life than I had,\u201d Hall said in an interview on \u201cEagle Eye,\u201d The Heights \u2019 podcast. \u201cSo yeah, it truly has changed everything for me.\u201d Through its structured and substance-free environment, holistic approach to recovery, and supportive community, BCRH aims to help students who have experienced addiction not only recover but thrive, explained Jeannine Kremer, director of the Murray C",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://bcheights.com/231794/features/for-boston-college-students-in-recovery-bcrh-offers-more-than-just-a-place-to-live/",
+      "source_name": "bcheights.com",
+      "published_ts": 1779418013000,
+      "image_url": "https://bcheights.com/wp-content/uploads/2026/05/Recovery-Connor-1.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udfeb\ud83d\udcaa\ud83c\udfe0",
+      "headline_split": "For Boston College Students in Recovery, BCRH Offers ",
+      "fake_endings": [
+        "a second chance at education",
+        "a supportive community of peers"
+      ],
+      "fake_headline": "University Program Provides Free Therapy Dogs for Final Exams",
+      "city": "Suffolk County"
+    },
+    {
+      "id": "batch_20260528_181310__story_020",
+      "title": "For people living with severe mental illness, Threshold serves as a lifeline to independence",
+      "summary": "For 40 years, Threshold in Durham has helped adults with severe mental illness find jobs, build routines, and gain independence. Kevin Talley, who has schizophrenia, polishes the bar at the Angus Barn and says his diagnosis doesn't limit what he can achieve.",
+      "extended_summary": "Inside the Angus Barn, Kevin Talley moves with purpose: polishing the wooden bar, buffing the foot rail in the Turkey Lounge. He says meeting new people is his favorite part of the job \u2014 and he's been here long enough to prove that his schizophrenia doesn't hold him back. Talley is one of the success stories from Threshold, a Durham program that for 40 years has offered adults with severe mental illness a place to work, learn, and belong. Director Elizabeth Barber emphasizes that people with mental illness are the same as everyone else: 'We all have challenges.' Threshold serves 30 to 35 members a day, providing employment, community, and life skills that support long-term independence. For Talley, it's the best job he's ever had.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://abc11.com/post/severe-mental-illness-nc-threshold-provides-lifeline-providing-employment-ways-independent/19182407/",
+      "source_name": "abc11.com",
+      "published_ts": 1779939130000,
+      "image_url": "https://cdn.abcotvs.com/dip/images/19182684_DurhamResources.jpg?w=1600",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\udde9\ud83c\udd98\ud83c\udfe1",
+      "headline_split": "For people living with severe mental illness, Threshold serves as a lifeline to ",
+      "fake_endings": [
+        "better healthcare access",
+        "a stable job opportunity"
+      ],
+      "fake_headline": "New Mobile Clinic Brings Mental Health Services to Rural Communities",
+      "city": "Durham County"
+    },
+    {
+      "id": "batch_20260528_181310__story_021",
+      "title": "From flood to graduation: Seven Southwest Alaskans celebrate hard-won milestone",
+      "summary": "After a devastating storm swept their homes off foundations, seven students from Southwest Alaska came together for a healing graduation ceremony in Anchorage. The event marked a hard-won milestone for families forced to relocate, blending village and city life in a celebration of resilience.",
+      "extended_summary": "When hurricane-force winds tore through Kwigillingok last October, teacher's aide Jesse Tanqik Igkurak's house spun two-and-a-half times before being swept into the river. Months later, that same storm was present at the Alaska Native Heritage Center graduation \u2014 where seven displaced students proved that even trauma can't stop a milestone. For families who lost everything, this ceremony was healing in motion.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.ktoo.org/2026/05/27/from-flood-to-graduation-seven-southwest-alaskans-celebrate-hard-won-milestone/",
+      "source_name": "ktoo.org",
+      "published_ts": 1779941789000,
+      "image_url": "https://media.ktoo.org/wp-content/uploads/2026/05/20260518-halong-graduation-faubion-24-aspect-ratio-16-9-1536x864.jpeg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 9,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "impact_innovation": 1,
+        "limelight": 5
+      },
+      "city": "Juneau City and Borough"
+    },
+    {
+      "id": "batch_20260528_181310__story_022",
+      "title": "Granddaughter teaches 102-year-old grandpa and 89-year-old grandma how to order Uber Eats",
+      "summary": "When 102-year-old Grandpa George and 89-year-old Grandma Annie wanted to learn Uber Eats, their granddaughter Francesca stepped up. The tech lessons went viral as Grandma took notes with pen and paper, proving it's never too late to learn something new.",
+      "extended_summary": "Grandma Annie sat at a desktop computer with a notebook ready, while Grandpa George leaned in to watch Francesca demonstrate Uber Eats \u2014 a scene made funnier by their too-old iPhones that couldn't even download the app. The internet fell in love with their curiosity and willingness to try, proving that learning has no age limit.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://www.upworthy.com/granddaughter-teaches-102-year-old-grandpa-and-89-year-old-grandma-how-to-order-uber-eats/",
+      "source_name": "upworthy.com",
+      "published_ts": 1779929859000,
+      "image_url": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/05/Untitled-design-53.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 1,
+        "young_achievers": 2
+      }
+    },
+    {
+      "id": "batch_20260528_181310__story_023",
       "title": "Guinea Worm Disease Reaches All-Time Low: Only 10 Human Cases Reported in 2025",
-      "summary": "Only 10 human cases of Guinea worm were reported worldwide in 2025, the lowest ever and a 33% drop from the previous year. The disease is nearing eradication, thanks to decades of effort by the Carter Center and partners.",
-      "extended_summary": "When Jimmy Carter launched the Guinea worm eradication campaign in 1986, there were 3.5 million cases annually across 21 countries. Today, just 10 cases remain, marking a greater than 99.99% reduction and bringing the disease closer than ever to becoming only the second human disease ever eradicated. The Carter Center emphasizes that while progress is remarkable, 'zero is the only acceptable number,' as each case represents a person enduring a preventable disease.",
+      "summary": "In 2025, only 10 human cases of Guinea worm were reported worldwide \u2014 the lowest ever. A 99.99% reduction since 1986, the disease is on the brink of becoming only the second human illness ever eradicated, thanks to decades of work by the Carter Center.",
+      "extended_summary": "The Carter Center announced that Guinea worm disease is closer than ever to extinction after just 10 human cases were reported in 2025 \u2014 a 33% drop from the previous year. Starting at 3.5 million annual cases in 1986, the campaign has prevented over 100 million cases. Every single case is a person known by name, and the goal remains zero.",
       "category": "Discovery",
       "categories": [
         "Discovery"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.goodnewsnetwork.org/guinea-worm-disease-reaches-all-time-low-only-10-human-cases-reported-in-2025/",
       "source_name": "goodnewsnetwork.org",
       "published_ts": 1779827415000,
@@ -114,35 +918,127 @@
         "ai_entrepreneurship": 1,
         "limelight": 5,
         "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83d\udc1b\ud83d\udcc9\ud83d\udc64\u2705",
-      "headline_split": "Guinea Worm Disease Reaches All-Time Low: ",
-      "fake_endings": [
-        "Only 5 Cases Found This Year",
-        "Near Eradication Achieved in 2023"
-      ],
-      "fake_headline": "Teenager Invents Biodegradable Straw Made from Seaweed, Wins National Science Fair"
+      }
     },
     {
-      "id": "batch_20260528_063734__story_004",
-      "title": "Ride It Out: How Cycling Helps Kids Focus",
-      "summary": "A cycling class at a Wisconsin middle school is helping students with ADHD improve focus and behavior. Teacher observations and research support that even a short ride can transform a distracted student into a calm, engaged learner.",
-      "extended_summary": "Jimmy G., a fifth grader with ADHD, used to be disruptive and unfocused until he started a cycling class through the Outride Riding for Focus program. His teacher noticed a dramatic change: after riding, he sits down, stays on task, and gets right to work. The program, founded by Specialized bike founder Mike Sinyard (who also has ADHD), is backed by cognitive science showing that exercise boosts attention. For Jimmy, cycling has become a game-changer that even complements his medication.",
+      "id": "batch_20260528_181310__story_024",
+      "title": "Helping from home: How virtual volunteers support Red Cross disaster relief",
+      "summary": "When Linda Crowden broke her leg but still wanted to help after Super Typhoon Sinlaku, she became a virtual Red Cross volunteer. From home, she helped reunite families separated by disaster \u2014 proving you don't always need boots on the ground to make a difference.",
+      "extended_summary": "Linda Crowden usually hops on planes for disaster relief, but a broken leg and planned family travel meant she couldn't deploy in person. So she went virtual \u2014 logging in to help reconnect loved ones after Super Typhoon Sinlaku. Seven disasters later, she's shown that sometimes the most powerful help comes from a living room.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://corralescomment.com/2026/05/27/helping-from-home-how-virtual-volunteers-support-red-cross-disaster-relief/",
+      "source_name": "corralescomment.com",
+      "published_ts": 1779931862000,
+      "image_url": "https://i0.wp.com/corralescomment.com/wp-content/uploads/sites/12/2026/05/CC_0527_red-cross.png?fit=1200%2C800&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      }
+    },
+    {
+      "id": "batch_20260528_181310__story_025",
+      "title": "High School Students Throw 100-Year-Old Veteran a Prom After He Missed His for WWII",
+      "summary": "Ray Svejnoha, 100, missed his high school prom in 1944 when World War II called. Eight decades later, students at Metea Valley High School threw him an epic prom with balloons, flags, and a promposal. He told them, 'I cannot tell you how much I appreciate this.'",
+      "extended_summary": "It started with a red, white, and blue promposal, a sign reading '82 years late, but right on time,' and a 100-year-old veteran who thought he'd never get a prom. But Metea Valley students made it happen \u2014 complete with dancing and a tearful thank-you. For Ray, missing prom was just part of serving his country; for the students, it was the chance to finally give him that moment.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.westernjournal.com/high-school-students-throw-100-year-old-veteran-prom-missed-wwii/",
+      "source_name": "westernjournal.com",
+      "published_ts": 1779934207000,
+      "image_url": "https://www.westernjournal.com/wp-content/uploads/2026/05/Prom-vs-Army-Air-Force-poster.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 1
+      }
+    },
+    {
+      "id": "batch_20260528_181310__story_026",
+      "title": "Hospital Sister Mission Outreach ships $1 million of supplies to Bolivia",
+      "summary": "Hospital Sisters Mission Outreach shipped $1 million in medical supplies to Bolivia, including two C-arm imaging systems and a surgical microscope. The container will support five hospitals, bringing life-saving equipment to communities where safe surgery is scarce.",
+      "extended_summary": "A 40-foot container packed with surgical gear \u2014 including mobile X-ray systems and a microscope \u2014 left Springfield for Bolivia in what's being called the most valuable shipment in Mission Outreach's history. Valued at $1 million, the supplies will help five hospitals perform surgeries that save countless lives in a region where 70% of people lack access to safe, affordable care.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://reasonstobecheerful.world/cycling-helps-kids-focus/",
-      "source_name": "reasonstobecheerful.world",
-      "published_ts": 1779454844000,
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/05/R4F-Silver-Stallion-Bicycle-and-Coffee-Works-in-Gallup-New-Mexico.jpg",
+      "source_url": "https://www.springfieldbusinessjournal.com/columns/hospital-sister-mission-outreach-ships-1-million-of-supplies-to-bolivia/",
+      "source_name": "springfieldbusinessjournal.com",
+      "published_ts": 1779913250000,
+      "image_url": "https://www.springfieldbusinessjournal.com/wp-content/uploads/2026/05/MOSB_Puente.webp",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "city": "Springfield"
+    },
+    {
+      "id": "batch_20260528_181310__story_027",
+      "title": "How Lynn\u2019s Shuttered Hospital Is Being Transformed into Affordable Homes for Seniors",
+      "summary": "Lynn's only hospital closed in 2020, but the site is being reborn. Woodland Village now offers 26 homes for seniors, and Solimine House \u2014 150 affordable units \u2014 broke ground in December, set to open in 2027. A former source of pain becomes a solution for housing.",
+      "extended_summary": "'The closure of Union Hospital is still a source of pain and frustration,' said Mayor Jared Nicholson. But that same 10-acre parcel is becoming a lifeline: first Woodland Village's 26 senior homes, and now Solimine House \u2014 150 affordable units for older adults with incomes up to 60% of the area median. Connected by a covered walkway to a health center, it's turning a loss into lasting community support.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://bankerandtradesman.com/how-lynns-shuttered-hospital-is-being-transformed-into-affordable-homes-for-seniors/",
+      "source_name": "bankerandtradesman.com",
+      "published_ts": 1779820139000,
+      "image_url": "https://bankerandtradesman.com/wp-content/uploads/2026/05/a-04_-Elevation-zoomed-Final-2-scaled-1.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 4,
-      "read_time_min": 11,
+      "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -150,33 +1046,336 @@
         "impact_innovation"
       ],
       "section_scores": {
+        "young_achievers": 1,
         "ai_entrepreneurship": 1,
-        "young_achievers": 2,
         "limelight": 5,
         "impact_innovation": 5
-      },
-      "emoji_clue": "\ud83d\udeb4\ud83d\udc66\ud83c\udfaf\ud83e\udde0",
-      "headline_split": "Ride It Out: ",
-      "fake_endings": [
-        "How Cycling Boosts Brain Power",
-        "Why Kids Learn Better on Bikes"
-      ],
-      "fake_headline": "Chef Turns Food Waste into Gourmet Meals for Shelters, Saves 10,000 Pounds Monthly"
+      }
     },
     {
-      "id": "batch_20260528_063734__story_005",
-      "title": "This Philly Barbecue Joint Is Built on Second Chances",
-      "summary": "Southern Flames BBQ in Philadelphia hires formerly incarcerated individuals, at-risk youth, and disabled veterans, giving them second chances. Owner Rev. James Buck has built a thriving business while providing stable jobs to those often overlooked by society.",
-      "extended_summary": "When Rev. James Buck visits a state prison to recruit, he leaves with five pages of names\u2014people ready for release and needing work. Since 2020, his Southern Flames BBQ has employed over 40 formerly incarcerated individuals, along with at-risk youth and disabled veterans. Despite the perceived risk, the restaurant has always been profitable, proving that hiring people labeled as unemployable can be both socially impactful and good for business. One cook, Manny West, says finding that job changed his life.",
+      "id": "batch_20260528_181310__story_028",
+      "title": "How the digital economy is changing the business of busking",
+      "summary": "A New York City busker played 'Just the Two of Us' during a proposal in Central Park \u2014 then nearly three years later, the groom tracked him down on Instagram to fly him to Ireland to play the same song at their wedding. Talk about a full-circle moment.",
+      "extended_summary": "Saxophonist Utril Rhaburn saw a proposal happening in Central Park and launched into 'Just the Two of Us' as the couple danced. When the groom tracked him down via Instagram years later and bought him a round-trip ticket to Ireland to surprise the bride with that exact song, the internet had to catch its breath. Modern busking has never been so romantic.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise",
+        "Humor"
+      ],
+      "source_url": "https://gothamist.com/arts-entertainment/how-the-digital-economy-is-changing-the-business-of-busking",
+      "source_name": "gothamist.com",
+      "published_ts": 1779908460000,
+      "image_url": "https://api-prod.gothamist.com/images/357245/fill-1200x650|format-webp|webpquality-85/",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 9,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 2,
+        "limelight": 5,
+        "young_achievers": 2
+      },
+      "city": "New York County"
+    },
+    {
+      "id": "batch_20260528_181310__story_029",
+      "title": "In L.A., this Catholic sister offers shelter and mercy to immigrants convicted of crimes",
+      "summary": "Sister Teresa Groth, a 'pardoned sinner' and Catholic sister, runs Francisco Homes in Los Angeles \u2014 a housing program for formerly incarcerated men. Since 2009, she's helped dozens of men transition from prison back into society with housing, reentry services, and unconditional mercy.",
+      "extended_summary": "After losing her husband at 30 and raising her son alone, Sister Teresa Groth had a religious experience that led her to the Daughters of Mary and Joseph. Now 70, she runs ten homes in Los Angeles housing up to 95 formerly incarcerated men \u2014 offering not just shelter but restoration. 'First, we recognize that we have received mercy,' she says. 'I have received mercy.'",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Spiritual"
+      ],
+      "source_url": "https://www.americamagazine.org/news/2026/05/22/francisco-homes-immigrants-criminals/",
+      "source_name": "americamagazine.org",
+      "published_ts": 1779494146000,
+      "image_url": "https://www.americamagazine.org/wp-content/uploads/2026/05/webRNS-Mercy-Immigrants1-1536x1152-1.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 2
+      }
+    },
+    {
+      "id": "batch_20260528_181310__story_030",
+      "title": "In local downtowns and across the globe, Vermont-hewn monuments honor soldiers\u2019 service",
+      "summary": "A new monument in Hartford, Vermont, will honor nearly 900 local veterans on Memorial Day \u2014 hewn from Barre granite just 50 miles away. It's part of a tradition of Vermont-crafted memorials that have been placed worldwide since the Civil War.",
+      "extended_summary": "Nearly 900 names \u2014 gathered from scratch by a town memorial committee \u2014 will be permanently etched into a Barre granite monument in Hartford this Memorial Day. Vermont's granite industry has been crafting war memorials since the 1800s, supplying 80% of U.S. monuments at one point. This one honors veterans from Korea, Vietnam, and recent conflicts, continuing a century-and-a-half-long tradition of stone-carved gratitude.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://nextcity.org/urbanist-news/this-philly-barbecue-joint-is-built-on-second-chances",
-      "source_name": "nextcity.org",
-      "published_ts": 1779824100000,
-      "image_url": "https://nextcity.org/images/daily/_resized/connor-pope-6f38y7nmp3s-unsplash.jpg",
+      "source_url": "https://vtdigger.org/2026/05/25/in-local-downtowns-and-across-the-globe-vermont-hewn-monuments-honor-soldiers-service/",
+      "source_name": "vtdigger.org",
+      "published_ts": 1779725820000,
+      "image_url": "https://vtdigger.org/wp-content/uploads/2026/05/1000066662-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 1,
+        "limelight": 5
+      },
+      "city": "Montpelier"
+    },
+    {
+      "id": "batch_20260528_181310__story_031",
+      "title": "In rural Vermont, a pioneer of beaver coexistence continues his life\u2019s work",
+      "summary": "Skip Lisle has spent 30 years tricking beavers into not flooding roads\u2014using clever 'flow devices' made of wood and PVC. His work proves that humans and beavers can coexist without trapping, offering a smarter way to handle Vermont's busiest builders.",
+      "extended_summary": "Skip Lisle stands in chest-high waders, calmly opening a hole in a beaver dam\u2014not to destroy it, but to save it. For three decades, he's perfected flow devices that stop beavers from flooding roads, all while keeping the wetlands intact. 'I've never been a beaver before,' he jokes, but his deceptive gadgets work where trapping fails. This is a quiet revolution in wildlife coexistence, one stick at a time.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Humor"
+      ],
+      "source_url": "https://vtdigger.org/2026/05/24/in-rural-vermont-a-pioneer-of-beaver-coexistence-continues-his-lifes-work/",
+      "source_name": "vtdigger.org",
+      "published_ts": 1779647820000,
+      "image_url": "https://vtdigger.org/wp-content/uploads/2026/05/beaver-8-20260511.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83e\uddab\ud83c\udf32\ud83c\udfd4\ufe0f\ud83d\udc68\u200d\ud83c\udf3e",
+      "headline_split": "In rural Vermont, a pioneer of beaver coexistence ",
+      "fake_endings": [
+        "receives the Presidential Medal of Freedom",
+        "retires after 50 years in the field"
+      ],
+      "fake_headline": "13-Year-Old Boy Raises $50,000 to Build a School in His Village",
+      "city": "Montpelier"
+    },
+    {
+      "id": "batch_20260528_181310__story_032",
+      "title": "It is time to Pawty",
+      "summary": "Instead of birthday presents, 10-year-old LiliAna LeShay is asking for donations to her local animal shelter. The community is stepping up to fill her car with food and supplies\u2014proving that the best gifts are the ones you give.",
+      "extended_summary": "LiliAna LeShay doesn't want toys for her birthday\u2014she wants to fill her trunk with dog food. The Fayette County shelter volunteer is rallying her town to donate supplies, with drop-off spots at pizza joints and the shelter itself. 'It's a community effort,' she says, and the party livestream on June 11 will show just how much impact one kid can make. Sometimes the best birthday gift is a wagging tail.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://woay.com/it-is-time-to-pawty/",
+      "source_name": "woay.com",
+      "published_ts": 1779871934000,
+      "image_url": "https://woay.com/wp-content/uploads/2026/05/lilianas-pawty-ots-dog-happy-boy.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "young_achievers": 4,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udc3e\ud83c\udf89\ud83d\udc36",
+      "headline_split": "It is time to ",
+      "fake_endings": [
+        "adopt a new best friend",
+        "celebrate with your pooch"
+      ],
+      "fake_headline": "Local Rescue Dog Becomes First Canine to Earn a PhD in Fetching",
+      "city": "Fayette County"
+    },
+    {
+      "id": "batch_20260528_181310__story_033",
+      "title": "Jackson Center volunteers put together humanitarian aid, that will be going to local food pantrys and likely the Congo, where Ebola is disrupting the country.",
+      "summary": "Over 200 volunteers in Jackson Center packed 25,000 meals in one day, sending help to local food banks and possibly Ebola-affected regions in the Congo. The effort is completely fundraised and powered by community spirit.",
+      "extended_summary": "In just one day, more than 200 volunteers in Jackson Center assembled 25,000 meals\u2014enough to feed hundreds of families locally and abroad. Ten thousand will go to Ohio food banks, and some may head to the Congo, where an Ebola outbreak is straining resources. The meals are simple: soy, veggies, rice, and vitamins. But the mission is huge: proving that when a community shows up, hunger doesn't stand a chance.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.sidneydailynews.com/2026/05/27/jackson-center-volunteers-put-together-humanitarian-aid-that-will-be-going-to-local-food-pantrys-and-likely-the-congo-where-ebola-is-disrupting-the-country/",
+      "source_name": "sidneydailynews.com",
+      "published_ts": 1779939480000,
+      "image_url": "https://www.sidneydailynews.com/wp-content/uploads/2026/05/136516398_web1_SDN053026JCfoodBags.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 2,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83d\udce6\ud83c\udf0d\ud83e\udd1d",
+      "headline_split": "Jackson Center volunteers put together humanitarian aid, that will be going to local food pantrys and ",
+      "fake_endings": [
+        "to disaster relief in Haiti",
+        "for medical supplies in Uganda"
+      ],
+      "fake_headline": "Teenagers Organize Neighborhood Clean-Up, Collect Over 500 Bags of Trash",
+      "city": "Sidney"
+    },
+    {
+      "id": "batch_20260528_181310__story_034",
+      "title": "Longtime educator reflects on her 17 years at Kodiak College and her 30 student teachers",
+      "summary": "Kitty Deal has spent 17 years at Kodiak College training 30 student teachers\u2014many of whom now teach in rural Alaska. Her research on recruiting and retaining Alaska Native educators is tackling the revolving door of teachers in remote communities.",
+      "extended_summary": "A dozen graduation photos line Kitty Deal's wall\u2014each one a former student who became a teacher. Over 17 years, she's guided 30 educators into classrooms across Alaska, from Kodiak to the remote village of Port Lions. Her doctoral work digs into why Alaska Native teachers stay and thrive, offering solutions to a system that loses too many educators. 'It's not good for our children,' she says of the turnover. Deal is building a future where island kids see themselves in their teachers.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.kmxt.org/news/2026-05-27/longtime-educator-reflects-on-her-17-years-at-kodiak-college-and-her-30-student-teachers",
+      "source_name": "kmxt.org",
+      "published_ts": 1779916176000,
+      "image_url": "https://npr.brightspotcdn.com/dims4/default/ac65683/2147483647/strip/true/crop/4163x2186+0+248/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2F93%2F210f342f493cac8cbad7f1c5e80b%2Fkitty-w-bralyn-nixon-nina-krumrey-aubrey-mullen.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "medium",
+      "visual_affinity": 2,
+      "headline_pull": 2,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 1,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83c\udf93\ud83d\udc69\u200d\ud83c\udfeb\ud83c\udfd4\ufe0f",
+      "headline_split": "Longtime educator reflects on her 17 years at Kodiak College and ",
+      "fake_endings": [
+        "the 5,000 students she mentored",
+        "the evolution of teaching methods"
+      ],
+      "fake_headline": "Farmer Grows 100-Pound Watermelon, Donates It to Local Food Bank",
+      "city": "Kodiak Island Borough"
+    },
+    {
+      "id": "batch_20260528_181310__story_035",
+      "title": "Massachusetts Charity Helps Students Make Their Prom Unforgettable",
+      "summary": "Through her nonprofit Giving the Glam, Maristela Rapo provides free gowns, suits, makeup, and limo rides to hundreds of Massachusetts students who couldn't otherwise afford prom. Over 1,000 teens have already walked the red carpet thanks to her.",
+      "extended_summary": "Prom costs have skyrocketed, but Maristela Rapo isn't letting money stand in the way of a magical night. Her nonprofit, Giving the Glam, outfits students head-to-toe\u2014from designer dresses to hair and makeup\u2014and even arranges luxury rides. Last month, she turned her Dover home into a pop-up prom for 45 seniors from Cristo Rey High School. With $150,000 raised annually and volunteers driving in from hours away, she's proving that every student deserves to feel like royalty for a night.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://wror.com/2026/05/27/massachusetts-charity-helps-students-make-their-prom-unforgettable/",
+      "source_name": "wror.com",
+      "published_ts": 1779890820000,
+      "image_url": "https://wror.com/uploads/2026/05/GettyImages-1976016341-1.jpg?auto=webp&width=2000&height=1467",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udc83\ud83d\udd7a\ud83d\udc96",
+      "headline_split": "Massachusetts Charity Helps Students Make Their Prom ",
+      "fake_endings": [
+        "a dream come true",
+        "a night they'll never forget"
+      ],
+      "fake_headline": "Local Bakery Donates 1,000 Cupcakes to Celebrate National Teachers Day",
+      "city": "Suffolk County"
+    },
+    {
+      "id": "batch_20260528_181310__story_036",
+      "title": "Meet a Health Hero: John Matthews of Ride Hard, Breathe Easy",
+      "summary": "After his mom's lung cancer diagnosis, John Matthews biked across America and turned his journey into Ride Hard, Breathe Easy. The nonprofit has raised $1.2 million for patients, families, and research\u2014and he's just getting started.",
+      "extended_summary": "John Matthews pedaled coast to coast for his mother, and he never stopped. His nonprofit, Ride Hard, Breathe Easy, has now raised $1.2 million to fight lung cancer, a disease that kills more people than any other cancer but gets far less attention. Matthews fights the stigma too: anyone with lungs can get lung cancer. From funding research to supporting families, he's turning grief into action\u2014and his bike is still rolling.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://thephiladelphiacitizen.org/health-hero-john-matthews-ride-hard-breathe-easy/?utm_source=rss&utm_medium=rss&utm_campaign=health-hero-john-matthews-ride-hard-breathe-easy",
+      "source_name": "thephiladelphiacitizen.org",
+      "published_ts": 1779911643000,
+      "image_url": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2026/05/1200-Finalists25_960x6402.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
@@ -187,82 +1386,45 @@
       "image_scale": 1.0,
       "sections": [
         "limelight",
-        "impact_innovation"
+        "young_achievers"
       ],
       "section_scores": {
-        "ai_entrepreneurship": 1,
         "limelight": 5,
-        "young_achievers": 1,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83c\udf56\ud83d\udd25\u267b\ufe0f\ud83d\ude0a",
-      "headline_split": "This Philly Barbecue Joint Is Built on ",
-      "fake_endings": [
-        "Fresh Local Ingredients",
-        "Award-Winning Recipes"
-      ],
-      "fake_headline": "Teacher Starts School Garden That Feeds 200 Families, Wins National Award"
-    },
-    {
-      "id": "batch_20260528_063734__story_006",
-      "title": "Tory Burch wants to help women add $1 billion to the economy by 2030",
-      "summary": "Tory Burch's foundation aims to add $1 billion to the economy through women entrepreneurs by 2030. Its fellows have already generated $470 million in revenue, showing the power of targeted support for women-led businesses.",
-      "extended_summary": "Women-led companies receive only 2% of venture capital funding, a gap the Tory Burch Foundation is working to close. Since launching its fellowship program in 2009, the foundation has supported over 500 women entrepreneurs, with 91% still in business after five years. In 2024, the foundation set an ambitious goal to add $1 billion to the economy by 2030\u2014and less than a year later, its fellows have already reached nearly half that target. The program combines coaching, funding, and community to help women overcome systemic barriers.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://www.fastcompany.com/91548401/tory-burch-wants-to-help-women-add-1-billion-to-the-economy-by-2030",
-      "source_name": "fastcompany.com",
-      "published_ts": 1779962400000,
-      "image_url": "https://picsum.photos/seed/pre_0000/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 1,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "impact_innovation"
-      ],
-      "section_scores": {
         "ai_entrepreneurship": 1,
-        "young_achievers": 1,
-        "impact_innovation": 3,
-        "limelight": 5
+        "young_achievers": 4,
+        "impact_innovation": 2
       },
-      "emoji_clue": "\ud83d\udc69\u200d\ud83d\udcbc\ud83d\udcb0\ud83d\udc69\ud83d\udcbc",
-      "headline_split": "Tory Burch wants to help women add ",
+      "emoji_clue": "\ud83d\udeb4\u200d\u2642\ufe0f\ud83d\udca8\ud83e\uddb8",
+      "headline_split": "Meet a Health Hero: John Matthews of Ride Hard, ",
       "fake_endings": [
-        "$2 billion to global GDP by 2035",
-        "a million new businesses by 2030"
+        "Live Strong",
+        "Recover Well"
       ],
-      "fake_headline": "Museum Launches Free Art Program for Underserved Schools, Reaches 10,000 Students"
+      "fake_headline": "Veteran Bike Mechanic Teaches Kids to Build Their Own Bicycles",
+      "city": "Philadelphia"
     },
     {
-      "id": "batch_20260528_063734__story_007",
-      "title": "Land named for colorful character \u2018Herring Pete\u2019 added to Alaska\u2019s Kachemak Bay State Park",
-      "summary": "A 24-acre island parcel known as Herring Pete's Cove has been donated to Alaska's Kachemak Bay State Park, making the entire Nuka Island public. The acquisition protects stunning wildlife habitat and ensures public access for generations to come.",
-      "extended_summary": "Named after a Norwegian mariner who once ran a fox farm there, Herring Pete's Cove is a scenic gem on Nuka Island, now permanently protected within Kachemak Bay State Park. The Conservation Fund purchased the land and donated it to the state, completing the island's transition to public ownership. With salmon runs, seabird colonies, and breathtaking mountain views, the area is a haven for wildlife watchers and boaters. The addition ensures that this wild, beautiful place remains accessible to everyone.",
-      "category": "Transformation",
+      "id": "batch_20260528_181310__story_037",
+      "title": "Message From The Sullivan's Island Mayor",
+      "summary": "Sullivan's Island Fire & Rescue saved seven swimmers from a rip current and revived a 23-year-old who was unconscious and not breathing. The team arrived in five minutes and launched a jet ski rescue that brought everyone back alive.",
+      "extended_summary": "At 4:43 p.m., the call came in: multiple swimmers being swept out to sea near Station 16. Five minutes later, Sullivan's Island Fire & Rescue was on the water. A jet ski pulled seven people to safety, and a rescuer carried an unconscious 23-year-old to shore, where he regained consciousness and started breathing again. The town's mayor calls it a 'major rescue'\u2014and a routine day for a department that never stops training. A review is underway to make them even better.",
+      "category": "Rescue",
       "categories": [
-        "Transformation"
+        "Rescue"
       ],
-      "tones": [],
-      "source_url": "https://alaskabeacon.com/briefs/land-named-for-colorful-character-herring-pete-added-to-alaskas-kachemak-bay-state-park/",
-      "source_name": "alaskabeacon.com",
-      "published_ts": 1779836418000,
-      "image_url": "https://alaskabeacon.com/wp-content/uploads/2026/05/AK-Herring-Petes-27333-5.jpeg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://luckydognews.com/sullivans-island/message-from-the-sullivans-island-mayor_17/",
+      "source_name": "islandeyenews.com",
+      "published_ts": 1779751970000,
+      "image_url": "https://luckydognews.com/downloads/8505/download/PMO%20head%20shot.jpg?cb=4164f4094a12c957fb484b734260cccf&w=936",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
       "image_confidence": "high",
       "visual_affinity": 5,
-      "headline_pull": 4,
-      "read_time_min": 9,
+      "headline_pull": 2,
+      "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -272,15 +1434,552 @@
         "young_achievers": 1,
         "ai_entrepreneurship": 1,
         "impact_innovation": 1,
-        "limelight": 3
+        "limelight": 5
       },
-      "emoji_clue": "\ud83c\udfde\ufe0f\ud83d\udc1f\ud83d\udc64\ud83c\udf08",
-      "headline_split": "Land named for colorful character \u2018Herring Pete\u2019 added to ",
+      "emoji_clue": "\ud83c\udfdd\ufe0f\ud83d\udcdc\ud83d\udc68\u200d\ud83d\udcbc",
+      "headline_split": "Message From ",
       "fake_endings": [
-        "Alaska's newest nature preserve",
-        "a remote island sanctuary"
+        "the Town's Fire Chief",
+        "a Retired Sea Captain"
       ],
-      "fake_headline": "Local Fisherman Finds Rare Pearl, Donates Proceeds to Marine Conservation Efforts"
+      "fake_headline": "Island Marks 100 Years of Lighthouse Operation, Celebrates with Fireworks"
+    },
+    {
+      "id": "batch_20260528_181310__story_038",
+      "title": "Missing Florida dog rescued from 40-foot sinkhole reunites with family",
+      "summary": "After a week missing, a small dog was found alive inside a 40-foot sinkhole in Florida. Suwannee County Fire Rescue rappelled down, retrieved the pup unharmed, and reunited it with its overjoyed family.",
+      "extended_summary": "For more than a week, a family searched for their missing dog, never imagining it was trapped 40 feet underground. When Suwannee County Fire Rescue got the call, they didn't hesitate. Using specialized gear, a rescuer descended into the dark sinkhole, scooped up the trembling dog, and climbed back up. The pup emerged completely unharmed\u2014and ran straight into its owners' arms. It was a rare happy ending, made possible by training and a whole lot of heart.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.fox13news.com/news/missing-florida-dog-rescued-from-40-foot-sinkhole-reunites-family",
+      "source_name": "fox13news.com",
+      "published_ts": 1779837073000,
+      "image_url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2026/05/1200/630/dog-resuce-44-resized.jpg?ve=1&tl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 1,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83d\udc15\ud83d\udd73\ufe0f\ud83d\ude81\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+      "headline_split": "Missing Florida dog rescued from 40-foot sinkhole ",
+      "fake_endings": [
+        "is saved by firefighters",
+        "inspires a new rescue initiative"
+      ],
+      "fake_headline": "Cat Stuck in Tree for a Week Finally Rescued by Utility Worker",
+      "city": "Hillsborough County"
+    },
+    {
+      "id": "batch_20260528_181310__story_039",
+      "title": "Moose Street moose gets mounted on rock display",
+      "summary": "Morrilton's giant moose statue finally has a permanent home, perched on a custom-carved rock at the corner of Moose Street. Local craftsmen and a crane operator teamed up to set the landmark, honoring a century-old town legend.",
+      "extended_summary": "The seven-foot-tall moose on Moose Street used to be a temporary fixture\u2014until a team of local artisans decided to give it roots. Terry Arnold and William Howell carved a mount into a massive rock donated by Lloyd Elkins, who then used his crane to lift both into place. The statue honors the Moose family, part of a coin-flip legend that named the town. Now it stands proudly on display, a quirky monument to community pride and a good old-fashioned story.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Humor"
+      ],
+      "source_url": "https://www.kvom.com/moose-street-moose-gets-mounted-on-rock-display/",
+      "source_name": "kvom.com",
+      "published_ts": 1779458235000,
+      "image_url": "https://www.kvom.com/wp-content/uploads/2026/05/Moose-Street-Moose.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 1,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83e\udd8c\ud83e\udea8\ud83d\udee3\ufe0f",
+      "headline_split": "Moose Street moose gets mounted on ",
+      "fake_endings": [
+        "a wooden pedestal",
+        "a community billboard"
+      ],
+      "fake_headline": "Town Names Newest Bridge After Beloved Crossing Guard",
+      "city": "Conway County"
+    },
+    {
+      "id": "batch_20260528_181310__story_040",
+      "title": "Need a lift? This drivers co-op provides a local option",
+      "summary": "The Drivers Cooperative Colorado is an employee-owned rideshare that gives 80% of the fare to drivers\u2014far more than Uber or Lyft. With 1,500 drivers and growing, it's changing how Colorado gets around.",
+      "extended_summary": "When Moishua Willis saw a passenger pay $84 for a ride while he took home just $38, he knew something had to change. Now he drives for the Drivers Cooperative Colorado, a worker-owned alternative that pays 80% of each fare straight to the driver. Since launching in 2024, the co-op has grown to 1,500 drivers across the Front Range, offering a fairer model in a gig economy that often leaves workers short. Willis hands out info cards at airports, hoping more riders will choose the co-op\u2014and more drivers will keep the earnings they deserve.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.rmpbs.org/blogs/business-economy/drivers-cooperative-colorado",
+      "source_name": "rmpbs.org",
+      "published_ts": 1779901200000,
+      "image_url": "https://cdn.builder.io/api/v1/image/assets%2Fcc0dc7f878294229b6e5d2dece1e16de%2Fde9968a0b48941cd961a67c891a83fc2",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\ude97\ud83e\udd1d\ud83c\udfd8\ufe0f",
+      "headline_split": "Need a lift? This drivers co-op ",
+      "fake_endings": [
+        "is offering free rides to work",
+        "connects neighbors in need"
+      ],
+      "fake_headline": "Bike Share Program Expands to 100 New Stations Across the City",
+      "city": "Arapahoe County"
+    },
+    {
+      "id": "batch_20260528_181310__story_041",
+      "title": "New 1,100-foot accessible boardwalk opens at Tahquamenon Falls",
+      "summary": "A new 1,100-foot accessible boardwalk at Tahquamenon Falls State Park replaces a steep 94-step staircase, finally giving wheelchair users and others direct access to the breathtaking view of the Upper Falls. Now everyone can feel the spray and hear the roar of the 50-foot drop.",
+      "extended_summary": "For years, visitors who used wheelchairs could only imagine the mist and thunder of Tahquamenon Falls' iconic Upper Falls, blocked by a 94-step staircase. That changed with the opening of a new fully accessible boardwalk that stretches 1,100 feet along the river, offering everyone panoramic views of the amber-hued water as it plunges 50 feet. Park manager Kevin Dennis said the project was fueled by repeated stories of people who had never experienced the brink. The ribbon-cutting ceremony celebrated a victory for inclusive outdoor access.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://mynewberrynews.com/outdoors/new-1100-foot-accessible-boardwalk-opens-at-tahquamenon-falls/",
+      "source_name": "mynewberrynews.com",
+      "published_ts": 1779938028000,
+      "image_url": "https://mynewberrynews.com/wp-content/uploads/2026/05/Tahaquamenon-Falls-boardwalk.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\udeb5\u267f\ud83c\udf0a\ud83c\udf32",
+      "headline_split": "New 1,100-foot accessible boardwalk opens at ",
+      "fake_endings": [
+        "Yellowstone National Park",
+        "the Grand Canyon's South Rim"
+      ],
+      "fake_headline": "Town's first inclusive playground opens after community fundraising drive",
+      "city": "Newberry"
+    },
+    {
+      "id": "batch_20260528_181310__story_042",
+      "title": "New Jersey Boosts Youth Soccer With World Cup Events, Infrastructure, and Community Programs",
+      "summary": "New Jersey Youth Soccer has hit 120,000 enrolled kids, boosted by World Cup excitement and new mini-pitches in underserved areas. The state is investing in community events and adaptive programs to keep the momentum going after the 2026 FIFA World Cup.",
+      "extended_summary": "With the 2026 World Cup just around the corner, New Jersey Youth Soccer is celebrating a record 120,000 players\u2014up from 113,000 last year. The surge follows the 2025 FIFA Club World Cup and is expected to grow even more. The organization is partnering with the NYNJ Host Committee and U.S. Soccer Foundation to open 26 new mini-pitches in places like Newark and Jersey City, giving kids safe places to play. Governor Mikie Sherrill announced the plan, emphasizing opportunities for underserved communities, girls, and adaptive soccer programs like TOPSoccer.",
+      "category": "Sports",
+      "categories": [
+        "Sports"
+      ],
+      "tones": [],
+      "source_url": "https://wdhafm.com/2026/05/27/new-jersey-boosts-youth-soccer-with-world-cup-events-infrastructure-and-community-programs/",
+      "source_name": "wdhafm.com",
+      "published_ts": 1779923781000,
+      "image_url": "https://wdhafm.com/uploads/2026/05/GettyImages-1413856942.jpg?auto=webp&width=2000&height=1466",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 5
+      },
+      "emoji_clue": "\u26bd\ud83c\udf0d\ud83c\udfd7\ufe0f\ud83d\udc66\ud83d\udc67",
+      "headline_split": "New Jersey Boosts Youth Soccer With ",
+      "fake_endings": [
+        "professional training camps and international matches",
+        "state-of-the-art stadium and coaching grants"
+      ],
+      "fake_headline": "California launches free coding camps for underprivileged teens",
+      "city": "Morris County"
+    },
+    {
+      "id": "batch_20260528_181310__story_043",
+      "title": "New Seed Exchange in Thornton Park",
+      "summary": "Thornton Park now has a permanent seed exchange housed in a Little Free Library-style box outside Kaleidoscope/Solai Coffee. Over 200 seed packets have been swapped already, with neighbors sharing flowers, vegetables, and native plants.",
+      "extended_summary": "The Thornton Park Neighborhood Association installed a seed exchange that looks just like a Little Free Library, and it's already a hit. Over 200 packets of seeds\u2014from flowers to native Florida plants\u2014have been taken and left by gardening enthusiasts. The exchange is attached to the front fence of Kaleidoscope Coffee, giving it great visibility. Organizers encourage people to bring back labeled seeds to keep the cycle growing. It's a small project that's turning into a community hub for green thumbs.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.yourcommunitypaper.com/articles/new-seed-exchange-in-thornton-park/",
+      "source_name": "community-paper.com",
+      "published_ts": 1779935931000,
+      "image_url": "https://www.yourcommunitypaper.com/wp-content/uploads/2026/05/20260410_184730-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf31\ud83d\udd04\ud83c\udf3b\ud83c\udfe1",
+      "headline_split": "New Seed Exchange in ",
+      "fake_endings": [
+        "downtown Denver",
+        "Central Park"
+      ],
+      "fake_headline": "Volunteers revive historic library with book donation drive",
+      "city": "Orange County"
+    },
+    {
+      "id": "batch_20260528_181310__story_044",
+      "title": "New fire station shapes better outcomes for emergencies at industrial park",
+      "summary": "A new fire station in Columbus, Mississippi cuts emergency response time from 20 minutes to just six at a major industrial park. The advanced life support team has already saved two workers critically injured in a flash fire.",
+      "extended_summary": "Every minute counts when an accident happens at the industrial park west of Columbus. Before October, ambulances took 20 minutes to arrive. Now, with Industrial Fire and Rescue's new station, paramedics are on scene in about six minutes. The team is advanced life support certified, meaning they can provide painkillers, IV fluids, and soon blood transfusions. Station manager Neal Austin says the faster response already saved two workers from a flash fire at SDI's Biocarbon Solutions plant\u2014proof that the right resources can turn tragedy into survival.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://cdispatch.com/news/new-fire-station-shapes-better-outcomes-for-emergencies-at-industrial-park/",
+      "source_name": "cdispatch.com",
+      "published_ts": 1779916154000,
+      "image_url": "https://cdispatch.com/wp-content/uploads/2026/05/bsimmons-SaluteFire1.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\ude92\ud83c\udfed\u23f1\ufe0f\u2705",
+      "headline_split": "New fire station shapes better outcomes for emergencies at ",
+      "fake_endings": [
+        "the airport",
+        "a chemical plant"
+      ],
+      "fake_headline": "Retired firefighter donates ambulance to rural community",
+      "city": "Columbus"
+    },
+    {
+      "id": "batch_20260528_181310__story_045",
+      "title": "Owl Found Stuck In A Concrete Mixer Is On The Mend",
+      "summary": "A great horned owl trapped in a concrete mixer at a Utah construction site is recovering after an intricate rescue. Workers hosed him down, and sanctuary staff spent days picking concrete from his feathers using toothbrushes and forceps.",
+      "extended_summary": "An adolescent great horned owl found his way into a concrete truck mixer at a resort construction site, and workers discovered him just in time. They hosed him off and rushed him to Best Friends Animal Sanctuary, where staff used toothbrushes, dish soap, and forceps to painstakingly remove dried concrete from his face, chest, and wing. When his feathers didn't grow back as expected, the team performed a delicate procedure called imping\u2014grafting donor feathers onto his own shafts. Now he's flying again, a little wiser and a lot cleaner.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://focusnewspaper.com/owl-found-stuck-in-a-concrete-mixer-is-on-the-mend/",
+      "source_name": "focusnewspaper.com",
+      "published_ts": 1779940256000,
+      "image_url": "https://focusnewspaper.com/wp-content/uploads/2026/05/OOFOwl.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83e\udd89\ud83e\uddf1\ud83c\udfe5\u2764\ufe0f",
+      "headline_split": "Owl Found Stuck In A Concrete Mixer Is ",
+      "fake_endings": [
+        "recovering quickly",
+        "getting stronger"
+      ],
+      "fake_headline": "Rescued dolphin returns to ocean after successful surgery",
+      "city": "Hickory"
+    },
+    {
+      "id": "batch_20260528_181310__story_046",
+      "title": "Paddle for a purpose: The Mississippi 1,000",
+      "summary": "Longtime teacher Ty Sassaman is paddling 1,000 miles down the Mississippi River this summer to raise money for outdoor experiences for his students. The 55-year-old launches June 19 and will reach Hannibal, Missouri by August 1.",
+      "extended_summary": "Ty Sassaman, a 55-year-old reading specialist from Longfellow, is taking on a 1,000-mile canoe trip down the Upper Mississippi River\u2014starting at Itasca State Park and ending in Hannibal, Missouri. He's paddling a tandem canoe solo, kneeling in the center to keep it balanced. But this isn't just a personal adventure; he's using the journey to raise money for outdoor experiences for students at his school. Sassaman, who once biked across America and wrote a book about asking strangers one question, says the trip is his way of celebrating the nation's 250th anniversary while giving back.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "http://www.longfellownokomismessenger.com/stories/paddle-for-a-purpose-the-mississippi-1000,165012",
+      "source_name": "longfellownokomismessenger.com",
+      "published_ts": 1779918120000,
+      "image_url": "https://gamma.creativecirclecdn.com/messenger/original/20260527-124120-9d1-IMG_1680.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83d\udef6\ud83c\udf0a\ud83c\udfaf\ud83c\udfc1",
+      "headline_split": "Paddle for a purpose: The Mississippi ",
+      "fake_endings": [
+        "River Challenge",
+        "Cleanup Project"
+      ],
+      "fake_headline": "Kayaker completes solo circumnavigation of Lake Michigan for charity"
+    },
+    {
+      "id": "batch_20260528_181310__story_047",
+      "title": "Pay It Forward Scholarship Awarded to Izzy Torgerson",
+      "summary": "Izzy Torgerson received a $10,000 'Pay It Forward' scholarship, completely surprising her. An anonymous donor was impressed by how she cared for residents at the Harmony Care Center and wanted to help her go to college.",
+      "extended_summary": "Izzy Torgerson thought she was just listening to someone else get an award at the Mabel-Canton scholarship ceremony\u2014until her own name was called for a $10,000 Pay It Forward scholarship. An anonymous donor had watched Izzy interact with residents at the Gundersen Harmony Care Center, where she worked. The donor asked around and heard nothing but praise for how she treated everyone with dignity. The donor told the school they pay it forward once a year. For Izzy, it was a life-changing surprise that turned her college dream into reality.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://fillmorecountyjournal.com/pay-it-forward-scholarship-awarded-to-izzy-torgerson/",
+      "source_name": "fillmorecountyjournal.com",
+      "published_ts": 1779820723000,
+      "image_url": "https://fillmorecountyjournal.com/wp-content/uploads/2026/05/Izzy-Torgerson-pic-1.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83c\udf93\ud83d\udcb5\ud83e\udd1d\ud83d\udc69\ud83c\udf89",
+      "headline_split": "Pay It Forward Scholarship Awarded to ",
+      "fake_endings": [
+        "a young activist",
+        "a local hero"
+      ],
+      "fake_headline": "Anonymous donor funds full-ride scholarship for aspiring nurse",
+      "city": "Preston"
+    },
+    {
+      "id": "batch_20260528_181310__story_048",
+      "title": "Pine City marks birthplace of rural LGBTQ Pride with historical marker",
+      "summary": "Pine City, Minnesota installed the state's first LGBTQ historical marker, recognizing the town as the birthplace of rural LGBTQ Pride. The first picnic in 2005 drew 50 people; now 3,500 attend annually, inspiring 200 other rural events.",
+      "extended_summary": "A new historical marker in Pine City's Voyageur Park honors something unexpected: the first rural LGBTQ Pride celebration in the country. In 2005, a picnic drew 50\u201370 people who wanted to show that you don't have to leave small towns to find community. That event, East Central Minnesota Pride, now attracts 3,500 people and has inspired roughly 200 similar rural Pride events across the U.S. The marker, installed with the Minnesota Historical Society, is the first LGBTQ historical landmark in the state. Organizer Aaron Bombard said it sends a powerful message: 'You don't have to flee to a big city to be yourself.'",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.fox9.com/news/pine-city-marks-birthplace-rural-lgbtq-pride-historical-marker",
+      "source_name": "fox9.com",
+      "published_ts": 1779865567000,
+      "image_url": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/05/1200/630/vlcsnap-2026-05-26-21h02m04s785.jpg?ve=1&tl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udff3\ufe0f\ud83c\udf08\ud83d\udccd\ud83c\udfdb\ufe0f\ud83c\udf32",
+      "headline_split": "Pine City marks birthplace of rural LGBTQ Pride with ",
+      "fake_endings": [
+        "a new monument",
+        "a vibrant mural"
+      ],
+      "fake_headline": "Small town erects statue honoring local civil rights pioneer",
+      "city": "Hennepin County"
+    },
+    {
+      "id": "batch_20260528_181310__story_049",
+      "title": "Ride It Out: How Cycling Helps Kids Focus",
+      "summary": "A cycling class at a Wisconsin middle school is helping kids with ADHD focus better. Fifth grader Jimmy G. went from disruptive to attentive after riding, showing that a bike ride can change a student's whole day.",
+      "extended_summary": "Jimmy G., a fifth grader with ADHD, used to come to class unfocused and disruptive\u2014up out of his chair, blurting out answers. Then he started a cycling class through Outride's Riding for Focus program. His teacher says after riding, he sits down calmly and gets to work like a different kid. The program was inspired by Specialized founder Mike Sinyard, who has ADHD and noticed biking helped him concentrate. Now, research from Outride is backing up what teachers and parents are seeing: a bike ride can rewire a brain for focus.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://reasonstobecheerful.world/cycling-helps-kids-focus/",
+      "source_name": "reasonstobecheerful.world",
+      "published_ts": 1779454844000,
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/05/R4F-Silver-Stallion-Bicycle-and-Coffee-Works-in-Gallup-New-Mexico.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 11,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udeb4\ud83e\udde0\ud83d\udc66\ud83d\udc67\u2705",
+      "headline_split": "Ride It Out: How Cycling Helps Kids ",
+      "fake_endings": [
+        "learn discipline",
+        "build confidence"
+      ],
+      "fake_headline": "Yoga in classrooms improves student test scores, study finds"
+    },
+    {
+      "id": "batch_20260528_181310__story_050",
+      "title": "Ridglan Farms beagles: Dog with cancer adopted by Wisconsin family",
+      "summary": "A Wisconsin family adopted Bailey, a beagle rescued from Ridglan Farms, even after learning she has cancer. They're determined to give her the best life, whether that's weeks or months, proving every moment matters.",
+      "extended_summary": "Bailey, a 6-year-old beagle, spent her entire life breeding puppies for scientific research at Ridglan Farms. When she was freed, Jeanne Truax and her husband Lyle fostered her\u2014and then adopted her despite a cancer diagnosis that could cut her life short. Jeanne says something tugged at her to help this beagle. Bailey is learning to be a dog for the first time, and her new family is cherishing every wag of her tail. 'Even a short life can be a good one,' they say.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.fox6now.com/news/ridglan-farms-beagles-bailey-rescued-cancer",
+      "source_name": "fox6now.com",
+      "published_ts": 1779938906000,
+      "image_url": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2026/05/1200/630/5p-polcyn-bailey-beagle-pkg_witic260_702_mp4_00.01.08.22.jpg?ve=1&tl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 1,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83d\udc15\ud83c\udf97\ufe0f\ud83c\udfe1\u2764\ufe0f",
+      "headline_split": "Ridglan Farms beagles: Dog with cancer adopted by ",
+      "fake_endings": [
+        "a loving couple",
+        "a group of students"
+      ],
+      "fake_headline": "Senior cat finds forever home after spending years in shelter",
+      "city": "Brown Deer"
     }
   ]
 }
