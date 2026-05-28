@@ -1,7 +1,7 @@
 {
-  "batch_id": "batch_20260528_162845",
-  "created_at": "2026-05-28T16:28:45.733143",
-  "story_count": 9,
+  "batch_id": "batch_20260528_171044",
+  "created_at": "2026-05-28T17:10:44.899303",
+  "story_count": 10,
   "stories": [
     {
       "id": "batch_20260528_181310__story_053",
@@ -368,6 +368,46 @@
         "bootstrapped startup acquired by Google"
       ],
       "fake_headline": "How a single mom built a $10 million skincare brand from her kitchen"
+    },
+    {
+      "id": "batch_20260528_211043__story_001",
+      "title": "Building a $4k/mo portfolio after an undiversified marketing strategy tanked his $800k business",
+      "summary": "After losing an $800k app business due to over-reliance on one marketing channel, Louis-David Paul-Hus rebuilt with a diversified portfolio of apps\u2014earning $4k/month within four months using modern AI tools. His story proves that resilience and strategic pivots can turn failure into sustainable success.",
+      "extended_summary": "Louis-David Paul-Hus once had an app generating $800,000 in revenue\u2014until a single marketing channel dried up and took everything. Instead of giving up, he rebuilt from scratch using Claude Code, OpenAI, and Gemini APIs to create a portfolio of apps. Within just four months, his diversified approach was earning $4,000 per month, proving that adaptability and smart tooling can turn a devastating loss into a steady comeback.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.indiehackers.com/post/n3ROXFtp7nWcTWO1XayK",
+      "source_name": "indiehackers.com",
+      "published_ts": 1779800400000,
+      "image_url": "https://storage.googleapis.com/indie-hackers.appspot.com/post-images/n3ROXFtp7nWcTWO1XayK/vOqaQ3DJwYRP8MNEjUOSMger71w1/louis-david-paul-hus-founder-of-archetype.png",
+      "display_mode": "image",
+      "display_reason": "hero always uses image mode (summary always visible)",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83d\udcc9\ud83c\udfaf\ud83d\udcbc\ud83d\udcc8\ud83d\udcb5",
+      "headline_split": "Building a $4k/mo portfolio after an undiversified marketing strategy ",
+      "fake_endings": [
+        "earned him a LinkedIn feature",
+        "landed him a TEDx talk"
+      ],
+      "fake_headline": "Dog That Spent 7 Years in Shelter Finally Adopted by Entire Nursing Home as Therapy Pet"
     }
   ]
 }

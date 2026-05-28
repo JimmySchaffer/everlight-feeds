@@ -1,7 +1,7 @@
 {
-  "batch_id": "batch_20260528_152855",
-  "created_at": "2026-05-28T15:28:55.181008",
-  "story_count": 7,
+  "batch_id": "batch_20260528_162845",
+  "created_at": "2026-05-28T16:28:45.733143",
+  "story_count": 9,
   "stories": [
     {
       "id": "batch_20260528_181310__story_053",
@@ -284,6 +284,90 @@
         "predict patient outcomes"
       ],
       "fake_headline": "Teen Develops Affordable Bionic Hand That Can Play Piano"
+    },
+    {
+      "id": "batch_20260528_202845__story_001",
+      "title": "\"Dumbest idea I've heard\" to $100M ARR: Inside the rise of Gamma",
+      "summary": "What started as an idea VCs called 'the dumbest' is now a $100M ARR profitable AI unicorn. Gamma, founded by Grant Lee, went from skepticism to vindication with just 50 employees \u2014 proving that the best ideas often sound crazy at first.",
+      "extended_summary": "VCs told Grant Lee his AI presentation tool Gamma was 'the dumbest idea' \u2014 five years later, it's a profitable unicorn at $100M ARR with only 50 employees. The company's rise from dismissed startup to industry player is a lesson in ignoring skeptics. Gamma's lean team and profitable growth stand out in the capital-intensive AI space.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.lennysnewsletter.com/p/how-50-people-built-a-profitable-ai-unicorn",
+      "source_name": "lennysnewsletter.com",
+      "published_ts": 1775016000000,
+      "image_url": "https://substackcdn.com/image/fetch/$s_!3HMG!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12dbda5b-eb58-4fa8-acb2-127f2b2ec4de_2048x2048.png",
+      "display_mode": "image",
+      "display_reason": "hero always uses image mode (summary always visible)",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 5,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "young_achievers": 5,
+        "limelight": 1,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udca1\ud83d\ude05\ud83d\udcb8\ud83d\ude80",
+      "headline_split": "\"Dumbest idea I've heard\" to $100M ARR: Inside the rise of ",
+      "fake_endings": [
+        "a social network for pets",
+        "a video conferencing tool during lockdown"
+      ],
+      "fake_headline": "From garage to global: How a teen's lemonade stand became a $50 million beverage empire"
+    },
+    {
+      "id": "batch_20260528_202845__story_002",
+      "title": "The Base44 bootstrapped startup success story",
+      "summary": "Maor Shlomo, a solo founder with severe ADHD, built Base44 to $1M ARR just three weeks after launch \u2014 all while navigating two wars in Israel and never raising funding. The AI app builder was acquired by Wix for over $80M six months later.",
+      "extended_summary": "Despite severe ADHD and the chaos of two active wars in Israel, Maor Shlomo bootstrapped Base44 to $1M ARR in three weeks and gained 400,000 users. The solo founder never took outside funding, relying on grit and his AI-powered app builder. Within six months, Wix acquired the company for over $80M \u2014 a testament to the power of focused, resilient entrepreneurship.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.lennysnewsletter.com/p/the-base44-bootstrapped-startup-success-story-maor-shlomo",
+      "source_name": "lennysnewsletter.com",
+      "published_ts": 1775016000000,
+      "image_url": "https://substackcdn.com/image/fetch/$s_!LkEk!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5998a3d-45db-4742-a56d-6034b1baa28c_2048x2048.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "impact_innovation": 1,
+        "limelight": 1,
+        "ai_entrepreneurship": 5
+      },
+      "emoji_clue": "\ud83d\udc62\ud83d\ude804\ufe0f\u20e34\ufe0f\u20e3",
+      "headline_split": "The Base44 ",
+      "fake_endings": [
+        "bootstrapped startup that went public",
+        "bootstrapped startup acquired by Google"
+      ],
+      "fake_headline": "How a single mom built a $10 million skincare brand from her kitchen"
     }
   ]
 }
