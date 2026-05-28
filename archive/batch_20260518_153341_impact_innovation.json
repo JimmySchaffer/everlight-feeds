@@ -1,0 +1,2030 @@
+{
+  "batch_id": "batch_20260518_153341_impact_innovation",
+  "created_at": "2026-05-18T15:33:41Z",
+  "section": "impact_innovation",
+  "story_count": 50,
+  "stories": [
+    {
+      "id": "batch_20260518_153341__story_095",
+      "title": "Asiatic Wild Ass Returns to Eastern Mongolia After 65-year Isolation from Landscape Fencing",
+      "summary": "After 65 years away, Asiatic wild asses are returning to eastern Mongolia. Fence removal and safe corridors along the Trans-Mongolian Railway are helping them recolonize their ancestral lands.",
+      "extended_summary": "For six decades, fencing along the Trans-Mongolian Railway kept the khulan (Asiatic wild ass) locked out of eastern Mongolia. Conservation groups worked with the government to remove stretches of fence and designate a safe passage zone. Now hundreds of khulan have crossed and are starting to re-establish. Scientists call it an extraordinary conservation breakthrough.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.goodnewsnetwork.org/asiatic-wild-ass-returns-to-eastern-mongolia-after-65-year-isolation-from-landscape-fencing/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1778515250000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/The-Asiatic-wild-ass-on-the-Mongolian-stepps-Credit-\u00a9\ufe0fWCS-Mongolia.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc0e\ud83d\uddfa\ufe0f\ud83d\udd19\ud83d\udd12",
+      "headline_split": "Asiatic Wild Ass Returns to Eastern Mongolia After 65-year Isolation ",
+      "fake_endings": [
+        "from Overgrazing Activities",
+        "from Severe Drought Conditions"
+      ],
+      "fake_headline": "Endangered Sea Turtle Population Reaches Record High After Decade-Long Conservation Effort"
+    },
+    {
+      "id": "batch_20260518_153341__story_096",
+      "title": "Breck\u2019s old-school fire chief is sold on new-school AI cameras for wildfire",
+      "summary": "AI-powered cameras are helping Summit County firefighters spot and extinguish wildfires before they grow. The fire chief calls them a game changer.",
+      "extended_summary": "Five AI cameras installed by Xcel Energy now scan Summit County for smoke and hot spots. Fire Chief Drew Hoehn says they've cut response times dramatically, often catching fires before the public even knows they're burning. With hundreds of small starts every season, early detection means these never become the 20-30 fires that earn names.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://krystal93.com/brecks-old-school-fire-chief-is-sold-on-new-school-ai-cameras-for-wildfire/",
+      "source_name": "krystal93.com",
+      "published_ts": 1778875860000,
+      "image_url": "https://krystal93.com/wp-content/uploads/2026/05/wildfire-pic.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83d\udd25\ud83d\udc68\u200d\ud83d\ude92\ud83d\udcf8\ud83e\udd16",
+      "headline_split": "Breck\u2019s old-school fire chief is sold on new-school ",
+      "fake_endings": [
+        "drones for aerial surveillance",
+        "sensors for smoke detection"
+      ],
+      "fake_headline": "Old-school librarian uses AI to digitize rare books and make them accessible online",
+      "city": "Summit County"
+    },
+    {
+      "id": "batch_20260518_153341__story_070",
+      "title": "Brother-Sister Duo Are Using Drones to Help Farmers Triple Their Income",
+      "summary": "Siblings Devika and Devan Chandrasekharan built drones that can spot plant diseases early and spray only where needed \u2014 helping over 3,500 farmers boost yields by up to 35% and triple their profits while cutting fertilizer use by 75%.",
+      "extended_summary": "Brother-sister duo Devika and Devan Chandrasekharan started Fuselage Innovations in 2020 with a simple mission: use drones to make farming smarter. Their drones Niriksh and Fiya work together \u2014 Niriksh scans fields with sensors to detect pests and nutrient deficiencies, and Fiya precisely sprays only the affected plants. After working with 3,500 farmers, they've seen yields jump 25-35%, fertilizer use drop 75%, and profits triple. For small farmers in Kerala, these drones aren't just cool tech \u2014 they're a lifeline to sustainable income.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://thebetterindia.com/313423/kerala-siblings-use-drone-for-agriculture-help-farmers-increase-yield-and-income/",
+      "source_name": "thebetterindia.com",
+      "published_ts": 1778848237000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/uploads/2023/03/drone-1679573828.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "limelight": 2,
+        "young_achievers": 4,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc6b\ud83d\udef8\ud83c\udf3e\ud83d\udcc8",
+      "headline_split": "Brother-Sister Duo Are Using Drones to Help Farmers Triple Their ",
+      "fake_endings": [
+        "Harvest",
+        "Yield"
+      ],
+      "fake_headline": "Meet the Teen Who Built a Water Filtration System That Turns Sewage Into Drinking Water for Villages"
+    },
+    {
+      "id": "batch_20260518_153341__story_090",
+      "title": "Clinics at scale: How Ilara Health is building Africa's quiet health infrastructure",
+      "summary": "Emilian Popa runs a healthtech company that does not behave like one. While investors spent years debating whether African healthtech could scale sustainably, Ilara Health concentrated on a narrower and more practical problem: small private clinics lack diagnostic equipment because they cannot afford to finance it. The company\u2019s response has been straightforward. It supplies clinics with medical e",
+      "extended_summary": "Emilian Popa runs a healthtech company that does not behave like one. While investors spent years debating whether African healthtech could scale sustainably, Ilara Health concentrated on a narrower and more practical problem: small private clinics lack diagnostic equipment because they cannot afford to finance it. The company\u2019s response has been straightforward. It supplies clinics with medical equipment on credit, layers in software and data tools, and gradually turns fragmented operators into part of a functioning network. The model is beginning to achieve meaningful scale. Ilara says it has now served more than two million patients across around 3,000 clinics in Kenya and Uganda, a segment long considered too fragmented and informal to organise effectively. Popa, a former executive at ",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://african.business/2026/05/innov-africa-deals/clinics-at-scale-how-ilara-health-is-building-africas-quiet-health-infrastructure",
+      "source_name": "african.business",
+      "published_ts": 1779025921000,
+      "image_url": "https://african.business/wp-content/uploads/2026/05/1_pNy5yhpf-yVrqHG2ZnYgsg-scaled.webp",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 3,
+        "limelight": 2,
+        "ai_entrepreneurship": 3,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83c\udf0d\ud83d\udd27\ud83e\udd2b",
+      "headline_split": "Clinics at scale: How Ilara Health is building Africa's quiet health ",
+      "fake_endings": [
+        "economy",
+        "workforce"
+      ],
+      "fake_headline": "Solar-Powered Vaccine Coolers Reach Remote Villages in India"
+    },
+    {
+      "id": "batch_20260518_153341__story_097",
+      "title": "Colorado nonprofit offers to buy water for fish, a deal that could help farms weather record drought",
+      "summary": "Colorado Water Trust is buying water for fish during the drought, using a new law that allows water to be used for environmental purposes. It could also help farmers earn cash from spare water.",
+      "extended_summary": "As drought drains Colorado's streams, the Colorado Water Trust is trying something new: buying water from owners and putting it back into rivers for fish. New state laws allow water to be used for the environment. The trust has already restored over 98,000 acre-feet. Executive director Kate Ryan calls the drought unprecedented but sees opportunity for ranchers to sell spare water \u2014 a win for farms and fish alike.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://coloradosun.com/2026/05/17/colorado-water-trust-fish-farms-ranches-stream-flows-drought/",
+      "source_name": "coloradosun.com",
+      "published_ts": 1779030600000,
+      "image_url": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2025/08/20250814-ARKANSAS-DARTER-COLO-SUN-0894-1-scaled.jpg?fit=2560%2C1707&quality=85&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 5,
+        "limelight": 3
+      },
+      "emoji_clue": "\ud83d\udc1f\ud83d\udca7\ud83c\udfd4\ufe0f\ud83e\udd32",
+      "headline_split": "Colorado nonprofit offers to buy water for fish, ",
+      "fake_endings": [
+        "a plan that also saves water for wildlife habitats",
+        "an initiative to reduce water usage by 20%"
+      ],
+      "fake_headline": "Nonprofit partners with farmers to create 'bee highways' across five states to save pollinators"
+    },
+    {
+      "id": "batch_20260518_153341__story_057",
+      "title": "He quit his senior engineering job, moved back with his parents, and built Kleo from zero to $62K MRR in 90 days",
+      "summary": "Cameron Whiteside left his senior engineering job in London, moved back in with his parents, and built a Chrome extension called Kleo that helps people write better LinkedIn content. With co-founders who had massive social audiences, Kleo hit $62K monthly recurring revenue in just 90 days.",
+      "extended_summary": "Cameron Whiteside made a bold bet: quit his senior engineering role, move back into his parents' house, and build a startup with near-zero burn. The result was Kleo, a Chrome extension that makes writing LinkedIn content easier. But the real genius was distribution: he partnered with co-founders who already had hundreds of thousands of followers, turning their organic reach into free customer acquisition. In under 90 days, Kleo hit $62K in monthly recurring revenue. His takeaway? 'Audience compounds faster than product when the product is small enough to grasp in one sentence.'",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://tamimbuilds.medium.com/8-solo-founders-who-quietly-hit-20k-62k-mrr-in-the-last-6-months-5032e610badc#kleo",
+      "source_name": "medium.com",
+      "published_ts": 1777939200000,
+      "image_url": "https://picsum.photos/seed/research_aie_v2_0001/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "limelight": 2,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udcbc\ud83d\udeab\ud83c\udfe0\ud83d\udcc8\ud83d\udcb2",
+      "headline_split": "He quit his senior engineering job, moved back with his parents, and built Kleo from zero to ",
+      "fake_endings": [
+        "a $100,000 revenue streak in just 45 days",
+        "a profitable side project that replaced his salary"
+      ],
+      "fake_headline": "She left her corporate job to start a food truck and ended up with a chain of 20 locations",
+      "city": "London"
+    },
+    {
+      "id": "batch_20260518_153341__story_098",
+      "title": "Japan built robot wolves to thwart bear attack, and they\u2019re flying off the shelves",
+      "summary": "Japan's glowing robot wolves, originally for deer, are now scaring bears away as attacks surge. Demand is so high buyers wait three months.",
+      "extended_summary": "Ohta Seiki's 'Monster Wolf' robot has glowing red eyes, moving head, and blasts wolf howls and industrial noise. It was built to scare deer but now defends neighborhoods from bears. CCTV shows bears and boars fleeing on sight. With Japan seeing over 50,000 bear sightings, the robots are flying off the shelves \u2014 and the waitlist is three months long.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://www.digitaltrends.com/cool-tech/japan-built-robot-wolves-to-thwart-bear-attack-and-theyre-flying-off-the-shelves/",
+      "source_name": "digitaltrends.com",
+      "published_ts": 1779074933000,
+      "image_url": "https://www.digitaltrends.com/tachyon/2026/05/Monster-Wolf-Robot-in-Japan-Featured.jpg?resize=1200%2C630",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 1,
+        "impact_innovation": 5,
+        "ai_entrepreneurship": 1
+      },
+      "emoji_clue": "\ud83d\udc3a\ud83e\udd16\ud83d\uded1\ud83d\udc3b",
+      "headline_split": "Japan built robot wolves to thwart bear attacks, ",
+      "fake_endings": [
+        "and they are now used in 10 countries",
+        "and they have a 90% success rate"
+      ],
+      "fake_headline": "California uses robotic coyotes to scare off invasive iguanas from coastal towns"
+    },
+    {
+      "id": "batch_20260518_153341__story_099",
+      "title": "More public restrooms will get diaper changing tables after Arlington state senator\u2019s efforts",
+      "summary": "Virginia will require diaper changing tables in new public buildings, after a state senator who struggled to find them pushed for the change.",
+      "extended_summary": "State Sen. Elizabeth Bennett-Parker was in a restaurant with her daughter and couldn't find a changing table. That frustration became a policy win. Virginia's Board of Housing voted to require changing tables in new public buildings \u2014 including hotels and rest stops \u2014 on both male and female restrooms. The rule takes effect in 2027, giving caregivers a clean, safe place to change their babies.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.arlnow.com/2026/05/14/more-public-restrooms-will-get-diaper-changing-tables-after-arlington-state-senators-efforts/",
+      "source_name": "arlnow.com",
+      "published_ts": 1778802335000,
+      "image_url": "https://www.arlnow.com/wp-content/uploads/2026/01/Del.-Elizabeth-Bennett-Parker-is-the-Democratic-nominee-for-the-39th-Senate-District-special-election-staff-photo-by-James-Cullum-.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc76\ud83d\udebb\ud83d\uddf3\ufe0f\ud83c\udfdb\ufe0f",
+      "headline_split": "More public restrooms will get diaper changing tables ",
+      "fake_endings": [
+        "thanks to a new state law signed this week",
+        "through a community fundraising campaign"
+      ],
+      "fake_headline": "State senator secures funding for free menstrual products in all public schools"
+    },
+    {
+      "id": "batch_20260518_153341__story_100",
+      "title": "Pastor Jamal Bryant Converts 35 Church Acres Into 390 Affordable Homes For Black Families",
+      "summary": "Pastor Jamal Bryant is converting 35 acres of church land into 390 affordable homes for Black families in Atlanta, aiming to build generational wealth through homeownership.",
+      "extended_summary": "New Birth Missionary Baptist Church is turning debt-free land into New Birth Village \u2014 390 homes affordable for teachers, nurses, and first-time buyers. Pastor Jamal Bryant launched the project with faith-based partners. The development includes mixed-use spaces and senior housing. The goal: turn renters into owners and create lasting wealth for Black families across the region.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://newsone.com/6860328/pastor-jamal-bryant-affordable-homes-for-black-families/",
+      "source_name": "newsone.com",
+      "published_ts": 1778708995000,
+      "image_url": "https://newsone.com/wp-content/uploads/sites/22/2026/05/17786892710618.jpg?quality=80&strip=all&w=1024&crop=0,0,100,639px",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\u26ea\ufe0f\ud83c\udfd8\ufe0f\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "headline_split": "Pastor Jamal Bryant Converts 35 Church Acres Into ",
+      "fake_endings": [
+        "a Multi-Purpose Community Center",
+        "a Job Training Center for Youth"
+      ],
+      "fake_headline": "Mosque launches community kitchen that serves 1,000 meals daily to the needy"
+    },
+    {
+      "id": "batch_20260518_153341__story_101",
+      "title": "Pennsylvania greenhouse stays warm by storing heat underground",
+      "summary": "Tim Clymer built a climate battery greenhouse that stores heat underground during sunny days and releases it when cold, allowing year-round citrus growing without propane. He now shares his design to help other farmers adopt this sustainable method.",
+      "extended_summary": "On warm days, fans blow hot air into underground tubes, heating the soil like a thermal battery. When temperatures drop, the system reverses, drawing stored heat back into the greenhouse. Clymer has grown figs, Meyer lemons, and satsumas for nine years without burning fossil fuels, and his company now helps other farmers build their own climate batteries.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://yaleclimateconnections.org/2026/05/pennsylvania-greenhouse-stays-warm-by-storing-heat-underground/",
+      "source_name": "yaleclimateconnections.org",
+      "published_ts": 1778860800000,
+      "image_url": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/05/051526_greenhouse_1600.jpg?fit=1600%2C900&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5,
+        "young_achievers": 3
+      },
+      "emoji_clue": "\ud83c\udf3f\u2668\ufe0f\ud83d\udd73\ufe0f",
+      "headline_split": "Pennsylvania greenhouse stays warm by ",
+      "fake_endings": [
+        "tapping into a nearby hot spring",
+        "powered by donated heat from a bakery"
+      ],
+      "fake_headline": "Chicago rooftop apiary produces 500 pounds of honey each year from native wildflowers"
+    },
+    {
+      "id": "batch_20260518_153341__story_102",
+      "title": "Shared rent and free classes: How a new community center in Five Points gets it done",
+      "summary": "Bruno Tapia Garcia opened the Colorado People's Center with 70 volunteers splitting the rent, offering affordable space for grassroots groups and free classes, clinics, and an art gallery. The center fills a critical need for accessible community spaces in Denver.",
+      "extended_summary": "Garcia noticed grassroots groups struggled to find affordable meeting spaces, so he signed a lease and rallied 70 volunteers to share the monthly rent. Electricians volunteered to renovate for free, and the 6,000-square-foot building now houses over 20 rooms, a craft closet, and a lending library. The center opened in April with a mission-first approach and no funding from groups outside their values.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.rmpbs.org/blogs/business-economy/colorado-peoples-center-denver",
+      "source_name": "rmpbs.org",
+      "published_ts": 1778518800000,
+      "image_url": "https://cdn.builder.io/api/v1/image/assets%2Fcc0dc7f878294229b6e5d2dece1e16de%2F5c47c0716f254083924af0151f449c94",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83c\udfe0\ud83e\udd1d\ud83d\udcda",
+      "headline_split": "Shared rent and free classes: How a new community center in Five Points ",
+      "fake_endings": [
+        "opens a free health clinic",
+        "starts a community choir"
+      ],
+      "fake_headline": "A small library in rural Kentucky now offers free Wi-Fi via donated satellites",
+      "city": "Arapahoe County"
+    },
+    {
+      "id": "batch_20260518_153341__story_103",
+      "title": "The new TB diagnostic that could replace 150 years of microscope testing",
+      "summary": "A portable $300 device called MiniDock MTB can detect tuberculosis using a tongue swab, replacing a 150-year-old microscope test that misses half of cases. A new study across Africa and Asia verified its accuracy, offering hope for faster, more accessible diagnosis.",
+      "extended_summary": "For 150 years, TB diagnosis required a phlegm sample examined under a microscope, but many patients\u2014especially children and the elderly\u2014can't produce phlegm. The MiniDock MTB heats and spins a swab or sample to scan for TB DNA, costing just $3\u2013$4 per test. In a study of nearly 1,400 patients across seven countries, it met WHO accuracy targets, potentially saving millions of lives by catching cases earlier.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.optimistdaily.com/2026/05/the-new-tb-diagnostic-that-could-replace-150-years-of-microscope-testing/",
+      "source_name": "optimistdaily.com",
+      "published_ts": 1779080450000,
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/152162967_m-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83e\udda0\ud83d\udd2c\u274c",
+      "headline_split": "The new TB diagnostic that could replace ",
+      "fake_endings": [
+        "traditional sputum culture methods",
+        "costly laboratory infrastructure"
+      ],
+      "fake_headline": "Rare white bison calf born at Yellowstone is considered a sacred sign"
+    },
+    {
+      "id": "batch_20260518_153341__story_002",
+      "title": "44-acre solar farm to be built in Wrangell",
+      "summary": "A 44-acre solar farm is coming to Wrangell, Alaska, aiming to replace expensive diesel power during maintenance outages. The project starts at 1.5 megawatts and promises to slash costs and boost energy resilience for the island community.",
+      "extended_summary": "Wrangell burns diesel for at least a week each June, costing around $250,000. A new solar farm will offset that entirely. Borough manager Mason Villarma calls it 'huge for economic development.' The farm will start at 1.5 MW and expand to 5 MW with battery storage, keeping lights on during outages. It complements the town's existing hydropower and prepares Wrangell for future growth.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.kstk.org/2026/05/14/wrangell-to-build-solar-farm/",
+      "source_name": "kstk.org",
+      "published_ts": 1778812040000,
+      "image_url": "https://www.kstk.org/wp-content/uploads/2026/05/Solar-Site-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 5
+      },
+      "emoji_clue": "\u2600\ufe0f\ud83c\udfde\ufe0f\ud83d\udd0b\ud83c\udf32",
+      "headline_split": "44-acre solar farm to be built",
+      "fake_endings": [
+        "by local high school students",
+        "on abandoned farmland"
+      ],
+      "fake_headline": "City Unveils Plan to Convert Old Landfill into Community Garden and Park",
+      "city": "Wrangell City and Borough"
+    },
+    {
+      "id": "batch_20260518_153341__story_004",
+      "title": "978 Jerseys gives SDSU athletes another NIL lane, one sale at a time",
+      "summary": "978 Jerseys lets San Diego State athletes from all sports sell their own numbered jerseys. The company has paid over $12,000 in royalties to SDSU athletes, giving lesser-known players a piece of the NIL pie.",
+      "extended_summary": "For most SDSU athletes, NIL isn't a six-figure check. 978 Jerseys, founded by Ethan Chandler, allows athletes from every sport to sell jerseys with their name and number. Starting with SDSU, it has expanded to seven schools and paid out over $12,000. 'It's not life-changing money,' Chandler says, but it gives athletes something they never had: their own merchandise. A parent wearing a jersey in the stands becomes a real source of income and pride.",
+      "category": "Sports",
+      "categories": [
+        "Sports"
+      ],
+      "tones": [],
+      "source_url": "https://thedailyaztec.com/128089/sports/978-jerseys-gives-sdsu-athletes-another-nil-lane-one-sale-at-a-time/",
+      "source_name": "thedailyaztec.com",
+      "published_ts": 1778886636000,
+      "image_url": "https://thedailyaztec.com/wp-content/uploads/2026/05/IMG_5876.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 4,
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udc55\ud83c\udfc0\ud83d\udcb0\ud83d\uded2",
+      "headline_split": "978 Jerseys gives SDSU athletes",
+      "fake_endings": [
+        "a new sponsorship deal",
+        "equity in the company"
+      ],
+      "fake_headline": "High School Robotics Team Wins National Championship, Invents Prosthetic Hand for Toddler",
+      "city": "San Diego"
+    },
+    {
+      "id": "batch_20260518_153341__story_005",
+      "title": "A Denver Nonprofit Is Moving Homeless Youth to Permanent Housing Three Times Faster",
+      "summary": "Denver's The Mothership, a youth homeless shelter, uses a Housing First model that moves kids into permanent housing three times faster than traditional shelters. It's cheaper, too, offering therapy, medical care, and a sense of family.",
+      "extended_summary": "C.J. Kesner, 19, had bounced between relatives' homes until he found The Mothership. Six months later, he has a bed, a therapist, and a case manager working on housing. The shelter's Housing First model is startlingly effective: it moves youth into permanent housing three times faster and at lower cost. CEO Christina Carlson calls it a reinvention of shelter that should be replicated everywhere. Residents feel welcomed and supported for the first time.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://nextcity.org/urbanist-news/denver-homeless-youth-permanent-housing-three-time-faster",
+      "source_name": "nextcity.org",
+      "published_ts": 1778787060000,
+      "image_url": "https://nextcity.org/images/daily/_resized/housing_inside_the_mothership_facility.JPG",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfd9\ufe0f\ud83d\udc65\ud83c\udfe0\u23e9",
+      "headline_split": "A Denver Nonprofit Is Moving Homeless Youth to Permanent Housing",
+      "fake_endings": [
+        "with help from local businesses",
+        "by cutting red tape"
+      ],
+      "fake_headline": "Veteran-Owned Bakery Hires 50 Refugees, Becomes City's Top Employer"
+    },
+    {
+      "id": "batch_20260518_153341__story_006",
+      "title": "A Latino grocery store in Delaware turns its produce aisle into a music stage",
+      "summary": "Fiesta Fresh Market in Delaware turns its produce aisle into a music stage every month. Bands like Luna Luna perform among bananas and beans, drawing international fans and proving joy thrives in unexpected places.",
+      "extended_summary": "At Fiesta Fresh Market, you can buy a banana and catch a live band. The Mercadito sessions are the owners' love letter to music and culture\u2014an alternative pop band plays surrounded by stacked fruit. Started by Jose Luis Aguilar Garcia, these shows have gone viral, with bands traveling to perform. It's a defiant celebration of Latino joy at a time when the community is often discussed in terms of crisis. 'We wanted to highlight creativity and happiness,' Garcia says.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://whyy.org/articles/fiesta-fresh-market-new-castle-delaware-musical-performances-grocery-story/",
+      "source_name": "whyy.org",
+      "published_ts": 1778960138000,
+      "image_url": "https://whyy.org/wp-content/uploads/2026/05/AP26135767738033.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\uded2\ud83c\udfb5\ud83c\udf4e\ud83c\udfa4",
+      "headline_split": "A Latino grocery store in Delaware turns its produce aisle into",
+      "fake_endings": [
+        "a community art gallery",
+        "a cooking demonstration area"
+      ],
+      "fake_headline": "Chicago Library Opens Coffee Shop Run by Teens, Teaches Job Skills",
+      "city": "New Castle County"
+    },
+    {
+      "id": "batch_20260518_153341__story_069",
+      "title": "A Quiet Uprising Against Chatbots?",
+      "summary": "When SameSame Collective tested its simple chatbot against ChatGPT for queer youth mental health, they expected users to prefer the AI. Instead, young people rated the simpler bot higher on trust \u2014 suggesting that 'human-like' AI might actually backfire.",
+      "extended_summary": "Jonathan McKay was sure ChatGPT would make his nonprofit's chatbot obsolete. SameSame Collective provides mental health support to queer youth in underserved regions via WhatsApp, and when they ran a workshop comparing their original bot to an LLM-powered one, he braced for the worst. But users overwhelmingly preferred the simpler, less 'human-like' bot \u2014 scoring it higher on trustworthiness and local relevance. The finding upends assumptions about AI in social services: sometimes, trying to sound too human can break the connection.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://nonprofitquarterly.org/a-quiet-uprising-against-chatbots/",
+      "source_name": "nonprofitquarterly.org",
+      "published_ts": 1778602501000,
+      "image_url": "https://nonprofitquarterly.org/wp-content/uploads/2026/05/Chatbot_Nonprofits.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 2,
+        "limelight": 1,
+        "young_achievers": 4,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83e\udd2b\ud83e\udd16\u270a\u2753",
+      "headline_split": "A Quiet Uprising Against ",
+      "fake_endings": [
+        "Automatons?",
+        "AI Assistants?"
+      ],
+      "fake_headline": "Neighborhood Watch Group Uses Drone Swarms to Recover Lost Children in Record Time"
+    },
+    {
+      "id": "batch_20260518_153341__story_009",
+      "title": "America\u2019s most important innovation happens in City Hall",
+      "summary": "Port St. Lucie's chief innovation officer listened to residents and launched a conservation program that preserved 5,000 acres and built 20 miles of trails. A model for how city halls can drive real change.",
+      "extended_summary": "Kate Parmelee, Port St. Lucie's innovation officer, assumed residents wanted more parks\u2014but they wanted nature protected. After listening to Boy Scouts, environmentalists, and skeptics, the city launched a green land bank. The result: over 5,000 acres preserved and 20 miles of new trails. Mayor Shannon Martin calls it a 'resident-driven conservation program.' This isn't just about green space; it's about identity. The story shows how civic innovation can come from simply asking what people truly need.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.route-fifty.com/people/2026/05/americas-most-important-innovation-happens-city-hall/413474/",
+      "source_name": "route-fifty.com",
+      "published_ts": 1778612400000,
+      "image_url": "https://cdn.route-fifty.com/media/img/cd/2026/05/12/20260512_OpEd_SergeYatunin/open-graph.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfdb\ufe0f\ud83d\udca1\ud83c\uddfa\ud83c\uddf8",
+      "headline_split": "America\u2019s most important innovation happens",
+      "fake_endings": [
+        "in Silicon Valley",
+        "in the nation\u2019s schools"
+      ],
+      "fake_headline": "Towns Reunite After 100-Year Feud Over Water Rights, Celebrate With Festival"
+    },
+    {
+      "id": "batch_20260518_153341__story_104",
+      "title": "Australia is on track to eliminate a form of cancer entirely",
+      "summary": "Australia is on track to eliminate cervical cancer by 2035 through widespread HPV vaccination and a revamped screening system. It's the first time a country has targeted elimination of an entire cancer, setting a global precedent.",
+      "extended_summary": "Professor Karen Canfell calls it a historic first: a nation aiming to wipe out a cancer entirely. Australia launched HPV vaccination in 2007, extended it to boys in 2013, and replaced pap smears with more sensitive HPV testing in 2017. Recent self-sampling options removed barriers for underserved women. If current trends hold, Australia will reach the WHO elimination target years ahead of schedule.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.optimistdaily.com/2026/05/australia-is-on-track-to-eliminate-a-form-of-cancer-entirely/",
+      "source_name": "optimistdaily.com",
+      "published_ts": 1778738652000,
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/240509717_m-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 5,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83c\udde6\ud83c\uddfa\ud83e\udd80\u274c",
+      "headline_split": "Australia is on track to eliminate ",
+      "fake_endings": [
+        "cervical cancer with new vaccines",
+        "colorectal cancer by 2050"
+      ],
+      "fake_headline": "Norway opens world's largest floating wind farm off its coast"
+    },
+    {
+      "id": "batch_20260518_153341__story_105",
+      "title": "Bellevue Just Outsmarted Some Beavers with a Beaver Deceiver",
+      "summary": "Bellevue Utilities deployed a Beaver Deceiver\u2014a trapezoidal fence that tricks beavers into abandoning their dam-building. The clever invention, first used by the Penobscot Indian Nation, works by confusing the beavers' instincts so they give up and move on.",
+      "extended_summary": "A family of beavers thinks their dam is still working, but thanks to a 40-foot trapezoidal fence called a Beaver Deceiver, the water flows freely. Invented in the 1990s by Skip Lisle, the fence confuses beavers by forcing them to build away from the culvert, widening the stream opening as they try. The result? Beavers lose interest and relocate\u2014no harm done, just outsmarted.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://newstalk870.am/ixp/134/p/bellevue-beaver-deceiver-solution/",
+      "source_name": "newstalk870.am",
+      "published_ts": 1778904410000,
+      "image_url": "https://townsquare.media/site/134/files/2026/05/attachment-untitled-design-2026-05-15t134239-989.jpg?w=1200&q=75&format=natural",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83e\uddab\ud83e\udde0\ud83d\udca1",
+      "headline_split": "Bellevue Just Outsmarted Some Beavers with a ",
+      "fake_endings": [
+        "high-tech sonar barrier",
+        "custom-built otter cage"
+      ],
+      "fake_headline": "Tennessee man finds $10,000 diamond at state park and returns it to owner",
+      "city": "Franklin County"
+    },
+    {
+      "id": "batch_20260518_153341__story_106",
+      "title": "Bill to block publishers from killing online games advances in California",
+      "summary": "California's Protect Our Games Act advanced out of committee, requiring game publishers to refund players or keep games playable if online support ends. The bill is a win for the Stop Killing Games movement, pushing back against industry lobbyists.",
+      "extended_summary": "When publishers shut down online games, players lose access entirely\u2014but California's bill would change that. If passed, digital games sold after January 2027 must either offer refunds or an updated version that works independently. The 11\u20132 committee vote came after grassroots advocacy from Stop Killing Games, formed after Ubisoft's The Crew was killed. Free games and subscription titles are exempt, but paid games would finally have consumer protections.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "source_name": "arstechnica.com",
+      "published_ts": 1778880954000,
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 1,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udcdc\ud83c\udfae\ud83d\udeab",
+      "headline_split": "Bill to block publishers from killing online games ",
+      "fake_endings": [
+        "receives bipartisan endorsement",
+        "is fast-tracked for a vote"
+      ],
+      "fake_headline": "Portland creates 'tiny forest' in parking lot to combat heat island effect"
+    },
+    {
+      "id": "batch_20260518_153341__story_023",
+      "title": "Cougar Buddies promote inclusion on and off campus",
+      "summary": "After starting a club to bridge gaps between general and special education students, Christopher High School's Cougar Buddies hosted Gilroy's first sensory-friendly prom. Over 50 students with special needs danced in dimmed lights and lowered music, feeling celebrated and included.",
+      "extended_summary": "What began as a small club at Christopher High School grew into a movement when Cougar Buddies organized Gilroy's first prom designed for students with special needs. The event welcomed over 50 attendees from two districts, with dimmed lights, low music, and carefully chosen food to make everyone comfortable. Parents tearfully thanked the student organizers for giving their children a night of belonging. The club's president, Isabel Gonzalez, says their goal is to change the stigma and separation of special needs students\u2014and they're doing it, one dance at a time.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://gilroydispatch.com/cougar-buddies-promote-inclusion-on-and-off-campus/",
+      "source_name": "gilroydispatch.com",
+      "published_ts": 1778793967000,
+      "image_url": "https://gilroydispatch.com/wp-content/uploads/sites/17/2026/05/2620-Cougar-Buddies.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "impact_innovation": 4
+      },
+      "city": "Gilroy"
+    },
+    {
+      "id": "batch_20260518_153341__story_056",
+      "title": "Grace Chang founded Kintsugi to detect mental-health conditions from voice \u2014 AI biomarkers as a clinical screening tool",
+      "summary": "Grace Chang founded Kintsugi after watching her family navigate undiagnosed depression. The AI listens to just 20 seconds of speech\u2014pitch, cadence, microtremors\u2014to screen for depression and anxiety. It's now used in clinics nationwide, replacing the outdated paper PHQ-9.",
+      "extended_summary": "What if a 20-second recording of your voice could flag depression or anxiety before you even realized it? That's the promise of Kintsugi, an AI founded by Grace Chang after her own family's struggle with undiagnosed mental health issues. The tool analyzes speech patterns\u2014microtremors, hesitation length, pitch shifts\u2014that are invisible to the human ear but highly detectable to a trained model. Now integrated into health systems across the US, Kintsugi replaces the decades-old PHQ-9 paper screener with a faster, more objective clinical screening score. Just ask 'how was your week?' and the AI does the rest.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.forbes.com/ai50/",
+      "source_name": "forbes.com",
+      "published_ts": 1775836800000,
+      "image_url": "https://www.forbes.com/dam/imageserve/69dfc661b968ebb871058b37/x.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 4,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83d\udde3\ufe0f\ud83e\udde0\ud83e\udd16",
+      "headline_split": "Grace Chang founded Kintsugi to detect mental-health conditions from voice \u2014 ",
+      "fake_endings": [
+        "with a smartphone app that analyzes speech patterns",
+        "as a tool for early detection of anxiety in children"
+      ],
+      "fake_headline": "Mother of three creates app that helps children with autism communicate through emoji"
+    },
+    {
+      "id": "batch_20260518_153341__story_107",
+      "title": "How to Grow Apples in Hot Climate? Award-Winning Farmers Reap Success With Unique Variety",
+      "summary": "Maharashtra farmer Kakasaheb Sawant grows apples in scorching 43\u00b0C heat using the low-chill HRMN-99 variety, developed by Himachal farmer Hariman Sharma. Visitors call it a miracle as the trees thrive against all odds.",
+      "extended_summary": "In Sangli's dry, sandy-loam soil with only 30 rainy days a year, Sawant's apple trees are laden with fruit. The HRMN-99 variety needs far less winter chill than traditional apples, allowing cultivation in hot climates. Sawant, a former auto mechanic, bought 150 saplings in 2020 after people laughed at his plan. Now his farm draws a steady stream of amazed visitors, proving that innovation can beat the heat.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://thebetterindia.com/319177/how-to-grow-apples-in-hot-climate-award-winning-farmers-success-story/",
+      "source_name": "thebetterindia.com",
+      "published_ts": 1778682637000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/uploads/2023/05/apple-farming-1685356639.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf4e\ud83d\udd25\ud83c\udfc6",
+      "headline_split": "How to Grow Apples in Hot Climate? Award-Winning Farmers Reap Success With ",
+      "fake_endings": [
+        "Advanced Irrigation Methods",
+        "Heat-Tolerant Rootstock"
+      ],
+      "fake_headline": "Japanese elementary school teaches coding to first graders using friendly robots"
+    },
+    {
+      "id": "batch_20260518_153341__story_108",
+      "title": "It\u2019s a barracuda! It\u2019s a shrimp! It\u2019s a robot helping coral reefs.",
+      "summary": "The Woods Hole Oceanographic Institution's CUREE robot autonomously surveys coral reefs using hydrophones and cameras, even tracking a barracuda for 984 feet. The robot creates detailed maps much faster than human divers, aiding reef conservation.",
+      "extended_summary": "CUREE zeroes in on the crackle of shrimp and the movement of fish, then autonomously follows them to map biodiversity hotspots. In tests off the U.S. Virgin Islands, it trailed a barracuda for over 984 feet with minimal human help. The robot uses onboard computers to decide where to go, building data-rich maps that would take divers multiple trips to produce. This technology could revolutionize how we monitor and protect fragile coral ecosystems.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.popsci.com/technology/coral-reef-robot/",
+      "source_name": "popsci.com",
+      "published_ts": 1778884757000,
+      "image_url": "https://www.popsci.com/wp-content/uploads/2026/05/robot-fish.png?w=1200",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udc1f\ud83e\udd90\ud83e\udd16",
+      "headline_split": "It\u2019s a barracuda! It\u2019s a shrimp! It\u2019s a robot ",
+      "fake_endings": [
+        "pollinating underwater plants",
+        "rescuing stranded sea turtles"
+      ],
+      "fake_headline": "Volunteer scuba divers restore ancient Roman shipwreck off coast of Italy"
+    },
+    {
+      "id": "batch_20260518_153341__story_044",
+      "title": "Kansas Gives Foster Youth a New Way To Choose Their Forever Family",
+      "summary": "Kansas just became the first state to let foster youth aged 16+ choose their own legal family. Through the SOUL Family program, teens can pick trusted adults\u2014a coach, aunt, or former foster parent\u2014to become their permanent support system, giving them the stability they deserve.",
+      "extended_summary": "For decades, foster youth had only three options: reunification, adoption, or aging out. Kansas changed that with SOUL Family Legal Permanency\u2014the first program of its kind in the nation. Now, teens 16 and older can identify the adults they already trust\u2014like a coach, sibling, or teacher\u2014to become their legal family. Alexandria Ware, who spent time in foster care herself, helped advocate for the law. 'It's the young person telling you, \u201cThese are my people, and this is where I feel safe,\u201d' she said. The program shifts power from the system to the youth, letting them define their forever connections.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.communityvoiceks.com/2026/05/16/kansas-soul-family-foster-care-permanency/",
+      "source_name": "communityvoiceks.com",
+      "published_ts": 1778984040000,
+      "image_url": "https://i0.wp.com/www.communityvoiceks.com/wp-content/uploads/2026/05/soul-family-example-for-web.jpg?fit=1600%2C1200&quality=89&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 3,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf88\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83c\udfe0\ud83d\udcdd",
+      "headline_split": "Kansas Gives Foster Youth a New Way To Choose ",
+      "fake_endings": [
+        "their own college courses",
+        "a career path in tech"
+      ],
+      "fake_headline": "Michigan Offers Free Pet Adoptions to Seniors Living Alone, Reunites Dozens",
+      "city": "Sedgwick County"
+    },
+    {
+      "id": "batch_20260518_153341__story_109",
+      "title": "Nine veterans honored ahead of burial at sea at nation\u2019s only Veterans Memorial Reef",
+      "summary": "Nine veterans were honored ahead of burial at sea at the nation's only Veterans Memorial Reef off North Carolina. The reef markers create an underwater memorial that supports marine life and addresses the shortage of space in military cemeteries.",
+      "extended_summary": "The Fallen Heroes Ceremony at Fort Johnston\u2013Southport Museum honored nine veterans whose remains will be placed in markers five miles offshore. The reef, founded by Army veteran Thomas Marcinowski, serves as both a tribute and an artificial habitat that protects the coastline. For Rhonda Rardin, watching her parents\u2014married over 60 years\u2014be interred together was a perfect sendoff. The program helps families find a lasting, meaningful resting place while giving back to the ocean.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://foxwilmington.com/nine-veterans-honored-ahead-of-burial-at-sea-at-nations-only-veterans-memorial-reef/?utm_source=rss&utm_medium=rss&utm_campaign=nine-veterans-honored-ahead-of-burial-at-sea-at-nations-only-veterans-memorial-reef",
+      "source_name": "foxwilmington.com",
+      "published_ts": 1779087882000,
+      "image_url": "https://foxwilmington.com/wp-content/uploads/2026/05/365139-7MZLIICZM5HOLLELMHAAH3RGMM.png",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
+      "visual_affinity": 5,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf96\ufe0f\u2693\ud83c\udf0a",
+      "headline_split": "Nine veterans honored ahead of burial at sea at ",
+      "fake_endings": [
+        "the newly expanded Arlington at Sea site",
+        "the Hawaii Underwater Veterans Memorial"
+      ],
+      "fake_headline": "100-year-old WWII veteran skydives for 100th birthday and raises $100k for charity",
+      "city": "New Hanover County"
+    },
+    {
+      "id": "batch_20260518_153341__story_110",
+      "title": "No Fools, Just Gold",
+      "summary": "West Virginia University's Blue and Gold Mine Sale is a massive thrift event where 25 tons of donated goods are sold, promoting reuse and raising funds. Early birds line up for deals on furniture, electronics, and rare books.",
+      "extended_summary": "Every year, students moving out donate tons of items\u2014from mini fridges to china sets\u2014for WVU's sustainability-driven sale. Early bird shoppers arrive over an hour early, with lines of 600 to 800 people. The sale has unearthed rare books that were later resold online, and unsold items go to partner nonprofits. It's one of the largest rummage sales in the state, turning waste into treasure and funding community projects.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://morgantownmag.com/no-fools-just-gold/?utm_source=rss&utm_medium=rss&utm_campaign=no-fools-just-gold",
+      "source_name": "morgantownmag.com",
+      "published_ts": 1778719154000,
+      "image_url": "https://morgantownmag.com/wp-content/uploads/Kitchen-2022-4x3-1.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 2,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83e\udd47\ud83d\udeab\ud83e\udd25",
+      "headline_split": "No Fools, Just ",
+      "fake_endings": [
+        "True Champions",
+        "the Real Thing"
+      ],
+      "fake_headline": "Rare 'golden' penguin spotted in Antarctica, scientists say it's a unique mutation"
+    },
+    {
+      "id": "batch_20260518_153341__story_111",
+      "title": "Ocean City Was Sick of Greedy Seagulls. Their Eccentric Fix? A Fleet of Raptors",
+      "summary": "Tired of seagulls stealing snacks from beachgoers, Ocean City hired a team of falconers to patrol the skies with trained raptors. The program, launched after a gull grabbed pizza from a toddler, has been a soaring success every summer since.",
+      "extended_summary": "When a seagull yanked a slice of pizza from a toddler on the Ocean City boardwalk, Mayor Jay Gillian had reached his limit. After failing with fishing line and plastic owls, the city tried a wild solution: a professional falconer team releasing hawks, falcons, and even a Eurasian eagle owl to scare gulls away. The raptors have turned the tide, driving the aggressive birds back to their natural habitats without harming them\u2014and giving locals their fries back.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://njmonthly.com/articles/shore-travel/ocean-city-seagulls-raptors/",
+      "source_name": "njmonthly.com",
+      "published_ts": 1778540664000,
+      "image_url": "https://njmonthly.com/wp-content/uploads/2026/05/Ocean-City-NJ-falconers.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 5,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udc26\ud83e\udd85\ud83c\udfd6\ufe0f\ud83d\udeab",
+      "headline_split": "Ocean City Was Sick of Greedy Seagulls. Their Eccentric Fix? ",
+      "fake_endings": [
+        "A Giant Scarecrow",
+        "A New Law Against Feeding"
+      ],
+      "fake_headline": "Homeless Man Returns Lost Wallet Containing $10,000, Owner Gives Him a Job",
+      "city": "Morristown"
+    },
+    {
+      "id": "batch_20260518_153341__story_112",
+      "title": "Seabed life triples after bottom trawling ban in Scotland protected area",
+      "summary": "A decade after Scotland banned bottom trawling in a protected area, scientists found seafloor life has tripled. Over 150 species are thriving, from spoon worms to tower snails, rebuilding a lost ecosystem and storing carbon in the process.",
+      "extended_summary": "The seafloor off Scotland's Arran island was once a muddy desert from centuries of trawling. Now, nearly ten years after a ban, a new study reveals that seabed life has exploded\u2014three times more organisms and twice as many species compared to nearby unprotected waters. Lead researcher Ben Harris describes creatures like spoon worms and tower snails as 'important gardeners of the seabed,' turning over sediment and storing carbon. It's a slow but powerful recovery that shows conservation can work.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://news.mongabay.com/short-article/2026/05/seabed-life-triples-after-bottom-trawling-ban-in-scotland-protected-area/",
+      "source_name": "news.mongabay.com",
+      "published_ts": 1778773897000,
+      "image_url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/14103836/Arran-Expedition-Underwater-Image-3-Credit-Henley-Spiers.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udc1f\ud83c\udf0a\ud83d\udcc8\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+      "headline_split": "Seabed life triples after bottom trawling ban in Scotland ",
+      "fake_endings": [
+        "Fishing Village",
+        "National Park"
+      ],
+      "fake_headline": "Volunteers Plant 10,000 Trees in Single Day to Restore Burned Forest"
+    },
+    {
+      "id": "batch_20260518_153341__story_083",
+      "title": "Such great heights: They\u2019re tall, they\u2019re proud \u2014 and they\u2019re getting together",
+      "summary": "SEATTLE (AP) \u2014 This story has legs. Very long ones. At a Seattle sports bar on a recent Saturday night, hundreds of very tall people got to experience something rare: blending in. Women in their highest heels craned their necks to look at someone taller. Men who usually duck under doorways looked ordinary. For once, nobody had to explain why they don\u2019t play basketball. Welcome to Tall Tour, a trav",
+      "extended_summary": "SEATTLE (AP) \u2014 This story has legs. Very long ones. At a Seattle sports bar on a recent Saturday night, hundreds of very tall people got to experience something rare: blending in. Women in their highest heels craned their necks to look at someone taller. Men who usually duck under doorways looked ordinary. For once, nobody had to explain why they don\u2019t play basketball. Welcome to Tall Tour, a traveling meetup drawing thousands across the United States to celebrate the one physical trait that has made them stand out \u2014 for good and ill. Since launching last summer, the tour has visited 19 cities, with crowds swelling from an initial 30 people in Tampa, Florida, to some 4,000 in Orlando, according to organizers. Seattle drew around 750, they said. \u201cYou\u2019re walking around and there\u2019s people you",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.whec.com/ap-top-news/such-great-heights-theyre-tall-theyre-proud-and-theyre-getting-together/",
+      "source_name": "whec.com",
+      "published_ts": 1779061907000,
+      "image_url": "https://www.whec.com/wp-content/uploads/apimg/2026/05/Tour_of_the_Tall_55_56.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "limelight": 4,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udccf\ud83d\udc6b\ud83c\udf89",
+      "headline_split": "Such great heights: They're tall, they're proud \u2014 and they're ",
+      "fake_endings": [
+        "starting a basketball team",
+        "creating a new dance craze"
+      ],
+      "fake_headline": "World's Tallest Man and Shortest Woman Become Unlikely Friends, Go on Road Trip",
+      "city": "Monroe County"
+    },
+    {
+      "id": "batch_20260518_153341__story_113",
+      "title": "The Rise In Demand For Cooling Sparks Interest In More Energy Efficient Air Conditioners",
+      "summary": "An MIT spinoff called Transaera is making massive air conditioning units that use 40% less energy. Their secret? Removing moisture separately from cooling, so buildings stay comfortable without wasting power.",
+      "extended_summary": "Global cooling demand could triple by 2050, but one startup has a smarter way to chill. Transaera\u2019s rooftop AC units combine heat pumps with cutting-edge MOF technology that pulls humidity out of the air before cooling it. That means a room at 80\u00b0F with low humidity feels pleasant\u2014no need to over-cool. The company is already manufacturing these systems for big box stores and factories, promising to slash energy use and carbon pollution.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://cleantechnica.com/2026/05/14/the-rise-in-demand-for-cooling-sparks-interest-in-more-energy-efficient-air-conditioners/",
+      "source_name": "cleantechnica.com",
+      "published_ts": 1778825360000,
+      "image_url": "https://cleantechnica.com/wp-content/uploads/2026/05/transaera-DOAS.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf21\ufe0f\u2744\ufe0f\ud83d\udd0c\ud83d\udca1",
+      "headline_split": "The Rise In Demand For Cooling Sparks Interest In ",
+      "fake_endings": [
+        "Solar-Powered Fans",
+        "Smart Home Devices"
+      ],
+      "fake_headline": "Local Bakery Turns Unsold Bread Into Craft Beer, Reduces Waste by 80%"
+    },
+    {
+      "id": "batch_20260518_153341__story_114",
+      "title": "This Mom is on a Mission to Change the Future of Food Allergies",
+      "summary": "After her daughter developed a severe nut allergy, Catherine Jaxon turned frustration into action. She co-founded Mission MightyMe, creating baby puffs that introduce peanuts early to help prevent allergies\u2014and she\u2019s already changing the future of food safety.",
+      "extended_summary": "When Catherine Jaxon\u2019s third child was born, new research showed that feeding babies peanut foods early could prevent up to 86% of allergies. But there were no safe, baby-friendly options on the shelf. So she created her own: a line of peanut puffs that combine nutrition with allergen introduction. Now Mission MightyMe is helping thousands of families navigate prevention with peace of mind\u2014proving that a mother\u2019s frustration can spark a revolution in pediatric health.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://styleblueprint.com/everyday/catherine-jaxon-mission-mightyme/",
+      "source_name": "styleblueprint.com",
+      "published_ts": 1779066000000,
+      "image_url": "https://styleblueprint.com/wp-content/uploads/2026/05/Catherine-Jaxon-1200x800.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 9,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83e\udd5c\ud83d\udeab\u2764\ufe0f",
+      "headline_split": "This Mom is on a Mission to Change the Future of ",
+      "fake_endings": [
+        "Childhood Obesity",
+        "School Lunches"
+      ],
+      "fake_headline": "Teen Invents Device That Converts Ocean Plastic Into Fuel, Wins Science Fair",
+      "city": "Nashville"
+    },
+    {
+      "id": "batch_20260518_153341__story_064",
+      "title": "This founder was an AI layoff 9 months ago. Then he built an instantly profitable company with 2 partners and 12 agents",
+      "summary": "Sam Brown was laid off by AI just nine months ago. With $300 and two partners, he built Fathom AI \u2014 a sales platform running on 12 AI agents that hit $300k ARR in 12 weeks and is on track for $5 million by year-end.",
+      "extended_summary": "Sam Brown didn't just lose his job to AI \u2014 he turned around and used AI to build something bigger. With $300 and two co-founders, he created Fathom AI, a sales enablement platform for medical aesthetics that runs on 12 AI agents. Within three months, it hit $300,000 in annual recurring revenue with 90% gross margins, and it's projecting $5 million by year-end. The 12 agents do the work of an 8-10 person sales-ops team \u2014 a stark inversion of the layoff that started it all.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://fortune.com/2026/04/18/ai-layoff-became-founder-team-of-3-instant-profit/",
+      "source_name": "fortune.com",
+      "published_ts": 1776470400000,
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/1773549808956.jpg?resize=1200,600",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 5,
+      "read_time_min": 11,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "young_achievers": 5,
+        "limelight": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83e\udd16\ud83d\udc54\ud83d\udcbc\ud83d\udd01\ud83d\udcb5",
+      "headline_split": "This founder was an AI layoff 9 months ago. Then he built an instantly profitable company with 2 partners and 12 ",
+      "fake_endings": [
+        "AI clones",
+        "robotic workers"
+      ],
+      "fake_headline": "Waitress Receives $10,000 Tip From Regular Customer Who Credits Her For Saving His Marriage"
+    },
+    {
+      "id": "batch_20260518_153341__story_115",
+      "title": "Too Scared To Drive The Mackinac Bridge? Michigan Has A Solution",
+      "summary": "The Mackinac Bridge offers a secret driver assistance program that\u2019s been running since the 1980s. Fearful drivers can request a trained pro to take their car across the five-mile span while they ride shotgun\u2014and yes, it\u2019s still only $10.",
+      "extended_summary": "The five-mile Mackinac Bridge soars 200 feet above the water, with grated lanes that let you see straight down. For drivers with a fear of heights, it's a nightmare. But Michigan has a fix most people don't know about: the Mackinac Bridge Authority's Driver Assistance Program. Simply pull up to the toll booth, ask for help, and a trained driver will steer your car across while you relax as a passenger. The service, available since the '80s, also covers walkers and bikers\u2014and it only costs ten bucks.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://975now.com/ixp/84/p/mackinac-bridge-driver-assistance-michigan/",
+      "source_name": "975now.com",
+      "published_ts": 1778971775000,
+      "image_url": "https://townsquare.media/site/84/files/2026/04/attachment-untitled-design-2026-04-29t132649-870.jpg?w=1200&q=75&format=natural",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83c\udf09\ud83d\ude97\ud83d\ude28\ud83d\ude8c",
+      "headline_split": "Too Scared To Drive The Mackinac Bridge? Michigan Has ",
+      "fake_endings": [
+        "A Free Shuttle",
+        "A Virtual Reality Class"
+      ],
+      "fake_headline": "Woman Knits Sweaters for Every Shelter Dog, Helps Them Get Adopted",
+      "city": "Ingham County"
+    },
+    {
+      "id": "batch_20260518_153341__story_116",
+      "title": "Unwanted lab rats find new homes and are adopted thanks to an Argentine organization",
+      "summary": "Argentina\u2019s Team Ratas is finding homes for lab rats through events like Ratapalooza. The annual adoption fair helps these intelligent, sweet rodents start new lives as beloved pets instead of research subjects.",
+      "extended_summary": "Albino rats leap from baskets into cages at Ratapalooza, an annual Buenos Aires event that turns lab animals into family pets. The organization Team Ratas rescues rodents from research facilities and fosters them until they find permanent homes. At the fair, stalls sell rat-themed merchandise while adopters share stories of their new companions. Mar\u00eda Gabriela Aponte adopted three lab rats and says they're incredibly intelligent and affectionate. It's a second chance for animals usually overlooked\u2014and a powerful reminder that every life deserves love.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.stalbertgazette.com/science-news/unwanted-lab-rats-find-new-homes-and-are-adopted-thanks-to-an-argentine-organization-12294944",
+      "source_name": "stalberttoday.ca",
+      "published_ts": 1779081434000,
+      "image_url": "https://picsum.photos/seed/pre_0005/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udc00\ud83d\udd2c\ud83c\udfe0\ud83c\udde6\ud83c\uddf7",
+      "headline_split": "Unwanted lab rats find new homes and are adopted thanks to ",
+      "fake_endings": [
+        "A Viral Social Media Campaign",
+        "A Generous Donor"
+      ],
+      "fake_headline": "Community Rallies to Save Historic Theater, Raises $500,000 in One Week"
+    },
+    {
+      "id": "batch_20260518_153341__story_117",
+      "title": "\u2018A Special Place\u2019: Udall pickleball players get bargain from city council",
+      "summary": "Tucson's Udall Park pickleball players rallied against a proposed hourly fee\u2014and won. The city council voted unanimously to let the community group maintain the courts in exchange for free play, keeping the sport accessible to all.",
+      "extended_summary": "Leonard Finkel spends more waking hours at the pickleball courts than at home\u2014so when Tucson considered charging $3.50 per 90-minute play, he knew something had to change. The Tucson Area Pickleball (TAP) group negotiated a deal: they'd take over court maintenance, surface cleaning, and new nets, while the city keeps the shade structures and water fountains. The council unanimously approved the MOU, preserving a democratic system where players of all levels can join in\u2014no fee required.",
+      "category": "Sports",
+      "categories": [
+        "Sports",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.tucsonweekly.com/newsopinion/curr/a-special-place-udall-pickleball-players-get-bargain-from-city-council/",
+      "source_name": "tucsonweekly.com",
+      "published_ts": 1778760300000,
+      "image_url": "https://i0.wp.com/www.tucsonweekly.com/wp-content/uploads/2026/05/25179452_m.jpg?fit=2508%2C1672&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 3
+      },
+      "emoji_clue": "\ud83c\udfd3\ud83c\udfdf\ufe0f\ud83d\udcb0\ud83c\udfdb\ufe0f",
+      "headline_split": "\u2018A Special Place\u2019: Udall pickleball players get ",
+      "fake_endings": [
+        "A New Court",
+        "Free Equipment"
+      ],
+      "fake_headline": "Retired Teacher Opens Free Tutoring Center in Underserved Neighborhood",
+      "city": "Corona de Tucson"
+    },
+    {
+      "id": "batch_20260518_153341__story_003",
+      "title": "53 names, finally spoken: Woodberry student\u2019s research restores recognition to enslaved individuals who made the school possible",
+      "summary": "Woodberry Forest student Jayden Crosby-Brewer researched 53 enslaved individuals who lived on the school's land. His work will be honored at a commemoration ceremony, restoring names and dignity to those whose labor made the school possible.",
+      "extended_summary": "Inspired by a graduation mention, Jayden Crosby-Brewer spent two years excavating the lives of 53 people enslaved by William Madison. He partnered with historians and uncovered records that gave each person a name and story. On May 16, Woodberry Forest will publicly recognize them, a step toward acknowledging the school's complete history. 'It's about giving them the respect they deserve,' Jayden says.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.cvilletomorrow.org/53-names-finally-spoken-woodberry-students-research-restores-recognition-to-enslaved-individuals-who-made-the-school-possible/",
+      "source_name": "cvilletomorrow.org",
+      "published_ts": 1778709076000,
+      "image_url": "https://www.cvilletomorrow.org/wp-content/uploads/2026/05/Jayden-Crosby-Brewer-1-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfdb\ufe0f\ud83d\udd0d\ud83d\udcdc\ud83d\udc65",
+      "headline_split": "53 names, finally spoken: Woodberry student\u2019s research restores recognition to",
+      "fake_endings": [
+        "forgotten veterans of World War I",
+        "native American leaders in the region"
+      ],
+      "fake_headline": "Eighth Grader Discovers New Species of Beetle in Backyard, Cataloged by Smithsonian"
+    },
+    {
+      "id": "batch_20260518_153341__story_118",
+      "title": "A new life for old landfills: Indian Lake project turns capped site into pollinator meadow",
+      "summary": "A capped landfill in New York's Adirondacks is being turned into an eight-acre pollinator meadow. The project shows how old dumps can become vital habitat for bees and butterflies while benefiting the community.",
+      "extended_summary": "For years, a closed landfill in Indian Lake sat as a grassy mound\u2014unused and forgotten. Now, through a partnership with AdkAction, the site is blooming into a pollinator meadow with native plants that attract bees, butterflies, and other essential insects. The three-year demonstration project aims to replicate this transformation on over 100 capped landfills across the Adirondacks, turning environmental liabilities into ecological assets. With monarch butterflies in decline, this creative reuse offers a model for how waste sites can become wildlife havens.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.adirondackexplorer.org/environment/a-new-life-for-old-landfills-indian-lake-project-turns-capped-site-into-pollinator-meadow/",
+      "source_name": "adirondackexplorer.org",
+      "published_ts": 1778965200000,
+      "image_url": "https://i0.wp.com/www.adirondackexplorer.org/wp-content/uploads/2026/05/PXL_20250611_182903134.MP_-scaled.jpg?fit=2560%2C1440&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\uddd1\ufe0f\ud83c\udf31\ud83e\udd8b\ud83c\udf38",
+      "headline_split": "A new life for old landfills: Indian Lake project turns capped site into ",
+      "fake_endings": [
+        "A Community Garden",
+        "A Solar Farm"
+      ],
+      "fake_headline": "Artist Transforms Abandoned Factory Into Affordable Housing for Artists"
+    },
+    {
+      "id": "batch_20260518_153341__story_010",
+      "title": "At K&A, a free grocery store in Kensington gives shoppers 20 points twice a month",
+      "summary": "Greater Goods in Kensington gives shoppers 20 points twice a month to choose their own groceries\u2014no income checks, just a photo ID. It restores dignity and tackles food insecurity in a neighborhood where fresh food is scarce.",
+      "extended_summary": "Every morning, a line forms outside Greater Goods. Inside, customers fill carts using points instead of dollars\u2014milk costs 3 points, eggs 2. No pre-packed bags, no income verification. Just a photo ID. 'It restores dignity,' says director Melanie Beddis. Founded by the Sunday Love Project, the store sits in a food desert. The model is simple: treat people like customers, not charity. The result is a community that feels respected and fed. 'We don't care if your ID is from another country,' Beddis says. 'We just want you to have what you need.'",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.kensingtonvoice.com/greater-goods-kensington-free-grocery-store/",
+      "source_name": "kensingtonvoice.com",
+      "published_ts": 1778781648000,
+      "image_url": "https://storage.ghost.io/c/24/71/247176b9-add3-4f1b-8329-2a9d1c33ec03/content/images/size/w1200/2026/05/Greater-Goods-Community-Grocery-Kensington-and-Allegheny.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\uded2\ud83c\udd93\ud83c\udf9f\ufe0f\ud83d\udcc5",
+      "headline_split": "At K&A, a free grocery store in Kensington gives shoppers 20 points",
+      "fake_endings": [
+        "for every dollar spent",
+        "each time they volunteer"
+      ],
+      "fake_headline": "Community Center Opens Free Bike Repair Station, Teaches Maintenance Skills"
+    },
+    {
+      "id": "batch_20260518_153341__story_012",
+      "title": "Augusta University Breaks Ground on Savannah Dental Campus to Address Georgia Provider Shortage",
+      "summary": "Augusta University breaks ground on a new dental campus in Savannah to train 50 dentists and 20 hygienists per year, addressing Georgia's severe shortage. The state ranks 46th in dentists per capita, with 18 counties having none. The $178 million facility opens in 2028.",
+      "extended_summary": "Georgia has only one dental school \u2014 for 57 years. Now, Augusta University is building a second campus in Savannah to train 50 more dentists and 20 hygienists annually. The $178 million building on Georgia Southern's Armstrong Campus comes as coastal Georgia's population is expected to grow 20-30% this decade. Nearly one-fifth of the current school's 60,000 annual patients already drive from Savannah to Augusta. The new campus will create over 400 jobs and generate $2.8 million in state revenue each year. Classes start summer 2028.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://hd983.com/2026/05/14/augusta-university-breaks-ground-on-savannah-dental-campus-to-address-georgia-provider-shortage/",
+      "source_name": "hd983.com",
+      "published_ts": 1778807160000,
+      "image_url": "https://hd983.com/uploads/2025/08/AugustaUniversity_S_CMYK-01.png?auto=webp&width=2000&height=1632",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83d\udea7\ud83e\uddb7\ud83c\udf93",
+      "headline_split": "Augusta University Breaks Ground on Savannah Dental Campus to ",
+      "fake_endings": [
+        "train 500 new dentists by 2026",
+        "serve rural communities with mobile units"
+      ],
+      "fake_headline": "Atlanta Zoo Welcomes Orphaned Elephant Calf After Cross-Country Rescue",
+      "city": "Richmond County"
+    },
+    {
+      "id": "batch_20260518_153341__story_013",
+      "title": "Beat The Buzz: South Dakotan Develops Clever Mosquito Trap",
+      "summary": "Lisa Rathbun from South Dakota invented the 'Mosquito Bucket of Doom' \u2014 a DIY trap using stagnant water, decomposing leaves, and a BTI tablet that kills mosquito larvae without harming pets or pollinators. It's cheap, safe, and hilariously named.",
+      "extended_summary": "Lisa Rathbun calls her creation the 'Mosquito Bucket of Doom,' and yes, it's exactly as wonderfully morbid as it sounds. Fill a bucket with standing water, toss in some decomposing grass clippings, and add a mosquito dunk containing BTI \u2014 a naturally occurring bacterium that kills larvae but leaves people, pets, and pollinators untouched. The gunk releases CO\u2082, luring female mosquitoes to lay their eggs there. Plot twist: it's a one-way trip to Doomsville. Just don't put the bucket near your patio unless you're donating blood. The whole setup costs pennies and works like a charm.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Humor"
+      ],
+      "source_url": "https://hot1047.com/ixp/485/p/mosquito-bucket-diy-trap/",
+      "source_name": "hot1047.com",
+      "published_ts": 1778784336000,
+      "image_url": "https://townsquare.media/site/485/files/2026/05/attachment-untitled-design-2026-05-14t084211-073.jpg?w=1200&q=75&format=natural",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "impact_innovation": 3,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83e\udd9f\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udca1",
+      "headline_split": "Beat The Buzz: South Dakotan Develops ",
+      "fake_endings": [
+        "Revolutionary Automatic Window Opener",
+        "Solar-Powered Air Purifier for Homes"
+      ],
+      "fake_headline": "Local Teen Creates App to Connect Senior Citizens with Volunteer Tutors",
+      "city": "Minnehaha County"
+    },
+    {
+      "id": "batch_20260518_153341__story_119",
+      "title": "Bubble of Love, Shug and Dogg of Women\u2019s Weekend",
+      "summary": "Women's Weekend in Guerneville was on the brink of collapse three years ago, with only 200 attendees. Now it's back with 2,000 expected, thanks to two local producers who saved the sapphic tradition.",
+      "extended_summary": "Just three years ago, the 50-year-old Women's Weekend in Guerneville had shrunk to 200 guests. Then producers Jodi Goldstein and Tressa Young\u2014aka Miss Shugana and Madd Dogg 20/20\u2014stepped in to revive it. This year, the event is projected to draw 2,000 visitors from 22 states and three countries, with drag shows, bike rides, and a 'love bubble' atmosphere. In a time when queer spaces feel fragile, this comeback proves that community can rally and grow when it matters most.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://bohemian.com/bubble-of-love-shug-and-dogg-of-womens-weekend/",
+      "source_name": "bohemian.com",
+      "published_ts": 1778640947000,
+      "image_url": "https://bohemian.com/wp-content/uploads/sites/14/2026/05/NBB-SUN2620-LOCALS.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 4,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83e\udee7\u2764\ufe0f\ud83d\udc15\ud83d\udc69",
+      "headline_split": "Bubble of Love, Shug and Dogg of ",
+      "fake_endings": [
+        "A Pet Adoption Fair",
+        "A Musical Festival"
+      ],
+      "fake_headline": "Elementary School Students Write Letters to Nursing Home Residents, Sparking Lifelong Friendships",
+      "city": "Santa Rosa"
+    },
+    {
+      "id": "batch_20260518_153341__story_019",
+      "title": "Changing Lives through Rugby: The D1 Rugby Program at ARC",
+      "summary": "American River College's rugby team has gone undefeated in California for three straight years and is ranked second nationally. Head coach Zach Swithenbank started the D1 program to give overlooked students a second chance \u2014 33 players have already moved on to universities, certificates, or careers.",
+      "extended_summary": "The American River College rugby team didn't exist three years ago. Now they're undefeated in California for three consecutive years, 7-0 in conference play this season, and ranked #2 in the country. Head coach Zach Swithenbank started the D1 program because he saw too many doors close on student-athletes \u2014 either they were overlooked in high school, couldn't afford a four-year university, or weren't mature enough yet. 'This gives them an opportunity,' he says. Already, 33 players have moved on to D1 universities, earned certificates, or entered the workforce. The team's success on the field is matched by the lives it's changed off it.",
+      "category": "Sports",
+      "categories": [
+        "Sports",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.arcurrent.com/sports/2026/05/12/changing-lives-through-rugby-the-d1-rugby-program-at-arc/",
+      "source_name": "arcurrent.com",
+      "published_ts": 1778638716000,
+      "image_url": "https://www.arcurrent.com/wp-content/uploads/2026/05/Selected-1200x799-1.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfc9\ud83d\udcaa\ud83c\udf1f",
+      "headline_split": "Changing Lives through Rugby: The D1 Rugby Program at ",
+      "fake_endings": [
+        "the University of California",
+        "Lincoln High School"
+      ],
+      "fake_headline": "Wheelchair Basketball Team Wins National Championship in Dramatic Overtime"
+    },
+    {
+      "id": "batch_20260518_153341__story_120",
+      "title": "Cimrman in English: Translating Humor",
+      "summary": "A Prague English theater group has spent twelve years translating the famously untranslatable plays of Czech legend Jara Cimrman. Their efforts have brought absurdist Czech humor to international audiences\u2014and it works.",
+      "extended_summary": "When British expat Brian Stewart first watched a Cimrman play, he laughed despite not understanding Czech. That spark led him and his partner to translate the works of Czechoslovakia's greatest fictional playwright for English audiences. Over twelve years, they've tackled six plays full of absurdity\u2014like a retired actor who can't remember which play he's in. The productions have become a hit among expats and locals alike, proving that great humor transcends language.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Humor"
+      ],
+      "source_url": "https://tol.org/client/article/cimrman-in-english-translating-humor.html",
+      "source_name": "tol.org",
+      "published_ts": 1778609571000,
+      "image_url": "https://tol.org/wp-content/uploads/Conquest-batch1-5-2.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 14,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "young_achievers": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udde8\ud83c\uddff\ud83d\udcd6\ud83d\ude02",
+      "headline_split": "Cimrman in English: ",
+      "fake_endings": [
+        "A New Play",
+        "A Comedy Special"
+      ],
+      "fake_headline": "Local Man Breaks World Record for Longest Hug, Raises Funds for Charity"
+    },
+    {
+      "id": "batch_20260518_153341__story_121",
+      "title": "Communities to Earn Fertilizer for Planting Trees Around Lake Malawi National Park",
+      "summary": "In Malawi, a community-led initiative rewards households with fertilizer for successfully growing and maintaining trees around Lake Malawi National Park. By requiring trees to reach 1.5 meters, the program addresses the common challenge of nurturing saplings, encouraging long-term conservation and reducing pressure on forest resources.",
+      "extended_summary": "Households that plant and care for 15 different tree species around Lake Malawi National Park can earn two 50-kilogram bags of fertilizer once the trees hit 1.5 meters. The incentive, launched by Sustainable Cape Maclear, aims to solve the perennial problem of trees being planted but not cared for. Regular monitoring ensures trees survive, and community leaders and park officials hope this motivates lasting stewardship and eases strain on protected forests.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://africabrief.substack.com/p/communities-to-earn-fertilizer-for",
+      "source_name": "africabrief.substack.com",
+      "published_ts": 1778529017000,
+      "image_url": "https://substackcdn.com/image/fetch/$s_!83Fs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c7eecf-f7fc-47ee-a381-27ae5474449c_2312x1734.jpeg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "impact_innovation": 3,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83c\udf33\ud83d\udca9\ud83c\udfde\ufe0f\ud83c\udf0a",
+      "headline_split": "Communities to Earn Fertilizer ",
+      "fake_endings": [
+        "for Restoring Coral Reefs Off the Coast of Zanzibar",
+        "to Build Solar-Powered Water Pumps in Rural Villages"
+      ],
+      "fake_headline": "Micro-Loan Program Helps 500 Women Start Businesses in Rural Kenya"
+    },
+    {
+      "id": "batch_20260518_153341__story_072",
+      "title": "Dancer with ALS Performs on Stage Again Through Digital Avatar\u2013WATCH",
+      "summary": "A dancer with ALS returned to the stage through a digital avatar controlled by her brain. Breanna Olson projected her imagination into a mixed reality performance in Amsterdam, proving that even when the body fails, art can still move.",
+      "extended_summary": "Breanna Olson, a dancer confined to a wheelchair by ALS, imagined dancing again \u2014 and thanks to a brain interface from Dentsu Lab, her digital avatar pranced across a stage in Amsterdam. The technology translated her brain signals into dance moves, giving her a moment she never dreamed possible. 'It was just a beautiful and memorable moment,' she said.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.goodnewsnetwork.org/dancer-with-als-performs-on-stage-again-through-digital-avatar-watch/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1778531414000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/A-photograph-from-the-dancer-and-her-avatars-December-perfomance-at-OBA-Theater-in-Amsterdam-credit-Dentsu-Lab-supplied-to-the-BBC.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "impact_innovation": 3,
+        "limelight": 3
+      }
+    },
+    {
+      "id": "batch_20260518_153341__story_024",
+      "title": "Detroit Advocates Push for Citywide Composting After Pilot Diverts 3,300 Pounds of Food Scraps",
+      "summary": "A three-month composting pilot in Detroit kept over 3,300 pounds of food scraps out of landfills. Now advocates are pushing to expand the program citywide, with drop-off sites in every district.",
+      "extended_summary": "The Detroit Community Composting Collective Project trained 75 backyard composters who diverted more than 3,300 pounds of food scraps from August to November. Now, advocates like Ricky Blanding of Scrap Soils are proposing mandatory composting in city buildings and drop-off locations across all council districts. The city's Office of Sustainability has already announced expansion after a separate nine-month pilot. With current regulations treating composters as solid waste handlers, changes are needed to make composting accessible\u2014and the community is leading the charge.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://kissfmdetroit.com/2026/05/14/detroit-advocates-push-for-citywide-composting-after-pilot-diverts-3300-pounds-of-food-scraps/",
+      "source_name": "kissdetroit.com",
+      "published_ts": 1778787404000,
+      "image_url": "https://kissfmdetroit.com/uploads/2026/05/GettyImages-1355559503-e1778769363180.jpg?auto=webp&width=2000&height=1126",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 2,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3,
+        "limelight": 5
+      },
+      "city": "Wayne County"
+    },
+    {
+      "id": "batch_20260518_153341__story_122",
+      "title": "Detroit schools are making real gains in reading and math: 4 strategies that are working",
+      "summary": "Detroit schools are seeing real academic gains thanks to strategies like targeted reading intervention funded by a legal settlement. In one classroom, a first grader named Marvin gets personalized help spelling words, reflecting a district-wide effort to address past failures and improve literacy.",
+      "extended_summary": "With five first graders watching, interventionist Aja Penick helped 7-year-old Marvin correct his spelling of 'same' through patient questioning, a scene playing out in Detroit schools thanks to a $94 million settlement. The funds, from a 2016 lawsuit over students' right to read, have paid for 18 interventionists at Munger Elementary alone. The district's focus on evidence-based strategies is yielding measurable progress in reading and math, offering hope after years of neglect.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.bridgedetroit.com/detroit-schools-improve-reading-math-scores/",
+      "source_name": "bridgedetroit.com",
+      "published_ts": 1778857200000,
+      "image_url": "https://i0.wp.com/www.bridgedetroit.com/wp-content/uploads/2026/05/detroit-test-rates.png?fit=2106%2C1396&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3,
+        "limelight": 3
+      },
+      "emoji_clue": "\ud83c\udfeb\ud83d\udcda\u2795\ud83d\udcc8\u2705",
+      "headline_split": "Detroit schools are making real gains in reading and math: ",
+      "fake_endings": [
+        "a focus on early literacy and math",
+        "community partnerships and mentorship"
+      ],
+      "fake_headline": "Teacher in Rural Alaska Uses Dog Sledding to Teach Math, Attendance Skyrockets"
+    },
+    {
+      "id": "batch_20260518_153341__story_026",
+      "title": "Field Museum hosts NASCAR-Themed STEAM Fest for CPS",
+      "summary": "Over 550 Chicago students competed in NASCAR-themed challenges at the Field Museum, connecting classroom lessons to real-world motorsports careers. Top performers won tickets to the Independence Day race weekend.",
+      "extended_summary": "More than 22,000 CPS students initially competed in-class design challenges to earn a spot at the Field Museum's fourth annual STEAM Fest. The 550 winners faced off in engineering tasks alongside professional drivers like Lanie Buice and pit crew coaches. The event showed students that science, technology, and math can lead to exciting careers in motorsports. Chicagoland Speedway's general manager says it's about inspiring the next generation\u2014and for many students, the day was a thrilling glimpse into a future they hadn't considered.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://chicagocrusader.com/field-museum-hosts-nascar-themed-steam-fest-for-cps/",
+      "source_name": "chicagocrusader.com",
+      "published_ts": 1779078898000,
+      "image_url": "https://chicagocrusader.com/wp-content/uploads/2026/05/43771211_CLS_Steam-24_jpg_Ryan_Alioto_20260508_020037-1024x768.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3,
+        "limelight": 5
+      },
+      "city": "Chicago"
+    }
+  ]
+}

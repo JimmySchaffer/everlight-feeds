@@ -1,0 +1,503 @@
+{
+  "batch_id": "batch_20260518_153341_ai_entrepreneurship",
+  "created_at": "2026-05-18T15:33:41Z",
+  "section": "ai_entrepreneurship",
+  "story_count": 12,
+  "stories": [
+    {
+      "id": "batch_20260518_153341__story_070",
+      "title": "Brother-Sister Duo Are Using Drones to Help Farmers Triple Their Income",
+      "summary": "Siblings Devika and Devan Chandrasekharan built drones that can spot plant diseases early and spray only where needed \u2014 helping over 3,500 farmers boost yields by up to 35% and triple their profits while cutting fertilizer use by 75%.",
+      "extended_summary": "Brother-sister duo Devika and Devan Chandrasekharan started Fuselage Innovations in 2020 with a simple mission: use drones to make farming smarter. Their drones Niriksh and Fiya work together \u2014 Niriksh scans fields with sensors to detect pests and nutrient deficiencies, and Fiya precisely sprays only the affected plants. After working with 3,500 farmers, they've seen yields jump 25-35%, fertilizer use drop 75%, and profits triple. For small farmers in Kerala, these drones aren't just cool tech \u2014 they're a lifeline to sustainable income.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://thebetterindia.com/313423/kerala-siblings-use-drone-for-agriculture-help-farmers-increase-yield-and-income/",
+      "source_name": "thebetterindia.com",
+      "published_ts": 1778848237000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/uploads/2023/03/drone-1679573828.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "limelight": 2,
+        "young_achievers": 4,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc6b\ud83d\udef8\ud83c\udf3e\ud83d\udcc8",
+      "headline_split": "Brother-Sister Duo Are Using Drones to Help Farmers Triple Their ",
+      "fake_endings": [
+        "Harvest",
+        "Yield"
+      ],
+      "fake_headline": "Meet the Teen Who Built a Water Filtration System That Turns Sewage Into Drinking Water for Villages"
+    },
+    {
+      "id": "batch_20260518_153341__story_091",
+      "title": "From quant trader to $500K/month: How Ben Broca built Polsia, an autonomous-business platform",
+      "summary": "Ben Broca went from quant trading to building Polsia, a platform that lets solo founders run companies with AI agents. It hit $500K/month in three months by eliminating operational overhead entirely.",
+      "extended_summary": "Ben Broca was tired of the operational drag in every venture he built. So he dogfooded AI agents on his own iOS app builder, Blanks, to stress-test them. The result: Polsia, where AI handles marketing, ops, and support. Launched in December 2025, it reached nearly $500K monthly revenue within three months. A live fundraising dashboard that went viral outpaced all paid acquisition.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.indiehackers.com/post/tech/growing-a-fully-autonomus-business-to-a-500k-mo-in-3-months-diZ8gkqMHm0CvEsc7Pfo",
+      "source_name": "indiehackers.com",
+      "published_ts": 1777939200000,
+      "image_url": "https://images.indiehackers.com/team-images/Ben-Broca_founder.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 65,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "young_achievers": 2,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udcc8\ud83d\udcb8\ud83e\udd16\ud83c\udfe2",
+      "headline_split": "From quant trader to $500K/month: How Ben Broca built ",
+      "fake_endings": [
+        "a social network for quant traders",
+        "the world\u2019s first fully automated hedge fund"
+      ],
+      "fake_headline": "How a father-daughter duo turned a backyard greenhouse into a $30 million organic food company"
+    },
+    {
+      "id": "batch_20260518_153341__story_056",
+      "title": "Grace Chang founded Kintsugi to detect mental-health conditions from voice \u2014 AI biomarkers as a clinical screening tool",
+      "summary": "Grace Chang founded Kintsugi after watching her family navigate undiagnosed depression. The AI listens to just 20 seconds of speech\u2014pitch, cadence, microtremors\u2014to screen for depression and anxiety. It's now used in clinics nationwide, replacing the outdated paper PHQ-9.",
+      "extended_summary": "What if a 20-second recording of your voice could flag depression or anxiety before you even realized it? That's the promise of Kintsugi, an AI founded by Grace Chang after her own family's struggle with undiagnosed mental health issues. The tool analyzes speech patterns\u2014microtremors, hesitation length, pitch shifts\u2014that are invisible to the human ear but highly detectable to a trained model. Now integrated into health systems across the US, Kintsugi replaces the decades-old PHQ-9 paper screener with a faster, more objective clinical screening score. Just ask 'how was your week?' and the AI does the rest.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.forbes.com/ai50/",
+      "source_name": "forbes.com",
+      "published_ts": 1775836800000,
+      "image_url": "https://www.forbes.com/dam/imageserve/69dfc661b968ebb871058b37/x.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 4,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83d\udde3\ufe0f\ud83e\udde0\ud83e\udd16",
+      "headline_split": "Grace Chang founded Kintsugi to detect mental-health conditions from voice \u2014 ",
+      "fake_endings": [
+        "with a smartphone app that analyzes speech patterns",
+        "as a tool for early detection of anxiety in children"
+      ],
+      "fake_headline": "Mother of three creates app that helps children with autism communicate through emoji"
+    },
+    {
+      "id": "batch_20260518_153341__story_057",
+      "title": "He quit his senior engineering job, moved back with his parents, and built Kleo from zero to $62K MRR in 90 days",
+      "summary": "Cameron Whiteside left his senior engineering job in London, moved back in with his parents, and built a Chrome extension called Kleo that helps people write better LinkedIn content. With co-founders who had massive social audiences, Kleo hit $62K monthly recurring revenue in just 90 days.",
+      "extended_summary": "Cameron Whiteside made a bold bet: quit his senior engineering role, move back into his parents' house, and build a startup with near-zero burn. The result was Kleo, a Chrome extension that makes writing LinkedIn content easier. But the real genius was distribution: he partnered with co-founders who already had hundreds of thousands of followers, turning their organic reach into free customer acquisition. In under 90 days, Kleo hit $62K in monthly recurring revenue. His takeaway? 'Audience compounds faster than product when the product is small enough to grasp in one sentence.'",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://tamimbuilds.medium.com/8-solo-founders-who-quietly-hit-20k-62k-mrr-in-the-last-6-months-5032e610badc#kleo",
+      "source_name": "medium.com",
+      "published_ts": 1777939200000,
+      "image_url": "https://picsum.photos/seed/research_aie_v2_0001/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "limelight": 2,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udcbc\ud83d\udeab\ud83c\udfe0\ud83d\udcc8\ud83d\udcb2",
+      "headline_split": "He quit his senior engineering job, moved back with his parents, and built Kleo from zero to ",
+      "fake_endings": [
+        "a $100,000 revenue streak in just 45 days",
+        "a profitable side project that replaced his salary"
+      ],
+      "fake_headline": "She left her corporate job to start a food truck and ended up with a chain of 20 locations",
+      "city": "London"
+    },
+    {
+      "id": "batch_20260518_153341__story_092",
+      "title": "How Matthew Gallagher built Medvi alone with $20,000 \u2014 $401M in year one, $1.8B run rate in year two",
+      "summary": "Matthew Gallagher built Medvi, a telehealth startup, alone with $20K and AI tools. It pulled in $401M in its first year and is on track for $1.8B in year two \u2014 proving the one-person billion-dollar company is real.",
+      "extended_summary": "Matthew Gallagher was 41 with $20K, a laptop, and no team. He wired ChatGPT, Claude, and Grok into every role \u2014 coding, marketing, customer service. In two months, Medvi was live selling compounded GLP-1 prescriptions. By end of 2025, $401M in revenue. In 2026, projected $1.8B. His brother joined as the only other employee. Sam Altman's prediction had arrived.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://ca.finance.yahoo.com/news/ai-20-000-helped-one-235346225.html",
+      "source_name": "yahoo.com",
+      "published_ts": 1776700800000,
+      "image_url": "https://s.yimg.com/os/en/forbes_contributor_845/dc12fe9c9545c2264f7003fd8db8740f",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 1,
+      "headline_pull": 5,
+      "read_time_min": 9,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83d\udcb0\ud83d\ude80\ud83d\udcaa",
+      "headline_split": "How Matthew Gallagher built Medvi alone with $20,000 \u2014 ",
+      "fake_endings": [
+        "and then he sold it for $2.5 billion to a rival firm",
+        "and its valuation hit $5 billion within three years"
+      ],
+      "fake_headline": "How a former firefighter created a $500 million nonprofit for clean water in Africa",
+      "city": "Los Angeles"
+    },
+    {
+      "id": "batch_20260518_153341__story_058",
+      "title": "How a chance encounter in Texas sparked a $1 billion Kleiner Perkins-backed AI startup",
+      "summary": "Two engineers met at an MIT poker night and built an AI to handle missed calls. They thought it would help restaurants, but a chance encounter with an HVAC company in Texas showed them the real opportunity: a $30K missed install call. Now their startup Avoca is backed by Kleiner Perkins at a $1 billion valuation.",
+      "extended_summary": "Tyson Chen and Apurva Shrivastava met over poker at MIT and started building an AI to answer missed calls. They assumed restaurants would be the big market\u2014until a Dallas HVAC company called Rescue Air found them at a conference. 'When a restaurant misses a call, that's $30. When a home service business misses a call, that could be a $30,000 install.' That realization turned their startup Avoca into a $1 billion company backed by Kleiner Perkins. For three months, they built a custom product just for Rescue Air, who then helped them find their first customers. Now AI agents handle calls, scheduling, and dispatch for physical service businesses across the US.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://fortune.com/2026/04/27/avoca-ai-agents-missed-calls-hvac-plumbing-roofing-kleiner-perkins-chen-shrivastava-braswell/",
+      "source_name": "fortune.com",
+      "published_ts": 1777939200000,
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/image_5d86c8.png?resize=1200,600",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "limelight": 1,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\udd1d\ud83c\udf35\ud83e\udd16\ud83d\udcb2",
+      "headline_split": "How a chance encounter in Texas sparked a ",
+      "fake_endings": [
+        "billion-dollar idea for a space elevator",
+        "massive funding round for a biotech firm"
+      ],
+      "fake_headline": "Two strangers meet on a plane and end up co-founding a company that saves thousands of trees"
+    },
+    {
+      "id": "batch_20260518_153341__story_093",
+      "title": "Offshore Wind Turbine Prototype Powers an Onboard Data Center, While the Sea Disperses the Heat",
+      "summary": "A new offshore wind turbine prototype hosts a 12-megawatt data center inside its ballast tanks, using the sea for cooling. It'll test in the North Sea in 2027.",
+      "extended_summary": "Aikido's floating wind turbine doesn't just generate power \u2014 it carries a data center in its ballast tanks. The cold ocean water disperses heat from the computing banks, solving two problems at once. The 100 KWh prototype deploys in 2027. If it works, full-scale units could follow by 2028, offering cheap, green AI compute where it's needed most.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.goodnewsnetwork.org/offshore-wind-turbine-prototype-powers-an-onboard-data-center-while-the-sea-disperses-the-heat/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1778608819000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/credit-supplied-by-Aikido-to-Spectrum.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "limelight": 2,
+        "young_achievers": 1,
+        "impact_innovation": 2,
+        "ai_entrepreneurship": 5
+      },
+      "emoji_clue": "\ud83c\udf2c\ufe0f\u26a1\ud83c\udfe2\ud83c\udf0a",
+      "headline_split": "Offshore Wind Turbine Prototype Powers an Onboard Data Center, ",
+      "fake_endings": [
+        "and also powers a nearby desalination plant",
+        "while generating power from ocean currents"
+      ],
+      "fake_headline": "Hydroelectric dam gets AI upgrade that boosts power generation by 40% and saves fish"
+    },
+    {
+      "id": "batch_20260518_153341__story_081",
+      "title": "Self-taught coder Samuel built StoryShort using AI and now runs $28K MRR across multiple SaaS products",
+      "summary": "Samuel had no computer-science background and learned to code later in life. He used AI tools \u2014 Cursor, Claude, structured prompt patterns \u2014 to compress what would have been years of training into months of shipping. The product that broke first was StoryShort: a tool that takes blog posts and converts them into short-form video for TikTok / Reels / Shorts. StoryShort alone is approaching $20K mon",
+      "extended_summary": "Samuel had no computer-science background and learned to code later in life. He used AI tools \u2014 Cursor, Claude, structured prompt patterns \u2014 to compress what would have been years of training into months of shipping. The product that broke first was StoryShort: a tool that takes blog posts and converts them into short-form video for TikTok / Reels / Shorts. StoryShort alone is approaching $20K monthly recurring revenue. Combined with his second product Capacity, Samuel's portfolio runs at $28K MRR \u2014 all solo, all built post-career-change. His arc is the textbook case for what changed in 2026: a non-engineer can now ship SaaS that competes with venture-backed teams because the AI-assisted build cost has collapsed and the distribution platform (short-form video itself) creates a self-marketi",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://tamimbuilds.medium.com/8-solo-founders-who-quietly-hit-20k-62k-mrr-in-the-last-6-months-5032e610badc#storyshort",
+      "source_name": "medium.com",
+      "published_ts": 1777939200000,
+      "image_url": "https://picsum.photos/seed/research_aie_v2_0003/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 4,
+        "ai_entrepreneurship": 5,
+        "limelight": 2,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\uddd1\u200d\ud83d\udcbb\ud83e\udd16\ud83d\udcb0\ud83d\udcc8",
+      "headline_split": "Self-taught coder Samuel built StoryShort using AI and now runs ",
+      "fake_endings": [
+        "a single app with 500 users",
+        "a popular food delivery platform"
+      ],
+      "fake_headline": "Blind Programmer Creates Screen-Reader App, Now Used by Over 2 Million People"
+    },
+    {
+      "id": "batch_20260518_153341__story_061",
+      "title": "Sualeh Asif: From Pakistan to Cursor \u2014 how a 26-year-old cofounder built the AI-coding tool every developer is using",
+      "summary": "Sualeh Asif went from growing up in Pakistan to co-founding Cursor, the AI code editor that now has over a million users. At 26, he's on Forbes' billionaire watch list \u2014 proof that betting on a product-first AI experience can beat the tech giants at their own game.",
+      "extended_summary": "Born in Pakistan, Sualeh Asif studied at MIT and then did something contrarian: instead of adding AI as a side feature to an existing editor, he and his co-founders rebuilt the whole editor around the AI. The result is Cursor, now used by over a million developers monthly. Two years later, at 26, Asif is on Forbes' billionaire watch list \u2014 not because he chased hype, but because he treated the editor as the AI's canvas, not a sidebar.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.theurduclub.com/2026/04/sualeh-asif-biography-2026-net-worth-cursor-ai-founder-forbes-billionaire.html",
+      "source_name": "theurduclub.com",
+      "published_ts": 1777334400000,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJUi_T0StCcpqH09ZzqRTvdLjmoBPOmtMipYyoZvW_DpOA97deK9kHyDUM7KAn3Ar7QpoEg_tgqXtt3RkX211Of_neL9pU3mP0KnrkJKDdmVec1U0lO62fb-c4MwhV9V1kWb_a5-hMbI4e3skO7u1JMbXSfTTqHzvl8C2KvO0rnVVgfv5djXDOnHAxMokj/w1200-h630-p-k-no-nu/1777012374739.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83c\uddf5\ud83c\uddf0\ud83d\udcbb\ud83e\udd16\u26a1\ufe0f",
+      "headline_split": "Sualeh Asif: From Pakistan to Cursor \u2014 how a 26-year-old cofounder built ",
+      "fake_endings": [
+        "a drone delivery service for medication",
+        "a revolutionary new programming language"
+      ],
+      "fake_headline": "Teenager Invents Device That Generates Clean Water From Air Using Only Solar Power"
+    },
+    {
+      "id": "batch_20260518_153341__story_094",
+      "title": "This Is How Katherine Kostereva Built a $2 Billion No-Code AI Company",
+      "summary": "Katherine Kostereva built Creatio, a no-code AI platform now valued at over $2B. Her secret? A partner ecosystem that lets system integrators deploy the platform \u2014 each new partner brings dozens of clients.",
+      "extended_summary": "Katherine Kostereva spent 15 years at IBM watching workflow projects stall under complexity. She built Creatio to let business analysts build workflows without engineers. Twenty years later, it's worth $2B with clients like AMD and Coca-Cola. Revenue grew 46% last year. The growth engine: a partner ecosystem where system integrators deploy Creatio, compounding customer acquisition without paid ads.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.entrepreneur.com/entrepreneurs/thought-leaders/she-built-a-no-code-ai-company-now-worth-more-than-2-billion-heres-her-secret-to-growth",
+      "source_name": "entrepreneur.com",
+      "published_ts": 1776614400000,
+      "image_url": "https://picsum.photos/seed/research_aie_v2_0005/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 1
+      },
+      "emoji_clue": "\ud83d\udc69\u200d\ud83d\udcbb\ud83e\udd16\ud83d\udcb5\ud83d\udcca",
+      "headline_split": "This Is How Katherine Kostereva Built a $2 Billion ",
+      "fake_endings": [
+        "Machine Learning Startup",
+        "Autonomous Vehicle Firm"
+      ],
+      "fake_headline": "How a teenage inventor created a $500 million app to connect homeless people with shelters"
+    },
+    {
+      "id": "batch_20260518_153341__story_064",
+      "title": "This founder was an AI layoff 9 months ago. Then he built an instantly profitable company with 2 partners and 12 agents",
+      "summary": "Sam Brown was laid off by AI just nine months ago. With $300 and two partners, he built Fathom AI \u2014 a sales platform running on 12 AI agents that hit $300k ARR in 12 weeks and is on track for $5 million by year-end.",
+      "extended_summary": "Sam Brown didn't just lose his job to AI \u2014 he turned around and used AI to build something bigger. With $300 and two co-founders, he created Fathom AI, a sales enablement platform for medical aesthetics that runs on 12 AI agents. Within three months, it hit $300,000 in annual recurring revenue with 90% gross margins, and it's projecting $5 million by year-end. The 12 agents do the work of an 8-10 person sales-ops team \u2014 a stark inversion of the layoff that started it all.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://fortune.com/2026/04/18/ai-layoff-became-founder-team-of-3-instant-profit/",
+      "source_name": "fortune.com",
+      "published_ts": 1776470400000,
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/1773549808956.jpg?resize=1200,600",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 5,
+      "read_time_min": 11,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "young_achievers": 5,
+        "limelight": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83e\udd16\ud83d\udc54\ud83d\udcbc\ud83d\udd01\ud83d\udcb5",
+      "headline_split": "This founder was an AI layoff 9 months ago. Then he built an instantly profitable company with 2 partners and 12 ",
+      "fake_endings": [
+        "AI clones",
+        "robotic workers"
+      ],
+      "fake_headline": "Waitress Receives $10,000 Tip From Regular Customer Who Credits Her For Saving His Marriage"
+    },
+    {
+      "id": "batch_20260518_153341__story_090",
+      "title": "Clinics at scale: How Ilara Health is building Africa's quiet health infrastructure",
+      "summary": "Emilian Popa runs a healthtech company that does not behave like one. While investors spent years debating whether African healthtech could scale sustainably, Ilara Health concentrated on a narrower and more practical problem: small private clinics lack diagnostic equipment because they cannot afford to finance it. The company\u2019s response has been straightforward. It supplies clinics with medical e",
+      "extended_summary": "Emilian Popa runs a healthtech company that does not behave like one. While investors spent years debating whether African healthtech could scale sustainably, Ilara Health concentrated on a narrower and more practical problem: small private clinics lack diagnostic equipment because they cannot afford to finance it. The company\u2019s response has been straightforward. It supplies clinics with medical equipment on credit, layers in software and data tools, and gradually turns fragmented operators into part of a functioning network. The model is beginning to achieve meaningful scale. Ilara says it has now served more than two million patients across around 3,000 clinics in Kenya and Uganda, a segment long considered too fragmented and informal to organise effectively. Popa, a former executive at ",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://african.business/2026/05/innov-africa-deals/clinics-at-scale-how-ilara-health-is-building-africas-quiet-health-infrastructure",
+      "source_name": "african.business",
+      "published_ts": 1779025921000,
+      "image_url": "https://african.business/wp-content/uploads/2026/05/1_pNy5yhpf-yVrqHG2ZnYgsg-scaled.webp",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 3,
+        "limelight": 2,
+        "ai_entrepreneurship": 3,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83c\udf0d\ud83d\udd27\ud83e\udd2b",
+      "headline_split": "Clinics at scale: How Ilara Health is building Africa's quiet health ",
+      "fake_endings": [
+        "economy",
+        "workforce"
+      ],
+      "fake_headline": "Solar-Powered Vaccine Coolers Reach Remote Villages in India"
+    }
+  ]
+}

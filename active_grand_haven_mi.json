@@ -1,0 +1,113 @@
+{
+  "batch_id": "grand_haven_mi_20260523_001",
+  "created_at": "2026-05-23T20:30:00Z",
+  "story_count": 3,
+  "display_mode_counts": {
+    "image": 3,
+    "text": 0
+  },
+  "stories": [
+    {
+      "id": "grand_haven_mi_20260523_001__story_001",
+      "title": "Loving Spoonfuls: the Tri-Cities' only church kitchen serving regular hot meals to anyone hungry",
+      "summary": "St. John's Episcopal Church in Grand Haven runs Loving Spoonfuls — community meals every Wednesday evening and Sunday afternoon, free, open to anyone, served from a licensed parish kitchen. Coordinated by parish administrator Cindi Sanders with volunteers from the parish, neighboring churches, and the broader Tri-Cities community.",
+      "extended_summary": "Loving Spoonfuls is the only church-run meal program in the Grand Haven / Spring Lake / Ferrysburg Tri-Cities offering hot meals to hungry residents on a regular weekly schedule. Meals are served Wednesday evenings 5:30–6:30 p.m. and Sunday afternoons 1:00–2:00 p.m. — open to anyone, no questions asked. The kitchen at St. John's Episcopal is publicly licensed, which lets the ministry scale beyond what informal home-cooked donations could sustain. Parish administrator Cindi Sanders coordinates the ministry; volunteers come from the parish itself, from other Tri-Cities congregations, and from the wider community — a deliberate inter-faith / inter-community model. According to the church's own account, the program began with parishioners bringing food from home; as the need grew, the church became a publicly-licensed kitchen so volunteers could prepare and serve meals on a more sustained schedule. Donations to the Spoonfuls Fund cover ingredient costs. The replicable lesson is institutional: a small parish kitchen, a recurring schedule readers can rely on, and a multi-congregation volunteer roster can sustain a hot-meal program in a Tri-Cities-sized community for years. Source: St. John's Episcopal Church Grand Haven.",
+      "category": "Community",
+      "categories": [
+        "Community",
+        "Transformation"
+      ],
+      "source_url": "https://www.sjegh.com/loving-spoonfuls",
+      "source_name": "St. John's Episcopal Grand Haven",
+      "published_ts": 1737504000000,
+      "image_url": "https://static.wixstatic.com/media/0248d9_f3b3c125605949d0aa3a78fee54c4a83~mv2.jpg",
+      "display_mode": "image",
+      "display_reason": "Loving Spoonfuls hero image self-hosted by St. John's Episcopal (Tribune article photographer's images not directly addressable due to anti-bot)",
+      "image_confidence": "medium",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "city": "Grand Haven",
+      "provenance": "evelyn_curated",
+      "sections": [
+        "grand_haven_mi"
+      ],
+      "section_scores": {
+        "limelight": 4,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      }
+    },
+    {
+      "id": "grand_haven_mi_20260523_001__story_002",
+      "title": "The People Center: thirty years of Spring Lake transitional housing built on dignity, not red tape",
+      "summary": "The People Center has helped Tri-Cities families get back on their feet since Rev. Pete Theune founded it in June 1996. Today the small Spring Lake nonprofit runs six transitional-housing apartments across three homes, a food pantry, and a clothing hutch — serving about 300 people a month with one part-time paid staffer and 60+ volunteers.",
+      "extended_summary": "The People Center was founded June 4, 1996 by Rev. Pete Theune to be — in his framing — \"a place that wasn't somebody else's church and wasn't a lot of red tape.\" Nearly thirty years on, it operates from 307 E. Exchange St. in Spring Lake, in the heart of the Grand Haven / Spring Lake / Ferrysburg Tri-Cities. The organization runs three programs simultaneously: a food pantry, a clothing distribution it calls the Clothing Hutch, and transitional-housing in six apartments spread across three homes. The combination matters — families navigating a housing crisis can get food, clothes, and a roof from a single trust relationship rather than from three different intake desks. The Center serves about 300 people a month with the leanest possible staffing: one part-time paid employee and a volunteer roster of more than 60. WOOD-TV covered the model in a 2024 feature on how the Spring Lake nonprofit \"helps families get back on their feet.\" The replicable lesson is institutional minimalism — a 30-year-old, all-volunteer-plus-one organization can hold three poverty-adjacent services in one place if it's designed around dignity and continuity rather than program silos. Source: The People Center; WOOD-TV.",
+      "category": "Community",
+      "categories": [
+        "Community",
+        "Transformation"
+      ],
+      "source_url": "https://www.woodtv.com/news/ottawa-county/spring-lake-nonprofit-helps-families-get-back-on-their-feet/",
+      "source_name": "WOOD-TV",
+      "published_ts": 1700000000000,
+      "image_url": "https://thepeoplecenter.org/wp-content/uploads/2021/09/transitional-housing-spring-lake-1500x430.jpg",
+      "display_mode": "image",
+      "display_reason": "transitional-housing photo self-hosted by The People Center (WOOD-TV article images not directly addressable due to anti-bot)",
+      "image_confidence": "medium",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "city": "Grand Haven",
+      "provenance": "evelyn_curated",
+      "sections": [
+        "grand_haven_mi"
+      ],
+      "section_scores": {
+        "limelight": 4,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      }
+    },
+    {
+      "id": "grand_haven_mi_20260523_001__story_003",
+      "title": "For 60% of homebound seniors in the Tri-Cities, their Meals on Wheels driver is the only person they see each week",
+      "summary": "AgeWell Services delivers 140–150 hot meals weekly to homebound seniors across Grand Haven, Spring Lake, Ferrysburg and surrounding Ottawa, Muskegon, and Oceana county neighborhoods. Tribune reporter Lauren Formosa profiled the program's volunteer recruitment in March 2026 — and the safety-check role drivers quietly play.",
+      "extended_summary": "AgeWell Services of West Michigan, founded in 1973, runs Meals on Wheels deliveries Monday, Wednesday, and Friday between 10:30 a.m. and 1:00 p.m. across Ottawa, Muskegon, and Oceana counties — including the Grand Haven / Spring Lake / Ferrysburg Tri-Cities. The program currently enrolls about 140–150 participants; some receive three hot meals a week, others receive one, and homebound clients also receive monthly liquid-supplement deliveries. A March 2026 Grand Haven Tribune profile by Lauren Formosa surfaced the operational detail that distinguishes AgeWell's program from a typical food-delivery service. Transportation Manager Adam Marra: \"Sixty percent of our participants say that their driver is the only person that they see on a weekly basis.\" Volunteer Coordinator Jessica Squires explained that drivers must make contact with each client before completing a delivery — the safety check is itself a load-bearing service, separate from the meal. Volunteers complete a background check, shadow an experienced driver, and can be mileage-reimbursed. The replicable lesson is that delivery infrastructure for vulnerable seniors does two things at once when it's designed right: it feeds people, and it confirms each week that they're still okay. Source: Grand Haven Tribune (March 10, 2026, updated April 16, 2026).",
+      "category": "Community",
+      "categories": [
+        "Community",
+        "Rescue"
+      ],
+      "source_url": "https://www.grandhaventribune.com/lifestyles/community/agewell-services-seeking-tri-cities-area-volunteers-for-meals-on-wheels-program/article_d712e400-6df0-5e45-ae88-0d9b828c1bc7.html",
+      "source_name": "Grand Haven Tribune",
+      "published_ts": 1741564800000,
+      "image_url": "https://agewellservices.org/wp-content/uploads/2018/10/slide-seniorWomanSandwich.jpg",
+      "display_mode": "image",
+      "display_reason": "AgeWell self-hosted homepage hero image (Tribune photo by Lauren Formosa not directly addressable due to anti-bot)",
+      "image_confidence": "medium",
+      "visual_affinity": 3,
+      "headline_pull": 5,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "city": "Grand Haven",
+      "provenance": "evelyn_curated",
+      "sections": [
+        "grand_haven_mi"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4
+      }
+    }
+  ]
+}
