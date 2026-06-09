@@ -1,0 +1,208 @@
+{
+  "batch_id": "batch_20260608_202135",
+  "created_at": "2026-06-08T20:21:35.442056",
+  "story_count": 5,
+  "stories": [
+    {
+      "id": "batch_20260528_181310__story_053",
+      "title": "Flying Solo: The Rise of China\u2019s One-Person Companies",
+      "summary": "Laid-off from his design job, Ying Junjiu used AI coding tools to build a productivity app entirely by himself. He's part of a rising wave of 'one-person companies' in China, where young founders are using AI to launch software without teams.",
+      "extended_summary": "Ying Junjiu, a UI designer who couldn't code, lost his job in 2024. Instead of scrambling for a new position, he turned to AI tools like Cursor and Codex to build Momoyu Timer, a playful app that tracks screen time. Within two years, he launched it on the App Store \u2014 a feat that once required a full engineering team. Across China, laid-off and ambitious young people are following suit, using artificial intelligence to start 'one-person companies' that challenge the need for traditional employment.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.sixthtone.com/news/1018567/Flying Solo: The Rise of China\u2019s One-Person Companies",
+      "source_name": "sixthtone.com",
+      "published_ts": 1779991990699,
+      "image_url": "https://image5.sixthtone.com/image/5/97/469.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 12,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "limelight": 1,
+        "ai_entrepreneurship": 4,
+        "impact_innovation": 3
+      }
+    },
+    {
+      "id": "batch_20260528_181310__story_076",
+      "title": "This Chilean startup and Copec join forces to reduce energy consumption in air conditioning by up to 40%",
+      "summary": "Chilean startup Flair has partnered with Copec to distribute its AI-powered HVAC optimization tech across Chile. The system cuts air conditioning energy consumption by up to 40% without replacing equipment. Clients like Codelco and Mall Plaza already validated the technology.",
+      "extended_summary": "A Chilean startup called Flair just got a massive boost: a partnership with energy giant Copec to roll out its AI-driven air conditioning optimization across the country. Founded in 2021, Flair integrates sensors and AI into existing HVAC systems to cut energy use by up to 40% \u2014 with no equipment replacement. Early clients included Codelco, Mall Plaza, and the University of Chile. 'The savings are seen in the next electricity bill,' said co-founder Pablo Farah. The deal brings smart efficiency to everything from convenience stores to supermarkets and clinics.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.enderlinindependent.com/this-chilean-startup-and-copec-join-forces-to-reduce-energy-consumption-in-air-conditioning-by-up-to-40/",
+      "source_name": "enderlinindependent.com",
+      "published_ts": 1779484462000,
+      "image_url": "https://www.enderlinindependent.com/wp-content/uploads/2026/05/This-Chilean-startup-and-Copec-join-forces-to-reduce-energy.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "young_achievers": 3,
+        "ai_entrepreneurship": 4,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udde8\ud83c\uddf1\u2744\ufe0f\u2600\ufe0f\ud83d\udd0c",
+      "headline_split": "This Chilean startup and Copec join forces to reduce energy consumption in air conditioning by up to ",
+      "fake_endings": [
+        "a quarter",
+        "two-thirds"
+      ],
+      "fake_headline": "Dutch Company Develops Solar Panels That Work at Night Using Moonlight"
+    },
+    {
+      "id": "batch_20260528_185229__story_002",
+      "title": "Let Them Pitch Cake: How This Founder Used AI to Build a Thriving Cake Business",
+      "summary": "20-year-old William Lindholm built a company around sending customized cakes to prospects instead of cold emails \u2014 and it worked. Daymaker grew monthly revenue from $10K to $130K in six weeks, because cakes outperformed every A/B test he'd ever run.",
+      "extended_summary": "William Lindholm discovered that nothing closes a deal like a cake. His company Daymaker sends personalized cakes with AI-generated designs and messaging to prospects, replacing cold emails. When he saw that cakes consistently beat every cold-email test he ran, he knew he was onto something. Within six weeks, revenue jumped from $10,000 to $130,000 a month \u2014 proving that the sweetest pitch is literally a sweet pitch.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise",
+        "Humor"
+      ],
+      "source_url": "https://www.inc.com/mariapaula-gonzalez/this-founder-used-ai-to-build-a-thriving-business-out-of-customized-cake-pitches/91325967",
+      "source_name": "inc.com",
+      "published_ts": 1775016000000,
+      "image_url": "https://picsum.photos/seed/research_aie_0003/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "limelight": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf82\ud83e\udd16\ud83d\udcc8\ud83d\udcbc",
+      "headline_split": "Let Them Pitch Cake: How This Founder Used AI to ",
+      "fake_endings": [
+        "Automate a Nationwide Delivery Service",
+        "Create a Viral Recipe Blog"
+      ],
+      "fake_headline": "How a Rescue Shelter Used AI to Save 1,000 Dogs in One Year"
+    },
+    {
+      "id": "batch_20260528_185229__story_003",
+      "title": "Meet a 29-year-old blue-collar founder who used AI to triple his revenue in 3 years",
+      "summary": "Rick Chorney dropped out of high school and started a cleaning business. By using AI \u2014 including a virtual receptionist that handles 15 calls an hour \u2014 he tripled his revenue and now projects $1.3 million in sales with 16 employees.",
+      "extended_summary": "Rick Chorney didn't finish high school, but that didn't stop him from building a million-dollar business. After launching Echo Janitorial Services in 2023, he turned to AI to compete with much larger rivals. An AI receptionist handles up to 15 calls an hour, freeing him to focus on growth. Now he's on track to hit $1.3 million in revenue \u2014 a triple from where he started \u2014 and his blue-collar story shows how AI can level the playing field.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://fortune.com/2026/03/28/ai-small-business-entrepreneur-1-million-blue-collar/",
+      "source_name": "fortune.com",
+      "published_ts": 1774670400000,
+      "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/rick.png?resize=1200,600",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 11,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "young_achievers": 5,
+        "limelight": 1,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udc77\u200d\u2642\ufe0f\ud83e\udd16\ud83d\udcb0\ud83d\udcca",
+      "headline_split": "Meet a 29-year-old blue-collar founder who used AI to ",
+      "fake_endings": [
+        "cut his costs by 50% in just one year",
+        "launch a successful online course"
+      ],
+      "fake_headline": "Teen Inventor Creates $2 Device That Cleans 100 Gallons of Ocean Water Daily"
+    },
+    {
+      "id": "batch_20260528_185229__story_001",
+      "title": "From $0 to $62k MRR in three months",
+      "summary": "Cameron Trew left his comfortable job, moved back in with his parents, and built an AI product that hit $62K in monthly revenue in just three months. This founder's story is all about choosing speed over perfection and using AI tools to move fast.",
+      "extended_summary": "Cameron Trew went from zero to $62,000 in monthly recurring revenue in three months by quitting his job and moving in with his parents. His secret? A brutal focus on speed over perfection, ruthless prioritization, and relying on AI to do the heavy lifting. The first-person breakdown shows exactly how he engineered his way to a rapid revenue ramp.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.indiehackers.com/post/tech/from-0-to-62k-mrr-in-three-months-mUPVSYOlJAC2iogGK7d4",
+      "source_name": "indiehackers.com",
+      "published_ts": 1777608000000,
+      "image_url": "https://storage.googleapis.com/indie-hackers.appspot.com/post-images/mUPVSYOlJAC2iogGK7d4/PWairgiOpneHvkGJri7RVbtORKI2/Cameron Trew_Founder.jpg",
+      "display_mode": "image",
+      "display_reason": "hero always uses image mode (summary always visible)",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 5,
+      "read_time_min": 34,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "limelight": 1,
+        "impact_innovation": 1,
+        "ai_entrepreneurship": 4
+      },
+      "emoji_clue": "\ud83d\udcc8\ud83d\udcb0\ud83d\ude80\ud83d\udcb5\u23f1\ufe0f",
+      "headline_split": "From $0 to ",
+      "fake_endings": [
+        "$100k ARR in just six months",
+        "$50k net profit in one month"
+      ],
+      "fake_headline": "Meet the 70-Year-Old Who Learned to Code and Built an App That Feeds 500 Families Weekly"
+    }
+  ]
+}
