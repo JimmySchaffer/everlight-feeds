@@ -1,7 +1,7 @@
 {
   "batch_id": "batch_20260622_232856",
   "created_at": "2026-06-22T23:28:56.353615",
-  "story_count": 50,
+  "story_count": 49,
   "stories": [
     {
       "id": "batch_20260622_180134__story_001",
@@ -371,48 +371,6 @@
       ],
       "fake_headline": "Little League Team Adopts Rules That Ensure Every Kid Gets to Play",
       "city": "Eugene"
-    },
-    {
-      "id": "batch_20260622_180134__story_010",
-      "title": "Barack and Michelle Obama surprise first visitors to newly opened presidential center",
-      "summary": "Barack and Michelle Obama surprised the first 100 visitors to the new Obama Presidential Center, shaking hands and posing for photos. They also read \"Where the Wild Things Are\" to school kids, with Michelle joking about no kings.",
-      "extended_summary": "The doors of the Obama Presidential Center had just opened when a special guest list walked in: the Obamas themselves. They greeted 100 awestruck visitors, then joined LeVar Burton for a reading of \"Where the Wild Things Are.\" When Barack read \"king of all the wild things,\" Michelle quipped, \"Although there were no kings\" \u2014 drawing applause. Houefa Agassounon, 18, asked for a hug and said, \"This is the greatest thing of my 18 years of life.\" The center is now open to the public in Chicago.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://capitolcitynow.com/news/248842-barack-and-michelle-obama-surprise-first-visitors-to-newly-opened-presidential-center/",
-      "source_name": "wtax.com",
-      "published_ts": 1781985616000,
-      "image_url": "https://capitolcitynow.com/wp-content/blogs.dir/284/files/2026/05/shutterstock_2783408349-Obama-Presidential-Museum.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 5,
-      "headline_pull": 5,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 1,
-        "young_achievers": 1,
-        "limelight": 5
-      },
-      "emoji_clue": "\ud83d\udc68\ud83d\udc69\ud83d\udc67\ud83d\udc66\ud83c\udf89\ud83c\udfdb\ufe0f",
-      "headline_split": "Barack and Michelle Obama surprise first visitors to ",
-      "fake_endings": [
-        "the White House garden",
-        "a new community center"
-      ],
-      "fake_headline": "Local Pizza Shop Owner Gives Free Meals to Hospital Workers for a Year",
-      "city": "Sangamon County"
     },
     {
       "id": "batch_20260622_180134__story_011",
