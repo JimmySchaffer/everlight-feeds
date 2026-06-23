@@ -1,27 +1,28 @@
 {
-  "batch_id": "batch_20260608_202135",
-  "created_at": "2026-06-08T20:21:35.728981",
-  "story_count": 37,
+  "batch_id": "batch_20260622_232856",
+  "created_at": "2026-06-22T23:28:56.403889",
+  "story_count": 46,
   "stories": [
     {
-      "id": "batch_20260609_002128__story_001",
-      "title": "A Devotion to Saving Graves and History",
-      "summary": "Jason Bono, 25, turns headstone cleaning into a small business and history project, restoring weathered graves in East Hampton. Using nontoxic solutions, he respectfully preserves the stories of those who built the town, ensuring their legacy isn't forgotten.",
-      "extended_summary": "For years, names on weatherworn headstones faded beneath layers of dirt and lichen\u2014until Jason Bono began cleaning them one at a time. The 25-year-old turned his Boy Scout passion into Hampton Headstone Care, using specially made nontoxic solutions to restore graves without harming plant or animal life. His goal is to preserve local history, especially as families move away and ancestors' headstones go uncared for. Even abandoned cemeteries get attention, with the town stepping in. Bono\u2019s work ensures that the history of those who built East Hampton remains visible for generations.",
-      "category": "Transformation",
+      "id": "batch_20260622_180134__story_051",
+      "title": "13-year-old cancer survivor returns to pitch in All-Star game after stem cell transplant",
+      "summary": "After surviving bone marrow cancer and receiving a stem cell transplant from his 6-year-old brother, 13-year-old Brody House returned to the mound for the All-Star Championship Series exactly 100 days post-transplant. The Keystone Little League community rallied around him, and his brother Gabe was the perfect donor. Brody's comeback shows the power of family and determination.",
+      "extended_summary": "Brody House stepped onto the Bayshore Little League mound in Tampa exactly 100 days after a life-saving stem cell transplant \u2014 with his 6-year-old brother Gabe, his donor, cheering from the stands. After a grueling battle with bone marrow cancer, Brody was cleared to pitch in the All-Star Championship Series. The Keystone Little League community dedicated their season to him while he underwent treatment. His perfect match was found right at home: Gabe's stem cells gave Brody a second chance at baseball.",
+      "category": "Sports",
       "categories": [
+        "Sports",
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://www.easthamptonstar.com/villages/202664/devotion-to-saving-graves-and-history",
-      "source_name": "easthamptonstar.com",
-      "published_ts": 1780641678000,
-      "image_url": "https://www.easthamptonstar.com/sites/default/files/20260604_Vils_GravestoneCleanerDG0404.jpg",
+      "source_url": "https://www.fox13news.com/news/13-year-old-cancer-survivor-returns-pitch-all-star-game-after-stem-cell-transplant",
+      "source_name": "fox13news.com",
+      "published_ts": 1781940671000,
+      "image_url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2026/06/1200/630/vlcsnap-2026-06-19-21h46m05s914.jpg?ve=1&tl=1",
       "display_mode": "image",
-      "display_reason": "hero always uses image mode (summary always visible)",
-      "image_confidence": "medium",
-      "visual_affinity": 3,
-      "headline_pull": 4,
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
       "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
@@ -30,39 +31,677 @@
         "young_achievers"
       ],
       "section_scores": {
-        "young_achievers": 5,
         "ai_entrepreneurship": 1,
-        "impact_innovation": 2,
-        "limelight": 5
+        "impact_innovation": 1,
+        "young_achievers": 5,
+        "limelight": 3
       },
-      "emoji_clue": "\ud83e\udea6\ud83d\udcdc\ud83c\udfdb\ufe0f",
-      "headline_split": "A Devotion to Saving Graves ",
+      "emoji_clue": "\ud83d\udc66\ud83c\udf97\ufe0f\u26be\ud83e\uddec",
+      "headline_split": "13-year-old cancer survivor returns to pitch in All-Star game after ",
       "fake_endings": [
-        "and Ancient Artifacts",
-        "and Historic Documents"
+        "a bone marrow donation",
+        "a life-saving vaccine"
       ],
-      "fake_headline": "Teenager Starts Library for Forgotten Languages in Her Basement",
-      "city": "East Hampton"
+      "fake_headline": "Teen Inventor Creates Biodegradable Straw From Seaweed, Wins $25,000 Prize",
+      "city": "Hillsborough County"
     },
     {
-      "id": "batch_20260609_002128__story_051",
-      "title": "A student\u2019s expedition to the Antarctic",
-      "summary": "Eric Gee went from Honolulu to Antarctica on a mission that changed him inside. The student helped research, broadcasted to 2 million kids, and came back with a deeper purpose: protecting our only Earth. His journey proves one trip can shift your whole perspective.",
-      "extended_summary": "Nothing prepares you for stepping onto Antarctic ice\u2014Eric Gee can tell you that. The University of Hawaii student joined an expedition with explorer Robert Swan, helping research and teaching 2 million students live from the frozen continent. He saw glaciers melting and felt the weight of climate change firsthand. His mom always told him to leave things better than he found it; now he's passing that lesson on to a generation.",
+      "id": "batch_20260622_180134__story_052",
+      "title": "An Indigenous musician from a trailblazing family makes history for Winnebago Tribe \u2014 and she\u2019s only 21",
+      "summary": "Tyler Free-LaMere, a 21-year-old two-spirit musician from the Winnebago Tribe, became the first citizen of the Winnebago Nation to receive a National Endowment for the Arts composer grant. Her award-winning composition, created for a dual language program, will now be used by Indigenous students across the country. It's a milestone for both her tribe and young Indigenous artists.",
+      "extended_summary": "Tyler Free-LaMere was just 7 years old when she played her miniature keyboard on a sidewalk in Winnebago, oblivious that she was laying the groundwork for history. Now 21, she's the first Winnebago Nation citizen to become an NEA composer. Her piece, originally for her mother's elementary school dual language program, will reach Indigenous students nationwide. The honor places her among legendary Native composers and signals a new generation of creative leadership.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://yaleclimateconnections.org/2026/06/a-students-expedition-to-the-antarctic/",
-      "source_name": "yaleclimateconnections.org",
-      "published_ts": 1780934400000,
-      "image_url": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/06/060826_antarctica_1600.jpg?fit=1600%2C900&ssl=1",
+      "source_url": "https://flatwaterfreepress.org/a-coup-for-winnebago-nation-how-a-21-year-old-composer-made-history/",
+      "source_name": "flatwaterfreepress.org",
+      "published_ts": 1781708400000,
+      "image_url": "https://flatwaterfreepress.org/wp-content/uploads/2026/06/061726NativeComposer-007-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 11,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 5,
+        "impact_innovation": 2,
+        "limelight": 3
+      },
+      "emoji_clue": "\ud83c\udfb5\ud83d\udc69\u200d\ud83c\udfa4\ud83e\udeb6\ud83d\udc51",
+      "headline_split": "An Indigenous musician from a trailblazing family makes history for Winnebago Tribe \u2014 ",
+      "fake_endings": [
+        "and she won a Grammy",
+        "and she's a pilot too"
+      ],
+      "fake_headline": "Young Ojibwe Artist Paints Mural in Smithsonian, Inspires Next Generation"
+    },
+    {
+      "id": "batch_20260622_180134__story_017",
+      "title": "Building financial confidence from the inside out",
+      "summary": "Inside a U.S. Bank branch in North Minneapolis, financial coach Achante Brown helps people build credit and savings for free. The Operation HOPE program has already worked with over 230 clients, turning financial anxiety into confidence and opportunity.",
+      "extended_summary": "For many in North Minneapolis, financial advice has always felt distant or untrustworthy \u2014 until they meet Achante Brown. Located inside the rebuilt U.S. Bank branch on West Broadway, the Operation HOPE coaching office offers free, one-on-one help with credit, savings, and small business planning. Brown grew up in the neighborhood and spent nearly a decade at U.S. Bank herself, so she knows exactly what her clients are up against. So far she's guided more than 230 people toward their financial goals, proving that trust and community connection can be just as valuable as any bank account.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://spokesman-recorder.com/2026/06/19/operation-hope-financial-coaching-north-minneapolis/",
+      "source_name": "spokesman-recorder.com",
+      "published_ts": 1781902076000,
+      "image_url": "https://spokesman-recorder.com/wp-content/uploads/2026/06/US1-scaled-e1781278803377.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 2,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 5,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udcb5\ud83e\udde0\ud83d\udd04\ud83d\udcaa",
+      "headline_split": "Building financial confidence ",
+      "fake_endings": [
+        "through community workshops",
+        "one step at a time"
+      ],
+      "fake_headline": "Young Entrepreneurs Launch Free Financial Literacy App for Teens",
+      "city": "Minneapolis"
+    },
+    {
+      "id": "batch_20260622_180134__story_053",
+      "title": "Corey Kent Asked Toby Keith for More Money and Got It",
+      "summary": "At 19, country singer Corey Kent turned down an opening slot for Toby Keith because the $500 offer was too low. He asked for $1,000 \u2014 and Keith respected his audacity so much that he said yes. The story shows how knowing your worth can pay off, even when negotiating with a legend.",
+      "extended_summary": "Most aspiring musicians would play Toby Keith's opener for free, but 19-year-old Corey Kent asked for double the offered $500. Keith's management called back stunned: 'Toby loved that you counter-offered him. He said yes.' Kent's gamble paid off, proving that confidence can win respect. Years later, this story still underscores the power of knowing what you're worth \u2014 even when the other person is a country music icon.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Humor"
+      ],
+      "source_url": "https://khak.com/ixp/204/p/corey-kent-toby-keith-story/",
+      "source_name": "khak.com",
+      "published_ts": 1782149840000,
+      "image_url": "https://picsum.photos/seed/pre_0005/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 1,
+        "young_achievers": 5
+      },
+      "emoji_clue": "\ud83e\udd20\ud83c\udfa4\ud83d\udcb5",
+      "headline_split": "Corey Kent Asked Toby Keith for More Money and ",
+      "fake_endings": [
+        "Got a Tour Bus",
+        "Got a Diamond Ring"
+      ],
+      "fake_headline": "Street Musician in Nashville Lands Record Deal After Playing 100 Days Straight",
+      "city": "Linn County"
+    },
+    {
+      "id": "batch_20260622_180134__story_054",
+      "title": "Could blind soccer have its moment? That's the goal for NYC's only pro player.",
+      "summary": "Captain Charles Catherine leads the USA Blind Soccer Men's National Team as they train for the 2028 Paralympics in LA. Using a system of coordinate calls and a rattling ball, blind and partially sighted players navigate the field. Catherine, a New Yorker, combines his day job with pushing the sport forward ahead of its biggest stage yet.",
+      "extended_summary": "In Central Park, coach Isaac Foster calls out coordinates like 'R-2' to Charles Catherine, who runs toward the sound of a rattling ball. This is blind soccer, and Catherine is the captain of the U.S. national team aiming for the 2028 Paralympics. Players wear masks to level the field; only the goalie can be partially sighted. Catherine, originally from France, balances his day job with training for the first U.S. blind soccer Paralympic appearance. The sport could finally have its breakthrough moment.",
+      "category": "Sports",
+      "categories": [
+        "Sports"
+      ],
+      "tones": [],
+      "source_url": "https://gothamist.com/news/could-blind-soccer-have-its-moment-thats-the-goal-for-nycs-only-pro-player",
+      "source_name": "gothamist.com",
+      "published_ts": 1782072062000,
+      "image_url": "https://api-prod.gothamist.com/images/357735/fill-1200x650|format-webp|webpquality-85/",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "young_achievers": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udd76\ufe0f\u26bd\ud83d\uddfd\ud83e\udd45",
+      "headline_split": "Could blind soccer have its moment? That's the goal for ",
+      "fake_endings": [
+        "the world's first league",
+        "a new generation of players"
+      ],
+      "fake_headline": "Paralyzed Veteran Completes NYC Marathon in Custom Exoskeleton",
+      "city": "New York County"
+    },
+    {
+      "id": "batch_20260622_180134__story_055",
+      "title": "Flying Solo: The Rise of China\u2019s One-Person Companies",
+      "summary": "After a layoff in 2024, designer Ying Junjiu used AI tools like Cursor and Codex to build a productivity app called Momoyu Timer entirely on his own. The ocean-themed macOS app makes time tracking playful \u2014 and it launched on the App Store. He's part of a rising trend of 'one-person companies' in China, fueled by AI.",
+      "extended_summary": "Ying Junjiu dreamed of making apps, but coding was always a barrier. When a layoff hit, he used AI to bridge the gap. With tools like Cursor, he built Momoyu Timer \u2014 a macOS time tracker that gamifies productivity with an underwater theme. The app went live on the App Store just months later. Ying is one of many young Chinese founders pioneering 'one-person companies,' where AI replaces entire teams. It's a new career path born from necessity and technological shift.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.sixthtone.com/news/1018567/Flying Solo: The Rise of China\u2019s One-Person Companies",
+      "source_name": "sixthtone.com",
+      "published_ts": 1782151294311,
+      "image_url": "https://image5.sixthtone.com/image/5/97/469.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 12,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udde8\ud83c\uddf31\ufe0f\u20e3\ud83e\uddd1\u200d\ud83d\udcbc\ud83c\udfe2",
+      "headline_split": "Flying Solo: The Rise of China\u2019s ",
+      "fake_endings": [
+        "Small Business Revolution",
+        "Freelance Economy Boom"
+      ],
+      "fake_headline": "Chinese Farmer Turns Desert Into Forest, Wins UN Environment Award"
+    },
+    {
+      "id": "batch_20260622_180134__story_056",
+      "title": "From Cleveland Heights to Tribeca: Joe Kowalski is having a year",
+      "summary": "Joe Kowalski, a filmmaker from Cleveland Heights, landed his first feature documentary at the Tribeca Film Festival \u2014 no celebrity backing, no major studio. His journey from community college to the festival circuit shows that persistence and a love for storytelling can open doors in independent film.",
+      "extended_summary": "Joe Kowalski didn't have a famous name or studio support, but his first documentary feature earned a spot at Tribeca \u2014 a festival that launches careers and lands distribution deals. Growing up in Oberlin, he moved to Cleveland for school and fell in love with documentary filmmaking through editing. 'There's something satisfying about moving pieces until something true emerges,' he says. This June, Cleveland's own Joe Kowalski is heading to New York to premiere his work on one of the world's biggest stages.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://thelandcle.org/stories/from-cleveland-heights-to-tribeca-joe-kowalski-is-having-a-year/",
+      "source_name": "thelandcle.org",
+      "published_ts": 1781798054000,
+      "image_url": "https://d41ow8dj78e0j.cloudfront.net/wp-content/uploads/2026/06/18065048/Untitled-design-2-e1781779892277.png",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
       "headline_pull": 3,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 1,
+        "young_achievers": 5,
+        "limelight": 1
+      },
+      "emoji_clue": "\ud83c\udfd9\ufe0f\ud83c\udfe2\ud83d\udc68\ud83c\udf89",
+      "headline_split": "From Cleveland Heights to Tribeca: Joe Kowalski is having ",
+      "fake_endings": [
+        "a celebration",
+        "a breakthrough year"
+      ],
+      "fake_headline": "From Homeless to Harvard: Teen Valedictorian Shares Her Inspiring Journey"
+    },
+    {
+      "id": "batch_20260622_180134__story_040",
+      "title": "From West Africa to the DMV",
+      "summary": "Luji's Chocolate sources cocoa from Nigeria and manufactures there, challenging the industry norm. Founder Iyin Akinlabi-Oladimeji creates bars like suya-spiced chocolate that honor West African flavors and her family's heritage.",
+      "extended_summary": "Most cocoa from West Africa leaves as raw commodity, but Luji's Chocolate flips that script. Founder Iyin Akinlabi-Oladimeji sources cocoa from Nigeria's Ile-Oluji region and manufactures the chocolate there before shipping to the U.S. Her bars, like suya-spiced and ginger-plantain, evoke the flavors of West African street food and family memories. It\u2019s chocolate tied to land, memory, and a mission to keep profit and pride in the region.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://edibledc.com/from-west-africa-to-the-dmv/",
+      "source_name": "edibledc.com",
+      "published_ts": 1781790567000,
+      "image_url": "https://edibledc.com/wp-content/uploads/2026/06/EDC_Summer_2026_cover-1.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 2,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 5,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udf0d\u2708\ufe0f\ud83c\udfdb\ufe0f\ud83e\udd1d",
+      "headline_split": "From West Africa ",
+      "fake_endings": [
+        "to New York City",
+        "to Silicon Valley"
+      ],
+      "fake_headline": "Senegalese Immigrant Opens Bakery That Employs Refugees in Chicago",
+      "city": "Washington"
+    },
+    {
+      "id": "batch_20260622_180134__story_043",
+      "title": "Giving Is An Art: BHS\u2019s Revamped Arts Honor Society Transforms Wall To Mural At Sancta Maria",
+      "summary": "Belmont High School artists transformed a drab wall into a striking mural of sunbeams and a breaching whale at Sancta Maria Nursing Facility's memory loss unit. The project, led by sophomore Alexis Zhang, was part of the revamped National Arts Honor Society. The cool colors create a calming spot for patients.",
+      "extended_summary": "On a Friday afternoon when most teens are winding down for the weekend, seven Belmont High artists were applying finishing touches to a mural at Sancta Maria Nursing Facility. The blank wall in the memory loss unit became a calming seascape with sunbeams and a breaching whale in cool blue, green, and beige. 'It's great to see the final work,' says sophomore Alexis Zhang, one of the project leaders. The revamped National Arts Honor Society, reestablished in 2025, filled a gap\u2014nearby schools like Lexington already had chapters. Now patients have a vivid, peaceful scene to enjoy every day.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://belmontonian.com/news/giving-is-an-art-bhss-revamped-arts-honor-society-transforms-wall-to-mural-at-sancta-maria/",
+      "source_name": "belmontonian.com",
+      "published_ts": 1781918724000,
+      "image_url": "https://belmontonian.com/wp-content/uploads/2026/06/IMG_0067-scaled.jpeg",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
+      "visual_affinity": 5,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udfa8\ud83c\udfeb\ud83d\uddbc\ufe0f\u2728",
+      "headline_split": "Giving Is An Art: BHS\u2019s Revamped Arts Honor Society Transforms Wall To Mural ",
+      "fake_endings": [
+        "to Inspire Future Generations",
+        "as Part of City Arts Initiative"
+      ],
+      "fake_headline": "Homeless Man Returns Lost Wallet with $2,000, Community Raises Money for His Surgery",
+      "city": "Belmont"
+    },
+    {
+      "id": "batch_20260622_180134__story_044",
+      "title": "Glamour Gals Bring Makeovers and Conversation to Boca Seniors",
+      "summary": "Boca Raton High students from Glamour Gals visit The Atrium nursing home monthly, painting nails and chatting with seniors like 82-year-old Gay Gentry. Founded by 18-year-old Lyla Wolf, the chapter brings companionship to residents who rarely get visitors. The conversations go beyond nail polish to real connection.",
+      "extended_summary": "Once a month, the quiet hallways of The Atrium at Boca Raton come alive with laughter and the smell of nail polish. Students from Boca Raton Community High School's Glamour Gals chapter arrive with bags of polish and handmade crafts, spending hours with residents like Gay Gentry, a former middle school teacher. 'I wanted to make an impact in a unique way,' says founder Lyla Wolf, who started the chapter as a sophomore. After months of calls to find a nursing home partner, they finally got a 'yes' from The Atrium. Now, for three years, they've turned small talk into something meaningful\u2014one manicure at a time.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://bocamag.com/glamour-girls-bring-makeovers-and-conversation-to-boca-seniors/",
+      "source_name": "bocamag.com",
+      "published_ts": 1781813055000,
+      "image_url": "https://bocamag.com/wp-content/uploads/2026/06/IMG_2208-2.jpeg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udc84\ud83d\udc75\ud83d\udcac\ud83d\udc85",
+      "headline_split": "Glamour Gals Bring Makeovers and Conversation to ",
+      "fake_endings": [
+        "Senior Centers Across the City",
+        "Low-Income Housing Communities"
+      ],
+      "fake_headline": "Teen Invents Device That Turns Ocean Plastic Into Building Bricks"
+    },
+    {
+      "id": "batch_20260622_180134__story_057",
+      "title": "How a COVID lockdown helped make an award-winning winemaker in South Africa",
+      "summary": "During COVID lockdown, Natasha Jacka used the time to plant a vineyard in her parents' Cape Town backyard. Four years later, her debut wines earned critical acclaim. The winemaker turned a pandemic challenge into a labor of love that's now winning over critics.",
+      "extended_summary": "When COVID lockdown stopped her studies, Natasha Jacka didn't binge Netflix \u2014 she planted 1,400 vines in her parents' sea-facing garden. Four years of patience later, her first vintage of white blend and syrah red stunned critics. 'It was a triumph of hope over good sense,' said one reviewer. Jacka stomped the grapes herself and turned a pandemic boredom into an award-winning winemaking project. Her story proves that even in stillness, growth is possible.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.whec.com/ap-top-news/how-a-covid-lockdown-helped-make-an-award-winning-winemaker-in-south-africa/",
+      "source_name": "whec.com",
+      "published_ts": 1782091211000,
+      "image_url": "https://www.whec.com/wp-content/uploads/apimg/2026/06/South_Africa_Home_Vineyard_4688_.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "young_achievers": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\udda0\ud83d\udd12\ud83c\udf77\ud83c\udfc6\ud83c\uddff\ud83c\udde6",
+      "headline_split": "How a COVID lockdown helped make an award-winning winemaker in ",
+      "fake_endings": [
+        "Napa Valley",
+        "the Italian countryside"
+      ],
+      "fake_headline": "Lockdown Love Story: Couple Gets Married Over Zoom With 100 Guests Watching",
+      "city": "Monroe County"
+    },
+    {
+      "id": "batch_20260622_180134__story_058",
+      "title": "How a Rare Bird Stopped a Highway Project in South China",
+      "summary": "A planned highway in southern China was halted after thousands of advocates, led by 24-year-old engineering student Li Jiahe, opposed its route through critical mudflats for endangered spoon-billed sandpipers. The unexpected victory shows how public pressure can protect fragile ecosystems, even against economic development plans.",
+      "extended_summary": "Li Jiahe had never seen a spoon-billed sandpiper, but that didn't stop him from fighting for them. When a new highway threatened mudflats where only 443 of these birds remain, Li organized an online campaign that flooded authorities with letters. Within weeks, China's environmental agency paused the project. The provincial government now says it will explore alternatives. For Li and thousands of supporters, this rare win for conservation shows that collective action can push back against development \u2014 at least for a while.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.sixthtone.com/news/1018593/How a Rare Bird Stopped a Highway Project in South China",
+      "source_name": "sixthtone.com",
+      "published_ts": 1782151294311,
+      "image_url": "https://image5.sixthtone.com/image/5/97/664.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "young_achievers": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udc26\ud83d\udea7\ud83d\udee3\ufe0f\ud83c\udde8\ud83c\uddf3",
+      "headline_split": "How a Rare Bird Stopped a Highway Project in ",
+      "fake_endings": [
+        "the Amazon rainforest",
+        "a national park"
+      ],
+      "fake_headline": "Volunteers Plant 1 Million Trees in Deforested Area, Bring Back Endangered Species"
+    },
+    {
+      "id": "batch_20260622_180134__story_059",
+      "title": "New Orleans Teens Are Keeping Jazz Alive Through the Trombone Shorty Academy",
+      "summary": "Through the Trombone Shorty Academy, New Orleans teens like Tyler Stevenson learn jazz from legends like Troy 'Trombone Shorty' Andrews. This year, Tyler performed at Jazz Fest, for Kamala Harris, and on the historic Tipitina's stage. The program is closing the gap in cultural mentorship after Hurricane Katrina.",
+      "extended_summary": "Tyler Stevenson had the solo of a lifetime on the same stage where James Brown once played. Standing next to Trombone Shorty at Tipitina's, the 17-year-old channeled all his training into the trombone. He's one of many teens in the Trombone Shorty Academy, a program founded by the Grammy winner to keep New Orleans' jazz legacy alive. After Hurricane Katrina displaced Black communities, mentorship opportunities faded. This academy brings them back, one solo at a time.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "http://capitalbnews.org/jazz-new-orleans-trombone-shorty-academy/",
+      "source_name": "capitalbnews.org",
+      "published_ts": 1781822100000,
+      "image_url": "https://i0.wp.com/capitalbnews.org/wp-content/uploads/2026/06/Troy-Andrews-and-Tyler-Stevenson-2-Credit-Katie-Sikora-1.jpg?fit=2026%2C1348&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udfb7\ud83d\udc66\ud83d\udc67\ud83c\udfba\ud83c\udfeb",
+      "headline_split": "New Orleans Teens Are Keeping Jazz Alive Through the ",
+      "fake_endings": [
+        "Louis Armstrong Institute",
+        "Preservation Hall Program"
+      ],
+      "fake_headline": "Appalachian Teens Keep Bluegrass Music Alive With Weekly Barn Sessions"
+    },
+    {
+      "id": "batch_20260622_180134__story_060",
+      "title": "Our Chicago: Man completes mission to run every street in city",
+      "summary": "After an accident on Mt. Washington left him with hypothermia, doctors told Joabe Barbosa to run for circulation. He took it literally \u2014 and ran every single street in Chicago over 680 days. Along the way, he found kindness everywhere, even in neighborhoods people warned him to avoid.",
+      "extended_summary": "Joabe Barbosa set out to run every street in Chicago after doctors recommended running to heal from severe hypothermia. Over 680 days, he logged miles through neighborhoods others called dangerous \u2014 and found only hospitality. People offered water, home-cooked meals, and conversation. His final run drew hundreds of followers who had cheered him on social media. 'One experience can change everything,' he says. The mission transformed both his body and his view of the city.",
+      "category": "Sports",
+      "categories": [
+        "Sports",
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://abc7chicago.com/post/chicago-joabe-barbosa-completes-mission-run-every-street-city/19333532/",
+      "source_name": "abc7chicago.com",
+      "published_ts": 1782069223000,
+      "image_url": "https://cdn.abcotvs.com/dip/images/10528855_041921-wls-our-chicago-new-img.png?w=1600",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 5,
+        "limelight": 2,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udfc3\ud83c\udf06\ud83d\uddfa\ufe0f",
+      "headline_split": "Our Chicago: Man completes mission to run every street in ",
+      "fake_endings": [
+        "town",
+        "the state"
+      ],
+      "fake_headline": "Retired Teacher Hikes Entire Appalachian Trail at Age 70, Raises Money for Scholarships",
+      "city": "Cook County"
+    },
+    {
+      "id": "batch_20260622_180134__story_061",
+      "title": "Positive people in Pinecrest : Marcos Mendiola",
+      "summary": "High school senior Marcos Mendiola turned his grandmother's hospice stay into a calling. After seeing the loneliness of elderly patients, he began volunteering, then organized weekly arts and crafts activities across two facilities. With 480 service hours, he's proving compassion can transform lives.",
+      "extended_summary": "When Marcos Mendiola's grandmother entered hospice, he started visiting\u2014and noticed how lonely the other patients were. So the Miami Palmetto High rising senior began volunteering, eventually organizing painting, knitting, and canvas art sessions twice a week at Opus Care. Now he runs the program at two locations, spending five hours a day, four days a week bringing creativity and companionship to seniors who need it most.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://communitynewspapers.com/positive-people/positive-people-in-pinecrest-marcos-mendiola/",
+      "source_name": "communitynewspapers.com",
+      "published_ts": 1781795828000,
+      "image_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABCwAAAJEAQMAAADnqyfeAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAG9JREFUeNrswYEAAAAAgKD9qRepAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg9uCQAAAAAEDQ/9fOsAAAAAAAAAAAAAAAAAAAAAAAsAox6wABwRHV3QAAAABJRU5ErkJggg==",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 2,
+        "young_achievers": 5
+      },
+      "city": "Aventura"
+    },
+    {
+      "id": "batch_20260622_180134__story_062",
+      "title": "Roxie C. Black is a living legacy",
+      "summary": "At 19, Roxie Black stepped onto a drag stage for the first time and never looked back. Seventeen years later, she's a pioneering African American trans advocate and mentor in Louisiana. Her journey from hesitant performer to community legend shows how one bold step can change everything.",
+      "extended_summary": "Roxie Black had never performed when she finally agreed to compete at a Lafayette nightclub's talent night in 2009. She won that night, then beat the monthly winners, then took the Entertainer of the Year pageant. The bar owner changed the rules so she could host her own show. Now, as a pioneer for African American and trans advocacy, she mentors others and carries forward a legacy of representation and joy.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://thecurrentla.com/2026/roxie-c-black-is-a-living-legacy/?utm_medium=rss",
+      "source_name": "thecurrentla.com",
+      "published_ts": 1781895600000,
+      "image_url": "https://media.thecurrentla.com/wp-content/uploads/2026/06/18103538/DSC_0512.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 9,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 1,
+        "young_achievers": 5,
+        "limelight": 2
+      }
+    },
+    {
+      "id": "batch_20260622_180134__story_063",
+      "title": "Stingless bees in Peru become the first insects with legal rights. Will it happen globally?",
+      "summary": "Peru's stingless bees are the first insects ever granted legal rights\u2014to exist, thrive, and be represented in court. Sparked by Indigenous knowledge and a scientist's dedication, the ordinances protect bees that pollinate 80% of tropical flora. A global precedent for nature's rights.",
+      "extended_summary": "Two municipalities in the Peruvian Amazon have passed ordinances recognizing native stingless bees as rights-bearing entities\u2014a world first for insects. The bees now have the legal right to exist, reproduce, and flourish, and Indigenous groups can sue on their behalf. The campaign, led by Amazon researcher Rosa V\u00e1squez Espinoza, drew on centuries of Indigenous cultivation and spiritual meaning. With stingless bees pollinating 80% of tropical plants and facing threats from climate change and pesticides, this legal breakthrough could inspire similar protections worldwide.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise",
+        "Spiritual"
+      ],
+      "source_url": "https://news.mongabay.com/short-article/2026/06/stingless-bees-in-peru-become-the-first-insects-with-legal-rights-will-it-happen-globally/",
+      "source_name": "news.mongabay.com",
+      "published_ts": 1781731931000,
+      "image_url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/06/17162015/pexels-billsalazar-18478471-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 5,
+        "limelight": 2,
+        "impact_innovation": 4
+      }
+    },
+    {
+      "id": "batch_20260622_180134__story_064",
+      "title": "Tej Bhagra a tennis star and so much more",
+      "summary": "Tej Bhagra is a top-20 nationally ranked tennis player who also wrote a bill making personal finance class mandatory in Minnesota high schools. The Mayo High grad's blog 'Finance Fingers' and his advocacy show he's as sharp off the court as on it.",
+      "extended_summary": "Tej Bhagra swings his racquet so much at home it drives his mom nuts\u2014but the results speak for themselves: he's ranked No. 19 in the nation for his graduating class. But the 18-year-old's impact goes far beyond tennis. As a freshman, he championed a bill that made personal finance classes mandatory in Minnesota high schools\u2014and it passed. He also writes a monthly blog, 'Finance Fingers,' on economic trends. A rare blend of athletic excellence and civic leadership.",
+      "category": "Sports",
+      "categories": [
+        "Sports",
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.postbulletin.com/sports/tej-bhagra-a-tennis-star-and-so-much-more",
+      "source_name": "postbulletin.com",
+      "published_ts": 1781973900000,
+      "image_url": "https://cdn.forumcomm.com/dims4/default/66739d6/2147483647/strip/true/crop/3600x2400+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fbb%2Fc3%2F49be10134d018df7b2bc33dab8aa%2F052026-tej-bhagra-tennis-lesson-4001-copy.jpg",
+      "display_mode": "image",
+      "display_reason": "medium image but highly visual story",
+      "image_confidence": "medium",
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -74,30 +713,361 @@
         "ai_entrepreneurship": 1,
         "young_achievers": 5,
         "impact_innovation": 2,
-        "limelight": 4
+        "limelight": 5
       },
-      "emoji_clue": "\ud83e\uddd1\u200d\ud83c\udf93\u2744\ufe0f\ud83d\udc27\ud83c\udf0d",
-      "headline_split": "A student\u2019s expedition ",
-      "fake_endings": [
-        "to map uncharted icebergs",
-        "to study climate change effects"
-      ],
-      "fake_headline": "Local Teen Wins International Science Fair With Project on Cleaning Ocean Plastics"
+      "city": "Rochester"
     },
     {
-      "id": "batch_20260609_002128__story_052",
-      "title": "After a Road Accident Left Him in a Wheelchair, This 14 YO Started Mapping Accessible Places for Others",
-      "summary": "After a road accident left him in a wheelchair at 13, Pratik Shingare realized how inaccessible cities are. He started 'StairlessJourney,' mapping over 50 accessible spaces across India\u2014so no one else feels shut out. From personal struggle to community lifeline.",
-      "extended_summary": "Pratik Shingare was 13 when a road accident put him in a wheelchair and his school refused to take him back. Suddenly, steps and narrow doorways became impossible barriers. Instead of giving up, he started mapping places that actually welcome wheelchair users. 'StairlessJourney' has now cataloged over 50 accessible spots across India. He's building a future app to help others find their way in a world that wasn't built for them.",
+      "id": "batch_20260622_180134__story_065",
+      "title": "The first Latina is crowned the new Miss Wisconsin Teen USA",
+      "summary": "Leia R\u00edos, 16, just became the first Latina to win Miss Wisconsin Teen USA\u2014and she's bringing more than a crown. With over 4,000 hours of community service and deep pride in her Puerto Rican and Mexican heritage, she's ready to inspire the next generation.",
+      "extended_summary": "Brookfield East High School student Leia R\u00edos made history as the first Latina crowned Miss Wisconsin Teen USA. But her journey includes 4,000+ hours of community service\u2014including summers helping on her aunt's lettuce farm in Puerto Rico. R\u00edos is using her platform to connect with Latino communities and advocate for representation. 'I want to show them that they can achieve their dreams too,' she says. She heads to the national stage in August with a mission to open doors.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://cbs58.com/news/the-first-latina-is-crowned-the-new-miss-wisconsin-teen",
+      "source_name": "cbs58.com",
+      "published_ts": 1782061200000,
+      "image_url": "https://newscdn2.weigelbroadcasting.com/tAUIp-1781624300-319683-blog-vlcsnap-2026-06-16-10h37m00s890.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 1,
+        "young_achievers": 5
+      },
+      "city": "Milwaukee County"
+    },
+    {
+      "id": "batch_20260622_180134__story_066",
+      "title": "Though his vision is limited, his art knows no bounds",
+      "summary": "After a torn retina left him with 20/260 vision, Leonardo Rios found his voice in art class. With a teacher's help and grants from The Education Fund, the Miami Springs senior now creates felt art, donates work to auctions, and plans a career in the arts.",
+      "extended_summary": "In middle school, a torn retina gave Leonardo Rios just 20/260 vision in one eye\u2014a permanent block in his sight. But in art teacher Beth Goldstein's classroom, he discovered felt art. With training from The Education Fund, Goldstein taught him techniques and business skills. Now a senior, Rios showcased his work at a charity auction, donated a textile piece, and taught origami to guests. He's determined to pay it forward so future students have the same opportunities.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://communitynewspapers.com/pinecrest-tribune/though-his-vision-is-limited-his-art-knows-no-bounds/",
+      "source_name": "communitynewspapers.com",
+      "published_ts": 1781785126000,
+      "image_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABCwAAAJEAQMAAADnqyfeAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAG9JREFUeNrswYEAAAAAgKD9qRepAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg9uCQAAAAAEDQ/9fOsAAAAAAAAAAAAAAAAAAAAAAAsAox6wABwRHV3QAAAABJRU5ErkJggg==",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 5,
+        "impact_innovation": 2
+      },
+      "city": "Aventura"
+    },
+    {
+      "id": "batch_20260622_180134__story_067",
+      "title": "Want to Read and Walk at the Same Time? Go to Nannahagen.",
+      "summary": "Inspired by childhood bedtime stories, Eagle Scout Logan Dundas built a StoryWalk at Nannahagen Park. Sixteen wooden frames circle the lake, displaying children's book pages that change seasonally. A community project that gets families reading and walking.",
+      "extended_summary": "When Logan Dundas was five, his father read him The Hobbit at bedtime\u2014and those stories stuck. So when it came time for his Eagle Scout project, the 18-year-old combined his love of reading and nature. The result: a StoryWalk at Nannahagen Park in Pleasantville, with 16 frames around the lake displaying a book's pages. The first book, Tea Party in the Woods, matched the winter scenery. Now maintained by the library and a local bookstore, it changes with the seasons\u2014starting with The Great Dinosaur Sleepover this summer.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://thebetterindia.com/changemakers/pratik-shingare-pune-stairlessjourney-accessibility-wheelchair-users-india-11904363",
+      "source_url": "https://www.theexaminernews.com/want-to-read-and-walk-at-the-same-time-go-to-nannahagen/",
+      "source_name": "theexaminernews.com",
+      "published_ts": 1781804846000,
+      "image_url": "https://www.theexaminernews.com/examiner-news/wp-content/uploads/2026/06/image1-scaled.jpeg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 5,
+        "limelight": 5,
+        "impact_innovation": 5
+      }
+    },
+    {
+      "id": "batch_20260622_180134__story_001",
+      "title": "11-year-olds mowed 50 lawns for free so the \u2018Lawnmower Man\u2019 donated gear to open a business",
+      "summary": "Two 11-year-olds in Alabama took on the 50 Yard Challenge, mowing lawns for free for those in need. When Rodney Smith Jr., the Lawnmower Man, heard they were sharing a donated mower, he drove down and gifted them brand-new equipment. Now the boys are turning their hard work into a real business.",
+      "extended_summary": "When Ja\u2019Torrian Taylor and Tevin Rice signed up for the 50 Yard Challenge, they didn't expect a reward \u2014 they just wanted to help their community. After mowing 50 lawns for free, Rodney Smith Jr. showed up with a mower, blower, and trimmer for each of them. \"This could be the beginning of a successful lawn service,\" he said. The boys' grit paid off, and their new gear is taking their business to the next level.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.upworthy.com/50-lawn-mower-challenge-ex1/",
+      "source_name": "upworthy.com",
+      "published_ts": 1782071762000,
+      "image_url": "https://www.upworthy.com/wp-content/uploads/sites/2/2025/11/origin_50b15a.png",
+      "display_mode": "image",
+      "display_reason": "hero always uses image mode (summary always visible)",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\uddd2\ud83c\udf3e\u2702\ufe0f\ud83c\udf81\ud83c\udfea",
+      "headline_split": "11-year-olds mowed 50 lawns for free so the \u2018Lawnmower Man\u2019 donated gear to ",
+      "fake_endings": [
+        "help them start a lemonade stand",
+        "pay for their college tuition"
+      ],
+      "fake_headline": "Teenager Builds Tiny House for Homeless Veteran Using Only Recycled Materials"
+    },
+    {
+      "id": "batch_20260622_180134__story_020",
+      "title": "Charleston dad turns a simple newsletter into a nationwide community for fathers",
+      "summary": "When Adam Kunes became a dad, he couldn't find fatherhood content that felt real \u2014 so he created Dad Day. The newsletter has grown into a nationwide community of 20,000 dads with meetups, run clubs, and honest conversations about parenting.",
+      "extended_summary": "Adam Kunes felt isolated as a new dad \u2014 his friends were still out at bars while he was learning baby sleep schedules. The online content for fathers felt either cheesy or insulting, so the Charleston entrepreneur started Dad Day, a newsletter that quickly exploded. Three times a week, it covers everything from parenting and fitness to marriage and humor, and has spawned in-person meetups, run clubs, and a Slack group. Within months, 20,000 dads across the country had joined, proving that a lot of guys were looking for the exact same thing: a community that lets them stay true to themselves while figuring out fatherhood.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://thedanielislandnews.com/news/charleston-dad-turns-simple-newsletter-nationwide-community-fathers",
+      "source_name": "thedanielislandnews.com",
+      "published_ts": 1781685295000,
+      "image_url": "https://thedanielislandnews.com/sites/default/files/2015-09-18_12-55-45.jpg",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udcf0\ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83c\udf0d\ud83d\udd04",
+      "headline_split": "Charleston dad turns a simple newsletter into ",
+      "fake_endings": [
+        "a bestselling book series",
+        "a popular podcast network"
+      ],
+      "fake_headline": "Nebraska Dad Builds Free Skatepark in His Backyard for Neighborhood Kids",
+      "city": "Charleston"
+    },
+    {
+      "id": "batch_20260622_180134__story_068",
+      "title": "Farmers hope to make New Jersey the hazelnut capital of America",
+      "summary": "New Jersey farmers are betting on hazelnuts\u2014despite deer and goats eating their first saplings. With state support and a vision for Jersey-made Nutella, they're working to turn the Garden State into the hazelnut capital of America.",
+      "extended_summary": "Ozgur Tunceli's first hazelnut saplings were eaten by deer. The second batch? Her goats ate them. 'Imagine me sitting there crying,' she says. But she got an electric fence and now has nearly 1,000 trees. She's part of a growing movement to establish hazelnuts as a signature New Jersey crop, alongside tomatoes and blueberries. The state is considering incentives, and a senator is seeking $6.5 million for processing equipment. These farmers are stubbornly optimistic that hazelnuts could be the next big thing.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Humor"
+      ],
+      "source_url": "https://newjerseymonitor.com/2026/06/16/new-jersey-hazelnut-farmers/",
+      "source_name": "newjerseymonitor.com",
+      "published_ts": 1781624572000,
+      "image_url": "https://newjerseymonitor.com/wp-content/uploads/2026/06/0JS19147_1.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 24,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 2,
+        "young_achievers": 4
+      }
+    },
+    {
+      "id": "batch_20260622_180134__story_069",
+      "title": "Just By Mowing a Lawn, Social Media Star Raises $685,000 for Bereaved Senior Who Fell Behind on Rent",
+      "summary": "When Spencer from SB Mowing heard about Debbie\u2014a widow who lost her husband to cancer, fell behind on rent, and couldn't afford food\u2014he mowed her overgrown lawn. The video raised $685,000, transforming her life overnight.",
+      "extended_summary": "Debbie's husband was diagnosed with stage 4 cancer and given 90 days to live. After he passed, a contractor took $2,000 and vanished, a neighbor wrecked her car, and she fell three months behind on rent. Some days she and her dogs went without food. When an Uber driver saw her struggling, he contacted SB Mowing's Spencer. Spencer and his father spent two days clearing her yard. Their YouTube video raised $685,000\u2014enough to pay off all her debts and give her a fresh start.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.goodnewsnetwork.org/just-by-mowing-a-lawn-social-media-star-raises-685000-for-bereaved-senior-who-fell-behind-on-rent/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1781814655000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Debbie-and-Spencer-in-the-overgrown-lawn-credit-SB-Mowing-via-GoFundMe.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "young_achievers": 4,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 2
+      }
+    },
+    {
+      "id": "batch_20260622_180134__story_070",
+      "title": "Lynnwood Eagle Scout celebrates earning every merit badge",
+      "summary": "Skyler MacKay earned 142 merit badges\u2014one more than the official maximum\u2014by turning a pandemic challenge into a historic Scout achievement. His two sashes sewn together tell a story of determination, including a bet with his scoutmaster.",
+      "extended_summary": "During COVID, Skyler MacKay started earning merit badges online. He got to 80, then his scoutmaster bet he couldn't reach 100. 'I'll just get all of them,' MacKay thought. So he did\u2014all 141, plus one extra because he re-earned a badge after it was moved to a different category. Now an Eagle Scout, he sewed two sashes together to display them all. His favorite? Swimming. He may be the second Scout in his county to earn every badge, and he's proof that stubbornness pays off.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise",
+        "Humor"
+      ],
+      "source_url": "https://www.heraldnet.com/2026/06/20/lynnwood-eagle-scout-celebrates-earning-every-merit-badge/",
+      "source_name": "heraldnet.com",
+      "published_ts": 1781962200000,
+      "image_url": "https://www.heraldnet.com/wp-content/uploads/sites/8/2026/06/42598566_web1_L1-EagleScout-EDH-260620.jpg?w=1024",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "impact_innovation": 1,
+        "young_achievers": 4
+      },
+      "city": "Everett"
+    },
+    {
+      "id": "batch_20260622_180134__story_071",
+      "title": "Man uses drone to warn surfer of shark circling beneath him off Santa Cruz coast",
+      "summary": "A drone operator spotted a shark circling an oblivious surfer off Santa Cruz and used the drone's motors to alert him, preventing a potential attack. The surfer safely made it to shore after the close encounter.",
+      "extended_summary": "Nick Bertocchini revved his drone's motors to warn a surfer named Rex as a shark circled beneath him near Seascape Beach. The surfer quickly paddled to shore, and the shark eventually peeled away. Bertocchini, who captures drone footage of marine life, said the shark appeared 'more investigative' than usual. Shark sightings are common in California, but bites remain extremely rare.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://www.nbcbayarea.com/news/local/drone-video-shark-circling-surfer-california-coast/4101674/",
+      "source_name": "nbcbayarea.com",
+      "published_ts": 1781878301000,
+      "image_url": "https://media.nbcbayarea.com/2026/06/sharksurfercalifornia.png?resize=1200%2C675&quality=85&strip=all",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\ude81\ud83c\udfc4\ud83e\udd88\u26a0\ufe0f",
+      "headline_split": "Man uses drone to warn surfer of shark circling beneath him ",
+      "fake_endings": [
+        "off the coast of Oregon",
+        "in the waters of Florida"
+      ],
+      "fake_headline": "Man uses drone to drop life jackets to swimmers caught in rip current",
+      "city": "Santa Clara County"
+    },
+    {
+      "id": "batch_20260622_180134__story_072",
+      "title": "Mumbai Couple Wakes Up at 4 AM Every Sunday to Cook Breakfast for 100 People",
+      "summary": "Every Sunday at 4 am, Pooja and Dipesh Dedhia cook breakfast for over 100 daily wage workers in Mumbai. Through their Matoshree Foundation, they've served more than 15,000 meals without missing a single week in nearly three years.",
+      "extended_summary": "At 4 am every Sunday while most of Mumbai sleeps, the Dedhias' kitchen is alive with burners and ingredients. They've built a rhythm over time, serving breakfast to daily wage workers who count on them. The couple has never missed a week in nearly three years, and their Matoshree Foundation has provided over 15,000 meals. For them, it's about showing up and creating certainty for people who need it.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://thebetterindia.com/changemakers/pooja-dipesh-dedhia-matoshree-foundation-mumbai-sunday-breakfast-meals-12039100",
       "source_name": "thebetterindia.com",
-      "published_ts": 1780947037000,
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/2026/06/04/pratik-shingaren-2026-06-04-11-01-16.png",
+      "published_ts": 1781721037000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/2026/06/15/matoshreee-foundation-2026-06-15-11-11-14.png",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
@@ -107,39 +1077,75 @@
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "young_achievers",
-        "impact_innovation"
+        "young_achievers"
       ],
       "section_scores": {
-        "young_achievers": 5,
         "ai_entrepreneurship": 1,
         "limelight": 2,
-        "impact_innovation": 5
+        "young_achievers": 4,
+        "impact_innovation": 1
       },
-      "emoji_clue": "\ud83d\ude91\u267f\ud83d\uddfa\ufe0f\ud83d\udcf1",
-      "headline_split": "After a Road Accident Left Him in a Wheelchair, This 14 YO Started Mapping ",
+      "emoji_clue": "\ud83d\udd53\ud83d\udc6b\ud83c\udf73\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "headline_split": "Mumbai Couple Wakes Up at 4 AM Every Sunday to Cook Breakfast ",
       "fake_endings": [
-        "His Own Route to Recovery",
-        "a Secret Network of Ramps"
+        "for 100 strangers",
+        "for 50 families"
       ],
-      "fake_headline": "Three Sisters Launch Free Tutoring Program for Underprivileged Kids in Rural India"
+      "fake_headline": "Mumbai Father Builds Library in His Home for Neighborhood Children"
     },
     {
-      "id": "batch_20260609_002128__story_053",
-      "title": "Alone on graduation day, Minnesota student finds a global family through viral TikTok",
-      "summary": "Miguell Schmerbeck walked the graduation stage alone\u2014no mom, no dad, no one to cheer him. His honest TikTok about it went viral, raising $23K and inviting him to a global grad party. Millions showed up for someone who thought he had nobody.",
-      "extended_summary": "Miguell Schmerbeck posted himself crying on graduation day, text reading: 'Everybody had someone waiting. I had nobody.' His mother died when he was 13; his father was absent. Then 20 million views and 200,000 comments flooded in. Strangers Venmo'd him, told him they were proud, and offered a place at their own parties. A GoFundMe raised over $23K. He went from feeling invisible to finding a global family in the comments.",
+      "id": "batch_20260622_180134__story_073",
+      "title": "Wasteful Fisherman Turns into Underwater Garbage Man, Pulls Tons of Tires from Canadian Harbors",
+      "summary": "Sean Bath, a former fisherman who once contributed to ocean waste, now runs the Clean Harbors Initiative. He dives to remove tons of tires and ghost gear from Canadian harbors, turning a personal change into environmental action.",
+      "extended_summary": "Sean Bath used to seek spiny sea urchins; now he searches for discarded tires and fishing gear on the seabed. After a documentary crew followed him for a year, his Clean Harbors Initiative gained traction. He's pulled 15,000 pounds of trash from Bay Roberts harbor alone, aiming to alert the public to the dangers of ghost gear that kills millions of sea creatures. Bath transformed from part of the problem to part of the solution.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [
-        "Surprise"
+      "tones": [],
+      "source_url": "https://www.goodnewsnetwork.org/wasteful-fisherman-turns-into-underwater-garbage-man-pulls-tons-of-tires-from-canadian-harbors/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1781555441000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Sean-Bath-right-and-his-team-pulling-trash-out-of-the-ocean-credit-supplied-to-CBC-by-Sean-Bath.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 5,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
       ],
-      "source_url": "https://www.perhamfocus.com/news/minnesota/alone-on-graduation-day-minnesota-student-finds-a-global-family-through-viral-tiktok",
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "limelight": 2,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udfa3\ud83d\uddd1\ufe0f\ud83c\udf0a\u267b\ufe0f",
+      "headline_split": "Wasteful Fisherman Turns into Underwater Garbage Man, Pulls Tons of Tires ",
+      "fake_endings": [
+        "from the Great Lakes",
+        "from coastal beaches"
+      ],
+      "fake_headline": "Local diver retrieves 2000 pounds of fishing nets from reef"
+    },
+    {
+      "id": "batch_20260622_180134__story_074",
+      "title": "'It's a privilege':  Rothsay golfer competing in Special Olympics USA Games",
+      "summary": "Gene Boyce, 29, is competing in the Special Olympics USA Games in golf with his father Jim as his Unified partner. Gene has participated in Special Olympics for years, also raising thousands of dollars for the organization.",
+      "extended_summary": "Gene Boyce and his father Jim walk the course at Birchwood Golf Club, preparing for the Special Olympics USA Games in Minnesota. Gene has competed in track, basketball, and softball, but golf with his dad is special\u2014'it's a pleasure to golf with my Dad,' he says. Adopted from Russia as a child, Gene has overcome challenges to reach this stage. He's also raised thousands of dollars for Special Olympics on his own.",
+      "category": "Sports",
+      "categories": [
+        "Sports"
+      ],
+      "tones": [],
+      "source_url": "https://www.perhamfocus.com/news/minnesota/its-a-privilege-rothsay-golfer-competing-in-special-olympics-usa-games",
       "source_name": "perhamfocus.com",
-      "published_ts": 1780693200000,
-      "image_url": "https://cdn.forumcomm.com/dims4/default/0e679ad/2147483647/strip/true/crop/1170x1560+0+0/resize/800x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fde%2Fe8%2F5e1def8e41ec9d03fe267d569ebc%2F060626-n-bp-miguellschmerbeck.jpg",
+      "published_ts": 1781713320000,
+      "image_url": "https://cdn.forumcomm.com/dims4/default/c7eae48/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F0f%2F50%2F9fb511744d0fbcd3afefc77679d1%2Fgolf-vo-10-still002.jpg",
       "display_mode": "image",
       "display_reason": "medium image but highly visual story",
       "image_confidence": "medium",
@@ -152,42 +1158,244 @@
         "young_achievers"
       ],
       "section_scores": {
-        "young_achievers": 5,
-        "limelight": 2,
+        "impact_innovation": 1,
         "ai_entrepreneurship": 1,
-        "impact_innovation": 1
+        "young_achievers": 3,
+        "limelight": 2
       },
-      "emoji_clue": "\ud83c\udf93\ud83c\udf89\ud83d\udcf1\ud83c\udf0d\ud83e\udd17",
-      "headline_split": "Alone on graduation day, Minnesota student finds ",
+      "emoji_clue": "\u26f3\ud83c\udfc5\ud83d\ude0a\ud83c\uddfa\ud83c\uddf8",
+      "headline_split": "'It's a privilege': Rothsay golfer competing ",
       "fake_endings": [
-        "a lost sibling across the world",
-        "the courage to dance on stage"
+        "in the Paralympic Games trials",
+        "in the Masters golf tournament"
       ],
-      "fake_headline": "92-Year-Old Veteran Becomes First Person to Swim Across Lake Michigan for Charity",
+      "fake_headline": "Special Olympics swimmer sets personal best at state meet",
       "city": "Perham"
     },
     {
-      "id": "batch_20260609_002128__story_008",
-      "title": "An Eagle Scout Project that Soars \u2013 \u201cGo Home Kits\u201d for Adopted Pets",
-      "summary": "Eagle Scout Ethan Moskowitz delivers 40 'Go Home Kits' to Last Hope animal shelter. Each kit includes a bed, food, toys, and care instructions for newly adopted pets, inspired by his own rescued Beagle Chip.",
-      "extended_summary": "When Ethan Moskowitz adopted his Beagle Chip from Last Hope seven years ago, he never imagined it would inspire his Eagle Scout project. As a senior at Wantagh High School, Ethan organized a team to create 40 'Go Home Kits' for newly adopted cats and dogs. Each cardboard carton contains a bed, blanket, Science Diet food, toys, bowls, and a care guide. The project took three months of planning and fundraising. Now, each kit gives a new pet family everything they need to start their lives together \u2014 all because of a boy and his rescue dog.",
-      "category": "Rescue",
+      "id": "batch_20260622_180134__story_075",
+      "title": "9 Shipping Container Homes That Marry Smart Architecture and Serious Beauty",
+      "summary": "Architects like Virginie Stolz are transforming shipping containers into stunning homes and offices, preserving their patina and history. These repurposed structures prove that sustainable design can be both functional and beautiful.",
+      "extended_summary": "The floors of these container homes still bear the marks of their ocean voyages\u2014bumps, stickers, and dents from passing through the Suez Canal. Architects at LOT-EK and C-Home USA choose to preserve these time stamps rather than sand them away. They believe the containers' history adds character, and the use of repurposed materials makes the buildings eco-friendly. From Puma City to prefab homes, shipping container architecture is marrying smart design with serious beauty.",
+      "category": "Discovery",
       "categories": [
-        "Rescue"
+        "Discovery"
       ],
-      "tones": [
-        "Humor"
-      ],
-      "source_url": "https://www.babylonbeacon.com/articles/an-eagle-scout-project-that-soars-go-home-kits-for-adopted-pets/",
-      "source_name": "babylonbeacon.com",
-      "published_ts": 1780617600000,
-      "image_url": "https://www.babylonbeacon.com/wp-content/uploads/images/2026-06-04/8p1.jpg",
+      "tones": [],
+      "source_url": "https://www.architecturaldigest.com/story/shipping-container-homes-that-marry-smart-architecture-and-serious-beauty",
+      "source_name": "architecturaldigest.com",
+      "published_ts": 1781715600000,
+      "image_url": "https://media.architecturaldigest.com/photos/6568c0dfd79a773a58ee8766/16:9/w_1280,c_limit/Whitaker%20Studio_Joshua%20Tree%20Residence_12.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "impact_innovation": 2,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83c\udfe0\ud83d\udce6\ud83c\udfd7\ufe0f\ud83c\udfa8",
+      "headline_split": "9 Shipping Container Homes That Marry Smart Architecture ",
+      "fake_endings": [
+        "and budget-friendly style",
+        "with open floor plans"
+      ],
+      "fake_headline": "Local architect designs affordable homes made from recycled shipping containers"
+    },
+    {
+      "id": "batch_20260622_180134__story_022",
+      "title": "Clean Earth Rovers Remove Tons of Trash from the Marina",
+      "summary": "Clean Earth Rovers deploy autonomous robots to collect trash from Southern California marinas before it reaches the ocean. Each rover can haul up to 150 pounds of debris per bag and clean 25 acres in an eight-hour shift, making waterway cleanup efficient and impactful.",
+      "extended_summary": "Watching a Clean Earth Rover glide across the Cabrillo Way Marina, you'd almost mistake it for a pontoon boat\u2014until you see the collection system sucking up trash. The company's CEO, Michael Arens, created these autonomous surface vessels to tackle marine pollution at the source. Each bag catches up to 150 pounds of debris and empties in under five minutes, allowing a single rover to cover 25 acres in a day. The Port of Los Angeles now has four rovers scouring all 15 of its marinas, preventing tons of trash from ever reaching the open ocean.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://www.smdp.com/clean-earth-rovers-remove-tons-of-trash-from-the-marina/",
+      "source_name": "smdp.com",
+      "published_ts": 1781921295000,
+      "image_url": "https://storage.ghost.io/c/55/9f/559f9abc-8372-4a2e-8c2d-27386da4e363/content/images/size/w1200/2026/06/DSC_0125-1.JPG",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 2,
+        "young_achievers": 3,
+        "impact_innovation": 4,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83c\udf0a\ud83d\uddd1\ufe0f\ud83e\udd16\ud83d\udeae",
+      "headline_split": "Clean Earth Rovers remove tons of trash from the ",
+      "fake_endings": [
+        "beaches of Hawaii",
+        "city's storm drains"
+      ],
+      "fake_headline": "Boy Scout Troop Builds 50 Birdhouses for Local Nature Preserve",
+      "city": "Santa Monica"
+    },
+    {
+      "id": "batch_20260622_180134__story_076",
+      "title": "Drexel University students helped release an album of songs recorded more than 50 years ago. Here\u2019s how they did it",
+      "summary": "Drexel University students uncovered tapes of a soul group, Choice 4 Inc., recorded in 1972 at Sigma Sound Studio. They cleaned them up and released the album 'Clean Up Your Mind' on vinyl and streaming, reviving lost music history.",
+      "extended_summary": "Tapes left untouched for more than 50 years in the Sigma Sound Studios Collection held the tracks of Choice 4 Inc., a Washington D.C. soul group. Five Drexel students, guided by professor Monika Julien, researched the studio and restored the recordings. The album 'Clean Up Your Mind' is now available for streaming and on vinyl. The project gave students real-world experience while preserving a piece of Philadelphia's musical heritage.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://whyy.org/articles/drexel-university-students-choice-inc-album/",
+      "source_name": "whyy.org",
+      "published_ts": 1782078711000,
+      "image_url": "https://whyy.org/wp-content/uploads/2026/06/drexel-sigma-sound-cs-062126-08.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "impact_innovation": 2,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83c\udfb6\ud83d\udc68\u200d\ud83c\udf93\ud83d\udcfc\ud83d\udd70\ufe0f",
+      "headline_split": "Drexel University students helped release an album of songs recorded more than 50 years ago. ",
+      "fake_endings": [
+        "Now it's available online",
+        "The public loves it"
+      ],
+      "fake_headline": "Students at USC create a mobile library for homeless children in Los Angeles",
+      "city": "New Castle County"
+    },
+    {
+      "id": "batch_20260622_180134__story_077",
+      "title": "From Legal Briefs to Bedtime Breakthroughs",
+      "summary": "After leaving her legal career, Elena Ducoin created MyBeeBear, a potty training underwear with adjustable absorbency. The product helps children feel wetness cues while protecting bedding, making diaper-free transitions faster and more confident.",
+      "extended_summary": "Elena Ducoin, a former lawyer and mom, was frustrated by potty training products that either leaked or felt like diapers. She designed MyBeeBear with organic cotton and adjustable absorbency, so kids get the feel of real underwear while accidents are contained. The product helps families ditch diapers faster, and Ducoin's story proves it's never too late to pivot. What started as a personal solution is now helping parents everywhere.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://thestoryexchange.org/from-legal-briefs-to-bedtime-breakthroughs/",
+      "source_name": "thestoryexchange.org",
+      "published_ts": 1781798215000,
+      "image_url": "https://thestoryexchange.org/wp-content/uploads/2026/06/Photo_Corporate.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 2,
+        "young_achievers": 3,
+        "limelight": 4
+      },
+      "emoji_clue": "\u2696\ufe0f\u27a1\ufe0f\ud83d\udcda\ud83c\udf19",
+      "headline_split": "From Legal Briefs to ",
+      "fake_endings": [
+        "Storytelling Success",
+        "Sweet Dream Secrets"
+      ],
+      "fake_headline": "From Wall Street to Soup Kitchen: A Financier's New Path"
+    },
+    {
+      "id": "batch_20260622_180134__story_042",
+      "title": "Given Just 8 Months to Live, Teen Graduates Cancer-Free 4 Years Later Thanks to Doctor\u2019s Promise (Watch)",
+      "summary": "At 14, Dylan was diagnosed with Stage 4 kidney cancer and given eight months to live. But Dr. Mary Austin made a promise\u2014to be at his high school graduation if he kept fighting. Through 52 weeks of chemo and her friendship, Dylan survived. Four years later, he's cancer-free and graduated, with Dr. Austin cheering him on.",
+      "extended_summary": "When Dr. Mary Austin told 14-year-old Dylan she'd be at his high school graduation, it seemed impossible\u2014he had just eight months to live. But that promise became his anchor through 52 weeks of brutal chemotherapy. They'd have lunch together, and she checked in during his darkest days. Four years later, Dylan donned a cap and gown, cancer-free, with Dr. Austin in the audience. 'I call her my second mom,' he says. His parents believe her friendship saved him: 'He just decided to keep fighting.'",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.goodnewsnetwork.org/given-just-8-months-to-live-teen-is-cancer-free-4-years-on-thanks-to-doctors-promise/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1782072386000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Dr-Mary-Austin-with-Dylan\u2013family-photo-via-CBS-on-youtube.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 1,
+        "young_achievers": 3
+      },
+      "emoji_clue": "\ud83c\udf93\ud83d\udcaa\ud83e\ude7a\ud83c\udf97\ufe0f",
+      "headline_split": "Given Just 8 Months to Live, Teen Graduates Cancer-Free 4 Years Later ",
+      "fake_endings": [
+        "After Defying All Medical Odds",
+        "Thanks to Experimental Gene Therapy"
+      ],
+      "fake_headline": "World's Oldest Living Person Turns 117, Credits Daily Chocolate and Laughter"
+    },
+    {
+      "id": "batch_20260622_180134__story_078",
+      "title": "Inclusive playground \u2013 with wheelchair accessible trampoline \u2013 being built in Northwood",
+      "summary": "Wood County Plays broke ground on its fourth inclusive playground in Northwood, featuring a wheelchair-accessible trampoline. The nonprofit ensures children of all abilities can play together, continuing a movement that started after a family's personal experience.",
+      "extended_summary": "Ryan and Kaley Wichman founded Wood County Plays in 2019 after their son couldn't play at a standard playground. The fourth inclusive playground is now being built in Brentwood Park, Northwood, with features like a wheelchair-accessible trampoline. The mission is to allow all children\u2014regardless of ability\u2014to play together at the same park. Community donors and stakeholders joined a groundbreaking ceremony, and the park is set to be finished in six months.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://bgindependentmedia.org/inclusive-playground-with-wheelchair-accessible-trampoline-being-built-in-northwood/?utm_source=rss&utm_medium=rss&utm_campaign=inclusive-playground-with-wheelchair-accessible-trampoline-being-built-in-northwood",
+      "source_name": "bgindependentmedia.org",
+      "published_ts": 1781988863000,
+      "image_url": "https://bgindependentmedia.org/wp-content/uploads/2023/09/bginsponser2023.png",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
       "visual_affinity": 4,
       "headline_pull": 4,
-      "read_time_min": 4,
+      "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -196,1141 +1404,81 @@
         "impact_innovation"
       ],
       "section_scores": {
-        "limelight": 5,
-        "young_achievers": 5,
         "ai_entrepreneurship": 1,
-        "impact_innovation": 4
+        "limelight": 5,
+        "young_achievers": 3,
+        "impact_innovation": 3
       },
-      "emoji_clue": "\ud83e\udd85\ud83d\udc36\ud83d\udce6",
-      "headline_split": "An Eagle Scout Project that Soars \u2013 ",
+      "emoji_clue": "\ud83c\udfd7\ufe0f\u267f\ud83e\udd38\u200d\u2642\ufe0f\ud83c\udf33",
+      "headline_split": "Inclusive playground \u2013 with wheelchair accessible trampoline \u2013 being built in ",
       "fake_endings": [
-        "\u201cBeds for Shelter Dogs\u201d",
-        "\u201cBackpacks for Rescue Cats\u201d"
+        "Riverside",
+        "Greenwood"
       ],
-      "fake_headline": "Girl Scout Troop Builds Tiny Libraries for Every Park in Their City",
-      "city": "Babylon"
+      "fake_headline": "Community raises $50,000 to build wheelchair-accessible treehouse"
     },
     {
-      "id": "batch_20260609_002128__story_015",
-      "title": "Couple fulfills yearslong dream by turning Fishtown rowhome garage into a music venue",
-      "summary": "Joe Lockwood and Morgan Walbridge turned their Fishtown rowhome garage into Nostalgia Fishtown\u2014a thrift store, music venue, and rehearsal space. After years of house hunting and a city bust, they're now booking five shows a week through November.",
-      "extended_summary": "On a quiet side street in Fishtown, a rowhome garage now doubles as a thrumming music venue. Joe Lockwood and Morgan Walbridge spent years chasing the underground gig culture they loved at art school\u2014and after a permit scare that nearly ended it all, Nostalgia Fishtown is open. Passersby can already buy T-shirts and peek at the space; the first concert is June 28.",
+      "id": "batch_20260622_180134__story_079",
+      "title": "Intennse Brings a Faster, Louder Brand of Professional Tennis to Atlanta",
+      "summary": "Intennse is a professional tennis league in Atlanta that replaces tradition with concert-like energy: hip hop, flashing lights, and matches divided into 10-minute 'bolts.' With affordable tickets and a 'no shush zone,' it's designed to attract new fans.",
+      "extended_summary": "A Friday night at Intennse feels more like a concert than a tennis match. Hip hop blares, lights flash, and an emcee urges the crowd to make noise. CEO Charles Allen wanted to shed tennis's country club image, so matches have set start and end times, coaching is front and center, and scoring is simplified. Tickets start at $25, and with indoor venues, there's no weather delay. It's a faster, louder, and more accessible version of the sport.",
+      "category": "Sports",
+      "categories": [
+        "Sports"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.atlantamagazine.com/news-culture-articles/intennse-brings-a-faster-louder-brand-of-professional-tennis-to-atlanta/",
+      "source_name": "atlantamagazine.com",
+      "published_ts": 1781915811000,
+      "image_url": "https://cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2026/06/0F9A3140-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "limelight": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfbe\u26a1\ud83d\udd0a\ud83c\udf06",
+      "headline_split": "Intennse Brings a Faster, Louder Brand of Professional Tennis ",
+      "fake_endings": [
+        "to Chicago",
+        "to Miami"
+      ],
+      "fake_headline": "New soccer academy opens in Atlanta, offering free training to kids",
+      "city": "Atlanta"
+    },
+    {
+      "id": "batch_20260622_180134__story_080",
+      "title": "Local couple bring brewing back to Palmyra",
+      "summary": "Pete and Sarah Wimer are bringing brewing back to Palmyra, a century after prohibition shut down the village's breweries. After leaving corporate jobs and learning the craft, they're opening a brewery on East Main Street.",
+      "extended_summary": "Pete and Sarah Wimer left corporate careers to revive Palmyra's brewing tradition. Pete worked at multiple breweries to learn the craft, and the couple spent years planning. They found the perfect spot on East Main Street but missed the purchase\u2014only to lease it from new owners who became ideal landlords. Now they're set to open a brewery, bringing back a part of the village's history that disappeared after prohibition.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://www.phillyvoice.com/music-venue-studio-rowhome-garage-nostalgia-fishtown/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
-      "source_name": "phillyvoice.com",
-      "published_ts": 1780963519000,
-      "image_url": "https://media.phillyvoice.com/media/images/Nostalgia.2e16d0ba.fill-1200x630-c0.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 4,
-      "read_time_min": 10,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "young_achievers": 5,
-        "ai_entrepreneurship": 1,
-        "limelight": 5,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83d\udc91\ud83c\udfe0\ud83c\udfb5\ud83d\udd27",
-      "headline_split": "Couple fulfills yearslong dream by turning Fishtown rowhome garage into ",
-      "fake_endings": [
-        "a community garden",
-        "an art gallery"
-      ],
-      "fake_headline": "Boy Scout Builds Wheelchair-Accessible Treehouse for Friend with Disabilities",
-      "city": "Philadelphia"
-    },
-    {
-      "id": "batch_20260609_002128__story_054",
-      "title": "From Losses to \u20b912 Lakh/Month | The Benne Story",
-      "summary": "Ganesh and Sapna Sathe started with an old cart and their mom's benne dosa recipe\u2014losing \u20b9200 every day. Then social media found them, and now they earn \u20b912 lakh a month, selling out in an hour. Proof that persistence (and a killer recipe) can flip the script.",
-      "extended_summary": "The Benne stall in Thane used to bleed money\u2014\u20b9200 losses daily from a pushcart. Siblings Ganesh and Sapna kept tweaking the batter and the setup, refusing to quit. Then a customer's Instagram post made their crispy benne dosas go viral. Now people line up before opening, and everything's gone in 60 minutes. Revenue hit \u20b912 lakh last month. No investor, no connections\u2014just a mother's recipe and stubborn hope.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://thebetterindia.com/videos/food/from-losses-to-12-lakhmonth-the-benne-story-12015568",
-      "source_name": "thebetterindia.com",
-      "published_ts": 1780950632000,
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/youtube_thumbnails/vi/h550PlFPlFc/maxresdefault.jpg",
+      "source_url": "https://waynetimes.com/news/local-couple-bring-brewing-back-to-palmyra/",
+      "source_name": "waynetimes.com",
+      "published_ts": 1781980184000,
+      "image_url": "https://waynetimes.com/wp-content/uploads/2025/02/default_paper.png",
       "display_mode": "text",
       "display_reason": "medium image not worth the space",
       "image_confidence": "medium",
       "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "limelight": 1,
-        "ai_entrepreneurship": 1,
-        "young_achievers": 5,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83d\udcc9\ud83d\udcb5\ud83d\udcc8\ud83d\udc68\u200d\ud83c\udf73",
-      "headline_split": "From Losses to ",
-      "fake_endings": [
-        "a Flourishing Empire of 50 Stores",
-        "a Viral Online Community of Chefs"
-      ],
-      "fake_headline": "Blind Pianist Performs at Carnegie Hall After Teaching Himself by Ear"
-    },
-    {
-      "id": "batch_20260609_002128__story_055",
-      "title": "How Two Students Built an $80K Month Lake Service",
-      "summary": "At 15 and 16, Joe and Declan started clearing lake weeds with a garden rake and a laundry basket. Fast forward: their seasonal lake service pulls in $80K a month, books months ahead, and proves you don't need money to start something huge\u2014just a problem people will pay to fix.",
-      "extended_summary": "Two teenagers with a rake and a wet laundry basket didn't look like entrepreneurs\u2014but homeowners couldn't stand the weeds. Joe Weinberger and Declan started as dock installers, then a client asked them to clear their shoreline. Word spread door-to-door. Two years as a side gig, then full-time. Now their lake and pond service rakes in nearly $80,000 in peak months, with zero paid ads. They kept it simple: solve one painful problem, then scale.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://www.under30ceo.com/students-built-lake-service/",
-      "source_name": "under30ceo.com",
-      "published_ts": 1780617631000,
-      "image_url": "https://cdn.under30ceo.com/wp-content/uploads/2026/06/wfp9ez4pze4.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 15,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 5,
-        "ai_entrepreneurship": 1,
-        "limelight": 4,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83d\udea3\u200d\u2642\ufe0f\ud83d\udcb0\ud83d\udca1\ud83c\udfeb",
-      "headline_split": "How Two Students Built an ",
-      "fake_endings": [
-        "Award-Winning Water Cleanup System",
-        "a Fleet of Solar-Powered Boats"
-      ],
-      "fake_headline": "Former Homeless Man Opens Free Barber Shop for those in Need in Detroit"
-    },
-    {
-      "id": "batch_20260609_002128__story_056",
-      "title": "How a Rare Bird Stopped a Highway Project in South China",
-      "summary": "A 24-year-old engineering student fought a highway project to protect the critically endangered spoon-billed sandpiper\u2014a bird he'd never seen. He and thousands of advocates flooded officials with emails, and China's government actually halted the plans. A rare win for a near-extinct species.",
-      "extended_summary": "Li Jiahe had never visited the mudflats or seen the spoon-billed sandpiper\u2014but when a planned highway threatened the wintering habitat of just 443 remaining birds, he started emailing. For weeks, he and thousands of strangers sent letters to Chinese authorities and international groups. On May 25, central environmental authorities stopped the project. The province agreed to reconsider. One student, a species on the brink, and a highway put on hold.",
-      "category": "Rescue",
-      "categories": [
-        "Rescue"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://www.sixthtone.com/news/1018593/How a Rare Bird Stopped a Highway Project in South China",
-      "source_name": "sixthtone.com",
-      "published_ts": 1780964488555,
-      "image_url": "https://image5.sixthtone.com/image/5/97/664.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 8,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "young_achievers": 5,
-        "ai_entrepreneurship": 1,
-        "limelight": 2,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83e\udd85\ud83d\uded1\ud83d\udea7\ud83c\udf3f",
-      "headline_split": "How a Rare Bird Stopped a ",
-      "fake_endings": [
-        "Multibillion-Dollar Dam Construction",
-        "Plans for a New Shopping Mall"
-      ],
-      "fake_headline": "Teenager Invents Device That Turns Plastic Waste Into Building Bricks"
-    },
-    {
-      "id": "batch_20260609_002128__story_057",
-      "title": "Nobody Taught Them to Adult \u2014 So They\u2019re Teaching Each Other",
-      "summary": "Thousands of teens age out of India's childcare institutions every year with no support. So two care leavers built CLiC\u2014a platform run by former care kids, for current ones. They're teaching each other how to adult when nobody else will.",
-      "extended_summary": "Girish Mehta had one month to figure out life after leaving his childcare home at 18. Anisha Sharma was 'mid-course, mid-dream, and on my own.' They knew the system wasn't working\u201430,000 teens age out yearly in India, often with no aftercare. So they created Careleavers Inner Circle (CLiC), a tech startup led by care leavers that offers mentorship, resources, and community. It's young people saving their own futures.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://reasonstobecheerful.world/india-care-leavers-support/",
-      "source_name": "reasonstobecheerful.world",
-      "published_ts": 1780361550000,
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Transition-planning-in-a-child-care-institution.-Pic-courtesy-CLiC-scaled.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
       "headline_pull": 3,
-      "read_time_min": 11,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 5,
-        "ai_entrepreneurship": 2,
-        "limelight": 2,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83d\udc76\ud83d\udcda\ud83e\udd1d\ud83e\udde0",
-      "headline_split": "Nobody Taught Them to Adult \u2014 So They\u2019re ",
-      "fake_endings": [
-        "Creating a YouTube Course for Life Skills",
-        "Building a Community of Shared Knowledge"
-      ],
-      "fake_headline": "85-Year-Old Grandma Learns to Code, Builds App to Connect Neighbors"
-    },
-    {
-      "id": "batch_20260609_002128__story_058",
-      "title": "On The House founder Remy Tucker\u2019s desire to tackle period poverty didn\u2019t start in marketing\u2026\u00a0it started in a hospital",
-      "summary": "Remy Tucker saw period poverty as a midwife and later as a marketer. She realized the problem wasn't just poverty\u2014it was access. So she created ON THE HOUSE, raising $1.7M to make period products free where people actually need them: bathrooms.",
-      "extended_summary": "As a student midwife, Remy Tucker watched women scramble for period products in hospitals\u2014a constant, invisible friction. Then she saw brands spend billions on digital ads that women hated. The insight: toilet paper is free in bathrooms, so why not pads and tampons? After two years of pitching and failing, she raised $1.7M to launch ON THE HOUSE, putting free period products in high-traffic bathrooms. The goal: make access a basic amenity, not a luxury.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://missingperspectives.com/posts/remy-tucker-founder-story-period-poverty/",
-      "source_name": "missingperspectives.com",
-      "published_ts": 1780406918000,
-      "image_url": "https://missingperspectives.com/wp-content/uploads/2026/06/Remy-10.webp",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 5,
-        "ai_entrepreneurship": 1,
-        "limelight": 2,
-        "impact_innovation": 3
-      },
-      "emoji_clue": "\ud83c\udfe0\ud83d\udcbc\ud83e\ude78\ud83c\udfe5",
-      "headline_split": "On The House founder Remy Tucker\u2019s desire to tackle period poverty didn\u2019t start in marketing\u2026 it started ",
-      "fake_endings": [
-        "in a small-town library",
-        "with a single conversation at a bus stop"
-      ],
-      "fake_headline": "Local Librarian Starts Free Book Vending Machine for Low-Income Kids"
-    },
-    {
-      "id": "batch_20260609_002128__story_059",
-      "title": "Shell Game: The Sisters Behind Hawai\u02bbi\u2019s Hottest Oyster Company",
-      "summary": "Sisters Allie and Julie turned a love for oysters into Hawai\u02bbi's hottest catering company\u2014and they launched a week before the pandemic hit. Now they shuck at the Super Bowl and serve across four islands. Dream + execution = a shell of a success story.",
-      "extended_summary": "Allie Chu, a former Miss Hawai\u02bbi and opera singer, saw a gap: no oyster catering in the Islands. With her husband, she started Oysters Hawai\u02bbi days before COVID shut everything down. Enter sister Julie\u2014a teacher turned 'executioner' who turned big ideas into spreadsheets. After the pause, one wedding booking reignited everything. Now they shuck across Hawai\u02bbi, Las Vegas, and California\u2014even at Super Bowl LVIII. Two sisters, one vision, and a lot of oysters.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://www.hawaiibusiness.com/shell-game-the-sisters-behind-hawai%ca%bbis-hottest-oyster-company/",
-      "source_name": "hawaiibusiness.com",
-      "published_ts": 1780693213000,
-      "image_url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.hawaiibusiness.com/content/uploads/2026/06/l/a/hero-the-sisters-behind-hawaiis-hottest-oyster-company.png",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "limelight": 1,
-        "young_achievers": 5,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83d\udc1a\ud83c\udf3a\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc67\ud83e\uddaa",
-      "headline_split": "Shell Game: The Sisters Behind ",
-      "fake_endings": [
-        "a Billion-Dollar Seaweed Farm",
-        "the World\u2019s Largest Pearl Collection"
-      ],
-      "fake_headline": "Father and Son Rebuild Entire Village School Using Only Recycled Materials"
-    },
-    {
-      "id": "batch_20260609_002128__story_060",
-      "title": "The Only Miami-Dade Nonprofit Catching NICU Families Before They Fall | Miami Autism Dad",
-      "summary": "Elizabeth Simonton saw NICU families falling through the cracks after her own son's stay. So she built ICU baby\u2014South Florida's only nonprofit offering parent mentors, meals, transport, and bereavement support in three languages. No family should sit alone by a baby's bed.",
-      "extended_summary": "Sitting next to her son's NICU bed in 2014, Elizabeth Simonton saw what she couldn't unsee: families struggling alone, without gas money, without meals, without someone who understood. She co-founded ICU baby, now serving Miami-Dade with parent mentors, NICU Packs, catered meals, transportation stipends, and bereavement support in English, Spanish, and Haitian Creole. The homepage says it three times: babies should not be alone.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://communitynewspapers.com/featured/the-only-miami-dade-nonprofit-catching-nicu-families-before-they-fall-miami-autism-dad/",
-      "source_name": "communitynewspapers.com",
-      "published_ts": 1780967266000,
-      "image_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABCwAAAJEAQMAAADnqyfeAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAG9JREFUeNrswYEAAAAAgKD9qRepAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg9uCQAAAAAEDQ/9fOsAAAAAAAAAAAAAAAAAAAAAAAsAox6wABwRHV3QAAAABJRU5ErkJggg==",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "low",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 5,
-        "impact_innovation": 2,
-        "limelight": 5
-      },
-      "emoji_clue": "\ud83c\udfe5\ud83d\udc76\ud83e\udd17\ud83d\udcf0",
-      "headline_split": "The Only Miami-Dade Nonprofit Catching NICU Families ",
-      "fake_endings": [
-        "As They Leave the Hospital",
-        "With Quiet Acts of Kindness"
-      ],
-      "fake_headline": "Teen Raises $50,000 for Animal Shelter by Selling Homemade Dog Treats",
-      "city": "Aventura"
-    },
-    {
-      "id": "batch_20260609_002128__story_061",
-      "title": "3 Lakh Trees & Counting: Meet the Urban Green Expert Bringing Forests Back to India's Most Crowded Cities",
-      "summary": "Subhajit Mukherjee is turning Mumbai's tiniest unused corners into dense pocket forests. With just 100 square feet and native saplings, anyone can create a thriving mini-ecosystem. His Mission Green Mumbai proves that even the most crowded cities can bloom again.",
-      "extended_summary": "At a government hospital in Malad and along a navy school's walls, you'll find unexpected thickets alive with birdsong and butterflies. These are pocket forests, planted by Subhajit Mukherjee in as little as 100 square feet. Through Mission Green Mumbai, he's shown that India's cities aren't too crowded for forests\u2014they just need to think small. He's planted over 3 lakh trees so far, and he says anyone with a WhatsApp group and a tiny patch of land can do the same.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://thebetterindia.com/sustainability/mini-pocket-forest-mumbai-urban-greening-miyawaki-12001013",
-      "source_name": "thebetterindia.com",
-      "published_ts": 1780650482000,
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/2026/06/04/1-2026-06-04-16-15-11.png",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 14,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "limelight": 1,
-        "young_achievers": 4,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83c\udf33\ud83c\udfd9\ufe0f\ud83c\udf31\ud83c\uddee\ud83c\uddf3\ud83e\uddd1\u200d\ud83c\udf3e",
-      "headline_split": "3 Lakh Trees & Counting: Meet the Urban Green Expert ",
-      "fake_endings": [
-        "Planting Trees in Rural Villages Across the Country",
-        "Teaching Kids How to Grow Food in Urban Gardens"
-      ],
-      "fake_headline": "Local Teen Creates Affordable Solar-Powered Water Purifier for His Community"
-    },
-    {
-      "id": "batch_20260609_002128__story_002",
-      "title": "Accessible Tools and Printing with Milwaukee Tool Library and Shaky Hands",
-      "summary": "The Milwaukee Tool Library lets community members borrow tools and equipment for free, from hand drills to wet saws. Founder Evan Maruszewski believes sharing what you have with a neighbor is a tangible way to improve the world.",
-      "extended_summary": "At the Milwaukee Tool Library, neighbors can borrow tools free of charge\u2014from power drills to compressors\u2014thanks to founder Evan Maruszewski's belief that access matters more than market ownership. The library also houses Shaky Hands, a printing cooperative. Maruszewski explains that a typical power drill sees only 12 minutes of use in its lifetime; collective ownership makes full use of its utility. The space aims to empower the community by removing barriers to tools and equipment for home and commercial projects.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://shepherdexpress.com/news/community-news/accessible-tools-and-printing-with-milwaukee-tool-library-and-shaky-hands/",
-      "source_name": "shepherdexpress.com",
-      "published_ts": 1780952250000,
-      "image_url": "https://shepherdexpress.com/downloads/71894/download/Evan-Maruszewski-of-Shaky-Hands-Printing-and-Milwaukee-Tool-Library-Teaser.jpg?cb=76bcf695c1188e0061307dca6c2ce6df&w=1200",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "limelight": 5,
-        "young_achievers": 4,
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83d\udd27\ud83d\udda8\ufe0f\ud83e\udd32",
-      "headline_split": "Accessible Tools and Printing with ",
-      "fake_endings": [
-        "the Blind Community",
-        "3D Printed Prosthetics"
-      ],
-      "fake_headline": "Community Garden Uses Recycled Water to Grow Food for 500 Families",
-      "city": "Milwaukee"
-    },
-    {
-      "id": "batch_20260609_002128__story_062",
-      "title": "Can Your Plants Scream In Pain?",
-      "summary": "Swedish startup Sonicflora is listening to plants' ultrasonic sounds to detect stress before visible signs appear. By training AI on sounds from dehydrated or diseased plants, they aim to help farmers intervene early. Your next houseplant might just tell you it's thirsty.",
-      "extended_summary": "Plants scream\u2014just not in a way we can hear. Sonicflora has placed healthy plants in soundproof chambers, introduced stressors like drought, and recorded the ultrasonic 'melodies' they emit. When a plant is dehydrated, tiny air bubbles burst in its tissues, creating airborne signals. The company's AI learns to recognize these distress calls, potentially allowing growers to water or treat crops before any visible damage. So far, they're focusing on indoor tomatoes, but the tech could one day save your cactus from an early grave.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://houstonseagle.com/1737571/can-your-plants-scream-in-pain/",
-      "source_name": "houstonseagle.com",
-      "published_ts": 1780939929000,
-      "image_url": "https://houstonseagle.com/wp-content/uploads/sites/105/2023/08/IADNCM5CIVFYZNV53NUJWHGLV4.jpg?quality=80&strip=all&w=1280&crop=0,0,100,720px",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 4,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers",
-        "ai_entrepreneurship"
-      ],
-      "section_scores": {
-        "limelight": 1,
-        "young_achievers": 4,
-        "ai_entrepreneurship": 4,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83c\udf31\ud83d\ude31\ud83d\udd0a\u2753",
-      "headline_split": "Can Your Plants ",
-      "fake_endings": [
-        "Talk to Each Other?",
-        "Feel Your Touch?"
-      ],
-      "fake_headline": "Robot Dog Helps Autistic Children Learn Social Skills in School",
-      "city": "Houston"
-    },
-    {
-      "id": "batch_20260609_002128__story_063",
-      "title": "Eat This Now: Rasta pasta at Wah Gwan",
-      "summary": "Eighth-grader Lataya Reid lands her first byline in a major publication with a review of Wah Gwan's Rasta Pasta. She describes the vibrant restaurant, the reggae vibes, and a dish so good her friend promised it would 'change your life.' Spicy, creamy, and unforgettable.",
-      "extended_summary": "\"You have to try this, it will change your life, fam.\" That's what Lataya Reid's friend told her before entering Wah Gwan, a Jamaican spot in Kansas City with a tropical mural and old-school reggae records. Inside, the smell of grilled chicken fills the air, and the Rasta Pasta is the star\u2014a creamy, spicy dish that lives up to the hype. Lataya, an 8th grader, wrote this review as part of a class project, and The Pitch chose it as one of the top three submissions to publish. Her first byline, and she's already making us hungry.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [
-        "Humor"
-      ],
-      "source_url": "https://www.thepitchkc.com/eat-this-now-rasta-pasta-at-wah-gwan/",
-      "source_name": "thepitchkc.com",
-      "published_ts": 1780538453000,
-      "image_url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.thepitchkc.com/content/uploads/2026/06/n/a/img-0083-scaled.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 1,
-        "limelight": 1,
-        "young_achievers": 4
-      },
-      "emoji_clue": "\ud83c\udf5d\ud83c\uddef\ud83c\uddf2\ud83c\udf74\ud83d\udd25",
-      "headline_split": "Eat This Now: ",
-      "fake_endings": [
-        "Vegan Tacos from Dave's",
-        "Spicy Ramen at Hana"
-      ],
-      "fake_headline": "New Library App Lets You Borrow E-Books Instantly Using Just Your Phone",
-      "city": "Kansas City"
-    },
-    {
-      "id": "batch_20260609_002128__story_064",
-      "title": "In Search of Seclusion on the Olympic Peninsula",
-      "summary": "Adam and Sara Simon bought a property on the Olympic Peninsula that was slated for a 50-cabin resort. Instead, they created Aliya Preserve\u2014a rustic campground with just five sites, two cabins, and two tiny wooden pods. They kept it wild, adding an outdoor shower with a Pacific view and removing invasive species to let nature thrive.",
-      "extended_summary": "An eagle swoops over an estuary as Adam Simon points it out, his train of thought lost to the beauty around him. He's showing off Aliya Preserve, his 25-acre private campground near Kalaloch, Washington. Where a global hospitality giant planned dozens of cabins, Adam and his wife Sara kept things simple: five campsites, two tiny 'AliyaPods' with no plumbing, and an outdoor shower facing the Pacific. They tore out Himalayan blackberries and alder thickets to boost biodiversity, leaving the rest as wild as possible. The result is a place so peaceful that even the owner keeps getting distracted by the view.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://www.pdxmonthly.com/travel-and-outdoors/2026/06/olympic-peninsula-quiet-camping-summer",
-      "source_name": "pdxmonthly.com",
-      "published_ts": 1780946100000,
-      "image_url": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_1700,w_2550,x_0,y_734/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1200/menizei-olympics-glamping_qkub41.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 3,
-      "read_time_min": 10,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 2,
-        "young_achievers": 4,
-        "limelight": 1
-      },
-      "emoji_clue": "\ud83e\udded\ud83c\udf32\u26f0\ufe0f\ud83d\udd0d",
-      "headline_split": "In Search of Seclusion ",
-      "fake_endings": [
-        "in a Remote Desert Cabin",
-        "at a Hidden Beach in Thailand"
-      ],
-      "fake_headline": "Family Reunites Lost Dog After 3 Years Using Social Media",
-      "city": "Portland"
-    },
-    {
-      "id": "batch_20260609_002128__story_039",
-      "title": "Northwestern wheelchair basketball pushes for a team",
-      "summary": "Northwestern University launched a wheelchair basketball team after co-founders Alec Cabacungan and Sam Milgrom turned a one-on-one challenge into inclusive pickup games. The first event drew 15-20 players\u2014way more than the eight they expected\u2014including members of the women's club basketball team.",
-      "extended_summary": "The sound of basketball shoes was replaced by the hum of wheels at Northwestern's gym. Co-founders hoped for eight players; they got nearly 20, and the energy was electric. The team was born from a 2020 challenge between a student and his adviser\u2014both basketball lovers. Now, players of all abilities compete together, proving that sports can be accessible to everyone.",
-      "category": "Sports",
-      "categories": [
-        "Sports"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://evanstonroundtable.com/2026/06/08/northwestern-wheelchair-basketball-seeks-a-tipping-point/",
-      "source_name": "evanstonroundtable.com",
-      "published_ts": 1780948154000,
-      "image_url": "https://evanstonroundtable.com/wp-content/uploads/2026/06/The-game-begins-scaled.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 5,
-      "headline_pull": 4,
-      "read_time_min": 7,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 4,
-        "limelight": 5,
-        "impact_innovation": 3
-      },
-      "emoji_clue": "\u267f\ud83c\udfc0\ud83c\udfaf",
-      "headline_split": "Northwestern wheelchair basketball pushes for ",
-      "fake_endings": [
-        "a coach",
-        "a tournament"
-      ],
-      "fake_headline": "Blind Hiker Reaches Summit of Mount Kilimanjaro With Guide Dog",
-      "city": "Evanston"
-    },
-    {
-      "id": "batch_20260609_002128__story_065",
-      "title": "Saeed\u2019s Punk Nite puts on free theme parties with games and nostalgic playlists at Maggie\u2019s Rumble Room",
-      "summary": "Every second Monday, Saeed Tokhi transforms Maggie's Rumble Room into a punk-themed party with games, nostalgic playlists, and a red fez. From 'Draw Your Own Black Sheep' contests to Tony Hawk's Pro Skater soundtrack nights, it's an interactive, multi-generational celebration of punk attitude. One year in, it's become a Des Moines staple.",
-      "extended_summary": "At the far end of Maggie's Rumble Room, a sheet hangs with a shag carpet beneath it. That's where Saeed Tokhi\u2014wearing his signature red fez with a lightning bolt 'N'\u2014hosts Saeed's Punk Nite. Each month brings a new theme: a Minor Threat-inspired 'Banned in DC' night with a Black Sheep drawing contest, or a Tony Hawk's Pro Skater night with songs from the game's soundtrack. The bar serves themed drinks, and the crowd spans generations. Tokhi believes 'punk is an attitude,' and after a year of these free parties, Des Moines agrees.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://littlevillagemag.com/saeeds-punk-nite-maggies-rumble-room/",
-      "source_name": "littlevillagemag.com",
-      "published_ts": 1780695883000,
-      "image_url": "https://littlevillagemag.com/wp-content/uploads/2026/05/DSC_2883.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 3,
-      "read_time_min": 8,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "young_achievers": 4,
-        "ai_entrepreneurship": 1,
-        "limelight": 2,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83e\udd18\ud83c\udfae\ud83c\udfb5\ud83c\udf8a",
-      "headline_split": "Saeed\u2019s Punk Nite puts on free theme parties with games and nostalgic playlists ",
-      "fake_endings": [
-        "at the city park bandstand",
-        "at a local community hall"
-      ],
-      "fake_headline": "Retired Teacher Starts Free Tutoring Program for Underserved Students",
-      "city": "Iowa City"
-    },
-    {
-      "id": "batch_20260609_002128__story_066",
-      "title": "What if Vacant Spaces Could Be Used as Artist Studios?",
-      "summary": "Evan Snow and Andrew Martineau started Zero Empty Spaces to turn vacant storefronts into affordable artist studios. Since 2019, they've created 34 spaces across five states\u2014each about 96 square feet for under $400 a month, with utilities covered and no commission taken. Artists keep 100% of their sales.",
-      "extended_summary": "What if every empty storefront could become an artist's studio? That's the question Evan Snow and Andrew Martineau asked\u2014and then answered. Their nonprofit, Zero Empty Spaces, takes vacant commercial spaces and renovates them into affordable studios for artists, ghost kitchens, and co-retailing hubs. Since 2019, they've opened 34 spaces in five states. Each artist gets about 96 square feet for $384 a month, with utilities and communal displays paid for. Artists keep every dime they make. The next space is coming to downtown Minneapolis, proving that empty spaces don't have to stay empty.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://mspmag.com/arts-and-culture/zero-empty-spaces-downtown-minneapolis/",
-      "source_name": "mspmag.com",
-      "published_ts": 1780621200000,
-      "image_url": "https://mspmag.com/downloads/75535/download/IMG_4120%20%281%29%7E2.jpg?cb=77e66569f2fe13966f1ea5ac3736c7b5&w=1200",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "limelight": 5,
-        "young_achievers": 4,
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83c\udfda\ufe0f\ud83c\udfa8\u2753\ud83d\udca1",
-      "headline_split": "What if Vacant Spaces Could Be Used as ",
-      "fake_endings": [
-        "Community Gardens?",
-        "Free Libraries?"
-      ],
-      "fake_headline": "Student Invents Device That Turns Plastic Bottles Into 3D Printer Filament"
-    },
-    {
-      "id": "batch_20260609_002128__story_067",
-      "title": "Where Memphis Melts",
-      "summary": "The Memphis Ice Cream Festival started as a small Facebook event between two local ice cream makers. It sold out 1,000 tickets and is now returning bigger than ever for Overton Park's 125th birthday. Expect unlimited tastings, food trucks, and family fun\u2014plus, of course, ice cream.",
-      "extended_summary": "Mary Claire White of Sugar Ghost and Kiamesha Wilson of Kaye's Pints & Scoops met at 'Scoop School' in St. Louis. Both had the same dream: an ice cream festival for Memphis. They created a Facebook event, and it went viral. Last year's inaugural festival sold out at 1,000 tickets, so this year they're partnering with Overton Park Conservancy for a bigger venue and a joint celebration of the park's 125th birthday. The festival returns June 7th with unlimited ice cream tastings, food trucks, music, and family activities. It's the sweetest way to ring in summer.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://www.memphisflyer.com/where-memphis-melts/",
-      "source_name": "memphisflyer.com",
-      "published_ts": 1780531231000,
-      "image_url": "https://www.memphisflyer.com/wp-content/uploads/2026/06/Ice-Cream-Festival-2-courtesy-of-Kiamesha-Wilson.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 3,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 4,
-        "limelight": 2,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83c\udfb8\ud83d\udd25\ud83c\udf56\ud83c\udf06",
-      "headline_split": "Where ",
-      "fake_endings": [
-        "Memphis Shines",
-        "Memphis Grows"
-      ],
-      "fake_headline": "Neighbors Build Tiny Free Pantry for Food Sharing on Every Block",
-      "city": "Memphis"
-    },
-    {
-      "id": "batch_20260609_002128__story_068",
-      "title": "A Husband\u2019s Diagnosis Inspired This New Hampshire Gluten-Free Bakery Built on Love",
-      "summary": "When Angela's husband was diagnosed with celiac disease, she started baking gluten-free treats in her Belmont kitchen. Her recipes were so good that Gluten Free or Die Bakery was born\u2014a 'homestead kitchen' that has never touched gluten. Since 2021, she's been delivering joy to customers across New Hampshire.",
-      "extended_summary": "Angela, a baker originally from Chile, started experimenting in her kitchen when her husband was diagnosed with celiac disease and other food sensitivities. She wanted to recreate the foods he missed most\u2014without compromise. Soon, she discovered her own autoimmune condition and went gluten-free herself. What began as family baking evolved into Gluten Free or Die Bakery, operating from her Belmont 'homestead kitchen' that has never contained gluten. Since 2021, she's been selling cookies, muffins, and bread that taste like the real thing. Her secret ingredient? Love.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://shark1053.com/ixp/701/p/gluten-free-bakery-belmont-nh/",
-      "source_name": "shark1053.com",
-      "published_ts": 1780786838000,
-      "image_url": "https://townsquare.media/site/701/files/2026/06/attachment-gfordie-1.jpg?w=1200&q=75&format=natural",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 2,
-        "young_achievers": 3,
-        "limelight": 3
-      },
-      "emoji_clue": "\ud83c\udfe5\ud83c\udf5e\u2764\ufe0f\ud83c\udfda\ufe0f",
-      "headline_split": "A Husband\u2019s Diagnosis Inspired This New Hampshire ",
-      "fake_endings": [
-        "Organic Farm Started by Family",
-        "Pet Rescue Shelter for Seniors"
-      ],
-      "fake_headline": "High School Robotics Team Wins International Competition With Prosthetic Arm Design",
-      "city": "Rockingham County"
-    },
-    {
-      "id": "batch_20260609_002128__story_069",
-      "title": "AI is taking on antibiotic resistance \u2014 here\u2019s how",
-      "summary": "Researchers at McMaster University have used AI to discover 'enterololin'\u2014a molecule that specifically targets harmful E. coli while leaving good gut bacteria unharmed. The compound was found after screening 10,000 bioactive compounds, and it could lead to precision antibiotics that don't fuel resistance.",
-      "extended_summary": "Most antibiotics are like sledgehammers\u2014they kill good bacteria along with the bad, especially in the gut. For people with Crohn's disease, that can be devastating. Jonathan Stokes and his team at McMaster University turned to AI to find a smarter weapon. They screened 10,000 compounds and landed on just one molecule: enterololin. It specifically targets harmful E. coli without harming the rest of the microbiome. The discovery could lead to precision antibiotics that treat infections without triggering resistance or destroying gut health. It's a step toward antibiotics that work like scalpels, not sledgehammers.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://www.nature.com/articles/d41586-026-01818-9",
-      "source_name": "nature.com",
-      "published_ts": 1780894800000,
-      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01818-9/d41586-026-01818-9_52511302.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 1,
-      "headline_pull": 3,
-      "read_time_min": 11,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "young_achievers": 3,
-        "ai_entrepreneurship": 1,
-        "limelight": 1,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83e\udd16\ud83d\udc8a\ud83d\udee1\ufe0f\ud83d\udd2c",
-      "headline_split": "AI is taking on antibiotic resistance \u2014 ",
-      "fake_endings": [
-        "and winning now",
-        "here's the plan"
-      ],
-      "fake_headline": "Local Beekeeper Creates Honey That Heals Burns Faster Than Medicine"
-    },
-    {
-      "id": "batch_20260609_002128__story_003",
-      "title": "Afrofuturism comes to Garfield through public artwork",
-      "summary": "Pittsburgh artist Shamir Walters debuts 'Everyday Afrofuturism,' an interactive sculpture in Garfield featuring Octavia Butler, Alice Coltrane, and Herbie Hancock. The kinetic installation invites community engagement and expands ideas about Black creativity and possibility.",
-      "extended_summary": "Artist Shamir Walters \u2014 who calls himself a 'futurist with no Afro' \u2014 has unveiled an interactive sculpture in Pittsburgh's Garfield neighborhood. 'Everyday Afrofuturism' features rotating panels of Octavia Butler, Alice Coltrane, and Herbie Hancock, three cultural icons who pushed boundaries of Black creativity. The work grew out of years of Afrofuturism-themed STEAM education with Assemble and BOOM Concepts. Walters, who has Cherokee, Seminole, and Choctaw roots, resists easy categorization, but his art invites everyone to imagine the future.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [
-        "Humor",
-        "Surprise"
-      ],
-      "source_url": "https://www.pghcitypaper.com/arts-entertainment-2/visual-art/afrofuturism-comes-to-garfield-through-public-artwork/",
-      "source_name": "pghcitypaper.com",
-      "published_ts": 1780927200000,
-      "image_url": "https://dnm7v7agbcytc.cloudfront.net/2026/06/05114151/B690F1AF-3C24-41E5-BE27-FDB29AC17DDA_1_201_a-scaled.jpeg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 5,
-      "headline_pull": 4,
-      "read_time_min": 7,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 3,
-        "limelight": 5,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83c\udf0d\ud83d\uddbc\ufe0f\ud83d\udef8",
-      "headline_split": "Afrofuturism comes to Garfield ",
-      "fake_endings": [
-        "through a Mural Festival",
-        "via Virtual Reality Exhibits"
-      ],
-      "fake_headline": "Local Librarian Transforms Old Phone Booths Into Mini Story Stations",
-      "city": "East Pittsburgh"
-    },
-    {
-      "id": "batch_20260609_002128__story_021",
-      "title": "For pregnant mothers in Philadelphia, they can receive a 'Home From Shana'",
-      "summary": "A Philadelphia nonprofit honors LaShana Gilmore, who died in childbirth, by providing free housing and support for pregnant women experiencing homelessness. Their LaborLiveLove program gives moms a stable home and postpartum care.",
-      "extended_summary": "LaShana Gilmore was healthy, college-educated\u2014and her concerns still went unheard. She died after giving birth in 2019. Her best friend turned grief into action, founding A Home From Shana. Now, through the LaborLiveLove program, pregnant women facing unstable housing get a safe place to stay, plus support groups and resources. It's a lifeline for mothers who need a home before their babies arrive.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Rescue"
-      ],
-      "tones": [],
-      "source_url": "https://abc7.com/videoClip/a-home-from-shana-pregnant-mothers-in-need-labor-live-love-cleopatra-robinson/19235043/",
-      "source_name": "abc7.com",
-      "published_ts": 1780947367000,
-      "image_url": "https://cdn.abcotvs.com/dip/images/19235042_060426-localish-agd9396-ahomefromshana-wpvi-vid.jpg?w=1600",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 1,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "limelight": 5,
-        "impact_innovation": 2,
-        "young_achievers": 3
-      },
-      "emoji_clue": "\ud83e\udd30\ud83d\udc76\ud83c\udfe0\ud83d\uddfd\ud83c\udf81",
-      "headline_split": "For pregnant mothers in Philadelphia, they can receive a ",
-      "fake_endings": [
-        "free prenatal yoga class",
-        "weekly meal delivery service"
-      ],
-      "fake_headline": "77-Year-Old Barber Gives Free Haircuts to Homeless Veterans Every Sunday"
-    },
-    {
-      "id": "batch_20260609_002128__story_070",
-      "title": "High School Sports in Jackson County Get a Marketing Makeover",
-      "summary": "Jackson County high school sports are getting a marketing makeover. PA announcer Wesley Johnson brings the energy with his 'JaxCo Radio Network' routine, while athletic directors use social media, sponsorships, and game-day entertainment to boost attendance and revenue. The NFHS says high school is an underestimated market.",
-      "extended_summary": "Wesley Johnson's sequined jacket glistens under the lights as he hypes the crowd at a Jackson County soccer game. \"Head to the concession stand for our world-famous JaxCo nachos!\" he shouts, and fans laugh and cheer. Johnson is part of a push to bring commercial flair to high school sports. With rising costs, athletic directors are using social media, sponsorships, and entertaining PA announcers to draw bigger crowds and generate revenue. The National Federation of State High School Associations is even offering consulting services, noting that brands are eager to reach high school students. It's a whole new ballgame for high school athletics.",
-      "category": "Sports",
-      "categories": [
-        "Sports"
-      ],
-      "tones": [],
-      "source_url": "https://gradynewsource.uga.edu/high-school-sports-in-jackson-county-get-a-marketing-makeover/",
-      "source_name": "gradynewsource.uga.edu",
-      "published_ts": 1780509612000,
-      "image_url": "https://gradynewsource.uga.edu/wp-content/uploads/2026/04/Johnson-scaled.jpeg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 3,
-        "impact_innovation": 2,
-        "limelight": 4
-      },
-      "emoji_clue": "\ud83c\udfc0\ud83d\udce2\ud83c\udfeb\u2728",
-      "headline_split": "High School Sports in Jackson County Get a ",
-      "fake_endings": [
-        "Brand-New Stadium Lights",
-        "Social Media Boost"
-      ],
-      "fake_headline": "Grandmother Knits 1000 Hats for Premature Babies in Local Hospital"
-    },
-    {
-      "id": "batch_20260609_002128__story_071",
-      "title": "In Philadelphia, a New Art Fair Removes Scale From the Equation",
-      "summary": "Philadelphia's art scene just got a fresh boost with Elsewhere, a new fair that's intentionally small and affordable. Booth fees max out at $2,500 (including lodging), and artwork tops out at $25,000. It's a space for experimentation, proving that big things can happen without big budgets.",
-      "extended_summary": "Megan Galardi, director of Blah Blah Gallery, created Elsewhere to let Philadelphia thrive on its own terms \u2014 not as a New York wannabe. Inspired by curator-led fairs like Arrival Art Fair and Friends Fair, she capped fees and artwork prices to encourage risk-taking over commercial pressure. With booth fees as low as $2,500 and lodging included, galleries can experiment freely. The fair turns Philadelphia into a crucible for new ideas in the art world.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://observer.com/2026/06/review-elsewhere-new-art-fair-philadelphia/",
-      "source_name": "observer.com",
-      "published_ts": 1780957707000,
-      "image_url": "https://observer.com/wp-content/uploads/sites/2/2026/06/feia.elsewhere.2026-5.jpg?quality=80",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 9,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "limelight": 2,
-        "impact_innovation": 2,
-        "young_achievers": 3
-      },
-      "emoji_clue": "\ud83c\udfa8\ud83d\udccf\ud83d\udeab",
-      "headline_split": "In Philadelphia, a New Art Fair Removes ",
-      "fake_endings": [
-        "All Artwork From the Walls",
-        "The Traditional Pricing Model"
-      ],
-      "fake_headline": "Local Bakery Donates 1,000 Loaves to Homeless Shelter After Viral Post",
-      "city": "New York City"
-    },
-    {
-      "id": "batch_20260609_002128__story_030",
-      "title": "Investing in Logan Elementary",
-      "summary": "Logan Elementary in Philadelphia is transforming its 2.2 acres of gray pavement into a green space with a track, basketball courts, and gardens. The community-driven project is designed by third graders and backed by multiple partners.",
-      "extended_summary": "When Eli Prosper looks at Logan Elementary's concrete schoolyard, he sees a basketball court, a bike track, and green spaces designed by the third graders themselves. With help from the Trust for Public Land, PECO, and others, the school is replacing pavement with a landscaped yard open to the neighborhood. Students who got free bikes last year will have a place to ride. It's not just a playground\u2014it's an investment in the community's future.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://thephiladelphiacitizen.org/logan-elementary-eli-prosper/?utm_source=rss&utm_medium=rss&utm_campaign=logan-elementary-eli-prosper",
-      "source_name": "thephiladelphiacitizen.org",
-      "published_ts": 1780498421000,
-      "image_url": "https://thephiladelphiacitizen.org/wp-content/uploads/2026/05/Logan_Elementary_HED1.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 3,
-      "read_time_min": 13,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "limelight": 5,
-        "young_achievers": 3,
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 3
-      },
-      "emoji_clue": "\ud83c\udfeb\ud83d\udcb0\ud83d\udcda\ud83d\udc66",
-      "headline_split": "Investing in Logan ",
-      "fake_endings": [
-        "Kindergarten Playground",
-        "School\u2019s Music Program"
-      ],
-      "fake_headline": "City Allocates $2 Million to Renovate All Public Library Branches",
-      "city": "Philadelphia"
-    },
-    {
-      "id": "batch_20260609_002128__story_072",
-      "title": "Local Author Visits Every Corner Of South Dakota\u2019s Communities",
-      "summary": "Author Seth Varner has visited every incorporated community in South Dakota, from Sioux Falls to the tiniest prairie towns. His book 'Wandermore in South Dakota' documents hidden gems, places to eat, and local secrets. He's now on a mission to explore all 50 states, one town at a time.",
-      "extended_summary": "What started as a COVID-era disruption turned into a full-blown exploration project for Seth Varner. He's already visited six states, with South Dakota leaving such a mark that he chose Deadwood for his bachelor party. Varner's journey isn't just about checking places off a list \u2014 he soaks in each community's unique character, sharing finds that don't make travel brochures. His social media gives followers a front-row seat to discovering America's heartland.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://hot1047.com/ixp/485/p/exploring-south-dakota-towns/",
-      "source_name": "hot1047.com",
-      "published_ts": 1780512833000,
-      "image_url": "https://townsquare.media/site/485/files/2026/06/attachment-untitled-design-2026-06-03t085209-197.jpg?w=1200&q=75&format=natural",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "limelight": 1,
-        "ai_entrepreneurship": 1,
-        "young_achievers": 3,
-        "impact_innovation": 1
-      },
-      "emoji_clue": "\ud83d\udcda\ud83d\uddfa\ufe0f\ud83d\udccc",
-      "headline_split": "Local Author Visits ",
-      "fake_endings": [
-        "Every Library in the State",
-        "Every Town Hall in the Region"
-      ],
-      "fake_headline": "Retired Nurse Knits Blankets for Every Newborn in Her County",
-      "city": "Minnehaha County"
-    },
-    {
-      "id": "batch_20260609_002128__story_073",
-      "title": "Maine filmmaker\u2019s work comes to his hometown Aroostook cinema this week",
-      "summary": "Fort Kent Cinema is putting local filmmaker Oliver Caron on the big screen this month, showing his work from the Maine Mayhem Film Festival. Caron, now a college student, wrote, directed, and acted in several shorts including a mockumentary about a man addicted to eating chicken in the shower. It's a win for hometown talent and community cinema.",
-      "extended_summary": "Oliver Caron's films \u2014 from a 'Spinal Tap'-style mockumentary called 'Shower Chicken' to a short titled 'The Loon' \u2014 are getting a hometown screening at Fort Kent Cinema. The theater, which previously live-streamed local basketball victories, is going beyond mainstream releases to spotlight regional creators. For Caron, it means his family doesn't have to drive six hours to see his work. The event introduces northern Maine audiences to the Portland festival's quirky, creative energy.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://thecounty.me/2026/06/08/news/maine-filmmakers-work-comes-to-his-hometown-aroostook-cinema-this-week/",
-      "source_name": "thecounty.me",
-      "published_ts": 1780946520000,
-      "image_url": "https://thecounty.me/wp-content/uploads/2026/06/1000012692.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "young_achievers": 3,
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 1,
-        "limelight": 3
-      },
-      "emoji_clue": "\ud83c\udfac\ud83c\udf32\ud83c\udfe0",
-      "headline_split": "Maine filmmaker\u2019s work comes ",
-      "fake_endings": [
-        "to a packed theater for the first time",
-        "full circle after 20 years abroad"
-      ],
-      "fake_headline": "Michigan Teenager Builds Affordable Housing for Homeless Veterans",
-      "city": "Presque Isle"
-    },
-    {
-      "id": "batch_20260609_002128__story_074",
-      "title": "Not lost in translation: training AI to speak African languages",
-      "summary": "A team from the University of Cape Town has built MzansiLM, a language model that includes all 11 of South Africa's official written languages. While big tech AI ignores over 98% of African languages, this small model aims to close the gap. It's a step toward making AI accessible to millions who are currently left out of the digital revolution.",
-      "extended_summary": "With over 2,000 languages in Africa but only 41 supported by major AI systems, the digital divide is massive. Researchers Anri Lombard, Jan Buys, Francois Meyer, and their team created MzansiLM to represent South Africa's linguistic diversity. Alongside it, they released MzansiText, the dataset used for training. Despite being small compared to corporate LLMs, MzansiLM showed strong performance in tests, proving that targeted, inclusive AI can punch above its weight.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://african.business/2026/06/technology-information/not-lost-in-translation-training-ai-to-speak-african-languages",
-      "source_name": "african.business",
-      "published_ts": 1780507799000,
-      "image_url": "https://african.business/wp-content/uploads/2026/06/000_Par8303407-scaled.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 1,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 3,
-        "limelight": 2,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83e\udd16\ud83c\udf0d\ud83d\udcac",
-      "headline_split": "Not lost in translation: training ",
-      "fake_endings": [
-        "robots to translate ancient texts",
-        "computers to understand dialects"
-      ],
-      "fake_headline": "High School Students Create App That Reduces Food Waste in Cafeterias"
-    },
-    {
-      "id": "batch_20260609_002128__story_075",
-      "title": "Pride Kel-So Returns",
-      "summary": "Pride Kel-So is returning for a second year after drawing over 1,600 people to the Keller-Southlake area, despite a hostile political climate. Organizers April and Shaina Dreyson say last year's event was healing for many in this conservative stronghold. This year's celebration is set for October 3 at the same church location.",
-      "extended_summary": "Despite threats and fear from local politicians' rhetoric, Pride Kel-So drew a crowd that proved the need for LGBTQ+ visibility in the Keller-Southlake area. Over 3,000 registered, though many stayed away due to safety concerns. Organizers are determined to keep the momentum going, creating a space where community members can find joy and acceptance. The second annual event promises more music, performances, and a chance to heal \u2014 on their own terms.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://www.fwweekly.com/2026/06/03/pride-kel-so-returns/",
-      "source_name": "fwweekly.com",
-      "published_ts": 1780529642000,
-      "image_url": "https://www.fwweekly.com/wp-content/uploads/2026/06/metro1kelsoTRIO6-18.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 4,
       "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1339,39 +1487,327 @@
       ],
       "section_scores": {
         "ai_entrepreneurship": 1,
+        "limelight": 2,
         "impact_innovation": 2,
-        "young_achievers": 3,
-        "limelight": 2
+        "young_achievers": 3
       },
-      "emoji_clue": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83d\udd04\ud83c\udf89",
-      "headline_split": "Pride Kel-So ",
+      "emoji_clue": "\ud83c\udf7a\ud83d\udc6b\ud83c\udfd8\ufe0f\u21a9\ufe0f",
+      "headline_split": "Local couple bring brewing back to ",
       "fake_endings": [
-        "Celebrates 10th Anniversary",
-        "Welcomes New Grand Marshal"
+        "Rochester",
+        "Syracuse"
       ],
-      "fake_headline": "Community Garden Grows 500 Pounds of Vegetables for Local Food Bank",
-      "city": "Fort Worth"
+      "fake_headline": "Local couple opens first vegan restaurant in century-old building"
     },
     {
-      "id": "batch_20260609_002128__story_076",
-      "title": "Rescuing London\u2019s Precious Building Materials Diverting Them from Dumps for Reuse",
-      "summary": "Yes Make is rescuing London's architectural treasures \u2014 wood, brick, glass, and steel \u2014 from landfills and turning them into new objects with cultural potential. Operating from a five-acre salvage yard called Tipping Point East, the project creates a circular economy for the city's building materials. Even a 105-year-old sequoia tree found a second life through their workshops.",
-      "extended_summary": "Frustrated by red tape and waste, Joel De Mowbray founded Yes Make to salvage London's historic materials before they hit the dump. Partnering with Material Cultures, they secured Tipping Point East \u2014 now the UK's largest salvage site. More than half of the UK's waste comes from construction, and Yes Make is proving that beautiful, useful objects can emerge from what others discard. From a 105-year-old sequoia to Victorian bricks, every piece gets a chance to tell a new story.",
+      "id": "batch_20260622_180134__story_081",
+      "title": "No billboard needed: This Seattle startup scored World Cup airtime with a scrappy cardboard sign",
+      "summary": "When Fox Sports was live-streaming World Cup festivities from Seattle's Pier 62, startup Yoodli saw a golden opportunity. Marketing intern Luis Quiroz sprinted over with a cardboard sign reading 'Yoodli.ai' and held it up behind commentator Alexi Lalas. The AI startup scored free TV airtime with nothing but a ripped monitor box and a clever Hail Mary.",
+      "extended_summary": "A ripped monitor box, a marker, and a quick sprint \u2014 that's all it took for Seattle AI startup Yoodli to land on Fox Sports' live World Cup broadcast. Growth marketing manager Connor Wright spotted the live stream from Pier 62 and in minutes, Sage Ke'ohilani Quiamno was scribbling 'Yoodli.ai' on cardboard while intern Luis Quiroz ran to the studio. The sign appeared just over soccer legend Alexi Lalas' shoulder, giving the company priceless exposure. In an era of flashy AI billboards, Yoodli proved that scrappy ingenuity still wins.",
+      "category": "Sports",
+      "categories": [
+        "Sports"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.geekwire.com/2026/no-billboard-needed-this-seattle-startup-scored-world-cup-airtime-with-a-scrappy-cardboard-sign/",
+      "source_name": "geekwire.com",
+      "published_ts": 1781832003000,
+      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/06/Yoodli-Sign-1260x703.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 2,
+        "young_achievers": 3,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\ude80\ud83c\udfdf\ufe0f\ud83e\udea7\u26bd",
+      "headline_split": "No billboard needed: This Seattle startup scored World Cup airtime ",
+      "fake_endings": [
+        "by investing millions in digital ads",
+        "after their viral TikTok caught FIFA's eye"
+      ],
+      "fake_headline": "High school senior from Detroit creates app that feeds thousands, catches Google's attention"
+    },
+    {
+      "id": "batch_20260622_180134__story_082",
+      "title": "Noida Airport's Furniture Has a Surprising Secret",
+      "summary": "Brothers Vikash and Rahul are turning India's e-waste crisis into a design revolution. They've developed a method to transform discarded electronic plastic into durable, stylish furniture \u2014 now installed at Noida International Airport. So far, they've diverted over 12 tonnes of waste from landfills, proving that yesterday's e-waste can become tomorrow's airport bench.",
+      "extended_summary": "What if the bench you're sitting on at an airport was once a discarded keyboard or printer? That's the reality at Noida International Airport, where brothers Vikash and Rahul have installed furniture made entirely from recycled e-waste plastic. Their innovation tackles India's mounting e-waste problem head-on, transforming hazardous materials into sleek, durable chairs and tables. The process gives a second life to over 12 tonnes of waste so far, all while supporting a circular economy. It's a quiet revolution in sustainable design \u2014 one bench at a time.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://thebetterindia.com/videos/business/noida-airports-furniture-has-a-surprising-secret-12060413",
+      "source_name": "thebetterindia.com",
+      "published_ts": 1782073808000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/youtube_thumbnails/vi/Wf45Ss1aC9M/maxresdefault.jpg",
+      "display_mode": "image",
+      "display_reason": "medium image but highly visual story",
+      "image_confidence": "medium",
+      "visual_affinity": 4,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "young_achievers": 3,
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udeeb\ud83c\udfe2\ud83e\ude91\ud83d\udd0d",
+      "headline_split": "Noida Airport's Furniture Has a Surprising ",
+      "fake_endings": [
+        "origin from recycled airplane parts",
+        "hidden charging ports in every seat"
+      ],
+      "fake_headline": "Local Bakery Donates 500 Loaves Weekly to Homeless Shelters, Uses Secret Family Recipe"
+    },
+    {
+      "id": "batch_20260622_180134__story_083",
+      "title": "Redesign of Dutch Van Abbemuseum aims to make museum-going more accessible",
+      "summary": "The Van Abbemuseum in Eindhoven is rethinking what it means to be accessible. New locker keys double as fidget toys, and sensory maps warn visitors about potentially triggering lights or sounds. Designed with neurodivergent artists, the 'System Thinkers' initiative embeds inclusion directly into the museum's operations \u2014 not as an afterthought, but as the starting point.",
+      "extended_summary": "In most museums, locker keys are metal rectangles. At the Van Abbemuseum, they're silvery chain stim toys inspired by the nearby Dommel River. The redesign is part of 'System Thinkers', a radical initiative that embeds artists with disabilities into the museum's core operations. Sensory maps now label each room's lighting and noise levels, while the keys \u2014 officially titled 'Touching the Museum without Touching the Museum' \u2014 offer tactile comfort. By collaborating with the ADEZIV neurodivergent design network, the Dutch museum is proving that accessibility isn't a checklist; it's a creative act.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://www.goodnewsnetwork.org/rescuing-londons-precious-building-materials-diverting-them-from-dumps-for-reuse/",
-      "source_name": "goodnewsnetwork.org",
-      "published_ts": 1780423234000,
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/credit-retrieved-from-Yes-Make.jpg",
+      "source_url": "https://www.theartnewspaper.com/2026/06/18/redesign-of-dutch-van-abbemuseum-aims-to-make-museum-going-more-accessible",
+      "source_name": "theartnewspaper.com",
+      "published_ts": 1781795722000,
+      "image_url": "https://cdn.sanity.io/images/cxgd3urn/production/b798360429719fbc578014b83074f8b11b9d10d4-3000x1992.jpg?rect=0,96,3000,1800&w=1200&h=720&q=85&fit=crop&auto=format",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "limelight": 3,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\uddf3\ud83c\uddf1\ud83c\udfdb\ufe0f\u267f\ud83d\udd27",
+      "headline_split": "Redesign of Dutch Van Abbemuseum aims to make museum-going ",
+      "fake_endings": [
+        "feel like a video game",
+        "cost nothing to enter"
+      ],
+      "fake_headline": "City transforms abandoned lot into accessible playground for all abilities"
+    },
+    {
+      "id": "batch_20260622_180134__story_084",
+      "title": "South Jersey arborist rescues 200 cats from trees \u2013 for free",
+      "summary": "Over 200 cats have been saved from towering trees \u2014 all for free \u2014 thanks to Steven Murrow, a licensed arborist from New Jersey. Armed with his professional climbing gear, he retrieves frightened felines that can't get down on their own. PETA gave him a Compassionate Action Award, and videos of his rescues keep going viral.",
+      "extended_summary": "When a cat gets stuck 50 feet up a tree, most people call the fire department. Steven Murrow just grabs his climbing gear. The South Jersey arborist has made it his mission to rescue scared felines from tall trees, never charging a dime. Over five years, he's brought more than 200 cats safely to the ground. His viral videos have earned him a PETA award and invites to 'The Drew Barrymore Show'. 'I still think I'm just a regular guy,' he says \u2014 but to 200 cat owners, he's a hero with a harness.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://njbiz.com/south-jersey-arborist-cat-tree-rescues/",
+      "source_name": "njbiz.com",
+      "published_ts": 1782118974000,
+      "image_url": "https://njbiz.com/files/2026/06/20260503_090326_3e29bc31_exported_86851.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 21,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "limelight": 5,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\uddd1\u200d\ud83c\udf3e\ud83d\udc31\ud83c\udf33\ud83c\udd93",
+      "headline_split": "South Jersey arborist rescues 200 cats from trees \u2013 ",
+      "fake_endings": [
+        "in a single day",
+        "with help from local firefighters"
+      ],
+      "fake_headline": "Dog walks 10 miles to reunite with family after being lost for a month",
+      "city": "New Brunswick"
+    },
+    {
+      "id": "batch_20260622_180134__story_085",
+      "title": "Teenagers lead volunteer efforts on Saturdays at Sequim Food Bank",
+      "summary": "Every Saturday, a team of 50 teenagers runs the entire food distribution operation at the Sequim Food Bank \u2014 from sorting donations to handing out groceries. With adult supervision but teen leadership, they manage every detail. The program proves that young volunteers can carry serious responsibility and make a real impact in their community.",
+      "extended_summary": "While most teenagers sleep in on Saturdays, a group of 50 teens in Sequim, Washington, is busy running a food bank distribution. The Teen Program at Sequim Food Bank puts youth in charge of every step \u2014 from delegating tasks to handing out produce to families in need. Brayden Baritelle, 15, started at 13 and became the youngest Junior Volunteer of the Year. The program doesn't just fill grocery bags; it builds leaders. 'The teens manage the entire operation,' says coordinator Virginia Reitsma. It's a Saturday routine that feeds both bodies and futures.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.peninsuladailynews.com/2026/06/22/teenagers-lead-volunteer-efforts-on-saturdays-at-sequim-food-bank/",
+      "source_name": "peninsuladailynews.com",
+      "published_ts": 1782135000000,
+      "image_url": "https://www.peninsuladailynews.com/wp-content/uploads/sites/18/2026/06/42620571_web1_Teens_3.jpg?w=1024",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 2,
+      "read_time_min": 11,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\u23f0\ud83d\udc65\ud83c\udf7d\ufe0f\ud83c\udfea",
+      "headline_split": "Teenagers lead volunteer efforts on Saturdays ",
+      "fake_endings": [
+        "in local soup kitchen",
+        "for animal shelter"
+      ],
+      "fake_headline": "Middle school band raises $10,000 for music program by busking at farmers market",
+      "city": "Port Angeles"
+    },
+    {
+      "id": "batch_20260622_180134__story_086",
+      "title": "Telepathy AI closes Series A in health with a16z to scale its AI doctor in the region",
+      "summary": "Colombian healthtech Telepathy AI has raised $33 million from Andreessen Horowitz and other top investors to scale its AI clinical assistant. The tool listens to doctor-patient conversations and automatically writes medical records, saving doctors over 1.5 hours per day. It's already in use at a leading Brazilian hospital and has raised $42 million in under a year.",
+      "extended_summary": "A Colombian startup is giving doctors back their most precious resource: time. Telepathy AI, incubated at Stanford, raised $33 million \u2014 the largest digital health Series A in Latin America \u2014 from investors including a16z, Nubank's founder, and Rappi's founder. Its platform acts as a clinical assistant that listens to consultations and auto-generates medical records. At Mater Dei Hospital in Brazil, doctors use it eight hours a day and reclaim 1.7 hours previously lost to paperwork. The company was inspired by the founder's father, a renowned ophthalmologist nicknamed 'Telepathy' for his ability to read patients' eyes.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.enderlinindependent.com/telepathy-ai-closes-series-a-in-health-with-a16z-to-scale-its-ai-doctor-in-the-region/",
+      "source_name": "enderlinindependent.com",
+      "published_ts": 1781910869000,
+      "image_url": "https://www.enderlinindependent.com/wp-content/uploads/2026/06/Telepathy-AI-closes-Series-A-in-health-with-a16z-to.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 3,
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83e\udd16\ud83d\udcca\ud83d\udcb0",
+      "headline_split": "Telepathy AI closes Series A in health with a16z to scale its AI doctor ",
+      "fake_endings": [
+        "across Southeast Asia",
+        "for rural clinics"
+      ],
+      "fake_headline": "AI-powered app predicts heart attacks 24 hours in advance, saves lives in pilot"
+    },
+    {
+      "id": "batch_20260622_180134__story_087",
+      "title": "This Madhya Pradesh Farmer Earned Rs 12 Lakh From Turmeric; Here\u2019s How You Can Grow It in Your Garden",
+      "summary": "Madhya Pradesh farmer Kanchan Verma turned her turmeric crop into a \u20b912 lakh success story. By switching to better cultivation practices \u2014 loose soil, organic manure, and healthy rhizomes \u2014 she doubled her earnings. Her simple method shows that even a small garden bed can yield serious income during monsoon season.",
+      "extended_summary": "Kanchan Verma didn't just grow turmeric \u2014 she grew a business. The Madhya Pradesh farmer improved her cultivation techniques by focusing on loose soil, organic manure, and healthy rhizomes, and her earnings shot up to \u20b912 lakh. She now encourages other farmers to experiment. 'As a farmer, we should keep experimenting in the field,' she says. For home gardeners, the lesson is simple: turmeric thrives in monsoon, needs little space, and can be grown in pots or grow bags. What starts as a kitchen spice can become a steady income stream.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://thebetterindia.com/gardening/kanchan-verma-madhya-pradesh-farmer-growing-turmeric-monsoon-home-gardening-tips-easy-steps-12048138",
+      "source_name": "thebetterindia.com",
+      "published_ts": 1781803837000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/2026/06/17/grow-turmeric-at-home-2026-06-17-17-18-59.png",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
       "headline_pull": 4,
-      "read_time_min": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "young_achievers": 3,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83c\udf3e\ud83d\udcb8\ud83d\udcdd\ud83e\uddd1\u200d\ud83c\udf3e",
+      "headline_split": "This Madhya Pradesh Farmer Earned Rs 12 Lakh From Turmeric; Here\u2019s How You Can Grow It ",
+      "fake_endings": [
+        "for Profit",
+        "with Minimal Water"
+      ],
+      "fake_headline": "Utah farmer grows pineapples in desert using innovative irrigation, sells to local markets"
+    },
+    {
+      "id": "batch_20260622_180134__story_088",
+      "title": "Vanilla, fake eggs and nausea: How Australian scientists are training foxes to avoid turtle nests",
+      "summary": "Australian scientists are training foxes to avoid turtle nests using a clever trick: they lace fake eggs with nausea-inducing chemicals and spray the area with vanilla scent. Foxes learn to associate the smell with sickness, leaving real turtle eggs alone. The non-lethal method could help save Australia's threatened freshwater turtles from extinction.",
+      "extended_summary": "On the banks of Ryan's Lagoon, biologist Ligia Pizzatto buries a fake egg laced with nausea-inducing chemicals and sprays vanilla around it. The scent is a warning: 'This site = sickness.' Her goal is to teach foxes \u2014 the invasive predators responsible for destroying turtle nests \u2014 to avoid them without being killed. Australia's Murray-Darling River Basin freshwater turtles are in crisis, with foxes digging up eggs and killing nesting females. Pizzatto's non-lethal method offers a radical alternative: instead of culling foxes, just train them. Vanilla, a fake egg, and a bad tummy could be the turtles' best defense.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://news.mongabay.com/2026/06/vanilla-fake-eggs-and-nausea-how-australian-scientists-australia-are-training-foxes-to-avoid-turtle-nests/",
+      "source_name": "news.mongabay.com",
+      "published_ts": 1781808621000,
+      "image_url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/06/16174914/Turtles-Wodonga-26-of-28.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 5,
+      "read_time_min": 17,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -1379,142 +1815,18 @@
         "impact_innovation"
       ],
       "section_scores": {
-        "young_achievers": 3,
         "ai_entrepreneurship": 1,
         "limelight": 2,
+        "young_achievers": 3,
         "impact_innovation": 3
       },
-      "emoji_clue": "\ud83c\udfd7\ufe0f\ud83d\udd04\ud83d\uddd1\ufe0f",
-      "headline_split": "Rescuing London\u2019s Precious Building Materials ",
+      "emoji_clue": "\ud83d\udc22\ud83e\udd8a\ud83e\udd5a\ud83d\udc8a",
+      "headline_split": "Vanilla, fake eggs and nausea: How Australian scientists are training foxes ",
       "fake_endings": [
-        "Saving Historic Structures from Demolition",
-        "Creating a Circular Economy for Construction"
+        "to not eat crops",
+        "to stay away from farms"
       ],
-      "fake_headline": "New Recycling Program Turns Plastic Waste Into School Furniture"
-    },
-    {
-      "id": "batch_20260609_002128__story_077",
-      "title": "Success: Balloon team that launched from Maine makes history",
-      "summary": "The Atlantic Explorer hydrogen balloon made history by landing safely in Luxembourg, completing the first trans-Atlantic crossing by an open-basket hydrogen balloon in nearly 20 years. Pilot Alicia Hempleman-Adams became the first woman to cross the Atlantic in a gas balloon. The three-person team launched from Presque Isle, Maine, and touched down after an epic journey.",
-      "extended_summary": "After a tense flight from Presque Isle, the Atlantic Explorer touched down near Diekirch, Luxembourg, early Sunday morning. The three pilots \u2014 Bert Padelt, Alicia Hempleman-Adams, and Peter Cuneo \u2014 are the first to cross the Atlantic in an open-basket hydrogen balloon. For Hempleman-Adams, it also made history as the first woman to achieve the feat, joining her father as one half of the only father-daughter duo to each cross by balloon. Tired but elated, the team is already dreaming of beds and showers.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://thecounty.me/2026/06/07/news/success-balloon-team-that-launched-from-maine-makes-history/",
-      "source_name": "thecounty.me",
-      "published_ts": 1780868842000,
-      "image_url": "https://thecounty.me/wp-content/uploads/2026/06/Peter-Cuneo-Bert-Padelt-Alicia-H-E-Christophe-Houver-e1780850796983.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 5,
-      "headline_pull": 5,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "limelight": 2,
-        "impact_innovation": 1,
-        "young_achievers": 3
-      },
-      "emoji_clue": "\ud83c\udf88\ud83c\udf32\ud83c\udfc5",
-      "headline_split": "Success: Balloon team that launched from Maine ",
-      "fake_endings": [
-        "breaks world altitude record",
-        "lands safely in another state"
-      ],
-      "fake_headline": "Volunteers Build Wheelchair Ramps for 50 Homes in One Weekend",
-      "city": "Presque Isle"
-    },
-    {
-      "id": "batch_20260609_002128__story_078",
-      "title": "Vergas native opens Lakes Country Healthcare in DL",
-      "summary": "Physician assistant Ashley Schultz opened Lakes Country Healthcare in Detroit Lakes, a cash-pay clinic designed to slash costs and cut through red tape. The model gained popularity after COVID, and Schultz hopes to make healthcare accessible for families like hers, where high deductibles kept her from seeking care for her own kids. It's a fresh approach to rural medicine.",
-      "extended_summary": "After years of seeing patients struggle with high deductibles \u2014 even as a healthcare worker herself \u2014 Ashley Schultz decided to build a better option. Lakes Country Healthcare operates on a cash-pay model with transparent pricing, no surprise bills, and no insurance bureaucracy. Schultz, a mother of four, knows firsthand how cost barriers can delay care: her daughter once walked on a broken ankle for two days. Her clinic aims to change that for the Detroit Lakes community, one affordable visit at a time.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://frazeeforum.com/2026/06/03/vergas-native-opens-lakes-country-healthcare-in-dl/",
-      "source_name": "frazeeforum.com",
-      "published_ts": 1780539325000,
-      "image_url": "https://frazeeforum.com/wp-content/uploads/sites/4/2026/06/Lakes-Country-Healthcare-1.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "limelight": 5,
-        "young_achievers": 3,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83c\udfe5\ud83c\udf0a\ud83d\uddfa\ufe0f",
-      "headline_split": "Vergas native opens ",
-      "fake_endings": [
-        "a new clinic for rural residents",
-        "a telemedicine service across the county"
-      ],
-      "fake_headline": "Teacher Uses 3D Printer to Create Prosthetic Hands for Students",
-      "city": "Frazee"
-    },
-    {
-      "id": "batch_20260609_002128__story_079",
-      "title": "\u2018What\u2019s more I-O-W-A, Americana, \u201c76 Trombones\u201d than a marching band?\u2019: Iowa Pride Ensembles are making noise all June",
-      "summary": "What started as a Google spreadsheet and pizza meetings turned into Iowa Pride Ensembles, the state's first LGBTQIA+ marching, concert, and jazz bands. They're performing at Pride events across Iowa this June, including Capital City Pride Fest in Des Moines. Co-founders Rachel Gulick and Amanda Thomas-Murphy built a joyful musical movement for visibility and belonging.",
-      "extended_summary": "After seeing Pride bands in other states, Rachel Gulick created a spreadsheet the day after Thanksgiving 2024 and started recruiting musicians. Within months, Iowa Pride Ensembles became the state's only Pride band affiliated with the National Pride Bands Alliance. Their marching band is already booked for multiple Pride festivals, and the concert band starts in the fall. Co-founders say it's about more than music \u2014 it's a joyful resistance and a way to show that Iowa's LGBTQ+ community is here to stay, playing '76 Trombones' loud and proud.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://littlevillagemag.com/iowa-pride-ensembles/",
-      "source_name": "littlevillagemag.com",
-      "published_ts": 1780952314000,
-      "image_url": "https://littlevillagemag.com/wp-content/uploads/2026/06/Pride-Ensemble-ft-img.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "limelight": 5,
-        "young_achievers": 3,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83c\udf3d\ud83c\udfba\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
-      "headline_split": "\u2018What\u2019s more I-O-W-A, Americana, \u201c76 Trombones\u201d than a marching band?\u2019: Iowa Pride Ensembles are making ",
-      "fake_endings": [
-        "music for the entire state",
-        "history with record-breaking performance"
-      ],
-      "fake_headline": "Local Mom Organizes Free Summer Science Camp for Underprivileged Kids",
-      "city": "Iowa City"
+      "fake_headline": "Zoo trains elephants to paint, profits go to conservation efforts"
     }
   ]
 }

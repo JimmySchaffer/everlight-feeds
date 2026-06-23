@@ -1,48 +1,134 @@
 {
-  "batch_id": "batch_20260608_202135",
-  "created_at": "2026-06-08T20:21:35.534643",
-  "story_count": 1,
+  "batch_id": "batch_20260622_232856",
+  "created_at": "2026-06-22T23:28:56.439565",
+  "story_count": 3,
   "stories": [
     {
-      "id": "batch_20260609_002128__story_062",
-      "title": "Can Your Plants Scream In Pain?",
-      "summary": "Swedish startup Sonicflora is listening to plants' ultrasonic sounds to detect stress before visible signs appear. By training AI on sounds from dehydrated or diseased plants, they aim to help farmers intervene early. Your next houseplant might just tell you it's thirsty.",
-      "extended_summary": "Plants scream\u2014just not in a way we can hear. Sonicflora has placed healthy plants in soundproof chambers, introduced stressors like drought, and recorded the ultrasonic 'melodies' they emit. When a plant is dehydrated, tiny air bubbles burst in its tissues, creating airborne signals. The company's AI learns to recognize these distress calls, potentially allowing growers to water or treat crops before any visible damage. So far, they're focusing on indoor tomatoes, but the tech could one day save your cactus from an early grave.",
+      "id": "batch_20260622_180134__story_055",
+      "title": "Flying Solo: The Rise of China\u2019s One-Person Companies",
+      "summary": "After a layoff in 2024, designer Ying Junjiu used AI tools like Cursor and Codex to build a productivity app called Momoyu Timer entirely on his own. The ocean-themed macOS app makes time tracking playful \u2014 and it launched on the App Store. He's part of a rising trend of 'one-person companies' in China, fueled by AI.",
+      "extended_summary": "Ying Junjiu dreamed of making apps, but coding was always a barrier. When a layoff hit, he used AI to bridge the gap. With tools like Cursor, he built Momoyu Timer \u2014 a macOS time tracker that gamifies productivity with an underwater theme. The app went live on the App Store just months later. Ying is one of many young Chinese founders pioneering 'one-person companies,' where AI replaces entire teams. It's a new career path born from necessity and technological shift.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.sixthtone.com/news/1018567/Flying Solo: The Rise of China\u2019s One-Person Companies",
+      "source_name": "sixthtone.com",
+      "published_ts": 1782151294311,
+      "image_url": "https://image5.sixthtone.com/image/5/97/469.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 12,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udde8\ud83c\uddf31\ufe0f\u20e3\ud83e\uddd1\u200d\ud83d\udcbc\ud83c\udfe2",
+      "headline_split": "Flying Solo: The Rise of China\u2019s ",
+      "fake_endings": [
+        "Small Business Revolution",
+        "Freelance Economy Boom"
+      ],
+      "fake_headline": "Chinese Farmer Turns Desert Into Forest, Wins UN Environment Award"
+    },
+    {
+      "id": "batch_20260622_180134__story_086",
+      "title": "Telepathy AI closes Series A in health with a16z to scale its AI doctor in the region",
+      "summary": "Colombian healthtech Telepathy AI has raised $33 million from Andreessen Horowitz and other top investors to scale its AI clinical assistant. The tool listens to doctor-patient conversations and automatically writes medical records, saving doctors over 1.5 hours per day. It's already in use at a leading Brazilian hospital and has raised $42 million in under a year.",
+      "extended_summary": "A Colombian startup is giving doctors back their most precious resource: time. Telepathy AI, incubated at Stanford, raised $33 million \u2014 the largest digital health Series A in Latin America \u2014 from investors including a16z, Nubank's founder, and Rappi's founder. Its platform acts as a clinical assistant that listens to consultations and auto-generates medical records. At Mater Dei Hospital in Brazil, doctors use it eight hours a day and reclaim 1.7 hours previously lost to paperwork. The company was inspired by the founder's father, a renowned ophthalmologist nicknamed 'Telepathy' for his ability to read patients' eyes.",
       "category": "Discovery",
       "categories": [
         "Discovery"
       ],
       "tones": [],
-      "source_url": "https://houstonseagle.com/1737571/can-your-plants-scream-in-pain/",
-      "source_name": "houstonseagle.com",
-      "published_ts": 1780939929000,
-      "image_url": "https://houstonseagle.com/wp-content/uploads/sites/105/2023/08/IADNCM5CIVFYZNV53NUJWHGLV4.jpg?quality=80&strip=all&w=1280&crop=0,0,100,720px",
+      "source_url": "https://www.enderlinindependent.com/telepathy-ai-closes-series-a-in-health-with-a16z-to-scale-its-ai-doctor-in-the-region/",
+      "source_name": "enderlinindependent.com",
+      "published_ts": 1781910869000,
+      "image_url": "https://www.enderlinindependent.com/wp-content/uploads/2026/06/Telepathy-AI-closes-Series-A-in-health-with-a16z-to.png",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 2,
-      "headline_pull": 4,
+      "headline_pull": 3,
       "read_time_min": 2,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
         "young_achievers",
-        "ai_entrepreneurship"
+        "ai_entrepreneurship",
+        "impact_innovation"
       ],
       "section_scores": {
+        "young_achievers": 3,
         "limelight": 1,
-        "young_achievers": 4,
-        "ai_entrepreneurship": 4,
-        "impact_innovation": 2
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 3
       },
-      "emoji_clue": "\ud83c\udf31\ud83d\ude31\ud83d\udd0a\u2753",
-      "headline_split": "Can Your Plants ",
+      "emoji_clue": "\ud83c\udfe5\ud83e\udd16\ud83d\udcca\ud83d\udcb0",
+      "headline_split": "Telepathy AI closes Series A in health with a16z to scale its AI doctor ",
       "fake_endings": [
-        "Talk to Each Other?",
-        "Feel Your Touch?"
+        "across Southeast Asia",
+        "for rural clinics"
       ],
-      "fake_headline": "Robot Dog Helps Autistic Children Learn Social Skills in School",
-      "city": "Houston"
+      "fake_headline": "AI-powered app predicts heart attacks 24 hours in advance, saves lives in pilot"
+    },
+    {
+      "id": "batch_20260622_180134__story_019",
+      "title": "Can kids learn to use AI without touching a screen? This Chicago after-school program is betting on it",
+      "summary": "A Chicago after-school program called Overture Games is teaching kids to use AI without screens \u2014 using paper, pencils, and brainstorming. Students write song lyrics by hand, then watch an AI tool bring their music to life.",
+      "extended_summary": "Eight-year-old Matthew Uriosdegui and his friends wanted to write a song for their last day of after-school program \u2014 so they grabbed pencils, brainstormed lyrics on paper, and decided on a groovy piano tune about an island party. Their instructor typed their handwritten notes into Suno, an AI music generator, and within seconds the kids were snapping along to their own creation. Overture Games is bringing that kind of magic to hundreds of students across Illinois and Massachusetts, teaching AI literacy through hands-on, screen-free activities that start with imagination, not clicks.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.wbez.org/education/2026/06/21/can-kids-learn-to-use-ai-without-touching-a-screen-this-chicago-after-school-program-is-betting-on-it",
+      "source_name": "wbez.org",
+      "published_ts": 1782055800000,
+      "image_url": "https://cst.brightspotcdn.com/dims4/default/772947b/2147483647/strip/true/crop/6415x3662+0+20/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2F77%2Ff9c9fce04767b563bc4749e1c10b%2Fovertureai-260609-010-1.jpg",
+      "display_mode": "text",
+      "display_reason": "medium image not worth the space",
+      "image_confidence": "medium",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 4,
+        "ai_entrepreneurship": 3
+      },
+      "emoji_clue": "\ud83e\uddd2\ud83e\udd16\u270b\ud83d\udcf5",
+      "headline_split": "Can kids learn to use AI without touching a screen? ",
+      "fake_endings": [
+        "This new study from MIT says yes",
+        "A new app promises to teach coding"
+      ],
+      "fake_headline": "New Program Teaches Kids to Code Without Screens Using Clay and Blocks",
+      "city": "Chicago"
     }
   ]
 }
