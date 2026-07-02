@@ -1,7 +1,7 @@
 {
-  "batch_id": "batch_20260702_101606",
-  "created_at": "2026-07-02T10:16:06.489908",
-  "story_count": 2,
+  "batch_id": "batch_20260702_125010",
+  "created_at": "2026-07-02T12:50:10.464294",
+  "story_count": 6,
   "stories": [
     {
       "id": "batch_20260702_035906__story_066",
@@ -86,6 +86,169 @@
       ],
       "fake_headline": "92-Year-Old Woman Learns to Code and Creates App for Missing Pets",
       "city": "Milwaukee County"
+    },
+    {
+      "id": "batch_20260702_164856__story_001",
+      "title": "AI Law Firm: The Logan Brown Playbook",
+      "summary": "Logan Brown went from Harvard Law to a $900/hour job at Cooley, but she left it all behind to launch Soxton. Now she pairs AI with human review to offer startup legal services for $100\u2013200 instead of Big Law's $50k.",
+      "extended_summary": "At age 12, Logan Brown walked into a Kansas DA's office asking for work. Now, the Harvard Law graduate and Vanderbilt valedictorian has left a $900/hour job to launch Soxton, an AI-powered legal service that slashes startup costs from $50k to $100\u2013200.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://aiforfounders.co/podcast/ai-law-firm-the-logan-brown-playbook",
+      "source_name": "AI for Founders Podcast",
+      "published_ts": 1781611200000,
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42898438/42898438-1781623974716-d02bd83a3bc9.jpg",
+      "display_mode": "image",
+      "display_reason": "hero always uses image mode (summary always visible)",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "ai_entrepreneurship",
+        "young_achievers",
+        "impact_innovation",
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "young_achievers": 4,
+        "impact_innovation": 4,
+        "limelight": 5
+      },
+      "emoji_clue": "\u2696\ufe0f\ud83e\udd16\ud83d\udcd6",
+      "headline_split": "AI Law Firm: The Logan Brown ",
+      "fake_endings": [
+        "Secret Weapon",
+        "Trial Guide"
+      ],
+      "fake_headline": "Robot Lawyer Wins First Case After Arguing with Human Judge"
+    },
+    {
+      "id": "batch_20260702_164856__story_003",
+      "title": "Hitting $3.3k MRR in two months while working a full-time job",
+      "summary": "Erik Chavez built Jobric to help someone he loved escape a draining job search. The AI platform hit $3.3k MRR in two months by prioritizing proprietary matching logic over large language models.",
+      "extended_summary": "Erik Chavez built Jobric to help someone he loved escape a draining job search. The AI job-matching platform, built by a Microsoft Solutions Architect, hit $3.3k MRR in just two months by focusing on proprietary matching logic over large language models.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.indiehackers.com/post/tech/hitting-3-3k-mrr-in-two-months-while-working-a-full-time-job-eb5timbPqFlDFWZjha9i",
+      "source_name": "Indie Hackers",
+      "published_ts": 1782475200000,
+      "image_url": "https://storage.googleapis.com/indie-hackers.appspot.com/post-images/eb5timbPqFlDFWZjha9i/vOqaQ3DJwYRP8MNEjUOSMger71w1/erik-chavez-founder-of-jobric.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 31,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 4,
+        "ai_entrepreneurship": 5,
+        "limelight": 2,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83d\udcbc\ud83d\udcb2\ud83d\udcc8",
+      "headline_split": "Hitting $3.3k MRR in two months while working a full-time ",
+      "fake_endings": [
+        "side hustle",
+        "college class"
+      ],
+      "fake_headline": "Single Mom Builds $10k/mo App While Sleeping 4 Hours a Night"
+    },
+    {
+      "id": "batch_20260702_164856__story_004",
+      "title": "How Danny Postma Built an AI Empire Solo from Bali",
+      "summary": "Danny Postma built HeadshotPro into a $300K/month business solo from Bali. He pivoted across GPT-3 and Stable Diffusion, launching the AI headshot generator within a year.",
+      "extended_summary": "Dutch entrepreneur Danny Postma strategically pivoted from GPT-3 to Stable Diffusion, building a $300K/month solo business from Bali. His AI headshot generator HeadshotPro launched within a year and now serves thousands.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://supabird.io/articles/danny-postma-how-a-solo-hacker-built-an-ai-empire-from-bali",
+      "source_name": "Supabird",
+      "published_ts": 1782302400000,
+      "image_url": "https://framerusercontent.com/images/wILzc6BwA9jDbJaDOctWTMJgrfs.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 12,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "ai_entrepreneurship",
+        "young_achievers"
+      ],
+      "section_scores": {
+        "impact_innovation": 1,
+        "limelight": 1,
+        "ai_entrepreneurship": 5,
+        "young_achievers": 4
+      },
+      "emoji_clue": "\ud83c\udfdd\ufe0f\ud83e\udd16\ud83c\udff0",
+      "headline_split": "How Danny Postma Built an AI Empire ",
+      "fake_endings": [
+        "With a Team of 100",
+        "From His Bedroom"
+      ],
+      "fake_headline": "College Dropout Creates $1M ARR SaaS in 6 Months from a Camper Van"
+    },
+    {
+      "id": "batch_20260702_164856__story_002",
+      "title": "Michael Martin of RapidSOS on Pushing the Boundaries of AI",
+      "summary": "After being mugged, Michael Martin created RapidSOS to fix emergency communication. His AI platform HARMONY now connects 723 million devices to 23,500+ first-responder agencies, saving lives with real-time data.",
+      "extended_summary": "After being mugged in New York, Michael Martin realized how broken emergency communication is. His AI platform HARMONY now synthesizes data from 723 million devices for 23,500+ first-responder agencies, saving lives with real-time information.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://medium.com/authority-magazine/michael-martin-of-rapidsos-on-pushing-the-boundaries-of-ai-4af4b0422e12",
+      "source_name": "Authority Magazine",
+      "published_ts": 1782388800000,
+      "image_url": "https://miro.medium.com/v2/da:true/resize:fill:1200:632/g:fp:0.54:0.22/0*_VUe9TGOrHfeFQSh",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 18,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "limelight"
+      ],
+      "section_scores": {
+        "young_achievers": 3,
+        "impact_innovation": 2,
+        "ai_entrepreneurship": 5,
+        "limelight": 3
+      },
+      "emoji_clue": "\ud83c\udd98\ud83e\udd16\ud83d\ude80",
+      "headline_split": "Michael Martin of RapidSOS on Pushing the ",
+      "fake_endings": [
+        "Limits of Human Potential",
+        "Edge of Tomorrow's Tech"
+      ],
+      "fake_headline": "Former Pizza Delivery Driver Creates AI That Predicts Traffic Accidents"
     }
   ]
 }

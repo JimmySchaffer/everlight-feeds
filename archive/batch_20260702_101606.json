@@ -1,0 +1,91 @@
+{
+  "batch_id": "batch_20260702_101606",
+  "created_at": "2026-07-02T10:16:06.489908",
+  "story_count": 2,
+  "stories": [
+    {
+      "id": "batch_20260702_035906__story_066",
+      "title": "A \u2018Matchmaker\u2019 Platform Boosts Farm Worker Incomes From Rs 6K to Rs 20K per Month in Nashik",
+      "summary": "A new AI-powered platform is helping farm workers in Nashik triple their incomes. Bharat Intelligence connects farmers with skilled laborers via WhatsApp, replacing chaotic morning trips to the labor chowk with reliable scheduling. Farmers like Bapusaheb Salunkhe now get workers on time, and laborers earn more\u2014up from Rs 6,000 to Rs 20,000 a month.",
+      "extended_summary": "In Nashik, farmer Bapusaheb Salunkhe used to scramble for workers every morning. Now he taps his phone\u2014a WhatsApp-based platform called Bharat Intelligence assigns a team instantly. The service uses AI to connect farmers with skilled laborers, replacing informal hiring systems. Co-founders Azaan Merchant and Gaurav Sanghai saw the labor problem as accepted but unsolved. Now workers' incomes have jumped from Rs 6,000 to Rs 20,000 per month, and farmers get reliable help. 'They come on time now,' Salunkhe says simply.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://thebetterindia.com/innovation/ai-farm-labour-platform-bharat-intelligence-labour-os-nashik-12108095",
+      "source_name": "thebetterindia.com",
+      "published_ts": 1782847837000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/2026/06/26/bharat-intelligence-2026-06-26-11-49-22.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 5,
+        "limelight": 1,
+        "young_achievers": 4,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc69\u200d\ud83c\udf3e\ud83d\udcb0\ud83d\udcf1\ud83c\udf47",
+      "headline_split": "A \u2018Matchmaker\u2019 Platform Boosts Farm Worker Incomes",
+      "fake_endings": [
+        "By 50% in Rural Karnataka",
+        "Through Digital Skills Training in Punjab"
+      ],
+      "fake_headline": "College Student Creates App to Connect Farmers Directly with Restaurants in Pune"
+    },
+    {
+      "id": "batch_20260702_035906__story_055",
+      "title": "Comment on UWM Student Spotlight: From International Student to Hedge Fund Founder by BlogEnthusiast",
+      "summary": "Divyanshu Verma, an international student from India who just earned his master\u2019s in computer science at UWM, launched a quantitative hedge fund. Verma Research Capital has raised $4.3 million and delivered 26% returns, using an AI system called AEGIS to analyze investments.",
+      "extended_summary": "Six months after earning his master\u2019s in computer science, Divyanshu Verma is running a hedge fund with $4.3 million in capital and a proprietary AI research platform. The 23-year-old international student from India founded Verma Research Capital after serving as a quantitative portfolio manager in UWM\u2019s Student Investment Club. His system, AEGIS, uses large language models to analyze earnings calls and company fundamentals. The fund has already returned 26% since launch, proving that a computer science background can be a powerful edge in finance.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://uwmpost.com/business/uwm-student-spotlight-from-international-student-to-hedge-fund-founder#comment-47326",
+      "source_name": "uwmpost.com",
+      "published_ts": 1782405973000,
+      "image_url": "https://uwmpost.com/wp-content/uploads/2026/06/Picture1.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 1,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "limelight": 1,
+        "impact_innovation": 2,
+        "ai_entrepreneurship": 5
+      },
+      "emoji_clue": "\ud83c\udf0d\ud83c\udf93\ud83d\udcb0\ud83d\udcbb\ud83c\udfe2",
+      "headline_split": "Comment on UWM Student Spotlight: From International Student to ",
+      "fake_endings": [
+        "CEO of a Fortune 500 Company",
+        "Award-Winning Filmmaker"
+      ],
+      "fake_headline": "92-Year-Old Woman Learns to Code and Creates App for Missing Pets",
+      "city": "Milwaukee County"
+    }
+  ]
+}
