@@ -1,7 +1,7 @@
 {
   "batch_id": "batch_20260702_101606",
-  "created_at": "2026-07-02T10:16:06.489908",
-  "story_count": 2,
+  "created_at": "2026-07-02T10:16:06.525185",
+  "story_count": 50,
   "stories": [
     {
       "id": "batch_20260702_035906__story_066",
@@ -47,45 +47,2002 @@
       "fake_headline": "College Student Creates App to Connect Farmers Directly with Restaurants in Pune"
     },
     {
-      "id": "batch_20260702_035906__story_055",
-      "title": "Comment on UWM Student Spotlight: From International Student to Hedge Fund Founder by BlogEnthusiast",
-      "summary": "Divyanshu Verma, an international student from India who just earned his master\u2019s in computer science at UWM, launched a quantitative hedge fund. Verma Research Capital has raised $4.3 million and delivered 26% returns, using an AI system called AEGIS to analyze investments.",
-      "extended_summary": "Six months after earning his master\u2019s in computer science, Divyanshu Verma is running a hedge fund with $4.3 million in capital and a proprietary AI research platform. The 23-year-old international student from India founded Verma Research Capital after serving as a quantitative portfolio manager in UWM\u2019s Student Investment Club. His system, AEGIS, uses large language models to analyze earnings calls and company fundamentals. The fund has already returned 26% since launch, proving that a computer science background can be a powerful edge in finance.",
+      "id": "batch_20260702_035906__story_081",
+      "title": "Between Two Needles",
+      "summary": "In a Chinese textile factory, dialysis patients work upstairs sewing clothes while receiving life-saving treatment downstairs. This unique setup gives 67 kidney disease patients stable jobs and a renewed sense of purpose, transforming their lives from waiting for treatment to meaningful work.",
+      "extended_summary": "Upstairs, chefs and truck drivers operate sewing machines, stitching pink-striped crochet pants. Downstairs, nurses insert needles into arms darkened by dialysis. Three times a week, they descend for four-hour treatment sessions, then return to work. This Guangzhou factory is built around survival, offering migrant workers pushed out of jobs by renal disease a rare chance at stability. \u2018Getting this disease feels like being abandoned by society,\u2019 says chef Li Shiqi. Here, he and 66 others find purpose\u2014and a paycheck\u2014within reach of the machines that keep them alive.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://uwmpost.com/business/uwm-student-spotlight-from-international-student-to-hedge-fund-founder#comment-47326",
-      "source_name": "uwmpost.com",
-      "published_ts": 1782405973000,
-      "image_url": "https://uwmpost.com/wp-content/uploads/2026/06/Picture1.png",
+      "source_url": "https://www.sixthtone.com/news/1018692/Between Two Needles",
+      "source_name": "sixthtone.com",
+      "published_ts": 1782964746156,
+      "image_url": "https://image5.sixthtone.com/image/5/98/250.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 2,
+      "read_time_min": 15,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83e\uddf6\ud83e\uddf5\ud83e\udea1\ud83e\udea1",
+      "headline_split": "Between Two ",
+      "fake_endings": [
+        "Poles",
+        "Stitches"
+      ],
+      "fake_headline": "Teenager Builds Wheelchair-Accessible Treehouse for Disabled Friend"
+    },
+    {
+      "id": "batch_20260702_035906__story_082",
+      "title": "Drones are Saving Hundreds of Fawns From Mower Deaths in Germany (WATCH)",
+      "summary": "A Bavarian rescue group uses thermal drones to find fawns hidden in meadows before mowing season. The technology has boosted rescues from 10-15 per year to over 300, saving thousands of baby deer from deadly farm equipment with AI-assisted precision.",
+      "extended_summary": "Every spring, thousands of fawns die under mowers because they freeze instead of fleeing. Now, thermal imaging drones from DJI let a volunteer rescue group spot heat signatures in tall grass, verify them visually, and guide ground teams to exact locations. Since adding drones, their annual rescues soared from 10-15 to 300-350 fawns. The Matrice 4 Series\u2019 precision controls make it possible\u2014and baby hares and ground-nesting birds benefit too. It\u2019s a life-saving shift from labor-intensive foot searches to high-tech efficiency.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.goodnewsnetwork.org/drones-are-saving-hundreds-of-fawns-from-mower-deaths-in-germany-watch/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1782590454000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Deer-fawn-sleeps-hidden-in-grass-Erika-Fletcher-wHdFa4F1zRA-unsplash.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 1,
+      "visual_affinity": 5,
       "headline_pull": 4,
       "read_time_min": 2,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 2,
+        "limelight": 2,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83e\udd8c\ud83d\udee9\ufe0f\ud83d\ude9c",
+      "headline_split": "Drones are Saving Hundreds of Fawns From Mower ",
+      "fake_endings": [
+        "Injuries",
+        "Collisions"
+      ],
+      "fake_headline": "Robot Dog Teaches Children With Autism Social Skills in School Program"
+    },
+    {
+      "id": "batch_20260702_035906__story_030",
+      "title": "From prison tablets to Cleveland kitchens: How EDWINS has expanded its culinary training to nearly every state",
+      "summary": "Drew Hanchett found a culinary curriculum on his tablet in a county jail in Arizona. After completing it, he was flown to Cleveland for in-person training at EDWINS Leadership & Restaurant Institute. The program, which started with tablet courses in prisons, has expanded to nearly every state and offers a path out of incarceration.",
+      "extended_summary": "Behind bars in Tucson, Drew Hanchett devoured videos on knife skills and butchery through Edovo, an education app on prison tablets. He didn't know the courses were from EDWINS, a Cleveland program that flies graduates out for hands-on training. EDWINS founder Brandon Chrostowski, once arrested as a teen, built the institute to prove culinary training can break the cycle of incarceration. The Cleveland Browns sponsor flights for graduates. Hanchett now works in a professional kitchen\u2014a journey that started with a tablet in a cell.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://signalcleveland.org/from-prison-tablets-to-cleveland-kitchens-how-edwins-has-expanded-its-culinary-training-to-nearly-every-state/",
+      "source_name": "signalcleveland.org",
+      "published_ts": 1782831600000,
+      "image_url": "https://signalcleveland.org/wp-content/uploads/2026/06/PXL_20260408_173705272-scaled-e1782744098388.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
         "young_achievers",
-        "ai_entrepreneurship"
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5,
+        "young_achievers": 3
+      },
+      "emoji_clue": "\ud83d\udd12\ud83c\udf73\ud83d\uddfa\ufe0f\ud83d\udc68\u200d\ud83c\udf73",
+      "headline_split": "From prison tablets to Cleveland kitchens: How EDWINS has ",
+      "fake_endings": [
+        "created a culinary school in every state",
+        "trained inmates to become professional chefs"
+      ],
+      "fake_headline": "Former Inmate Opens Bakery in Brooklyn, Hires Ex-Cons to Give Second Chances"
+    },
+    {
+      "id": "batch_20260702_035906__story_083",
+      "title": "How a Maryland soccer complex became more climate-resilient",
+      "summary": "Maryland SoccerPlex made its 24 fields climate-resilient by switching to drought-tolerant grass and installing drainage pipes. The $150,000-per-field upgrades have nearly eliminated rain cancellations, keeping athletes safe from injuries caused by slippery or dry turf.",
+      "extended_summary": "Soggy fields cause ACL tears and sprained ankles; drought kills grass. So the SoccerPlex retrofitted each of its 24 fields with Bermuda grass and underground drainage pipes. Since then, rain closures have become rare\u2014barely a handful of days lost. Executive director Matt Libber says the investment paid off quickly in avoided cancellations. Athletes can keep playing even as climate change brings more extreme weather. It\u2019s a practical fix that keeps sports safe and schedules intact.",
+      "category": "Sports",
+      "categories": [
+        "Sports"
+      ],
+      "tones": [],
+      "source_url": "https://yaleclimateconnections.org/2026/07/how-a-maryland-soccer-complex-became-more-climate-resilient/",
+      "source_name": "yaleclimateconnections.org",
+      "published_ts": 1782921600000,
+      "image_url": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/07/070126_soccer_1600.jpg?fit=1600%2C900&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 5,
+        "limelight": 4
+      },
+      "emoji_clue": "\u26bd\ud83c\udfdf\ufe0f\ud83c\udf3f\ud83c\udf27\ufe0f",
+      "headline_split": "How a Maryland soccer complex became ",
+      "fake_endings": [
+        "carbon-neutral",
+        "wildlife-friendly"
+      ],
+      "fake_headline": "Couple Turns Abandoned Gas Station Into Community Garden and Art Gallery"
+    },
+    {
+      "id": "batch_20260702_035906__story_084",
+      "title": "Summer Boost improves learning for tens of thousands of Birmingham charter students",
+      "summary": "A Birmingham charter network turned summer school into a TikTok-inspired \u2018Lights, Camera, Action\u2019 program. Students spend three hours daily on math and reading, then create videos\u2014and their test scores jumped from a D to a B, proving summer learning can be fun and effective.",
+      "extended_summary": "When Legacy Prep asked students what they wanted to do this summer, they said make TikTok videos. So the staff built a three-week program blending drama, music, and dance with daily math and reading practice. After three years, the elementary school\u2019s state report card rose from a D to a B. Almost 460 charter schools in seven cities use the same model\u2014called Summer Boost\u2014and a new study shows 39,000 students gained nearly a month of extra math learning and two and a half weeks in English. \u2018Our kids have more time to talk to the teacher,\u2019 says network head Reneta Johnson.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://thealabamabaptist.org/summer-boost-improves-learning-for-tens-of-thousands-of-birmingham-charter-students/",
+      "source_name": "thealabamabaptist.org",
+      "published_ts": 1782772205000,
+      "image_url": "https://thealabamabaptist.org/wp-content/uploads/2026/06/School-Boost-1-830x490-c.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 5,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\u2600\ufe0f\ud83d\udcda\ud83d\udcc8\ud83c\udfeb",
+      "headline_split": "Summer Boost improves learning for tens of thousands of Birmingham charter ",
+      "fake_endings": [
+        "schools",
+        "families"
+      ],
+      "fake_headline": "Volunteers Build 50 Tiny Libraries in Underserved Neighborhoods Across Atlanta"
+    },
+    {
+      "id": "batch_20260702_035906__story_085",
+      "title": "Telling one gui\u00f1a from another: It\u2019s all about the angle",
+      "summary": "Scientists in Chile discovered they can identify individual gui\u00f1a cats by pointing camera traps downward instead of at ground level. The simple angle change revealed unique back markings, making it possible to track the small, elusive species for conservation.",
+      "extended_summary": "Gui\u00f1a are tiny forest cats with subtle black spots that make individuals almost impossible to tell apart. Researchers tried a trick: mounting cameras above, pointing straight down at the cats\u2019 backs. Suddenly, each animal\u2019s unique pattern became clear. In a Chilean temperate forest, this \u2018zenith\u2019 method identified 12 individuals. The breakthrough, published in Oryx, could transform population monitoring for this cryptic species. \u2018For the first time, it seems feasible to identify individual gui\u00f1a,\u2019 says researcher Ilaria Agostini. A small shift in perspective with big conservation payoffs.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://news.mongabay.com/2026/06/telling-one-guina-from-another-its-all-about-the-angle/",
+      "source_name": "news.mongabay.com",
+      "published_ts": 1782750652000,
+      "image_url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/06/29111809/Image_1-1-1200x800.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc31\ud83d\udd0d\ud83d\udcd0",
+      "headline_split": "Telling one gui\u00f1a from another: It\u2019s all about the ",
+      "fake_endings": [
+        "position",
+        "profile"
+      ],
+      "fake_headline": "Scientists Discover New Species of Fairy Wasp in Backyard Garden"
+    },
+    {
+      "id": "batch_20260702_035906__story_086",
+      "title": "This Childcare Program Is 100% Employee-Owned. Will It Help Retain Workers?",
+      "summary": "Imagine Early Learning Centers is the only 100% employee-owned childcare program in the US. Workers like Stephania Zamorano earn higher pay, feel less stress, and own a stake in the company\u2014a model that could help solve the industry\u2019s turnover crisis.",
+      "extended_summary": "Stephania Zamorano has worked in early education for 15 years, but at Imagine she\u2019s also a co-owner. The New York-based organization operates as an Employee Stock Ownership Plan, giving staff a voice in decisions and a share in profits. \u2018It feels great \u2026 like you\u2019re the CEO of the place you\u2019re at,\u2019 she says. In a field known for low wages and high turnover, Imagine is a standout: the only ESOP childcare program in the country. Could employee ownership fix the sector\u2019s biggest challenges? Zamorano thinks so, and she\u2019s not alone.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.the74million.org/zero2eight/this-childcare-program-is-100-employee-owned-will-it-help-it-retain-workers/",
+      "source_name": "the74million.org",
+      "published_ts": 1782754200000,
+      "image_url": "https://www.the74million.org/wp-content/uploads/2026/06/childcare-z28-825x495.jpg?cb=1034547",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "impact_innovation": 5,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83d\udc76\ud83d\udc65\ud83c\udfe2\ud83d\udd04",
+      "headline_split": "This Childcare Program Is 100% Employee-Owned. Will It Help Retain ",
+      "fake_endings": [
+        "Talent?",
+        "Morale?"
+      ],
+      "fake_headline": "Coffee Shop Hires Only Grandparents, And Business Is Booming"
+    },
+    {
+      "id": "batch_20260702_035906__story_087",
+      "title": "Trying to prevent a catastrophic blaze in a fire-prone part of Washington",
+      "summary": "A Washington state crew \u2018firewises\u2019 homes by clearing brush and strategically placing woodchips to slow wildfires. Already thousands of acres have been treated, and hundreds of homeowners are waiting\u2014giving firefighters a better chance to stop catastrophic blazes.",
+      "extended_summary": "On a dry June day near Roslyn, a 13-person crew cut down small trees and bushes around a home, then fed them into a woodchipper. They spread the resulting mulch in a calculated pattern\u2014fuel designed to burn with less intensity, giving firefighters a safe spot to hold the line. The Kittitas County Fuels Crew has firewised thousands of acres, and more than 300 lots are in the queue. \u2018We\u2019re building a good buffer,\u2019 says Lt. Beau Foster. Homeowners are eager: it reduces the chance of flames reaching treetops and destroys the habitat for catastrophic crown fires.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://myedmondsnews.com/2026/06/trying-to-prevent-a-catastrophic-blaze-in-a-fire-prone-part-of-washington/",
+      "source_name": "myedmondsnews.com",
+      "published_ts": 1782773551000,
+      "image_url": "https://dpa730eaqha29.cloudfront.net/myedmondsnews/wp-content/uploads/2026/06/Crew-thinning-foliage.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83d\udd25\ud83c\udf32\ud83d\udeab\ud83d\udcaa",
+      "headline_split": "Trying to prevent a catastrophic blaze in a fire-prone part of ",
+      "fake_endings": [
+        "California",
+        "Colorado"
+      ],
+      "fake_headline": "Seattle Teens Invent Device to Detect Wildfires Before They Spread"
+    },
+    {
+      "id": "batch_20260702_035906__story_064",
+      "title": "When the heat doesn\u2019t stop",
+      "summary": "In Chelsea, Massachusetts\u2014one of the hottest cities in the state\u2014climate justice organizer Jazmin Castell\u00f3n is building a cooler future. She helped create Bear Park, a new green space with shade trees, and launched the TreeKeeper program, training 80 volunteers to care for over 200 trees. It's a frontline defense against extreme heat.",
+      "extended_summary": "Jazmin Castell\u00f3n stands on Congress Street in Chelsea, looking at a new park she helped shape. When it opens this summer, it will offer shade in one of Massachusetts' hottest cities. Chelsea, densely populated with low-income and immigrant residents, has little tree cover and traps heat. Castell\u00f3n's TreeKeeper program trains locals to care for and expand the urban canopy. Now 80 volunteers maintain over 200 trees. 'Those trees are crucial infrastructure,' she says\u2014a frontline defense against extreme heat.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://commonwealthbeacon.org/environment/when-the-heat-doesnt-stop/",
+      "source_name": "commonwealthbeacon.org",
+      "published_ts": 1782842337000,
+      "image_url": "https://commonwealthbeacon.org/wp-content/uploads/2026/06/jazmin1-cropped.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 9,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 5,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83c\udf21\ufe0f\ud83d\udd25\ud83d\uded1\u2744\ufe0f",
+      "headline_split": "When the heat",
+      "fake_endings": [
+        "turns strangers into friends",
+        "inspires a citywide ice cream giveaway"
+      ],
+      "fake_headline": "Grandmother Knits Hats for Thousands of Preemie Babies"
+    },
+    {
+      "id": "batch_20260702_035906__story_088",
+      "title": "Why paying peer reviewers works, according to a journal\u2019s editor-in-chief",
+      "summary": "The journal Biology Open paid reviewers $290 for fast, high-quality reports. The result? Editorial decisions dropped from 38 days to 5.5, and review quality improved. The success suggests paying reviewers could fix peer review delays across science.",
+      "extended_summary": "Peer review is slow and often mediocre. Biology Open\u2019s editor-in-chief Daniel Gorelick decided to try something radical: pay reviewers \u00a3220 per manuscript if they deliver a good review within four working days. The six-month trial worked so well the journal kept it. First editorial decisions averaged 5.5 working days instead of 38, and editors rated the reviews as more helpful. \u2018I\u2019ve always been frustrated with some elements of peer review,\u2019 Gorelick says. Now the results are in a preprint, and the model is gaining attention as a potential fix for a broken system.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.nature.com/articles/d41586-026-01973-z",
+      "source_name": "nature.com",
+      "published_ts": 1782882000000,
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01973-z/d41586-026-01973-z_52839120.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 1,
+      "headline_pull": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 5,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83d\udcc4\ud83d\udcb5\ud83d\udc65\u2705",
+      "headline_split": "Why paying peer reviewers works, according to a journal\u2019s ",
+      "fake_endings": [
+        "publisher",
+        "research director"
+      ],
+      "fake_headline": "University Offers Free Online Courses to Inmates, Leading to Record Graduation Rates"
+    },
+    {
+      "id": "batch_20260702_035906__story_019",
+      "title": "Colorado mountain towns must tighten taps, but water shortages could have been much worse",
+      "summary": "Facing historic water shortages, Colorado's River District is urgently shifting water from reservoirs to towns and ranches most at risk. By prioritizing people over wealthy ranchers, they're ensuring drinking water for communities that could otherwise go dry.",
+      "extended_summary": "Historic drought is strangling Colorado's mountain towns. The Colorado River District, with nearly $1 million in support, is doling out stored water not to the highest bidder but based on need. They turned down wealthy 'gentlemen ranchers' to reserve water for drinking and food production. Emergency orders allow unprecedented flexibility. It's a rescue mission for communities that can't afford to lose their taps\u2014and a model for managing scarcity with fairness.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://coloradosun.com/2026/07/01/water-shortages-colorado-mountain-towns-drought-planning/",
+      "source_name": "coloradosun.com",
+      "published_ts": 1782919200000,
+      "image_url": "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/06/Green-Mtn.-Reservoir-JC-06-scaled.jpg?fit=2560%2C1707&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfd4\ufe0f\ud83d\udeb0\ud83d\udca7\u26a0\ufe0f",
+      "headline_split": "Colorado mountain towns must tighten taps,",
+      "fake_endings": [
+        "and reduce water usage by 20%",
+        "and ban outdoor watering"
+      ],
+      "fake_headline": "Man Wins Lottery Twice in One Year, Gives All Winnings to Homeless Shelter"
+    },
+    {
+      "id": "batch_20260702_035906__story_032",
+      "title": "Hamtramck Program Reaches 400 Trees Planted in Push for 1,000 by 2028",
+      "summary": "The Grow Hamtramck program has planted 400 trees across Michigan's most densely populated city, with a goal of 1,000 by 2028. The initiative relies on resident requests and focuses on species diversity to create shade, reduce heat, and improve pedestrian safety.",
+      "extended_summary": "Hamtramck's urban canopy is growing fast \u2014 400 trees planted so far, with 600 more on the way by 2028. The grant-funded Grow Hamtramck program targets 1,000 total trees in Michigan's most densely populated city. An initial inventory found over 1,200 available planting spots on public property. Workers choose small varieties for narrow spaces and prioritize residential streets to cut heat and slow traffic. Species diversity is key to keeping the canopy healthy.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://detroitpraisenetwork.com/2026/06/26/hamtramck-program-reaches-400-trees-planted-in-push-for-1000-by-2028/",
+      "source_name": "praise1027detroit.com",
+      "published_ts": 1782516237000,
+      "image_url": "https://detroitpraisenetwork.com/uploads/2026/02/GettyImages-686010574-1200x800-6a45073.jpeg?auto=webp",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf33\ud83c\udf31\ud83d\udcc8\ud83c\udfaf",
+      "headline_split": "Hamtramck Program Reaches 400 Trees Planted ",
+      "fake_endings": [
+        "with help from local schools",
+        "and a state grant for more"
+      ],
+      "fake_headline": "Kindergarten Class Starts Garden, Donates Vegetables to Food Bank",
+      "city": "Wayne County"
+    },
+    {
+      "id": "batch_20260702_035906__story_089",
+      "title": "More Than Half of Georgia Teachers Now Use Artificial Intelligence to Prepare for Class",
+      "summary": "A Georgia survey found 59% of teachers now use AI for planning and instruction, with 95% using it at least occasionally. One teacher created AI-powered escape-room games for her students\u2014but many worry about kids using AI to cheat.",
+      "extended_summary": "Imagine your student using AI to answer homework questions their teacher wrote with AI. That\u2019s the new reality in Georgia, where 59% of teachers say they use generative AI for teaching tasks. Venecia Whyte-Foster, a middle school English teacher, embraced it immediately: she built personalized chatbots that turn lessons into escape-room games. \u2018My kids are going to use it,\u2019 she says. \u2018How do I use it in my class effectively?\u2019 The survey of over 13,000 teachers also reveals concerns about student misuse, but the trend is clear\u2014AI is already reshaping the classroom.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.the74million.org/article/more-than-half-of-georgia-teachers-now-use-artificial-intelligence-to-prepare-for-class/",
+      "source_name": "the74million.org",
+      "published_ts": 1782847800000,
+      "image_url": "https://www.the74million.org/wp-content/uploads/2026/06/AI-for-schoolwork-825x495.jpg?cb=1034625",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 2,
+        "ai_entrepreneurship": 1,
+        "limelight": 4,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udc69\u200d\ud83c\udfeb\ud83e\udd16\ud83d\udcda\ud83d\udda5\ufe0f",
+      "headline_split": "More Than Half of Georgia Teachers Now Use Artificial Intelligence to Prepare for ",
+      "fake_endings": [
+        "Lesson Plans",
+        "Grading"
+      ],
+      "fake_headline": "Students Create App That Helps Deaf Peers Participate in Classroom Discussions"
+    },
+    {
+      "id": "batch_20260702_035906__story_090",
+      "title": "Phoenix libraries use dinosaurs and prizes to fight a national reading slump",
+      "summary": "Arizona libraries are fighting the reading slump with a dinosaur-themed summer program. Kids earn points for every minute they read, and a staff member in a dinosaur costume parades around\u2014sparking joy and boosting participation to 12,000 in Mesa alone.",
+      "extended_summary": "A librarian dressed as a dinosaur stomped through the Mesa Public Library, and kids followed, laughing. That silly moment was the hook for \u2018Unearth a Story,\u2019 this year\u2019s Summer Reading Game. Participants earn a point for every minute they read; they can also get points by attending events. Astra Pfeiffer\u2019s kids love it. Stacey Akahoshi, a librarian, says the dinosaur antics keep families in the library longer, leading to more book checkouts. In Mesa, registrations have already hit 12,376\u2014a post-pandemic high. Reading is fun again, one roarsome event at a time.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Humor"
+      ],
+      "source_url": "https://cronkitenews.azpbs.org/2026/07/01/phoenix-libraries-reading-room-boom-summer-programs/",
+      "source_name": "cronkitenews.azpbs.org",
+      "published_ts": 1782948476000,
+      "image_url": "https://cronkitenews.azpbs.org/wp-content/uploads/2026/07/library-games-1-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 14,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83e\udd96\ud83d\udcda\ud83c\udf81\ud83d\udc66",
+      "headline_split": "Phoenix libraries use dinosaurs and prizes to fight a national ",
+      "fake_endings": [
+        "literacy gap",
+        "book drought"
+      ],
+      "fake_headline": "Mobile Library on Wheels Brings Books to Remote Villages in Rural Montana"
+    },
+    {
+      "id": "batch_20260702_035906__story_091",
+      "title": "River Pool to Open for 18th Season",
+      "summary": "Pete Seeger's dream of a swimmable Hudson River lives on as The River Pool opens for its 18th season. The floating pool lets kids and adults safely enjoy the water, proving decades of cleanup efforts paid off. This summer, hundreds of visitors will make a splash at Beacon's waterfront.",
+      "extended_summary": "When folk legend Pete Seeger dreamed of a floating pool on the Hudson, he knew swimming would inspire people to protect the river. Twenty-five years later, The River Pool opens for its 18th season \u2014 still clean enough that health officials once called the water 'almost drinkable.' The 17-foot-wide pool moves with the tide, anchored by cables, and serves about 700 children each summer. It's a living legacy of Seeger's vision, turning 'My Dirty Stream' into a place for community joy.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://highlandscurrent.org/2026/06/26/river-pool-to-open-for-18th-season/",
+      "source_name": "highlandscurrent.org",
+      "published_ts": 1782500515000,
+      "image_url": "https://highlandscurrent.org/wp-content/uploads/2026/06/river-pool-with-lifeguard.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83c\udfde\ufe0f\ud83c\udfca\u200d\u2642\ufe0f1\ufe0f\u20e38\ufe0f\u20e3\ud83c\udf89",
+      "headline_split": "River Pool to Open for ",
+      "fake_endings": [
+        "First Time in Years",
+        "Record-Breaking Crowds"
+      ],
+      "fake_headline": "Volunteer Group Plants 5,000 Trees in Single Weekend to Restore Park",
+      "city": "Cold Spring"
+    },
+    {
+      "id": "batch_20260702_035906__story_092",
+      "title": "State Program Has Fixed Housing for Hundreds of Farmworkers",
+      "summary": "A Vermont state program has helped fix housing for hundreds of farmworkers, turning rundown buildings into safe homes. Farmers like Bill Suhr got loans to renovate worker housing, upgrading kitchens, bathrooms, and safety features. The program ensures seasonal workers have a decent place to live while harvesting crops.",
+      "extended_summary": "Bill Suhr never planned to be a landlord, but to run his apple orchard he needed workers \u2014 and workers need homes. When he bought a former cheese plant for his Jamaican crew, it had one bathroom for six people and outdated wiring. Thanks to a Vermont state program, he got a loan to renovate. Since 2022, over $5.6 million has funded farmworker housing repairs, transforming substandard conditions into dignified living spaces. For workers who travel thousands of miles to harvest American crops, it's a change that matters deeply.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.sevendaysvt.com/news/immigration-news/state-program-has-fixed-housing-for-hundreds-of-farmworkers/",
+      "source_name": "sevendaysvt.com",
+      "published_ts": 1782932220000,
+      "image_url": "https://i0.wp.com/www.sevendaysvt.com/wp-content/uploads/2026/06/LM-Immigration1-1.jpg?fit=2400%2C1800&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfe1\ud83d\udd27\ud83d\udc68\u200d\ud83c\udf3e\u2705",
+      "headline_split": "State Program Has Fixed Housing for ",
+      "fake_endings": [
+        "More Than 500 Veterans",
+        "Hundreds of Homeless Families"
+      ],
+      "fake_headline": "City Launches Free Tutoring Program for All Low-Income Students",
+      "city": "Burlington"
+    },
+    {
+      "id": "batch_20260702_035906__story_078",
+      "title": "Students pursue University-funded independent research projects over summer",
+      "summary": "Northwestern student Alice Chilton is using a Summer Undergraduate Research Grant to study the history of Britain's Red Ladder Theatre Company in archives across England. The grant program has expanded to include more humanities students earlier in their studies.",
+      "extended_summary": "Rising sophomore Alice Chilton will spend her summer in England, not on vacation but poring over play scripts, production photos, and stage management notes in archives. She's one of 301 Northwestern students awarded a Summer Undergraduate Research Grant. The program, which once favored STEM juniors, now encourages first- and second-year students from all disciplines to pursue independent projects. For Chilton, it's a chance to be her own boss and dive into radical socialist theater history.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://dailynorthwestern.com/2026/07/01/campus/students-pursue-university-funded-independent-research-projects-over-summer/",
+      "source_name": "dailynorthwestern.com",
+      "published_ts": 1782967750000,
+      "image_url": "https://picsum.photos/seed/pre_0000/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf93\ud83d\udd2c\ud83d\udcb0\u2600\ufe0f",
+      "headline_split": "Students pursue University-funded independent research projects over ",
+      "fake_endings": [
+        "winter break",
+        "the academic year"
+      ],
+      "fake_headline": "High school students get paid to study local rivers in environmental internship",
+      "city": "Cook County"
+    },
+    {
+      "id": "batch_20260702_035906__story_093",
+      "title": "Thrive Tribe helps Indigenous youth reconnect with culture and identity",
+      "summary": "Thrive Tribe helps Indigenous youth in South Dakota reconnect with their culture, language, and identity. What started as a court-recommended program became a voluntary safe space where kids return even after finishing requirements. Participants learn to push past stereotypes and embrace who they are.",
+      "extended_summary": "When 12-year-old Ora Kirkie first walked into Thrive Tribe, she just wanted to learn about her culture. A year later, she practices her native language at home and has learned to reject the stereotypes she faces. Founder Danica Miller, enrolled in the Crow Creek Sioux Tribe, started the program as a diversion class \u2014 but kids kept coming back even after they didn't have to. The result? A stretch with zero Indigenous youth in juvenile detention. Thrive Tribe isn't just teaching culture; it's healing a community one young person at a time.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.mitchellrepublic.com/news/local/thrive-tribe-helps-indigenous-youth-reconnect-with-culture-and-identity",
+      "source_name": "mitchellrepublic.com",
+      "published_ts": 1782925260000,
+      "image_url": "https://cdn.forumcomm.com/dims4/default/46e6087/2147483647/strip/true/crop/5472x3648+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F97%2F2f%2Fa93980754056a6f171a2fd0d1a96%2Fimg-3612-danica-miller-thrive-tribe-4-15-26.JPG",
+      "display_mode": "text",
+      "display_reason": "medium image not worth the space",
+      "image_confidence": "medium",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4,
+        "young_achievers": 2
+      },
+      "emoji_clue": "\ud83c\udf31\ud83d\udc65\ud83e\udeb6\ud83c\udf0d",
+      "headline_split": "Thrive Tribe helps Indigenous youth reconnect with ",
+      "fake_endings": [
+        "their ancestral lands",
+        "local community elders"
+      ],
+      "fake_headline": "New Program Trains 100 Women as Solar Engineers in Rural Africa",
+      "city": "Mitchell"
+    },
+    {
+      "id": "batch_20260702_035906__story_077",
+      "title": "Training the Young Workers Chicago\u2019s Schools Are Leaving Behind",
+      "summary": "Manufacturing Connect helps Chicago youth gain skills and certifications for well-paying manufacturing jobs. Torres Hughes, a former participant who now speaks at graduations, credits the program for turning his life around.",
+      "extended_summary": "Torres Hughes stood in front of 10 Manufacturing Connect graduates, remembering his own uncertain start as a kid from Austin who didn't think he was college material. He graduated the program in 2012, started work the next Monday, and now makes good money with skills he can take anywhere. In the audience, 17-year-old Artis Wash was already planning his next certification. These are the young people that Manufacturing Renaissance serves\u2014giving them a foothold in an industry that often overlooks them.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://nextcity.org/features/training-the-young-workers-chicago-schools-are-leaving-behind",
+      "source_name": "nextcity.org",
+      "published_ts": 1782844260000,
+      "image_url": "https://nextcity.org/images/forefront/_resized/josh-beech-tXJhAFVOHVk-unsplash.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "impact_innovation": 4,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83d\udc77\u200d\u2642\ufe0f\ud83d\udcda\ud83c\udfd9\ufe0f\ud83d\udeb8",
+      "headline_split": "Training the Young Workers Chicago\u2019s Schools Are Leaving ",
+      "fake_endings": [
+        "out of the system",
+        "for the workforce"
+      ],
+      "fake_headline": "New Program in Detroit Teaches Coding to Students Dropped by the System"
+    },
+    {
+      "id": "batch_20260702_035906__story_094",
+      "title": "UK charity Hospital Rooms to distribute artist posters to more than 1,000 mental health facilities for tenth anniversary",
+      "summary": "UK charity Hospital Rooms is marking ten years by sending artist-designed posters to over 1,000 NHS mental health wards. The initiative aims to replace sterile hospital walls with ambitious visual art, bringing creativity to people in crisis. Limited-edition prints by artists like Jeremy Deller and Beatriz Milhazes will reach 10,000 patients.",
+      "extended_summary": "Imagine being in a psychiatric ward and seeing a vibrant poster by a world-renowned artist instead of blank walls. That's the vision of Hospital Rooms, which has commissioned over 200 artworks for NHS mental health sites since 2016. For its tenth anniversary, the charity is distributing 10,000 limited-edition posters to acute and secure wards across England. Artists like Celia Paul and Jeremy Deller have created these works, sold to raise funds while transforming clinical spaces into places of dignity and beauty. It's a radical act of care for people at their most vulnerable.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.theartnewspaper.com/2026/07/01/uk-art-and-health-charity-hospital-rooms-to-distribute-thousands-of-artist-posters-to-mental-health-facilities-for-tenth-anniversary",
+      "source_name": "theartnewspaper.com",
+      "published_ts": 1782913513000,
+      "image_url": "https://cdn.sanity.io/images/cxgd3urn/production/a194ca2c9d15e8240158270647f84edc83652211-1400x933.jpg?rect=0,47,1400,840&w=1200&h=720&q=85&fit=crop&auto=format",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83d\uddbc\ufe0f\ud83c\udfa8\ud83e\udde0\ud83c\udf89",
+      "headline_split": "UK charity Hospital Rooms to distribute artist posters to more than ",
+      "fake_endings": [
+        "500 schools for arts education",
+        "2,000 libraries for reading campaign"
+      ],
+      "fake_headline": "Teenager Creates App That Connects 10,000 Lonely Seniors With Volunteers"
+    },
+    {
+      "id": "batch_20260702_035906__story_080",
+      "title": "Yellow Means Creepy: The Color-Coded Anti-Harassment System Used by Restaurant Workers",
+      "summary": "Chef Erin Wade created a simple color-coded system to combat sexual harassment at her restaurant Homeroom. The system empowers staff to signal problem customers without confrontation, and it's now a model for the industry.",
+      "extended_summary": "When Chef Erin Wade learned that nearly all her staff had faced sexual harassment\u2014including a server whose blouse was reached under by a father of four\u2014she knew training alone wouldn't work. So she and her team created a three-step color-coded system: green for good, yellow for creepy, and red for immediate intervention. Staff can discreetly signal a customer's behavior, and managers respond accordingly. The system has been so effective it's being adopted by other restaurants, offering a practical solution to an industry-wide problem.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://reasonstobecheerful.world/yellow-means-creepy-the-color-coded-anti-harassment-system-used-by-restaurant-workers/",
+      "source_name": "reasonstobecheerful.world",
+      "published_ts": 1782478841000,
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/shutterstock_2725894709-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 5,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "impact_innovation": 4,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83d\udfe1\ud83d\udc7b\ud83d\udc69\u200d\ud83c\udf73\ud83d\udeab",
+      "headline_split": "Yellow Means Creepy: The Color-Coded Anti-Harassment System Used by ",
+      "fake_endings": [
+        "hotel staff",
+        "office workers"
+      ],
+      "fake_headline": "Purple Means Polite: How a Coffee Shop's Flower Code Ended Rude Customers"
+    },
+    {
+      "id": "batch_20260702_035906__story_095",
+      "title": "\u2018Step aside, humans\u2019: how beavers solved a flooding problem in west London",
+      "summary": "Beavers reintroduced to a London wetland solved a chronic flooding problem for free \u2014 saving the council from expensive engineering. The animals built dams that naturally managed stormwater, keeping Greenford dry even during heavy rain. 'When they put their minds to it, they really get things finished,' says London's first urban beaver officer.",
+      "extended_summary": "For years, commuters at Greenford Tube station tiptoed through floodwater after every downpour. The council was facing a huge bill for drainage fixes \u2014 until a family of beavers stepped in. Released in 2023 as part of the Ealing Beaver Project, the animals got to work immediately, building dams that slowed and stored rainwater. After a recent heavy storm, the area stayed dry. 'They really get things finished,' says \u015eeniz Mustafa, England's first urban beaver officer. Turns out nature's engineers don't charge overtime.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://www.positive.news/environment/how-beavers-solved-a-flooding-problem-in-west-london/",
+      "source_name": "positive.news",
+      "published_ts": 1782488908000,
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/06/iStock-2253726992.jpeg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83e\uddab\ud83c\udf0a\ud83d\udeab\ud83e\uddd1\u2705",
+      "headline_split": "\u2018Step aside, humans\u2019: how beavers solved a flooding problem in ",
+      "fake_endings": [
+        "south Florida",
+        "northern England"
+      ],
+      "fake_headline": "Retired Engineer Builds Floating Garden That Cleans Polluted River"
+    },
+    {
+      "id": "batch_20260702_035906__story_052",
+      "title": "A Bakery Where Vegan Isn\u2019t a Compromise",
+      "summary": "Flour + Time in Atlanta is changing what vegan pastries can be. Founder Leah Bajalia starts with classic recipes, not vegan ones, to create croissants, biscuits, and doughnuts that taste just as indulgent as the originals \u2014 without any dairy or compromise.",
+      "extended_summary": "The flaky croissant at Flour + Time shatters with each bite, revealing an airy, buttery interior \u2014 with zero dairy. In Atlanta\u2019s West Midtown, founder Leah Bajalia is rewriting the reputation of vegan baking. She doesn\u2019t start with vegan recipes; she starts with classic French pastry, then adapts them using plant-based butter and careful temperature control. The result is cinnamon rolls, chive biscuits, and strawberry doughnuts that taste exactly as they should, proving plant-based is no longer a compromise.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.georgiatrend.com/2026/07/01/a-bakery-where-vegan-isnt-a-compromise/",
+      "source_name": "georgiatrend.com",
+      "published_ts": 1782925242000,
+      "image_url": "https://www.georgiatrend.com/content/uploads/2026/06/s/v/booth-photo-1024x719.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
       ],
       "section_scores": {
         "young_achievers": 5,
+        "ai_entrepreneurship": 1,
         "limelight": 1,
-        "impact_innovation": 2,
-        "ai_entrepreneurship": 5
+        "impact_innovation": 3
       },
-      "emoji_clue": "\ud83c\udf0d\ud83c\udf93\ud83d\udcb0\ud83d\udcbb\ud83c\udfe2",
-      "headline_split": "Comment on UWM Student Spotlight: From International Student to ",
+      "emoji_clue": "\ud83c\udf31\ud83e\udd56\ud83c\udf82\ud83c\udf6a",
+      "headline_split": "A Bakery Where Vegan Isn\u2019t ",
       "fake_endings": [
-        "CEO of a Fortune 500 Company",
-        "Award-Winning Filmmaker"
+        "a Sacrifice",
+        "an Afterthought"
       ],
-      "fake_headline": "92-Year-Old Woman Learns to Code and Creates App for Missing Pets",
-      "city": "Milwaukee County"
+      "fake_headline": "Elementary School Janitor Secretly Earns Law Degree and Passes Bar Exam With Top Marks"
+    },
+    {
+      "id": "batch_20260702_035906__story_007",
+      "title": "AARP Grant to Fund Walking Trail and Grounds at HCCOA",
+      "summary": "Hardy County Committee on Aging received a $15,000 AARP grant to build a walking trail with benches on an unused acre of land. The trail will provide a safe, short path for seniors who find area parks too large and tiring to navigate.",
+      "extended_summary": "For many seniors in Hardy County, a 'walk in the park' is literally out of reach\u2014the existing trails are too long and exhausting. So the Committee on Aging is transforming an overgrown acre into a short walking loop with benches. A $15,000 AARP grant covers construction, and the community is stepping up to donate additional benches. The trail will offer gentle exercise and a place to gather, all under the shade of a weathered gazebo.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://moorefieldexaminer.com/2026/06/30/aarp-grant-to-fund-walking-trail-and-grounds-at-hccoa/",
+      "source_name": "moorefieldexaminer.com",
+      "published_ts": 1782874860000,
+      "image_url": "https://storage.googleapis.com/stateless-mountainmedianews-co/sites/35/2026/06/Smoot-AARP-grant-for-HCCOA.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 2,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udeb6\u200d\u2642\ufe0f\ud83c\udf33\ud83d\udcb0\ud83c\udfe2",
+      "headline_split": "AARP Grant to Fund Walking Trail and Grounds at ",
+      "fake_endings": [
+        "local senior center",
+        "community college"
+      ],
+      "fake_headline": "Elderly Couple Plants 1000 Trees Their Neighborhood on Their 60th Anniversary",
+      "city": "Moorefield"
+    },
+    {
+      "id": "batch_20260702_035906__story_096",
+      "title": "Arcturus could halve the grid\u2019s electrical losses using its nano-infused metals",
+      "summary": "Startup Arcturus has found a way to cut electrical grid losses in half by infusing copper and aluminum with carbon nanomaterials using lasers. The breakthrough could unlock up to 10% more electricity during peak times, without building new power lines. It's a quiet revolution for an overstressed grid.",
+      "extended_summary": "The U.S. electrical grid is aging and overloaded, wasting energy as heat in transmission lines. Arcturus, a stealth startup, has developed a method to infuse copper and aluminum with carbon nanomaterials using lasers, boosting conductivity and reducing losses. CEO Amir Mashal says the technology could halve grid losses, freeing up an average of 3% more electricity \u2014 and up to 10% during congested periods. That's roughly a year's worth of demand growth unlocked without a single new power plant. As AI and electrification strain the grid, this nano-fix could be a game-changer.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
+      "source_name": "techcrunch.com",
+      "published_ts": 1782849702000,
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 1,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\u26a1\ud83d\udd2c\ud83e\uddea\ud83c\udfed\u2705",
+      "headline_split": "Arcturus could halve the grid\u2019s electrical losses using ",
+      "fake_endings": [
+        "a new superconducting material",
+        "artificial intelligence algorithms"
+      ],
+      "fake_headline": "Local Library Launches Free Coding Bootcamp for 500 Underprivileged Teens"
+    },
+    {
+      "id": "batch_20260702_035906__story_012",
+      "title": "Being Neighborly | A store manager who refused to make a sale",
+      "summary": "When Safeway manager TJ Faulkner noticed a customer trying to buy thousands of dollars in gift cards, he stepped in. He patiently explained the scam, and with help from another shopper, convinced the man he was being tricked out of $100,000.",
+      "extended_summary": "A scammer told a man in his 70s that buying $100,000 in gift cards would unlock a $152 million payout. At the Safeway on Point Fosdick Drive, manager TJ Faulkner refused to ring up the purchase. Instead, he peppered the customer with questions, joined by shopper Taryn Thibaut. The man had already bought thousands at other stores. Their calm persistence broke through, and he left without handing over more money\u2014a financial rescue that could have ruined him.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://www.gigharbornow.org/news/community/being-neighborly-a-store-manager-who-refused-to-make-a-sale/",
+      "source_name": "gigharbornow.org",
+      "published_ts": 1782508486000,
+      "image_url": "https://www.gigharbornow.org/wp-content/uploads/2026/06/TJ-Faulkner-1200x630.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfea\ud83e\udd1d\ud83d\udeab\ud83d\udcb5",
+      "headline_split": "Being Neighborly | A store manager who refused",
+      "fake_endings": [
+        "to accept a tip from a grateful customer",
+        "to let a shoplifter go free"
+      ],
+      "fake_headline": "Dog Rescuer Starts Nonprofit to Train Shelter Pups as Therapy Animals for Veterans"
+    },
+    {
+      "id": "batch_20260702_035906__story_097",
+      "title": "Billion-Dollar Program Connects 50 Million People to the Power Grid Across Africa",
+      "summary": "Mission 300, a $15 billion World Bank and African Development Bank initiative, has brought electricity to 50 million people across 40 African countries. The program uses National Energy Compacts to fast-track electrification, with Tanzania seeing a five-fold increase in connections. The goal is to halve the number of Africans without power by 2030.",
+      "extended_summary": "Six hundred million Africans still live without electricity, but Mission 300 is changing that at record speed. Since launching in 2024, the initiative has connected 50 million people to the grid \u2014 twice the previous pace. In Tanzania, 7.5 million people gained power, a five-fold increase from before. The program works by getting governments, utilities, and investors to commit to concrete National Energy Compacts. Thirty countries have already signed on. For families getting their first reliable light, it's not just about bulbs \u2014 it's about study time, refrigeration, and economic opportunity.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.goodnewsnetwork.org/billion-dollar-program-connects-50-million-people-to-the-power-grid-across-africa/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1782748808000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Kenyan-geothermal-utility-workers-credit-Lydur-Skulason-CC-BY-2.0-via-Flickr.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83d\udcb5\ud83d\udd0c\ud83c\udf0d\u26a1\ud83d\udc65",
+      "headline_split": "Billion-Dollar Program Connects 50 Million People to the Power Grid Across ",
+      "fake_endings": [
+        "South America",
+        "rural India"
+      ],
+      "fake_headline": "World's Largest Solar Farm Opens in Desert, Powers 2 Million Homes"
+    },
+    {
+      "id": "batch_20260702_035906__story_098",
+      "title": "Can coastal infrastructure be engineered to harbor marine life instead of harming it?",
+      "summary": "The Living Seawalls project is installing textured concrete panels on piers and seawalls to create homes for marine life. In Cobh, Ireland, panels with ridges, holes, and crevices already host algae, periwinkles, and dog whelks. The goal is to transform hard coastal infrastructure from habitat dead zones into thriving ecosystems.",
+      "extended_summary": "Along the cobbled slipway in Cobh, Ireland, something unusual breaks up the stone: hexagonal concrete panels designed to mimic natural rock pools. Within weeks, green algae and marine snails moved in. This is Living Seawalls, a project from Australia that's now spreading globally. By adding texture and crevices to seawalls, piers, and marinas, the panels turn lifeless barriers into habitat. Researchers hope this simple retrofit can help coastal biodiversity recover from decades of development. It's engineering that doesn't just hold back the sea \u2014 it welcomes it.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://news.mongabay.com/2026/07/can-coastal-infrastructure-be-engineered-to-harbor-marine-life-instead-of-harming-it/",
+      "source_name": "news.mongabay.com",
+      "published_ts": 1782950276000,
+      "image_url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/07/01122705/IMG_6570-1.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 13,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf0a\ud83d\udee0\ufe0f\ud83d\udc20\u2705",
+      "headline_split": "Can coastal infrastructure be engineered to harbor marine life instead of ",
+      "fake_endings": [
+        "polluting it?",
+        "ignoring it?"
+      ],
+      "fake_headline": "Scientists Develop Edible Plastic Wrap That Decomposes in Days"
+    },
+    {
+      "id": "batch_20260702_035906__story_021",
+      "title": "Copters carry logs into river for salmon",
+      "summary": "Helicopters are airlifting massive logs into the Toutle River to rebuild salmon habitat. The project uses woody debris to create hiding spots for juvenile fish and restore the river's natural flow. It's a high-tech solution for a watershed that supports six endangered species.",
+      "extended_summary": "The whomp-whomp of helicopter blades echoes across the South Fork Toutle River valley as 25-foot logs are carried upstream. Crews from Columbia Helicopters are placing woody debris in a habitat-restoration project that benefits chinook, steelhead, and other endangered salmon. The logs slow the water and provide crucial cover for young fish. The Lower Columbia Fish Enhancement Group bought a $2 million timber harvest to get the logs to this remote location. The work is part of a larger effort to restore side channels and native plants in one of the few watersheds that hosts all listed salmon species.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.camaspostrecord.com/news/2026/jun/25/copters-carry-logs-into-river-for-salmon/",
+      "source_name": "camaspostrecord.com",
+      "published_ts": 1782410440000,
+      "image_url": "https://origin.camaspostrecord.com/wp-content/uploads/2026/06/1021348286-Fish-helicopters_101.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\ude81\ud83e\udeb5\ud83c\udfde\ufe0f\ud83d\udc1f",
+      "headline_split": "Copters carry logs into river for ",
+      "fake_endings": [
+        "wildlife",
+        "migration"
+      ],
+      "fake_headline": "Chef Turns Food Waste into Gourmet Meals for Homeless",
+      "city": "Camas"
+    },
+    {
+      "id": "batch_20260702_035906__story_099",
+      "title": "Ditch your phone and join the Summer of Ludd, the offline festival happening in NYC",
+      "summary": "The Summer of Ludd, an anti-Big Tech festival in New York City, is drawing crowds without any online promotion. The eight-day event offers workshops, discussions, and meetups \u2014 all marketed through wheatpaste posters and word of mouth. It's a bold experiment in digital disconnection that's working better than expected.",
+      "extended_summary": "Imagine organizing a festival with no social media, no website, and no email list. That's exactly what the Summer of Ludd did \u2014 and it's packed. The eight-day event in Manhattan features saddle stitching workshops, discussions on public space, and meetups for flip phone users. Co-organizer Damian Thomas says it's going even better than expected, with locals, passersby, and even people flying in to attend. The only marketing: randomly distributed guidebooks and hand-pasted posters. It's a living protest against Big Tech, proving that real connections still thrive offline.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://gothamist.com/arts-entertainment/ditch-your-phone-and-join-the-summer-of-ludd-the-offline-festival-happening-in-nyc",
+      "source_name": "gothamist.com",
+      "published_ts": 1782954060000,
+      "image_url": "https://api-prod.gothamist.com/images/357940/fill-1200x650|format-webp|webpquality-85/",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "impact_innovation": 3,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83d\udeab\ud83d\udcf1\ud83c\udf89\ud83d\uddfd",
+      "headline_split": "Ditch your phone and join the Summer of Ludd, the offline festival happening in ",
+      "fake_endings": [
+        "Los Angeles",
+        "Paris"
+      ],
+      "fake_headline": "New App Helps Users Track and Reduce Their Carbon Footprint Daily",
+      "city": "New York County"
+    },
+    {
+      "id": "batch_20260702_035906__story_100",
+      "title": "Herculean Effort to Restore Mozambique\u2019s Rhino Population Succeeds with 61 Animals Moved There",
+      "summary": "In a massive conservation effort, 61 white and black rhinos have been reintroduced to Mozambique's Zinave National Park, where they were wiped out during civil war. The animals are protected in a high-security sanctuary, and breeding has already begun. It's a hard-won victory for a species that lost everything.",
+      "extended_summary": "During Mozambique's brutal civil war, rhinos were poached to local extinction. But after a decade of work, Zinave National Park now hosts 39 white rhinos and 22 black rhinos, all translocated from South Africa. The first calf has already been born. The animals live in a specially guarded sanctuary with rangers, surveillance, and anti-poaching technology. This translocation is part of a broader effort to restore the park's ecosystem. For a country rebuilding from decades of conflict, seeing rhinos roam again is a symbol of hope and resilience.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.goodnewsnetwork.org/herculean-effort-to-restore-mozambiques-rhino-population-succeeds-with-61-animals-moved-there/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1782862226000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/credit-Peace-Parks-Foundation-\u00a9.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83e\udd8f\ud83d\ude9a\ud83c\uddf2\ud83c\uddff\u2705",
+      "headline_split": "Herculean Effort to Restore Mozambique\u2019s Rhino Population Succeeds with ",
+      "fake_endings": [
+        "over 100 animals relocated",
+        "a new protected reserve"
+      ],
+      "fake_headline": "Community-built Library in Rural Nepal Now Serves 10,000 Children"
+    },
+    {
+      "id": "batch_20260702_035906__story_101",
+      "title": "Historic bridge work to begin in July",
+      "summary": "A historic bridge in Ohio will be saved from total demolition thanks to a careful surgical approach. Instead of wrecking the 118-year-old structure, crews will selectively remove only failing parts, a technique that may be a first in the nation. The bridge will be stabilized for future use.",
+      "extended_summary": "When Kokosing arrives this July, they'll be wielding scalpels, not sledgehammers, on the Roche de Boeuf Interurban Bridge. The Ohio Department of Transportation and local advocates found a way to preserve the 118-year-old landmark after a last-minute reprieve from the governor. By removing only the failing spandrel walls and fill, they'll stabilize the structure in what may be an unprecedented approach to historic bridge restoration \u2014 and a win for the community that fought to save it.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://toledofreepress.com/historic-bridge-work-to-begin-in-july/",
+      "source_name": "toledofreepress.com",
+      "published_ts": 1782595713000,
+      "image_url": "https://toledofreepress.com/wp-content/uploads/2026/06/IMG_9177.jpeg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 2,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfd7\ufe0f\ud83c\udf09\ud83d\udcc5",
+      "headline_split": "Historic bridge work to begin",
+      "fake_endings": [
+        "after 50-year delay",
+        "on the longest span ever"
+      ],
+      "fake_headline": "Community Raises $500,000 to Save Historic Schoolhouse from Demolition"
+    },
+    {
+      "id": "batch_20260702_035906__story_059",
+      "title": "How a Grandson Took His 84-YO Grandpa\u2019s Handwoven Sarees From Salem to the World",
+      "summary": "Praveen, 23, started Thatha\u2019s Clothing to help his 84-year-old grandfather Chinnusami sell handwoven sarees directly to customers, bypassing middlemen. The Instagram page now supports 30 other weavers in Tamil Nadu, keeping a six-decade craft alive.",
+      "extended_summary": "Chinnusami, 84, has been weaving sarees for over 60 years in his village near Salem, Tamil Nadu. His hands tremble, but he refuses to stop. His grandson Praveen, 23, saw how middlemen took most of the profit and started Thatha\u2019s Clothing on Instagram. Now, sarees from Chinnusami\u2019s loom \u2014 and those of 30 other local weavers \u2014 reach customers across India and abroad. The page is named after the Tamil word for grandfather, and it\u2019s transformed a fading craft into a sustainable livelihood.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://thebetterindia.com/senior-citizens/thathas-clothing-praveen-chinnusami-tamil-nadu-weaver-grandfather-instagram-sarees-12114700",
+      "source_name": "thebetterindia.com",
+      "published_ts": 1782806376000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/2026/06/28/5-2026-06-28-20-03-14.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 5,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udc74\ud83d\udc66\ud83e\uddf5\ud83d\udc58\ud83c\udf0d",
+      "headline_split": "How a Grandson Took ",
+      "fake_endings": [
+        "His Father's Classic Car Collection to the Race Track",
+        "A Local Farmer's Organic Produce to Michelin-Star Restaurants"
+      ],
+      "fake_headline": "How a Granddaughter Preserved Her Grandmother's Afghan Blankets by Turning Them Into Quilts for Refugees"
+    },
+    {
+      "id": "batch_20260702_035906__story_034",
+      "title": "How five Cleveland health systems collaborated to boost lead screening",
+      "summary": "Five Cleveland health systems now screen kids for lead poisoning with a finger prick during checkups, replacing the need for a separate lab visit. The collaborative effort makes testing easier for families, catching lead exposure that can cause irreversible brain damage.",
+      "extended_summary": "Five-year-old Jada gets a finger prick and a My Little Pony sticker \u2014 but what just happened could protect her brain for life. Twenty-one practices across Northeast Ohio have started screening kids for lead with finger pricks during wellness visits, part of a collaboration among major health systems. Previously, kids had to go to a lab for a blood draw, a barrier that many families couldn't overcome. Lead poisoning can cause irreversible cognitive delays, so making the test part of a routine checkup is a game-changer.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://signalcleveland.org/how-five-cleveland-health-systems-collaborated-to-increase-lead-screening-lead-poisoning/",
+      "source_name": "signalcleveland.org",
+      "published_ts": 1782896639000,
+      "image_url": "https://signalcleveland.org/wp-content/uploads/2026/07/IMG_4078-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 14,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83e\udd1d\ud83d\udd2c\u2705",
+      "headline_split": "How five Cleveland health systems collaborated ",
+      "fake_endings": [
+        "to improve patient care",
+        "to share medical data"
+      ],
+      "fake_headline": "How a City's Public Libraries Started Offering Free Health Screenings"
+    },
+    {
+      "id": "batch_20260702_035906__story_035",
+      "title": "How the Bronx School of Hip-Hop uses the borough\u2019s signature genre to teach lessons far beyond it",
+      "summary": "The Bronx School of Hip-Hop will welcome its first ninth-grade class as the only noncharter public school in the nation using hip-hop across every subject. Principal Jason Reyes says it's about using hip-hop as a rigorous academic framework to engage students.",
+      "extended_summary": "When people hear 'hip-hop school,' they think music production \u2014 but the Bronx School of Hip-Hop is different. It's a public high school that weaves hip-hop into literature, math, science, civics, and art. Founding principal Jason Reyes, a Bronx native, saw attendance and achievement rise at his middle school when he rooted education in hip-hop culture. The school, opening this fall, aims to change how students see themselves and their learning potential.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://epicenter-nyc.com/how-the-bronx-school-of-hip-hop-uses-the-boroughs-signature-genre-to-teach-lessons-far-beyond-it/",
+      "source_name": "epicenter-nyc.com",
+      "published_ts": 1782413091000,
+      "image_url": "https://epicenter-nyc.com/wp-content/uploads/2026/06/PXL_20260606_173625532.RAW-01-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfa4\ud83c\udfeb\ud83c\udfb5\ud83d\udcda",
+      "headline_split": "How the Bronx School of Hip-Hop uses the borough\u2019s signature genre to teach lessons ",
+      "fake_endings": [
+        "to students citywide",
+        "through interactive workshops"
+      ],
+      "fake_headline": "High School Seniors Start Podcast to Discuss Mental Health and Inspire Peers"
+    },
+    {
+      "id": "batch_20260702_035906__story_042",
+      "title": "Lewiston to launch first-in-the-nation program giving rent aid directly to tenants",
+      "summary": "Lewiston Housing launches the nation's first HUD-approved program giving rent aid directly to tenants via debit cards. The five-year pilot aims to reduce landlord discrimination and administrative overhead, letting 60 tenants pay rent without stigma.",
+      "extended_summary": "Rent assistance usually goes straight to landlords\u2014but not anymore in Lewiston. A new HUD pilot gives 60 tenants a year restricted debit cards for rent or housing-related expenses. The goal: bypass landlord discrimination against voucher holders and cut bureaucracy. Deputy Director Travis Heynen says the program creates 'transparent assistance' so landlords may not even know tenants are getting help. If it works, it could reshape how housing aid is delivered nationwide.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.sunjournal.com/2026/07/01/lewiston-to-launch-first-in-the-nation-program-giving-rent-aid-directly-to-tenants/",
+      "source_name": "sunjournal.com",
+      "published_ts": 1782910800000,
+      "image_url": "https://www.sunjournal.com/wp-content/uploads/sites/11/2026/04/41735137_SJ_DeWittAerialSAPV_0410264.jpg?w=780",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83c\udfe0\ud83d\udcb5\ud83e\udd1d\ud83d\udcec",
+      "headline_split": "Lewiston to launch first-in-the-nation program giving rent aid directly to ",
+      "fake_endings": [
+        "landlords instead of tenants",
+        "a lottery system for applicants"
+      ],
+      "fake_headline": "Small Town in Iowa Becomes First to Run Entirely on Solar Power",
+      "city": "Lewiston"
+    },
+    {
+      "id": "batch_20260702_035906__story_102",
+      "title": "Minnesota Power\u2019s On Track program assists with past-due bills",
+      "summary": "Minnesota Power's new On Track program helps residential customers pay off past-due bills with monthly discounts and dollar-for-dollar matching payments. The $3.1 million program, funded by new owners, has no income requirements and aims to make catching up manageable for everyone.",
+      "extended_summary": "For many, a $200 past-due electric bill can feel impossible to catch up on. That's why Minnesota Power launched the On Track program, which doesn't just offer a payment plan \u2014 it matches every dollar customers put toward their overdue balance. Funded entirely by the company's new owners with $3.1 million, the program automatically enrolls some customers and opens applications to all, no income check required. It's a quiet but powerful safety net that treats financial setbacks as a shared problem, not a personal failure.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.wdio.com/top-stories/minnesota-powers-on-track-program-assists-with-past-due-bills/",
+      "source_name": "wdio.com",
+      "published_ts": 1782959740000,
+      "image_url": "https://www.wdio.com/wp-content/uploads/2026/07/Minnesota-Power-On-Track.png",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 2,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfe2\u26a1\ud83d\udccb\u2705",
+      "headline_split": "Minnesota Power's On Track program assists",
+      "fake_endings": [
+        "with energy efficiency upgrades",
+        "in severe weather emergencies"
+      ],
+      "fake_headline": "New App Helps Homeless Find Shelter Beds in Real Time Across Major Cities",
+      "city": "St. Louis County"
+    },
+    {
+      "id": "batch_20260702_035906__story_103",
+      "title": "NASA races to save Swift telescope from falling back to Earth with daring rescue mission",
+      "summary": "NASA is launching a daring $30 million rescue mission to save the aging Swift telescope, which is losing altitude due to solar activity. A startup's robot spacecraft will attempt to boost it to a higher orbit \u2014 a first for an American mission. The Hubble telescope could be next.",
+      "extended_summary": "The Swift Observatory has spent two decades capturing the universe's biggest explosions, but now it's the one in crisis. A three-armed robot built by Katalyst Space Technologies will chase after the sinking telescope after launching from a Pacific atoll this week. If successful, it will be the first American mission to service a satellite in orbit \u2014 and it could pave the way for saving Hubble. The stakes are high: solar flares are dragging these iconic observatories down faster than expected.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://cdispatch.com/news/nasa-races-to-save-swift-telescope-from-falling-back-to-earth-with-daring-rescue-mission/",
+      "source_name": "cdispatch.com",
+      "published_ts": 1782925226000,
+      "image_url": "https://e4sh3cjh5t7.exactdn.com/wp-content/uploads/2020/10/cropped-dispatch-red-d-logo.png?strip=all",
+      "display_mode": "text",
+      "display_reason": "medium image not worth the space",
+      "image_confidence": "medium",
+      "visual_affinity": 3,
+      "headline_pull": 5,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 2,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83d\ude80\ud83d\udd2d\ud83d\udef0\ufe0f\ud83c\udd98",
+      "headline_split": "NASA races to save Swift telescope",
+      "fake_endings": [
+        "from space debris collision",
+        "from instrument failure"
+      ],
+      "fake_headline": "Elon Musk's SpaceX Launches First All-Civilian Mission to Mars Orbit",
+      "city": "Columbus"
+    },
+    {
+      "id": "batch_20260702_035906__story_104",
+      "title": "Piano for Pinot, Sound Waves Might Help Vineyards Cost Cut",
+      "summary": "A vineyard in California is experimenting with solar-powered speakers that play music to grapevines to stimulate growth. The technology, developed by a mathematician and musician, could help vineyards cut costs on fertilizers and pesticides. Early results suggest healthier, more vibrant plants.",
+      "extended_summary": "At 2pm sharp in a Russian River Valley vineyard, 'Fr\u00e8re Jacques' drifts through the bare vines from a solar-powered speaker. Owner Regina Martinelli hopes the carefully timed vibrations will replace the fertilizers and sprays she used last season \u2014 and the difference was already noticeable in 2024. The device, developed by a mathematician-turned-musician, plays programmed intervals from dawn to dusk, aiming to boost photosynthesis naturally. With her grape buyer gone bankrupt and wine consumption falling, Martinelli is betting on sound waves to keep her 14-acre vineyard alive.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://bohemian.com/piano-for-pinot-sound-waves-might-help-vineyards-cost-cut/",
+      "source_name": "bohemian.com",
+      "published_ts": 1782884280000,
+      "image_url": "https://bohemian.com/wp-content/uploads/sites/14/2026/06/NBB2627-FEATURE.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 2,
+        "limelight": 2,
+        "ai_entrepreneurship": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfb9\ud83c\udf77\ud83c\udfb6\ud83c\udf47",
+      "headline_split": "Piano for Pinot, Sound Waves Might Help Vineyards",
+      "fake_endings": [
+        "improve grape yield",
+        "reduce pesticide use"
+      ],
+      "fake_headline": "Scientists Discover That Playing Mozart to Plants Doubles Their Growth Rate",
+      "city": "Santa Rosa"
+    },
+    {
+      "id": "batch_20260702_035906__story_105",
+      "title": "Prison to Employment Connection participants interview with potential employers",
+      "summary": "San Quentin's Prison to Employment Connection program held its annual Employers Day, where participants interviewed with 26 potential employers after 12 weeks of job training. The program focuses on building resumes, interview skills, and confidence to reduce recidivism through meaningful work.",
+      "extended_summary": "For Charles Love, nine years of incarceration were ending in four months \u2014 and he needed a plan. So he joined San Quentin's Prison to Employment Connection program, which taught him how to network, polish his resume, and speak honestly about his past. At the program's annual Employers Day, he and 35 other residents sat face-to-face with 26 employers for a series of 10-minute interviews. The goal isn't just a job \u2014 it's the dignity, structure, and connection that come with it. And the research backs it up: employment is one of the most powerful deterrents to returning to prison.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://sanquentinnews.com/prison-to-employment-connection-participants-interview-with-potential-employers/",
+      "source_name": "sanquentinnews.com",
+      "published_ts": 1782908820000,
+      "image_url": "https://sanquentinnews.com/wp-content/uploads/2026/06/Employers-coming-in-and-greeting-P2EC-Participants-in-chapel-B.-Photo-by-Marcus-Casillas-SQNews-1024x592.jpeg",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\u26d3\ufe0f\ud83d\udc54\ud83d\udcbc\ud83d\udd17",
+      "headline_split": "Prison to Employment Connection participants interview",
+      "fake_endings": [
+        "for tech internships",
+        "at career fair"
+      ],
+      "fake_headline": "Ex-Inmates Start Successful Tech Company, Hires 50 Former Prisoners",
+      "city": "Marin County"
+    },
+    {
+      "id": "batch_20260702_035906__story_061",
+      "title": "Restoring Alabama: Meet the couple bringing the Black Belt prairie back to life",
+      "summary": "Alabama's Black Belt prairie is making a comeback, thanks to Jessica and Hunter Vick. This husband-and-wife team works with landowners to restore native grasslands, removing invasive cedars and conducting controlled burns. Their efforts are paying off: the eastern monarch butterfly population just jumped 64%. It's proof that restoring habitat, one property at a time, really works.",
+      "extended_summary": "Before talking about prescribed burns or cedar removal, Jessica and Hunter Vick burst with excitement: the eastern monarch butterfly population had increased 64% this year. For the couple behind Land Revival LLC, that news confirmed their mission matters. They help Alabama landowners restore native prairie\u2014removing cedars, burning, and improving wildlife habitat. Hunter says it's about responsibility: 'What you own is not just about you. Land ownership is your responsibility to take care of it.' Their work is slowly bringing the Black Belt prairie back to life.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://yellowhammernews.com/restoring-alabama-meet-the-couple-bringing-the-black-belt-prairie-back-to-life/",
+      "source_name": "yellowhammernews.com",
+      "published_ts": 1782673242000,
+      "image_url": "https://yellowhammernews.com/wp-content/uploads/2026/06/IMG_2102-scaled-e1782402999202.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3,
+        "young_achievers": 5
+      },
+      "emoji_clue": "\ud83c\udf3e\ud83d\udc91\ud83c\udf33\ud83d\udc26",
+      "headline_split": "Meet the couple bringing the Black Belt prairie",
+      "fake_endings": [
+        "to a booming ecotourism destination",
+        "into a national park"
+      ],
+      "fake_headline": "99-Year-Old Veteran Skydives for Charity, Raises $50,000 for Homeless Shelters"
+    },
+    {
+      "id": "batch_20260702_035906__story_106",
+      "title": "Scanning Your Baby\u2019s Eyeballs Will Tell You How Their Brain Will Turn Out, Research Suggests",
+      "summary": "New research suggests that scanning the retinas of preterm babies can predict their cognitive, motor, and behavioral development at age two. The noninvasive eye scan could help doctors identify vulnerable infants early and provide timely interventions.",
+      "extended_summary": "A quick, safe eye scan might reveal how a preterm baby's brain will develop years later. Researchers at Duke University followed 72 very preterm infants from birth to age two, using retinal imaging to spot features linked to future cognitive and motor outcomes. Because the retina is part of the central nervous system, it offers a window into the brain without invasive procedures. For the 50% of preterm infants at higher risk of developmental challenges, this could mean earlier detection and support \u2014 all from a bedside exam that takes minutes.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://futurism.com/future-society/scanning-baby-eyeballs-brain",
+      "source_name": "futurism.com",
+      "published_ts": 1782586200000,
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/scanning-baby-eyeballs-brain.jpg?quality=85&w=1200",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udc76\ud83d\udc41\ufe0f\ud83d\udd2c\ud83e\udde0",
+      "headline_split": "Scanning Your Baby's Eyeballs Will Tell You How Their Brain Will Turn Out",
+      "fake_endings": [
+        "according to new study",
+        "say scientists"
+      ],
+      "fake_headline": "New Study Finds That Babies Recognize Their Mother's Voice Before Birth"
+    },
+    {
+      "id": "batch_20260702_035906__story_075",
+      "title": "She listened to her pupils. Four months later, a school was transformed",
+      "summary": "After asking students what they wanted to learn, headteacher Letizia Riddell overhauled Springburn Academy's curriculum in just four months. Students now earn qualifications and industry awards with college and industry partners.",
+      "extended_summary": "Letizia Riddell felt the traditional academic curriculum wasn't working for her students at Springburn Academy. In February, she asked them directly what careers they wanted and what courses would help. By June, she had transformed the school's offerings, bringing in college lecturers and industry partners so students could earn vocational qualifications. 'Foot on the gas, don\u2019t take no for an answer,' she said, proving that school reform doesn't have to wait for national policy.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.heraldscotland.com/news/26240845.springburn-academy-brings-change-new-vocational-hub/?ref=rss",
+      "source_name": "heraldscotland.com",
+      "published_ts": 1782921600000,
+      "image_url": "https://www.heraldscotland.com/resources/images/21120170.jpg?type=og-image",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "young_achievers": 4,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udc69\u200d\ud83c\udfeb\ud83d\udc42\ud83c\udfeb\ud83d\udd04",
+      "headline_split": "She listened to her pupils. Four months later, a school was ",
+      "fake_endings": [
+        "ranked top in the district",
+        "given a new garden"
+      ],
+      "fake_headline": "Janitor heard students' complaints. Now the school has a new science lab."
+    },
+    {
+      "id": "batch_20260702_035906__story_107",
+      "title": "Singing the Shopping List: How Music Can Rewire the Brain After Stroke",
+      "summary": "After a stroke left him unable to speak, Naresh Shanbhag discovered that singing helped him recover words. Through music therapy at India's first music cognition lab, he progressed from tapping beats to singing his grocery list. One year later, he still belts out shopping songs every morning.",
+      "extended_summary": "When Naresh Shanbhag lost his ability to form sentences after a stroke, music became his unexpected lifeline. Skeptical at first, he found himself hooked from the first session at NIMHANS' music cognition lab \u2014 tapping simple rhythms on a smartphone app, then graduating to sung sentences. Now every morning he sings his shopping list on the way to fetch milk and groceries. His speech is still halting, but the progress has been remarkable, and his story is part of a growing body of research into how music can rewire the brain after injury. The lab's founder, a trained classical vocalist and neuropsychologist, is proving that rhythm and melody can unlock pathways that words alone cannot reach.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [
+        "Humor"
+      ],
+      "source_url": "https://reasonstobecheerful.world/music-therapy-brain-injury/",
+      "source_name": "reasonstobecheerful.world",
+      "published_ts": 1782392436000,
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/shutterstock_116964085-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfb5\ud83d\uded2\ud83e\udde0\ud83d\udd04",
+      "headline_split": "Singing the Shopping List: How Music Can Rewire the Brain",
+      "fake_endings": [
+        "in Alzheimer's Patients",
+        "During Surgery Recovery"
+      ],
+      "fake_headline": "Guitar Lessons Help Stroke Patients Regain Fine Motor Skills Faster Than Physical Therapy"
+    },
+    {
+      "id": "batch_20260702_035906__story_108",
+      "title": "Superworms could replace beetles for cleaning skeletal remains",
+      "summary": "Superworms \u2014 the larvae of a common pet food beetle \u2014 can clean skeletal remains without damaging bones, offering a safer alternative to dermestid beetles. They require less containment and have a shorter processing time, making them ideal for museums and forensics.",
+      "extended_summary": "Cleaning bones for museum displays or forensic study is a delicate balance \u2014 remove all soft tissue without scratching the skeleton. Dermestid beetles do the job well, but they can escape and infest museum collections. Enter the superworm: a humble pet food larva that researchers in Iran found can strip flesh just as effectively, without the risk. Superworms only need containment during their larval stage, which lasts 10\u201312 weeks, and they don't pupate in crowded conditions. For museums, that means fewer containment nightmares and more pristine specimens.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+      "source_name": "arstechnica.com",
+      "published_ts": 1782950361000,
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/superworms1-1152x648.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "young_achievers": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udc1b\ud83d\udc80\ud83e\uddb4\ud83d\udd01",
+      "headline_split": "Superworms could replace beetles for cleaning",
+      "fake_endings": [
+        "crime scene evidence",
+        "museum artifacts"
+      ],
+      "fake_headline": "Scientists Breed Super-Slugs That Devour Plastic Waste at Record Speed"
+    },
+    {
+      "id": "batch_20260702_035906__story_109",
+      "title": "The hidden biodiversity battle to save Europe\u2019s forests",
+      "summary": "An EU-funded research project called OptFORESTS is planting diverse tree species and genetic mixtures across 28 locations in Europe to study how forests can adapt to climate change. The goal is to actively guide forests toward greater resilience and biodiversity.",
+      "extended_summary": "In a small nursery in Finland, scientists are growing pine, larch, and cherry seedlings from genes collected across the continent. These aren't just any saplings \u2014 they're part of a continent-wide experiment to future-proof Europe's forests. The OptFORESTS project has planted 28 plots with 12 species to see which genetic blends thrive under future climates. Covering 43% of EU land, forests are vital for carbon storage and biodiversity, but they're under growing stress. By introducing diversity now, researchers hope to actively guide the transition to ecosystems that can withstand whatever comes next.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://europeansting.com/2026/06/29/the-hidden-biodiversity-battle-to-save-europes-forests-2/",
+      "source_name": "europeansting.com",
+      "published_ts": 1782757621000,
+      "image_url": "https://europeansting.com/wp-content/uploads/2023/01/forest.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 23,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf32\ud83e\udd8c\ud83c\udf0d\u2694\ufe0f",
+      "headline_split": "The hidden biodiversity battle to save Europe's",
+      "fake_endings": [
+        "ancient woodlands",
+        "endangered species"
+      ],
+      "fake_headline": "Volunteers Replant 10,000 Trees in One Day to Restore Wildfire-Damaged Forest"
+    },
+    {
+      "id": "batch_20260702_035906__story_110",
+      "title": "This IIT Guwahati Innovation Cleans Toxic Wastewater Without Harsh Chemicals",
+      "summary": "Researchers at IIT Guwahati have developed a biological method using sulphate-reducing bacteria to remove toxic lead from acidic industrial wastewater. This chemical-free process offers a cleaner, low-sludge alternative to traditional treatment and could help address India's lead pollution crisis.",
+      "extended_summary": "India has 275 million children with elevated blood lead levels, largely from battery recycling runoff. Now, IIT Guwahati researchers have cultivated bacteria that can survive and thrive in the most toxic, acidic wastewater and pull lead out without harsh chemicals. The process uses sulphate-reducing bacteria to precipitate lead as a solid, leaving cleaner water behind. Unlike chemical treatments that produce hazardous sludge, this biological approach is sustainable and low-waste. For a country grappling with an invisible public health crisis, this innovation could be a game-changer \u2014 and it's based entirely on nature's own cleanup crew.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://thebetterindia.com/innovation/iit-guwahati-bacteria-remove-lead-industrial-wastewater-12117879",
+      "source_name": "thebetterindia.com",
+      "published_ts": 1782821008000,
+      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/2026/06/29/avantika-featured-image-template-26-2026-06-29-18-58-37.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "impact_innovation": 3,
+        "limelight": 1
+      },
+      "emoji_clue": "\ud83c\udfeb\ud83e\uddea\ud83d\udca7\ud83c\udf3f",
+      "headline_split": "This IIT Guwahati Innovation Cleans Toxic Wastewater",
+      "fake_endings": [
+        "Using Only Sunlight",
+        "With Nanotechnology"
+      ],
+      "fake_headline": "Indian Student Invents Solar-Powered Device That Converts Seawater into Drinking Water"
+    },
+    {
+      "id": "batch_20260702_035906__story_111",
+      "title": "Tied in knots by medical debt. Working to undo the damage in NC.",
+      "summary": "After a severe health emergency, school social worker Jessica McIntyre fell behind on thousands in medical debt, damaging her credit. Years later, a nonprofit letter claimed it had erased her $3,200 debt\u2014and it was real. Now, Undue Medical Debt has relieved billions nationwide.",
+      "extended_summary": "When Jessica McIntyre opened a letter saying her $3,200 medical debt was gone, she thought, 'This can\u2019t be real.' But it was. After postpartum eclampsia kept her in the hospital for a week in 2018, the Beaufort County school social worker\u2019s unpaid hospital bills were sold to collections, tanking her credit. Then the nonprofit Undue Medical Debt stepped in, buying and erasing her debt and giving her a fresh start. The organization has now relieved over $40 billion in medical debt across the U.S., offering relief to thousands like McIntyre.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://carolinapublicpress.org/75990/medical-debt-relief-undue-nc/",
+      "source_name": "carolinapublicpress.org",
+      "published_ts": 1782759907000,
+      "image_url": "https://carolinapublicpress.org/wp-content/uploads/2025/03/hospitals-002.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 13,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83e\ude7a\ud83d\udcb8\ud83d\udd17\ud83d\udd04",
+      "headline_split": "Tied in knots by medical debt. Working to undo",
+      "fake_endings": [
+        "the burden in Ohio",
+        "their credit score"
+      ],
+      "fake_headline": "Local Librarian Starts Free Grocery Program for Low-Income Seniors in Three Counties"
+    },
+    {
+      "id": "batch_20260702_035906__story_112",
+      "title": "Ukraine\u2019s Battlefield Medics: Treating the Wounded While War Breaks Them Too",
+      "summary": "After losing her fianc\u00e9 in the war, fragile blonde combat medic Elena Olenivska joined the Ukrainian army. Now she\u2019s among thousands of frontline medics finding respite through the Repower Foundation\u2019s recovery program in the Carpathians\u2014a rare space to process trauma and remember life beyond war.",
+      "extended_summary": "Elena Olenivska hardly looks like a frontline combat medic. The fragile blonde carries herself with calm restraint, but beneath that lies a story of devastating loss. After her fianc\u00e9 was killed in Irpin on March 5, 2022, she enlisted despite her mother\u2019s pleas to flee. Now, through the Repower Foundation\u2019s recovery program in the Carpathians, Elena and nearly 2,000 Ukrainian medics can briefly step away from war. They process trauma, reconnect with civilian life, and find moments of peace before returning to the battlefield, where saving lives comes at a cost.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.kyivpost.com/post/79280",
+      "source_name": "kyivpost.com",
+      "published_ts": 1782845100000,
+      "image_url": "https://static.kyivpost.com/storage/2026/06/30/42949de5c2be437bfa98c69a6fbf76f8.jpg?w=1200&q=90&f=jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "limelight": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\u26d1\ufe0f\u2694\ufe0f\ud83d\udc94\ud83c\udd98",
+      "headline_split": "Ukraine\u2019s Battlefield Medics: Treating the Wounded While War Breaks",
+      "fake_endings": [
+        "Their Supplies",
+        "Their Morale"
+      ],
+      "fake_headline": "Teen-Led Hotline Offers Mental Health Support to Isolated Peers Across Rural Schools"
     }
   ]
 }
