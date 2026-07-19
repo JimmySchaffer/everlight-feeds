@@ -1,105 +1,24 @@
 {
-  "batch_id": "batch_20260709_200723",
-  "created_at": "2026-07-09T20:07:23.274536",
-  "story_count": 5,
+  "batch_id": "batch_20260719_184008",
+  "created_at": "2026-07-19T18:40:08.927922",
+  "story_count": 4,
   "stories": [
     {
-      "id": "batch_20260709_235553__story_068",
-      "title": "Baubap generates a credit line of US$23 million to bank more Mexicans",
-      "summary": "Mexican fintech Baubap secured a $23 million credit line to expand microloans to millions of unbanked Mexicans. Using alternative data from mobile devices, they approve loans under $25 in seconds\u2014and have already served over 2 million people.",
-      "extended_summary": "Baubap founders Roberto Salcedo and Luis Villarreal knew firsthand that traditional banks reject millions of Mexicans\u2014especially informal workers and those without credit history. So they built risk models using mobile device data, approving microloans from $25 in under 30 seconds. With a new $23 million credit line from BBVA Spark and SixPoint Capital\u2014now entirely in Mexican pesos\u2014they're poised to grow. The company has already granted over 8 million loans to 2 million people, with a revenue run-rate exceeding $100 million and sustained profitability.",
+      "id": "batch_20260718_165638__story_100",
+      "title": "From Idea to Enterprise: How One Founder Used AI to Launch a Mental Health Startup in Record Time",
+      "summary": "Michelle Turner, a former foster parent with no business background, used AI as a mentor to launch Here Now Health, a virtual behavioral-health company for kids in foster care. Founded in January 2025, it's already Medicaid-certified in three states and employs 16 people.",
+      "extended_summary": "Michelle Turner had cared for over 40 children as a foster parent and adopted four, but she had no MBA, no investors, and no formal business training. From her home office, she turned AI tools into her personal mentor\u2014drafting her business plan, learning startup fundamentals, and refining pitches. In just months, she founded Here Now Health, a virtual behavioral-health company for children in the child welfare system. Now Medicaid-certified in three states with 16 employees, her startup is already counseling kids entering foster care.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://www.enderlinindependent.com/baubap-generates-a-credit-line-of-us23-million-to-bank-more-mexicans/",
-      "source_name": "enderlinindependent.com",
-      "published_ts": 1783134855000,
-      "image_url": "https://www.enderlinindependent.com/wp-content/uploads/2026/07/Baubap-generates-a-credit-line-of-US23-million-to-bank.png",
+      "source_url": "https://influencermagazine.uk/2026/07/from-idea-to-enterprise-how-one-founder-used-ai-to-launch-a-mental-health-startup-in-record-time/",
+      "source_name": "Influencer Magazine",
+      "published_ts": 1783209600000,
+      "image_url": "https://influencermagazine.uk/wp-content/uploads/2026/07/image-1024x576.png",
       "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 1,
-      "headline_pull": 3,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "ai_entrepreneurship",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 2,
-        "ai_entrepreneurship": 5,
-        "impact_innovation": 4,
-        "limelight": 1
-      },
-      "emoji_clue": "\ud83d\udcb0\ud83d\udcb5\ud83c\uddf2\ud83c\uddfd",
-      "headline_split": "Baubap generates a credit line of US$23 million to ",
-      "fake_endings": [
-        "finance affordable housing",
-        "provide microloans to women"
-      ],
-      "fake_headline": "Teenager Invents Device That Turns Plastic Waste Into Fuel"
-    },
-    {
-      "id": "batch_20260709_235553__story_069",
-      "title": "Meet the A.I. Ph.D. Who Took Human Error Out of the World\u2019s Biggest Games",
-      "summary": "The man behind Hawk-Eye\u2014the AI system that calls lines in tennis and reviews fouls in World Cup soccer\u2014is Paul Hawkins, a British entrepreneur with a Ph.D. in AI. His invention, born after a bad cricket umpiring decision, now shapes 25 sports worldwide.",
-      "extended_summary": "During a World Cup match, VAR reviews a penalty\u2014and at its core is Hawk-Eye, the computer vision system that tracks ball and player positions with 16 high-resolution cameras. Its creator, Paul Hawkins, had a Ph.D. in AI and a burning memory of a bad cricket umpiring call. That frustration led him to develop Hawk-Eye in 2001, now used across tennis, soccer, cricket, rugby, and more. Andre Agassi called it 'the biggest thing to happen in tennis for 40 years.' Hawkins proved that one bad call can spark a revolution.",
-      "category": "Sports",
-      "categories": [
-        "Sports",
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://observer.com/2026/07/hawk-eye-inventor-world-cup-wimbledon-tennis/",
-      "source_name": "observer.com",
-      "published_ts": 1783476412000,
-      "image_url": "https://observer.com/wp-content/uploads/sites/2/2026/07/GettyImages-2222938968.jpg?quality=80",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 5,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "ai_entrepreneurship"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 5,
-        "young_achievers": 2,
-        "limelight": 1,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83e\udd16\ud83c\udfae\ud83d\udcdc",
-      "headline_split": "Meet the A.I. Ph.D. Who Took Human Error Out of ",
-      "fake_endings": [
-        "the Olympic scoring system",
-        "the lottery drawing process"
-      ],
-      "fake_headline": "Local Teacher Creates Free Online Tutoring Platform for Rural Students",
-      "city": "New York City"
-    },
-    {
-      "id": "batch_20260709_235553__story_040",
-      "title": "RealQuest AI Wants Your Kid's Screen Time to Look Like a Startup, Not a Scroll",
-      "summary": "A new app called RealQuest AI turns teens' screen time into a business-building game. Created by a dad who was tired of fighting his kids' device addiction, it guides them to start and run real companies with AI help.",
-      "extended_summary": "Zach Barney, a father of five, couldn't stop his neurodivergent kids from finding ways around screen restrictions. So he built a platform that gamifies building a business: an AI coach walks teens through creating a product, finding customers, and launching a site. It's like Duolingo meets a startup incubator \u2014 turning endless scrolling into something productive and even profitable.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://www.techbuzznews.com/realquest-ai-launch/",
-      "source_name": "techbuzznews.com",
-      "published_ts": 1783490400000,
-      "image_url": "https://storage.ghost.io/c/26/16/2616455e-be3a-46f1-a11e-812af2bc0f59/content/images/2026/07/IMG_9754-1-1.jpeg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
+      "display_reason": "hero always uses image mode (summary always visible)",
       "image_confidence": "high",
       "visual_affinity": 2,
       "headline_pull": 4,
@@ -108,104 +27,151 @@
       "image_scale": 1.0,
       "sections": [
         "limelight",
-        "young_achievers",
-        "ai_entrepreneurship"
+        "ai_entrepreneurship",
+        "impact_innovation"
       ],
       "section_scores": {
         "ai_entrepreneurship": 5,
-        "impact_innovation": 2,
-        "young_achievers": 4,
-        "limelight": 5
+        "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 3
       },
-      "emoji_clue": "\ud83e\udd16\ud83d\udc76\ud83d\udcbb\ud83d\ude80",
-      "headline_split": "RealQuest AI Wants Your Kid's Screen Time to Look Like a Startup ",
+      "emoji_clue": "\ud83d\udca1\ud83e\udd16\ud83e\udde0\ud83d\ude80\u23f1\ufe0f",
+      "headline_split": "From Idea to Enterprise: How One Founder Used AI to Launch a Mental Health Startup ",
       "fake_endings": [
-        "Like a Game",
-        "Like a Book"
+        "Using Only Free Tools",
+        "From His Dorm Room"
       ],
-      "fake_headline": "New App Turns Chores into Adventure Game for Kids, Parents Love It"
+      "fake_headline": "Retired Teacher Develops AI-Powered App to Help Students With Dyslexia Read Better"
     },
     {
-      "id": "batch_20260709_235553__story_044",
-      "title": "Spanish Fork Family Builds a Game Studio With AI \u2014 and Jobs for Their Sons",
-      "summary": "When their twin sons on the autism spectrum couldn't find jobs after graduation, a Utah couple built them a video game company. Gotta Play Games launched its debut title in just four months, creating employment for all eight kids.",
-      "extended_summary": "Parker and Colby Camp applied to job after job with no luck. So their parents, Brandon and Elena, founded Gotta Play Games\u2014a studio run by the whole family. In four months, they went from a kitchen-table card game to a manufactured product with apps, packaging, and a marketing campaign. The debut title, Skip the Salad, is now live, proving that when the job market won't hire your kids, you can build a company that will.",
-      "category": "Transformation",
+      "id": "batch_20260718_165638__story_101",
+      "title": "From Madonna's hairdresser to tech founder: Minista Jazz is keeping receipts on the age of AI",
+      "summary": "Minista Jazz, who spent decades as a touring hairstylist for Madonna and Miley Cyrus, became a tech founder at 45. After seeing her own image used online without consent, she built Much Different World, an AI-era consent registry that uses voice fingerprinting to protect digital identities.",
+      "extended_summary": "For years, Minista Jazz styled the hair of pop icons\u2014Madonna, Miley Cyrus. But when she found her own image being used online without permission, she knew she had to act. After her father's death, she enrolled in a coding bootcamp at 45, graduated in February 2025, and launched Much Different World\u2014a platform that lets people register their voices, likenesses, and creative work with cryptographic proof before AI can use it. Starting with voice registration, the system uses mathematical fingerprinting to verify human ownership, giving people a way to keep receipts in the age of AI.",
+      "category": "Discovery",
       "categories": [
+        "Discovery",
         "Transformation"
       ],
       "tones": [
         "Surprise"
       ],
-      "source_url": "https://www.techbuzznews.com/skip-the-salad/",
-      "source_name": "techbuzznews.com",
-      "published_ts": 1783137759000,
-      "image_url": "https://storage.ghost.io/c/26/16/2616455e-be3a-46f1-a11e-812af2bc0f59/content/images/size/w1200/2026/07/twins_helping_with_card_design-1.png",
+      "source_url": "https://technical.ly/entrepreneurship/minista-jazz-protecting-identity-from-ai/",
+      "source_name": "Technical.ly",
+      "published_ts": 1784073600000,
+      "image_url": "https://technically-wpengine.s3.us-east-1.amazonaws.com/technically/wp-content/uploads/2026/07/SVT-2026-2435AB3E-minista-jazz-gpt-2-edit-jerome-ai.png",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 5,
-      "read_time_min": 6,
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 7,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
         "limelight",
-        "ai_entrepreneurship",
-        "impact_innovation"
+        "ai_entrepreneurship"
       ],
       "section_scores": {
-        "limelight": 5,
         "ai_entrepreneurship": 5,
         "young_achievers": 2,
-        "impact_innovation": 3
+        "impact_innovation": 2,
+        "limelight": 5
       },
-      "emoji_clue": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83c\udfae\ud83e\udd16\ud83d\udcbc",
-      "headline_split": "Spanish Fork Family Builds a Game Studio With AI \u2014 ",
+      "emoji_clue": "\ud83d\udc87\u200d\u2642\ufe0f\ud83c\udfa4\ud83d\udcf1\ud83e\uddfe\ud83e\udd16",
+      "headline_split": "From Madonna's hairdresser to tech founder: Minista Jazz is keeping receipts ",
       "fake_endings": [
-        "and opens it to the public",
-        "and wins national award"
+        "For Her Celebrity Clients",
+        "In a Blockchain Ledger"
       ],
-      "fake_headline": "Mother and Son Invent Solar-Powered Wheelchair That Charges While Moving"
+      "fake_headline": "Local Librarian Creates Free Coding Camp That Turns 50 Children Into App Developers"
     },
     {
-      "id": "batch_20260709_235553__story_070",
-      "title": "Denver cleantech company Actuate wins Colorado Companies to Watch award",
-      "summary": "Denver cleantech startup Actuate won a Colorado Companies to Watch award for its building intelligence platform that cuts energy costs by 10\u201330% for small commercial properties. Founded by a team with 50+ years of experience, they're now expanding to convenience stores and retail chains.",
-      "extended_summary": "Actuate's Act Hub platform uses internet-connected sensors and AI to manage HVAC, refrigeration, and lighting for buildings that lack traditional management systems\u2014think quick-service restaurant franchises and regional retailers. The result? Clients see 10\u201330% lower energy costs, 20\u201330% lower maintenance costs, and 40\u201360% fewer emergency service calls. Co-founder Allison Fitzpatrick says, 'We started Actuate because we saw an enormous, underserved market.' With the Colorado Companies to Watch award and plans to target convenience stores, they're proving that small buildings can have smart systems too.",
-      "category": "Transformation",
+      "id": "batch_20260718_165638__story_102",
+      "title": "Student developer debuts a platform to help neurodivergent people find inclusive workplaces",
+      "summary": "Navya Tuteja, a 17-year-old in Northern Virginia, built Raaha, a free AI platform that helps neurodivergent people and those with invisible disabilities find inclusive jobs. Inspired by her hard-of-hearing mother, it scores job descriptions on seven fit factors and offers an interview-practice chatbot.",
+      "extended_summary": "At 17, Navya Tuteja built Raaha\u2014a free AI platform that helps neurodivergent workers and people with invisible disabilities figure out if a job is really a good fit. She was inspired by watching her hard-of-hearing mother navigate workplace accommodations. Built on school nights and spring break using Claude's API and trained on real job postings, Raaha scores pasted job descriptions on seven fit factors. It also includes a chatbot for practicing accommodation request conversations. Since launching in June 2026, it already has 150 users.",
+      "category": "Discovery",
       "categories": [
+        "Discovery",
         "Transformation"
       ],
-      "tones": [],
-      "source_url": "https://coloradobiz.com/denver-actuate-colorado-companies-to-watch-award/",
-      "source_name": "cobizmag.com",
-      "published_ts": 1783563019000,
-      "image_url": "https://coloradobiz.com/files/2026/07/Actuate-Team.jpg",
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://technical.ly/entrepreneurship/student-built-ai-aims-to-fix-broken-job-search-for-neurodivergent-talent/",
+      "source_name": "Technical.ly",
+      "published_ts": 1783900800000,
+      "image_url": "https://technically-wpengine.s3.us-east-1.amazonaws.com/technically/wp-content/uploads/2026/07/Image-1.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 2,
       "headline_pull": 3,
-      "read_time_min": 8,
+      "read_time_min": 4,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
+        "limelight",
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc68\u200d\ud83c\udf93\ud83d\udcbb\ud83e\udde0\u267e\ufe0f\ud83c\udfe2",
+      "headline_split": "Student developer debuts a platform to help neurodivergent people find ",
+      "fake_endings": [
+        "Community Support Groups",
+        "Remote Job Opportunities"
+      ],
+      "fake_headline": "School Janitor Wins National Award for Poetry Written During Night Shifts"
+    },
+    {
+      "id": "batch_20260718_165638__story_103",
+      "title": "South Boston Boys & Girls Club teens build AI app designed to keep parents connected",
+      "summary": "Joshua Moreta, 13, and Gabriel Hinson, 15, led a team to build an AI-powered achievement tracker app for their South Boston Boys & Girls Club. The app lets parents see their child's progress and recommends new clubs, and the club plans to roll it out soon.",
+      "extended_summary": "Two teens from the South Boston Boys & Girls Club\u2014Joshua Moreta, just 13, and Gabriel Hinson, 15\u2014didn't just participate in an AWS hackathon; they led a team of four to build an app that keeps parents connected. Their AI-powered achievement tracker lets staff check off members' accomplishments while parents log in to see real-time progress. The app even recommends new clubs based on what a member already enjoys. The club's leadership is already planning to roll it out to staff, members, and families.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.boston25news.com/news/local/south-boston-boys-girls-club-teens-build-ai-app-designed-keep-parents-connected/QH5VYL5CRNHKTLMIWLXPCSFNNE/",
+      "source_name": "Boston 25 News",
+      "published_ts": 1783209600000,
+      "image_url": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FK2RMFFSBSJHWDGQDGDL3HCFI6M.jpeg?auth=3b89105c2f97158c7bcd6c15c3d7fe617c9ddd67d5bca205e51d120d8ef3b587&width=1200&height=630&smart=true",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
         "ai_entrepreneurship"
       ],
       "section_scores": {
-        "young_achievers": 1,
+        "limelight": 5,
         "impact_innovation": 2,
-        "ai_entrepreneurship": 4,
-        "limelight": 1
+        "young_achievers": 5,
+        "ai_entrepreneurship": 3
       },
-      "emoji_clue": "\ud83c\udfc6\ud83c\udf31\ud83c\udfd4\ufe0f",
-      "headline_split": "Denver cleantech company Actuate wins ",
+      "emoji_clue": "\ud83c\udfd9\ufe0f\ud83d\udc66\ud83d\udc67\ud83d\udcf1\ud83e\udd16",
+      "headline_split": "South Boston Boys & Girls Club teens build AI app designed to keep parents ",
       "fake_endings": [
-        "the National Clean Energy Award",
-        "the Governor's Environmental Award"
+        "Informed During Emergencies",
+        "Updated on School Events"
       ],
-      "fake_headline": "High School Students Launch Satellite That Sends Climate Data"
+      "fake_headline": "Homeless Man Finds Lost Wallet, Returns It With Cash Intact, Then Gets Job Offer From Owner"
     }
   ]
 }
