@@ -1,28 +1,28 @@
 {
-  "batch_id": "batch_20260719_184008",
-  "created_at": "2026-07-19T18:40:08.967354",
-  "story_count": 29,
+  "batch_id": "batch_20260731_115909",
+  "created_at": "2026-07-31T11:59:09.684590",
+  "story_count": 38,
   "stories": [
     {
-      "id": "batch_20260718_165638__story_010",
-      "title": "Coeur d\u2019Alene Tribe saves with solar-powered rec center",
-      "summary": "The Coeur d'Alene Tribe is saving about $10,000 a year on electricity at its recreation center thanks to rooftop solar panels. Beyond the savings, the project is a step toward energy sovereignty for a tribe historically left out of utility decisions.",
-      "extended_summary": "On the Coeur d'Alene Reservation in Idaho, kids swim and play at the Marimn Health Coeur Center, a 32,000-square-foot rec center powered partly by the sun. Rooftop solar panels installed two years ago were expected to save $2,500 a year\u2014but with rising utility costs, the tribe is now saving about four times that. Environmental programs manager Laura Laumatia says the project is about more than money: it's about energy sovereignty. Historically, tribes have had little say in utility development, and four different utilities serve the reservation with no tribal representation. This solar step gives the Coeur d'Alene more control over its own power.",
+      "id": "batch_20260727_194918__story_073",
+      "title": "Some Pittsburgh neighborhoods are 5 degrees hotter than others. Why?",
+      "summary": "In Pittsburgh's South Side Flats, neighbors call Mike Clark 'the Lorax' for planting over 400 street trees. A new study shows redlined neighborhoods can be 5\u00b0F hotter, but community tree-planting is turning concrete jungles into cooler, healthier places to live.",
+      "extended_summary": "Mike Clark convinced skeptical neighbors that trees could thrive in their concrete-heavy South Side Flats\u2014now he's 'the Lorax' with over 400 trees to his name. A Carnegie Mellon study revealed that formerly redlined Pittsburgh neighborhoods are nearly 5 degrees hotter than the rest of the city, thanks to less tree cover and more asphalt. But grassroots efforts like Clark's are closing that gap, one sidewalk hole at a time. These trees aren't just shade\u2014they're lowering health risks, utility bills, and making the city fairer.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://yaleclimateconnections.org/2026/07/coeur-dalene-tribe-saves-with-solar-powered-rec-center/",
-      "source_name": "yaleclimateconnections.org",
-      "published_ts": 1784304000000,
-      "image_url": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/07/071726_solar-roof_1600.jpg?fit=1600%2C900&ssl=1",
+      "source_url": "https://nextpittsburgh.com/environment/some-pittsburgh-neighborhoods-are-5-degrees-hotter-than-others-why/",
+      "source_name": "nextpittsburgh.com",
+      "published_ts": 1784742638000,
+      "image_url": "https://nextpittsburgh.com/wp-content/uploads/2026/07/pgh-trees-throw-shade.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 1,
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -31,62 +31,23 @@
       ],
       "section_scores": {
         "ai_entrepreneurship": 1,
-        "limelight": 5,
         "young_achievers": 1,
+        "limelight": 4,
         "impact_innovation": 5
       },
-      "emoji_clue": "\ud83c\udfde\ufe0f\ud83e\udeb6\u2600\ufe0f\ud83d\udd0b",
-      "headline_split": "Coeur d\u2019Alene Tribe saves with solar-powered ",
+      "emoji_clue": "\ud83c\udf21\ufe0f\ud83c\udfd8\ufe0f\ud83d\udd0d",
+      "headline_split": "Some Pittsburgh neighborhoods are 5 degrees hotter than others ",
       "fake_endings": [
-        "water pump system",
-        "street lights"
+        "due to underground volcanic activity",
+        "because of increased car traffic from a new highway"
       ],
-      "fake_headline": "Native American Community Builds First Wind Turbine in Region"
+      "fake_headline": "Local Teen Creates App That Matches Shelter Pets with Adoptive Families in Minutes"
     },
     {
-      "id": "batch_20260718_165638__story_072",
-      "title": "How States Are Streamlining College Admissions\u2014and Who Benefits",
-      "summary": "Georgia's direct-admissions program\u2014one of 19 similar state initiatives\u2014automatically offers college spots to over 130,000 high school seniors based on their academic data, no application needed. The system aims to break down barriers to enrollment and has already expanded to most public colleges in the state.",
-      "extended_summary": "Imagine opening your mailbox to find letters from 45 colleges that have already accepted you\u2014without ever applying. That's the reality for 130,000 Georgia seniors this October, thanks to Georgia Match, the largest direct-admissions program in the U.S. Using data through 11th grade, colleges apply to students, reversing the traditional process. 'It\u2019s a real eye-opening experience to say, I\u2019m already admitted to 45 schools,' said Chris Green of Georgia Student Finance Commission. The program just won a national innovation award.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://www.edweek.org/teaching-learning/how-states-are-streamlining-college-admissions-and-who-benefits/2026/07",
-      "source_name": "edweek.org",
-      "published_ts": 1784332080000,
-      "image_url": "https://epe.brightspotcdn.com/dims4/default/93db56b/2147483647/strip/true/crop/4934x3289+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F08%2F58%2Fb06aef224795b22e87fa09c69712%2Fdirect-college-admissions-georgia-23278489217667.jpg",
-      "display_mode": "text",
-      "display_reason": "medium image not worth the space",
-      "image_confidence": "medium",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 7,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 1,
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 5,
-        "limelight": 2
-      },
-      "emoji_clue": "\ud83c\udfdb\ufe0f\ud83d\udcda\ud83c\udf93\ud83e\udd14",
-      "headline_split": "How States Are Streamlining College Admissions\u2014and ",
-      "fake_endings": [
-        "Why It Matters Most",
-        "What Colleges Think"
-      ],
-      "fake_headline": "Local Librarian Wins $50M Lottery, Donates Entirety to School System"
-    },
-    {
-      "id": "batch_20260718_165638__story_058",
-      "title": "Philly videographer goes viral by asking people to pick up an analog phone and share what's on their minds",
-      "summary": "Dan Horan sets up an analog phone in Philly parks with a sign: 'What's on your mind?' Strangers pick up and share. His Instagram reel has 12 million views \u2014 and it's bringing back a lost art: actually listening to each other.",
-      "extended_summary": "Dan Horan wanted to get Philadelphians talking to each other, so he did something simple: put an old-fashioned phone on a table with a sign inviting people to speak. No one's on the other end \u2014 it's a voicemail for the city. He films the conversations and posts them on Instagram, and the response has been overwhelming. In a week, his account went from 1,000 to 69,000 followers, and his videos have racked up 12 million views. People are sharing everything from housing stability to simple gratitude, proving that sometimes all we need is a phone and a chance to be heard.",
+      "id": "batch_20260727_194918__story_059",
+      "title": "The greenest goodbye: Human composting and the science of becoming soil",
+      "summary": "Katrina Spade turned a graduate school idea into Recompose, the first company to commercialize human composting. Now legal in 14 states, the process turns bodies into nutrient-rich soil in about 30 days. It's a climate-friendly alternative to burial and cremation that's gaining traction nationwide.",
+      "extended_summary": "When lifestyle icon Martha Stewart said she'd choose composting over burial or cremation, she thanked Katrina Spade. As a grad student in architecture, Spade envisioned a sustainable death care option. She launched Recompose in 2020, pioneering the technology to compost human bodies. The process uses wood chips, straw, and airflow to turn a body into soil in about a month. Cremation emits about 530 pounds of CO2; burials use toxic embalming fluid. Now 14 states have legalized human composting, and more are considering it. Spade's vision is giving people a green goodbye.",
       "category": "Discovery",
       "categories": [
         "Discovery"
@@ -94,16 +55,16 @@
       "tones": [
         "Surprise"
       ],
-      "source_url": "https://www.phillyvoice.com/philly-videographer-viral-analog-phone-social-experiment/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
-      "source_name": "phillyvoice.com",
-      "published_ts": 1784263885000,
-      "image_url": "https://media.phillyvoice.com/media/images/071626LoveParkPhone1.2e16d0ba.fill-1200x630-c0.jpg",
+      "source_url": "https://www.geekwire.com/2026/the-greenest-goodbye-human-composting-and-the-science-of-becoming-soil/",
+      "source_name": "geekwire.com",
+      "published_ts": 1784743469000,
+      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/07/PXL_20260407_2341250121.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 4,
+      "visual_affinity": 3,
       "headline_pull": 4,
-      "read_time_min": 7,
+      "read_time_min": 6,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -113,41 +74,38 @@
       ],
       "section_scores": {
         "ai_entrepreneurship": 1,
-        "young_achievers": 4,
-        "limelight": 4,
-        "impact_innovation": 5
+        "young_achievers": 5,
+        "impact_innovation": 5,
+        "limelight": 5
       },
-      "emoji_clue": "\ud83d\udcfd\ufe0f\ud83d\udcde\ud83d\udcad",
-      "headline_split": "Philly videographer goes viral by asking people to pick up an analog phone ",
+      "emoji_clue": "\ud83c\udf31\ud83d\udc80\u26b0\ufe0f\ud83c\udf0d",
+      "headline_split": "The greenest goodbye: Human composting and the science of ",
       "fake_endings": [
-        "and tell a joke",
-        "and read a poem"
+        "turning into diamonds",
+        "becoming a coral reef"
       ],
-      "fake_headline": "Woman Knits 100 Hats for Premature Babies",
-      "city": "Philadelphia"
+      "fake_headline": "New Invention Turns Plastic Bottles Into Building Bricks For Schools"
     },
     {
-      "id": "batch_20260718_165638__story_073",
-      "title": "This elementary school is achieving high reading scores a million words at a time",
-      "summary": "At Windsor Park Elementary in Texas, a 'Millionaires Club' tracks students who read a million words a year\u2014and it's driving remarkable results. Despite 29% poverty, third-grade reading proficiency hit 99% last year, proving that a simple, joyous incentive can transform academic outcomes.",
-      "extended_summary": "A wall covered in colorful paper balloons, each displaying a child's photo\u2014these are the 'millionaires' of Windsor Park Elementary. Students who read at least a million words earn a spot on the wall, and the pride is contagious. One grandmother who didn't speak English bowed her head to thank the librarian after her grandchild finally made it. Last year students read 400 million words; this year they're on track to beat that. The school's reading scores soared to 99% proficiency, far exceeding expectations for a high-poverty community.",
+      "id": "batch_20260727_194918__story_074",
+      "title": "9 abandoned Oakland properties could become affordable housing",
+      "summary": "Alameda County is selling abandoned Oakland lots for $10 each to build affordable housing. With nine more properties on the list, this 'Chapter 8 tax sale' tool is turning neglected spaces into homes for communities that need them most.",
+      "extended_summary": "An overgrown lot on MacArthur Boulevard, loaded with unpaid taxes and fines, just sold for $10 to the Black Cultural Zone to become affordable housing. The county's rarely used Chapter 8 tax sale allows giving away tax-defaulted properties for public benefit. Now nine more vacant lots across West and East Oakland are on the table\u2014most small and undeveloped, but ideal for infill housing. The City Council has started removing liens to speed things up, turning blight into opportunity one tiny parcel at a time.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://abc17news.com/stacker-k-12/2026/07/17/this-elementary-school-is-achieving-high-reading-scores-a-million-words-at-a-time/",
-      "source_name": "abc17news.com",
-      "published_ts": 1784367582000,
-      "image_url": "https://abc17news.b-cdn.net/abc17news.com/2026/07/the-74-this-elementary-school.jpg",
+      "tones": [],
+      "source_url": "https://oaklandside.org/2026/07/22/oakland-vacant-property-affordable-housing-default/",
+      "source_name": "oaklandside.org",
+      "published_ts": 1784768400000,
+      "image_url": "https://oaklandside.org/wp-content/uploads/2026/07/large-cropped-vacant-lot.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 4,
-      "read_time_min": 1,
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -156,37 +114,77 @@
       ],
       "section_scores": {
         "ai_entrepreneurship": 1,
-        "young_achievers": 2,
-        "limelight": 5,
-        "impact_innovation": 5
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 4
       },
-      "emoji_clue": "\ud83d\udcd6\ud83c\udfeb\ud83d\udc67\ud83d\udc66\ud83d\udcaf",
-      "headline_split": "This elementary school is achieving high reading scores ",
+      "emoji_clue": "\ud83c\udfda\ufe0f9\ufe0f\u20e3\ud83d\udd28\ud83c\udfe0",
+      "headline_split": "9 abandoned Oakland properties could become ",
       "fake_endings": [
-        "by learning through song",
-        "with zero homework"
+        "a vertical farm for local produce",
+        "a museum for children's art"
       ],
-      "fake_headline": "Kindergarten Class Starts Their Own Soup Kitchen, Feeds 500 Families",
-      "city": "Boone County"
+      "fake_headline": "Family Reunites Long-Lost Dog After 5 Years Using Microchip Found in Trash"
     },
     {
-      "id": "batch_20260718_165638__story_074",
-      "title": "UVU First in Utah to Unify Frontier AI Models in One Gateway, as Active Users Jump 31% in Week One",
-      "summary": "Utah Valley University launched the UVU AI Gateway, giving every employee secure access to multiple AI models in one place. Active users jumped 31% in the first week, thanks to hands-on training and 'AI Coaches' that bridge the gap between tech and real-world use.",
-      "extended_summary": "In one week, active users of UVU's new AI Gateway jumped 31%\u2014but the real magic was in the 'last mile' training. Instead of just launching software, UVU deployed AI Coaches for one-on-one help. During a workshop, a department leader, new to AI, nervously asked if she could build updated compliance training. 'She was dead on,' said Tyler Small of the Kahlert Institute. The gateway unifies ChatGPT, Claude, Gemini, and local models, making AI practical for everyone from administrators to professors.",
-      "category": "Discovery",
+      "id": "batch_20260727_194918__story_010",
+      "title": "Baltimore will turn 911 into more than just an emergency number",
+      "summary": "Baltimore is expanding 911 to include mobile crisis teams that send mental health clinicians instead of police. One woman who called for help avoided jail and got the care she needed.",
+      "extended_summary": "When a 38-year-old woman in Baltimore called 911 feeling overwhelmed and suicidal, she didn't get handcuffs\u2014she got a clinician. The dispatcher recognized she needed mental health support, not police, and sent a mobile crisis team. It's part of a city effort to transform 911 into a more holistic emergency response. The woman had been arrested just weeks earlier for acting erratically while trying to get help. This time, she met with a clinician and peer counselor in a parking lot, starting a path toward real care. Baltimore's system is becoming a model for other cities.",
+      "category": "Transformation",
       "categories": [
-        "Discovery"
+        "Transformation"
       ],
       "tones": [],
-      "source_url": "https://www.techbuzznews.com/uvu-first-in-utah-to-unify-ai-tools/",
-      "source_name": "techbuzznews.com",
-      "published_ts": 1784066405000,
-      "image_url": "https://storage.ghost.io/c/26/16/2616455e-be3a-46f1-a11e-812af2bc0f59/content/images/size/w1200/2026/07/Screenshot-2026-07-14-at-10.48.21---AM-1.png",
+      "source_url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
+      "source_name": "kiyu.com",
+      "published_ts": 1785161903000,
+      "image_url": "https://picsum.photos/seed/pre_0030/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfd9\ufe0f\ud83d\udcde\ud83c\udd98\u2795\ud83d\udca1",
+      "headline_split": "Baltimore will turn 911 into ",
+      "fake_endings": [
+        "a mental health crisis response line",
+        "a resource for non-emergency assistance"
+      ],
+      "fake_headline": "Police Department Starts Program to Give Free Bike Helmets to Children in Need",
+      "city": "Yukon-Koyukuk Census Area"
+    },
+    {
+      "id": "batch_20260727_194918__story_012",
+      "title": "Bringing Music to the Masses",
+      "summary": "Artcinia is bringing professional live performances to Philadelphia neighborhoods that often go overlooked. With over 200 concerts in 23 locations, they\u2019ve reached 9,000+ audience members\u2014all for just $5 to $15. Artists get paid fair wages, and the community gets access to world-class music.",
+      "extended_summary": "When Anthony Webb walked into a jazz concert, he didn't expect to leave writing poetry. But the vocals of Ruth Naomi Floyd moved him so deeply that he felt like a star. That's the magic Artcinia creates: high-quality arts in underserved neighborhoods. The nonprofit has produced 200+ concerts, always charging just enough to be accessible while paying artists a living wage. Co-director Jake Kelberman says they're modeling a world where culture thrives locally and everyone belongs.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://thephiladelphiacitizen.org/artcinia-bringing-music-to-the-masses/?utm_source=rss&utm_medium=rss&utm_campaign=artcinia-bringing-music-to-the-masses",
+      "source_name": "thephiladelphiacitizen.org",
+      "published_ts": 1784646003000,
+      "image_url": "https://thephiladelphiacitizen.org/wp-content/uploads/2026/07/Artcinia_HED.jpeg",
       "display_mode": "text",
       "display_reason": "headline needs summary support",
       "image_confidence": "high",
-      "visual_affinity": 2,
+      "visual_affinity": 3,
       "headline_pull": 2,
       "read_time_min": 8,
       "image_position": "center",
@@ -196,358 +194,81 @@
         "impact_innovation"
       ],
       "section_scores": {
-        "young_achievers": 2,
+        "young_achievers": 1,
         "ai_entrepreneurship": 1,
-        "impact_innovation": 5,
-        "limelight": 3
-      },
-      "emoji_clue": "\ud83e\udd16\ud83d\udd17\ud83c\udfe2\ud83d\udcc8",
-      "headline_split": "UVU First in Utah to Unify Frontier AI Models in One Gateway, ",
-      "fake_endings": [
-        "With 50% Reduction in Costs",
-        "Breaking National Records"
-      ],
-      "fake_headline": "Community College in Rural Nebraska Develops Revolutionary Solar Panel That Powers Whole Town"
-    },
-    {
-      "id": "batch_20260718_165638__story_061",
-      "title": "Women Who Weld: Empowering Detroit Women to Forge Careers in Welding Industry",
-      "summary": "Women Who Weld is changing Detroit's welding industry by training women for high-paying trades. Since 2014, the program has taught 750 participants through intensive weeklong classes, with support from foundations. Founder Samantha Farrugia started it after noticing the gender gap in fabrication labs.",
-      "extended_summary": "Samantha Farrugia was getting her master's in city planning when she fell in love with welding\u2014but noticed she was the only woman in the lab. So in 2014, she launched Women Who Weld, a program that has since trained 750 women in metro Detroit. For $800 (down from $3,000 with subsidies), students get a weeklong intensive in welding basics with a 2:1 instructor ratio. The Ralph C. Wilson Jr. Foundation and Berman Foundation help fund classes, including free sessions for low-income women. Graduates go on to become production welders, fabricators, and ironworkers\u2014transforming not just their careers but the industry's makeup.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://wrif.com/2026/07/15/women-who-weld-empowering-detroit-women-to-forge-careers-in-welding-industry/",
-      "source_name": "wrif.com",
-      "published_ts": 1784157240000,
-      "image_url": "https://wrif.com/uploads/2026/07/GettyImages-1430147126.jpg?auto=webp&width=2000&height=1333",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight"
-      ],
-      "section_scores": {
         "limelight": 5,
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 5,
-        "young_achievers": 4
+        "impact_innovation": 4
       },
-      "emoji_clue": "\ud83d\udc69\u200d\ud83d\udd27\ud83d\udd25\ud83d\udd27\ud83c\udfd9\ufe0f",
-      "headline_split": "Women Who Weld: Empowering Detroit Women to Forge ",
+      "emoji_clue": "\ud83c\udfb5 \ud83c\udfb6 \ud83c\udf0d \ud83c\udfbb",
+      "headline_split": "Bringing Music to the Masses: ",
       "fake_endings": [
-        "a Bright Future in Automotive Manufacturing",
-        "their Own Profitable Welding Shops"
+        "Free Concerts in Parks",
+        "Digital Library for All"
       ],
-      "fake_headline": "Former Inmates Find New Career Paths Through Urban Farming Program in Atlanta",
-      "city": "Wayne County"
+      "fake_headline": "Veterans Find New Purpose Through Woodworking Program for PTSD Recovery",
+      "city": "Philadelphia"
     },
     {
-      "id": "batch_20260718_165638__story_065",
-      "title": "Alabama Students Turn $1 Into Thousands Through School Entrepreneurship Challenge",
-      "summary": "Two dozen Alabama students turned $1 into over $2,000 in a weeklong entrepreneurship challenge. One student launched a pressure-washing business that earned $2,065 while balancing schoolwork. Their inspiring journeys are now featured in a documentary called 'Learn to Earn.'",
-      "extended_summary": "Darrick Ramsey started with a single dollar and seven days. By reconnecting with local business owners he'd met through his school's entrepreneurship program, he launched a pressure-washing and auto-detailing gig that pulled in $2,065\u2014all while keeping up with classes. 'I kind of overbooked myself,' he said, 'but I got to see the community coming together.' He wasn't alone: Alexis Jordan cleaned churches and sold pickle-flavored Kool-Aid to hit her goal. The challenge, run by an Alabama school, proved that creativity and hustle can turn pocket change into real profit. Their stories are now in the documentary 'Learn to Earn: A Student\u2019s Journey From $1 to $100.'",
+      "id": "batch_20260727_194918__story_013",
+      "title": "CNY youth participate in inaugural fire and EMS training weekend",
+      "summary": "Twenty-five cadets as young as 13 braved storms and heat for the first-ever Central New York Youth Fire and EMS Training Weekend. They learned stop-the-bleed, smoke-out simulations, and how to navigate cluttered homes. The program aims to train the next generation of volunteer firefighters.",
+      "extended_summary": "Storms and unhealthy air couldn't stop these cadets. For three days, 25 teens from 10 departments trained side-by-side at the Fairmount Fire Training Center. They practiced stop-the-bleed, navigated smoke-filled rooms, and moved through heavily cluttered homes\u2014skills their mentors say are critical for real rescues. Founder Mark Swing started as a cadet himself at 14, later becoming a fire chief. Now he's paying it forward, building the county's future firefighting force one drill at a time.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://www.blackenterprise.com/alabama-students-entrepreneurship-challenge/",
-      "source_name": "blackenterprise.com",
-      "published_ts": 1784245520000,
-      "image_url": "https://blackenterprise-prod.b-cdn.net/wp-content/blogs.dir/1/files/2023/11/GettyImages-1415424431.jpg",
+      "source_url": "https://www.nny360.com/kidscontent/cny-youth-participate-in-inaugural-fire-and-ems-training-weekend/article_728bea7d-e914-53ec-bab0-a4d0e04e8538.html",
+      "source_name": "nny360.com",
+      "published_ts": 1784996100000,
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/a/2f/a2f6f664-b003-58e0-9e33-d258caa617c8/6a63eb392e95f.image.jpg?crop=1774%2C931%2C0%2C118&resize=1200%2C630&order=crop%2Cresize",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 4,
-      "headline_pull": 4,
-      "read_time_min": 2,
+      "headline_pull": 3,
+      "read_time_min": 4,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "limelight"
+        "limelight",
+        "impact_innovation"
       ],
       "section_scores": {
         "ai_entrepreneurship": 1,
-        "limelight": 2,
+        "young_achievers": 1,
         "impact_innovation": 4,
-        "young_achievers": 3
+        "limelight": 5
       },
-      "emoji_clue": "\ud83e\uddd1\u200d\ud83c\udf93\ud83d\udcb5\ud83d\udcc8\ud83c\udfc6",
-      "headline_split": "Alabama Students Turn $1 Into Thousands Through ",
+      "emoji_clue": "\ud83d\ude92 \ud83d\udc68\u200d\ud83d\ude92 \ud83d\udc69\u200d\ud83d\ude92 \ud83d\udd25 \ud83c\udf93",
+      "headline_split": "CNY youth participate in inaugural fire and EMS training ",
       "fake_endings": [
-        "School District Financial Literacy Project",
-        "Statewide Young Entrepreneurs Expo"
+        "boot camp for teens",
+        "weekend at the academy"
       ],
-      "fake_headline": "California Teens Launch Nonprofit to Deliver Solar-Powered Lights to Off-Grid Villages",
-      "city": "New York"
+      "fake_headline": "Local Librarian Transforms Old Bookmobile Into Mobile STEM Lab for Rural Schools",
+      "city": "Mexico"
     },
     {
-      "id": "batch_20260718_165638__story_075",
-      "title": "Beetles, be gone!",
-      "summary": "Mesa County's aggressive effort to eradicate Japanese beetles is working\u2014trap counts dropped from 5,700 adults in the first year to just 350 so far this year. The campaign is protecting orchards and vineyards from widespread infestation.",
-      "extended_summary": "Japanese beetles were first spotted in Mesa County in 2022, threatening the Grand Valley's orchards and vineyards. Officials launched an eradication campaign, and the numbers are staggering: the first year's treatment caught 5,700 adults, last year 1,500, and this year only 350 so far. 'It's an encouraging sign,' said pest coordinator Ryan Surad. By stopping the beetle before it becomes established, the county avoids heavy future pesticide use, protecting both crops and the environment.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://thebusinesstimes.com/beetles-be-gone/",
-      "source_name": "thebusinesstimes.com",
-      "published_ts": 1784081439000,
-      "image_url": "https://thebusinesstimes.com/wp-content/uploads/japanese-beetle-1.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 2,
-        "limelight": 1,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83d\udc1e\ud83d\udeab\ud83c\udfe0",
-      "headline_split": "Beetles, be ",
-      "fake_endings": [
-        "banished!",
-        "no more!"
-      ],
-      "fake_headline": "Mice, Move Out! How One City Used Ultrasonic Devices to Evict Rodents Humanely",
-      "city": "Grand Junction"
-    },
-    {
-      "id": "batch_20260718_165638__story_005",
-      "title": "Bike program teaching central Illinois kids how to ride",
-      "summary": "The All Kids Bike program is putting bikes in kindergarten PE classes across central Illinois. With 24 bikes and structured lessons, it's giving a quarter of kids who never learned to ride the chance to pedal with confidence\u2014and keep the bikes for a decade.",
-      "extended_summary": "In Decatur, Illinois, kindergarteners are learning to ride bikes in PE class thanks to the Strider Education Foundation's All Kids Bike program. Executive Director Lisa Weyer says one in four kids don't get that chance at home. Now, six elementary schools in central Illinois have received 24 bikes, helmets, and eight lessons\u2014and the bikes last about 10 years. At Feitshans Elementary in Springfield, fundraising is underway to join. The smiles when kids see those bikes for the first time? That's the moment it all clicks.",
+      "id": "batch_20260727_194918__story_014",
+      "title": "Can Wisconsin\u2019s health apprenticeships become a national model? UW Health thinks so",
+      "summary": "Violet LaClair wanted a career change but had no time or money for school. UW Health\u2019s apprenticeship program let her train as a medical assistant for free while working. Now she\u2019s earning, learning, and discovering a whole new chapter in her 40s.",
+      "extended_summary": "Violet LaClair had spent four years as a CNA, winning awards for extraordinary care. Even so, she felt stuck\u2014no degree, no savings, and no way to go back to school. Then she learned about UW Health's apprenticeship: free training for medical assistants, with pay during class time. Now she takes blood pressure, flushes ears, and does whatever the doctor needs. The program gave her a second shot at a career she loves, proving it's never too late to level up.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://capitolcitynow.com/news/248842-bike-program-teaching-central-illinois-kids-how-to-ride/",
-      "source_name": "wtax.com",
-      "published_ts": 1784225137000,
-      "image_url": "https://capitolcitynow.com/wp-content/blogs.dir/284/files/2024/05/HARVARD-PARK-BIKE-scaled-1-e1784205462616.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 3,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 1,
-        "ai_entrepreneurship": 1,
-        "limelight": 5,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83d\udeb2\ud83d\udc66\ud83d\udc67\ud83c\udf3d",
-      "headline_split": "Bike program teaching central Illinois kids ",
-      "fake_endings": [
-        "about road safety",
-        "to perform tricks"
-      ],
-      "fake_headline": "Free Swimming Lessons for Underserved Youth at Local YMCA",
-      "city": "Sangamon County"
-    },
-    {
-      "id": "batch_20260718_165638__story_009",
-      "title": "Champions of Potomac River mussels summon a \u2018science barge\u2019",
-      "summary": "The Potomac Riverkeeper Network launched a 'science barge' to grow thousands of mussels at National Harbor. These filter feeders clean pollutants from the water, and the new floating upwellers allow researchers to study water quality and ecosystem restoration at a much larger scale.",
-      "extended_summary": "An 80-foot-by-30-foot barge now sits at National Harbor, floating above cages that hold up to 4,000 mussels at a time. These aren't just any mussels\u2014they're the Potomac Riverkeeper Network's secret weapon for cleaner water. Like oysters, mussels filter out nutrients and sediment, so growing them in 'floating upwellers' keeps them off the river bottom where they'd get smothered. The new barge expands the '50 Million Mussel Project' launched in 2019, and now researchers from Virginia Tech and Georgetown can study water quality and ecosystem services at a scale that was impossible before.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://southernmarylandchronicle.com/2026/07/17/champions-of-potomac-river-mussels-summon-a-science-barge/",
-      "source_name": "southernmarylandchronicle.com",
-      "published_ts": 1784329200000,
-      "image_url": "https://i0.wp.com/southernmarylandchronicle.com/wp-content/uploads/2026/07/6a59217a0d6c8.image_.png?fit=1200%2C675&ssl=1",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 3,
-      "read_time_min": 2,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 1,
-        "ai_entrepreneurship": 1,
-        "limelight": 5,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83d\udc1a\ud83c\udf0a\ud83d\udd2c\u26f5\ufe0f",
-      "headline_split": "Champions of Potomac River mussels summon a ",
-      "fake_endings": [
-        "cleanup crew",
-        "team of divers"
-      ],
-      "fake_headline": "Volunteers Plant 10,000 Trees Along Mississippi River"
-    },
-    {
-      "id": "batch_20260718_165638__story_022",
-      "title": "From The Bronx to the Battery, More Funding for Free Swim Lessons",
-      "summary": "New York City is doubling down on water safety: $1.5 million in new funding will expand free swim lessons to 9,000 second graders next year. The Wave Makers program aims to teach every second grader across the city to swim, preventing drownings and building confidence.",
-      "extended_summary": "Every summer, drownings make headlines \u2014 but New York City is taking action. The City Council just allocated $1.5 million to Wave Makers, a nonprofit that provides free swim lessons to public school second graders. The program, which started two years ago with a goal of teaching 2,000 kids, now reaches 6,000 and is expanding to 9,000. With lessons at 15 pools citywide, the long-term vision is universal swim instruction for every second grader. Because knowing how to swim isn't a luxury \u2014 it's a life-saving skill.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://www.thecityreporter.nyc/2026/07/14/swim-lessons-funding-ny-city-council-wave-makers/",
-      "source_name": "thecity.nyc",
-      "published_ts": 1784037600000,
-      "image_url": "https://www.thecityreporter.nyc/wp-content/uploads/2026/07/council-member-shekar-krishnan-holds-wave-makers-press-conference_53859633693_o-scaled.jpg",
+      "source_url": "https://milwaukeenns.org/2026/07/23/wisconsin-health-care-apprenticeships-national-model-uw-health-workforward-careers/",
+      "source_name": "milwaukeenns.org",
+      "published_ts": 1784862000000,
+      "image_url": "https://i0.wp.com/milwaukeenns.org/wp-content/uploads/2026/07/asseApprenticeship-NMahon14-scaled-1.jpg?fit=2560%2C1708&ssl=1",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 1,
-        "ai_entrepreneurship": 1,
-        "limelight": 5,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83d\ude87\ud83c\udfca\u200d\u2642\ufe0f\ud83d\udcb5",
-      "headline_split": "From The Bronx to the Battery, More Funding for ",
-      "fake_endings": [
-        "After-School Music Programs",
-        "Community Garden Plots"
-      ],
-      "fake_headline": "Brooklyn Nonprofit Distributes 10,000 Winter Coats to Homeless Shelters"
-    },
-    {
-      "id": "batch_20260718_165638__story_076",
-      "title": "Galloway method attracts runners of all levels",
-      "summary": "The Galloway Method\u2014alternating 30 seconds of running with 30 seconds of walking\u2014has helped thousands of runners, including 62-year-old Maria Matney, who went from struggling with a 5K to training for a full marathon. The Toledo Area Galloway Group provides a supportive community for all fitness levels.",
-      "extended_summary": "When 62-year-old Maria Matney started running again after six years off, completing a 5K felt like a stretch. Two years later, she's training for a full marathon. Her secret? The Galloway Run-Walk-Run method, which uses 30-second intervals to keep heart rates manageable. 'It was a game changer,' she says. The program, founded by Olympic runner Jeff Galloway, has been around since 1973 and now includes local groups like TAGG in Toledo, where runners of all abilities find structure and camaraderie.",
-      "category": "Sports",
-      "categories": [
-        "Sports"
-      ],
-      "tones": [],
-      "source_url": "https://toledofreepress.com/galloway-method-attracts-runners-of-all-levels/",
-      "source_name": "toledofreepress.com",
-      "published_ts": 1784320020000,
-      "image_url": "https://toledofreepress.com/wp-content/uploads/2026/07/running.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 1,
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 4,
-        "limelight": 2
-      },
-      "emoji_clue": "\ud83c\udfc3\u200d\u2642\ufe0f\ud83c\udfc3\u200d\u2640\ufe0f\ud83d\udcc8\ud83d\udccd",
-      "headline_split": "Galloway method attracts ",
-      "fake_endings": [
-        "thousands of new fans",
-        "celebrities and athletes"
-      ],
-      "fake_headline": "Running Backwards Becomes New Fitness Trend: Improves Balance and Burns More Calories"
-    },
-    {
-      "id": "batch_20260718_165638__story_077",
-      "title": "How Artificial Intelligence Could Accelerate Alzheimer\u2019s Diagnosis and Discoveries",
-      "summary": "New AI tools presented at the Alzheimer\u2019s Association International Conference can detect early signs of the disease up to 15 years before diagnosis by analyzing doctor's notes. Researchers hope this will speed up prevention and treatment breakthroughs.",
-      "extended_summary": "For 20 years, Alzheimer\u2019s patients have been forced into diagnostic boxes\u2014but AI is breaking them open. At the AAIC in London, researchers showed that an AI model trained on 60,000 veterans' health records can spot keywords linked to memory loss and cognitive changes up to 15 years before a formal diagnosis. 'It could change how we prevent Alzheimer\u2019s,' said MIT researcher Adri\u00e1n Noriega de la Colina. Other tools are extracting richer data from simple brain scans and accelerating experiments, offering new hope for earlier intervention.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://beingpatient.com/how-ai-could-accelerate-alzheimers-diagnosis-and-research/",
-      "source_name": "beingpatient.com",
-      "published_ts": 1783987787000,
-      "image_url": "https://beingpatient.com/wp-content/uploads/2026/07/AI.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 7,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "limelight": 2,
-        "young_achievers": 1,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83e\udde0\ud83e\udd16\ud83d\udd2c\u23e9",
-      "headline_split": "How Artificial Intelligence Could Accelerate ",
-      "fake_endings": [
-        "Climate Change Solutions",
-        "Cancer Treatment Breakthroughs"
-      ],
-      "fake_headline": "AI Helps Rescue Rare Species by Analyzing Thousands of Hours of Forest Audio"
-    },
-    {
-      "id": "batch_20260718_165638__story_031",
-      "title": "Humane Society Teams Up With Local Pilot To Fly 70 Cats To Their Forever Homes",
-      "summary": "70 cats and kittens are flying from Chattanooga to Pennsylvania on a private plane, thanks to a retired Air Force pilot. The transport frees up space in an overcrowded shelter, giving more animals a chance at adoption.",
-      "extended_summary": "On Tuesday morning, 70 cats and kittens will board a private plane piloted by retired Air Force veteran Keith Felter, bound for a shelter in Pennsylvania with higher demand. This massive relocation is one of the largest in the Humane Educational Society's history, and it means every cat that leaves creates room for another animal in need. The cats will be prepared for adoption upon arrival.",
-      "category": "Rescue",
-      "categories": [
-        "Rescue"
-      ],
-      "tones": [],
-      "source_url": "https://www.chattanoogapulse.com/citylife/news/hes-teams-up-with-local-pilot-to-fly-70-cats-to-their-foreve/",
-      "source_name": "chattanoogapulse.com",
-      "published_ts": 1783787400000,
-      "image_url": "https://www.chattanoogapulse.com/downloads/39475/download/hes.png?cb=8fc7bfc07d33db5b100a8c82fb98f87e&w=700",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 5,
       "headline_pull": 4,
-      "read_time_min": 2,
+      "read_time_min": 27,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -555,126 +276,162 @@
         "impact_innovation"
       ],
       "section_scores": {
-        "ai_entrepreneurship": 1,
         "young_achievers": 1,
+        "ai_entrepreneurship": 1,
         "limelight": 5,
         "impact_innovation": 4
       },
-      "emoji_clue": "\ud83d\udc31\u2708\ufe0f\ud83c\udfe1\ud83d\udc95",
-      "headline_split": "Humane Society Teams Up With Local Pilot To Fly",
+      "emoji_clue": "\ud83c\udfe5 \ud83d\udcda \ud83c\udf0d \ud83d\uddfa\ufe0f",
+      "headline_split": "Can Wisconsin\u2019s health apprenticeships become a national model? ",
       "fake_endings": [
-        "100 Dogs to a New Shelter",
-        "Medical Kits to Neighboring States"
+        "Other states are watching closely",
+        "Federal funding may be on the way"
       ],
-      "fake_headline": "Local Teen Starts Free Tutoring Program for Underprivileged Kids",
-      "city": "Chattanooga"
+      "fake_headline": "Community Garden in Detroit Provides Fresh Produce to 500 Families Weekly"
     },
     {
-      "id": "batch_20260718_165638__story_078",
-      "title": "Young Boys Saved From Fire by a Trash Dumpster",
-      "summary": "When a house fire trapped two young boys upstairs, Oakland County Sheriff deputies arrived first\u2014and used a residential trash dumpster to reach them. The quick-thinking improvisation saved both children, and firefighters rescued the family dog as well.",
-      "extended_summary": "Deputy Musse arrived at the burning house to find two children trapped in a smoke-filled upstairs bedroom. No ladder in sight, he and another deputy dragged a residential trash dumpster over, climbed on top, and reached up to pull the boys out one by one. 'That was quick thinking,' said the sheriff's department. Firefighters arrived to extinguish the flames and also rescued the family dog, who is doing well. The improvised rescue averted a tragedy and turned an ordinary dumpster into a lifesaving tool.",
-      "category": "Rescue",
+      "id": "batch_20260727_194918__story_075",
+      "title": "Flamingos Thriving at SF Zoo After Hatching of First Four Chicks In Nine Years",
+      "summary": "For the first time in nine years, Chilean flamingos at the San Francisco Zoo hatched four chicks\u2014thanks to a mesh netting enclosure that lets them stay outdoors. Their natural nesting behavior returned, proving small changes can spark big comebacks.",
+      "extended_summary": "After a decade of zero chicks, the SF Zoo's flamingo flock is booming. The key? A mesh netting enclosure that replaced nightly herding indoors, allowing the birds to stay outside 24/7. Zookeepers used Major League baseball dirt (Dura Pitch) to build perfect nesting mounds, and soon four fluffy chicks emerged. This is a story of patience and tiny tweaks\u2014like letting flamingos be flamingos\u2014that turned a flamboyance into a family. The chicks are thriving, and the zoo's pink residents are back in business.",
+      "category": "Transformation",
       "categories": [
-        "Rescue"
+        "Transformation"
       ],
       "tones": [
         "Surprise"
       ],
-      "source_url": "https://rivergrandrapids.com/children-rescued-burning-home-oakland-county/",
-      "source_name": "rivergrandrapids.com",
-      "published_ts": 1784320136000,
-      "image_url": "https://townsquare.media/site/45/files/2026/07/attachment-oakland-sheriff-1.JPG?w=1200&format=natural",
+      "source_url": "https://sfist.com/2026/07/24/flamingos-thriving-at-sf-zoo-after-hatching-of-first-four-chicks-in-ten-years/",
+      "source_name": "sfist.com",
+      "published_ts": 1784936344000,
+      "image_url": "https://img.sfist.com/2026/07/sf-zoo-chilean-flamingo-chicks-1.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 5,
       "headline_pull": 5,
-      "read_time_min": 2,
+      "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "limelight",
         "impact_innovation"
       ],
       "section_scores": {
         "ai_entrepreneurship": 1,
-        "young_achievers": 2,
-        "limelight": 5,
+        "young_achievers": 1,
+        "limelight": 2,
         "impact_innovation": 4
       },
-      "emoji_clue": "\ud83d\udc66\ud83d\udd25\ud83c\udd98\ud83d\uddd1\ufe0f",
-      "headline_split": "Young Boys Saved From Fire by ",
+      "emoji_clue": "\ud83e\udda9\ud83d\udc234\ufe0f\u20e3\ud83c\udf89",
+      "headline_split": "Flamingos Thriving at SF Zoo After Hatching of First Four Chicks ",
       "fake_endings": [
-        "a Quick-Thinking Neighbor",
-        "a Rescue Dog"
+        "thanks to a viral social media campaign",
+        "after a record-breaking heatwave"
       ],
-      "fake_headline": "Toddler Found Safe After Wandering Into Forest, Guided Home by a Group of Deer",
-      "city": "Kent County"
+      "fake_headline": "Man Hikes Appalachian Trail at 75, Completes Journey with Help from Strangers"
     },
     {
-      "id": "batch_20260718_165638__story_079",
-      "title": "Youth Call Shots on $500K Funds",
-      "summary": "Thanks to youth-led campaigning for Measure US, an oil production tax, Long Beach kids now have a $500,000 budget to allocate. The Youth Power Participatory Budgeting process lets kids as young as eight decide funding for community programs, shifting power to the next generation.",
-      "extended_summary": "For decades, young people in Long Beach were told they had no voice in city spending. Now, kids as young as eight are voting on where half a million dollars goes. The breakthrough came after youth organizers campaigned for Measure US, an oil tax that created the city's first Office of Youth Development and Children and Youth Fund. 'Youth are so powerful\u2014they're ready to lead,' said Maggie Quan of Khmer Girls in Action. The process lets young people set priorities, develop proposals, and vote, proving that meaningful resources can transform civic engagement.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://precinctreporter.com/2026/07/17/youth-call-shots-on-500k-funds/",
-      "source_name": "precinctreporter.com",
-      "published_ts": 1784274191000,
-      "image_url": "https://precinctreporter.com/wp-content/uploads/2026/07/LB-Khmer-Budget-Project-Developmentx-web.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "limelight": 5,
-        "young_achievers": 2,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83d\udcb5\ud83d\uddf3\ufe0f",
-      "headline_split": "Youth Call Shots on ",
-      "fake_endings": [
-        "Local Park Renovations",
-        "City Budget Priorities"
-      ],
-      "fake_headline": "Teens Design and Build Tiny Library for Homeless Community, Stocked with Donated Books",
-      "city": "San Bernardino"
-    },
-    {
-      "id": "batch_20260718_165638__story_080",
-      "title": "\u2018You can see God\u2019s hand in it\u2019: How Milwaukee women are building a double Dutch community through sisterhood and fitness",
-      "summary": "Milwaukee's 40+ Double Dutch Club brings women over 40 together to jump rope, building a sisterhood that improves fitness, mental health, and confidence in aging. The organization, started in Chicago by Pamela Robinson, now has hundreds of chapters nationwide.",
-      "extended_summary": "When Pamela Robinson was battling depression, she posted on social media asking women to join her jumping double Dutch. She told a friend, 'If no one comes, we'll tie the ropes to a fence and jump together.' But friends showed up, and the 40+ Double Dutch Club was born. Now with hundreds of chapters, including Milwaukee's led by Angela Scott, the club uses a simple plastic clothesline to connect women, improve their health, and build spiritual resilience. 'You can see God\u2019s hand in it,' Scott says. The club transforms aging into a celebration of movement and sisterhood.",
+      "id": "batch_20260727_194918__story_029",
+      "title": "It Started as a Way for Benton County\u2019s Girls to Compete as Rodeo Athletes, Now it\u2019s Being Nationally Recognized",
+      "summary": "What started as a local effort to give girls more rodeo opportunities has grown into a nationally recognized event. The Larry Bell Memorial All Girls Rodeo in Benton County is now an official qualifier for the Premier Women's Rodeo Championship. Young cowgirls can now compete close to home and earn a shot at the national stage.",
+      "extended_summary": "The Larry Bell Memorial All Girls Rodeo, born from a simple desire to create opportunities for girls in Benton County, has reached a new milestone. Partnering with Premier Women's Rodeo, the event now serves as an official qualifier for a national championship in Fort Worth, Texas. For rodeo committee chair Nicole Schrock, this recognition validates years of building a platform where young women can showcase their skills. The rodeo honors the legacy of Larry Bell, whose passion for youth and agriculture helped shape the community's rodeo culture, and it inspires a new generation of cowgirls to dream big.",
       "category": "Sports",
       "categories": [
         "Sports"
       ],
-      "tones": [
-        "Spiritual"
+      "tones": [],
+      "source_url": "https://corvallisadvocate.com/it-started-as-a-way-for-benton-countys-girls-to-compete-as-rodeo-athletes-now-its-being-nationally-recognized/",
+      "source_name": "corvallisadvocate.com",
+      "published_ts": 1784776487000,
+      "image_url": "https://corvallisadvocate.com/wp-content/uploads/2026/07/Benton-County-Rodeo-Girls-Competition.png",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
       ],
-      "source_url": "https://wisconsinwatch.org/2026/07/milwaukee-women-double-dutch-jump-rope-club-community-sisterhood-fitness/",
-      "source_name": "wisconsinwatch.org",
-      "published_ts": 1784304000000,
-      "image_url": "https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/07/G86A8318-1-scaled-1.jpg?fit=1200%2C801&quality=100&ssl=1",
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83e\udd20\ud83d\udc04\ud83d\udc67\ud83c\udfc6\ud83c\uddfa\ud83c\uddf8",
+      "headline_split": "It Started as a Way for Benton County\u2019s Girls to Compete as Rodeo Athletes, Now it\u2019s Being ",
+      "fake_endings": [
+        "a Major Media Sensation",
+        "Funded by the Federal Government"
+      ],
+      "fake_headline": "1,000 Volunteers Build Playground for Underserved Community in Just One Weekend",
+      "city": "Corvallis"
+    },
+    {
+      "id": "batch_20260727_194918__story_076",
+      "title": "Long Island tremor patients have access to fast-acting treatment",
+      "summary": "Northwell Health on Long Island now uses MRI-guided focused ultrasound to treat tremors in a single session\u2014no surgery needed. The noninvasive procedure zaps faulty brain pathways, giving patients same-day relief from uncontrollable shaking.",
+      "extended_summary": "For tremor patients on Long Island, relief used to mean a trip to Manhattan. Now Northwell Health offers MRI-guided focused ultrasound, a noninvasive treatment that targets the brain's errant nerve signals with heat\u2014creating a tiny 'roadblock' to stop tremors. Dr. Albert Fenoy says the technology lets them see the brain in real time, then deliver precise ultrasound beams through the skull. Patients see improvement the same day, with no incisions or recovery time. It's a game-changer for essential tremor and Parkinson's patients who've struggled for years.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.longislandpress.com/2026/07/27/tremor-treatment/",
+      "source_name": "massapequaobserver.com",
+      "published_ts": 1785185995000,
+      "image_url": "https://www.longislandpress.com/wp-content/uploads/2026/07/Northwell-HIFU-MEDIA.jpg?w=1200&p=q",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 4,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83d\udc8a\u26a1\u2705",
+      "headline_split": "Long Island tremor patients have access to ",
+      "fake_endings": [
+        "a support group for caregivers",
+        "a breakthrough gene therapy"
+      ],
+      "fake_headline": "Doctor Develops Wearable Device That Predicts Seizures 30 Minutes in Advance",
+      "city": "East Massapequa"
+    },
+    {
+      "id": "batch_20260727_194918__story_036",
+      "title": "Lynn pet owners can breathe easier",
+      "summary": "The Lynn Fire Department now has 70 animal oxygen masks thanks to a fundraiser by All Creatures Veterinary Hospital. The Wag'N O2 Fur Life packs come in three sizes that can fit anything from a small bird to a large dog. Fire Chief Daniel Sullivan says most homes they respond to have pets, and these masks give those animals a fighting chance against smoke inhalation.",
+      "extended_summary": "When a house fire breaks out, pets often don't make it out alive\u201440,000 die from smoke inhalation each year. But Lynn's fire department now has 70 animal oxygen masks donated by All Creatures Veterinary Hospital. The masks come in small, medium, and large, designed to fit snouts perfectly so that oxygen reaches the lungs. Dr. Sarah Dixon says even the smallest mask can fit a bird. For Fire Chief Daniel Sullivan, it's a tool that could turn tragic rescues into second chances.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://itemlive.com/2026/07/26/lynn-pet-owners-can-breathe-easier/",
+      "source_name": "itemlive.com",
+      "published_ts": 1785109497000,
+      "image_url": "https://itemlive.com/wp-content/uploads/2026/07/IMG_2413-2_web.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 4,
-      "read_time_min": 22,
+      "read_time_min": 4,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -682,39 +439,286 @@
         "impact_innovation"
       ],
       "section_scores": {
-        "limelight": 5,
         "young_achievers": 1,
         "ai_entrepreneurship": 1,
+        "limelight": 5,
         "impact_innovation": 4
       },
-      "emoji_clue": "\ud83d\ude4f\ud83c\udffe\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67\ud83d\udc83",
-      "headline_split": "\u2018You can see God\u2019s hand in it\u2019: How Milwaukee women are building ",
+      "emoji_clue": "\ud83d\udc36\ud83d\udc31\ud83d\udca8\ud83d\ude0c",
+      "headline_split": "Lynn pet owners can breathe ",
       "fake_endings": [
-        "a new church together",
-        "a thriving business network"
+        "freely again",
+        "in clean air"
       ],
-      "fake_headline": "Women in Detroit Revive the Art of Quilting, Creating a Support Network and Selling to High Fashion"
+      "fake_headline": "City Installs Air Purifiers in Public Parks, Asthma Rates Drop by 30%",
+      "city": "Lynn"
     },
     {
-      "id": "batch_20260718_165638__story_006",
-      "title": "Black Cultural Zone buys vacant East Oakland lot for $10",
-      "summary": "An Oakland nonprofit bought a vacant lot that sat empty for 30 years for just $10. The Black Cultural Zone plans to build affordable housing on the site, using a tax-sale process to turn a $1.7 million debt into a community asset.",
-      "extended_summary": "For three decades, the lot at MacArthur and 83rd sat overgrown, collecting $1.7 million in back taxes and fines. No one wanted it. Then the Black Cultural Zone stepped in with $10. Through a Chapter 8 tax sale, Alameda County transferred the property to the nonprofit, which plans to build affordable housing on the site. Supervisor Nate Miley called it a 'strategy we earnestly want to pursue.' The BCZ already has Liberation Park less than a mile away\u2014now they're turning another eyesore into homes for the community.",
+      "id": "batch_20260727_194918__story_039",
+      "title": "NJ teen turns backyard gardens into lifeline for hungry families",
+      "summary": "When Caroline Sahm learned her local food pantry struggled to get fresh produce, she started Westfield Seeds of Change at age 13. The 16-year-old collects surplus fruits and veggies from neighbors' gardens and delivers them to St. James Food Pantry. So far she's donated 600 pounds, and she's not stopping\u2014because no garden should let food go to waste while families go hungry.",
+      "extended_summary": "At 13, Caroline Sahm learned that St. James Food Pantry couldn't consistently get fresh produce. Meanwhile, her family garden was overflowing. So she started Westfield Seeds of Change, asking neighbors to donate excess from their backyard gardens. Now 16, she's collected 600 pounds of fruits and vegetables. The Westfield junior drives the donations to the pantry herself, ensuring that what's left unpicked in summer gardens ends up on tables instead of in compost. She's aiming to grow even more.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://oaklandside.org/2026/07/15/black-cultural-zone-tax-default-macarthur-oakland/",
-      "source_name": "oaklandside.org",
-      "published_ts": 1784150228000,
-      "image_url": "https://oaklandside.org/wp-content/uploads/2026/07/large-macarthur-vacant-lot-5.jpg",
+      "tones": [],
+      "source_url": "https://wpst.com/ixp/385/p/westfield-seeds-change-nonprofit/",
+      "source_name": "wpst.com",
+      "published_ts": 1784937289000,
+      "image_url": "https://townsquare.media/site/385/files/2026/07/attachment-veggies-5.jpg?w=1200&q=75&format=natural",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf31\ud83c\udfe1\ud83c\udf45\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "headline_split": "NJ teen turns backyard gardens into lifeline ",
+      "fake_endings": [
+        "for local shelters",
+        "for school lunches"
+      ],
+      "fake_headline": "Teenager Invents Edible Cutlery to Reduce Plastic Waste, Wins National Science Fair",
+      "city": "Mercer County"
+    },
+    {
+      "id": "batch_20260727_194918__story_077",
+      "title": "New York\u2019s food carts are going electric in clean air trial",
+      "summary": "New York City is testing battery-powered food carts in a six-month pilot, replacing noisy, polluting gas generators. One vendor says the swap made his workday quieter and cleaner\u2014and if scaled, it could cut emissions like removing 30,000 cars annually.",
+      "extended_summary": "William Arevalo's food cart used to roar with a gasoline generator\u2014now it hums on rechargeable batteries. He's one of 10 vendors in NYC's pilot to swap dirty gen-sets for clean power. The swappable battery packs run freezers, fryers, and fans for five hours, then recharge at depot stations. If all 20,500 licensed carts go electric, the city says it would cut pollution equal to taking 30,000 cars off the road every year. For Arevalo, it's not just environmental\u2014it's a quieter, healthier workday on the streets of New York.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.digitaltrends.com/outdoors/new-yorks-food-carts-are-going-electric-in-clean-air-trial/",
+      "source_name": "digitaltrends.com",
+      "published_ts": 1785131504000,
+      "image_url": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-27T061845.079.jpg?resize=1200%2C630",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 5,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83d\ude9a\u26a1\ud83c\udf43",
+      "headline_split": "New York\u2019s food carts are going electric in ",
+      "fake_endings": [
+        "a bid to reduce noise pollution",
+        "a city-wide smart grid test"
+      ],
+      "fake_headline": "Bus Driver Turns Old School Bus into Mobile Library for Homeless Children"
+    },
+    {
+      "id": "batch_20260727_194918__story_043",
+      "title": "Northern Virginia homeowners are hiring a flock of sheep instead of a lawn service",
+      "summary": "Shepherd Cory Suter's Babydoll Southdown sheep are the new lawnmowers in Northern Virginia. They chow down poison ivy and invasive vines \u2014 and they're fun to watch. A two-hour session costs $195 on weekdays.",
+      "extended_summary": "Stephanie Brander had a ravine full of vines she couldn't beat. So she hired sheep. Cory Suter's Lamb Mowers brings Babydoll Southdown sheep (adorable, knee-high teddy bears) to suburban yards where they eat poison ivy, kudzu, and knotweed faster than any human. Suter started with three sheep in his wife's Prius in 2016; now he rents them out for $195-$295 per session. Homeowners keep their kids home from school to watch the fluffy crew work. It's landscaping that's effective, chemical-free, and impossible to scroll past.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://www.upworthy.com/pn-lamb-mowers-sheep-lawn-virginia/",
+      "source_name": "upworthy.com",
+      "published_ts": 1785014538000,
+      "image_url": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/07/preview-5.png",
+      "display_mode": "image",
+      "display_reason": "medium image but highly visual story",
+      "image_confidence": "medium",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 3,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfe0\ud83d\udc11\ud83c\udf31\ud83d\udeab",
+      "headline_split": "Northern Virginia homeowners are hiring a flock of sheep ",
+      "fake_endings": [
+        "to help with landscaping",
+        "to provide wool for knitting"
+      ],
+      "fake_headline": "New Jersey Town Uses Goats to Clear Overgrown Lots and Save Taxpayer Money"
+    },
+    {
+      "id": "batch_20260727_194918__story_046",
+      "title": "Residents Move from Oakwood Park Encampment into Hotel Rooms Under Durham Rehousing Initiative",
+      "summary": "All 18 people living in an encampment at Durham's Oakwood Park accepted offers of hotel rooms and case management to move toward permanent housing. The city's rehousing initiative pairs them with a 'housing sprint' to find stable homes within a year.",
+      "extended_summary": "On Tuesday morning, Durham's Community Safety Department met 18 individuals at Oakwood Park and offered them hotel rooms \u2014 each with their own air conditioning unit. Everyone accepted. The move is part of a five-year plan to make homelessness 'rare and brief.' For the next six weeks, each person works with a case manager in a 'housing sprint' to secure permanent housing, whether an apartment, a roommate situation, or family reunification. The program supports them for a full year, helping with employment and healthcare to ensure long-term stability.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://indyweek.com/news/residents-move-from-oakwood-park-encampment-into-hotel-rooms-under-durham-rehousing-initiative/",
+      "source_name": "indyweek.com",
+      "published_ts": 1784937600000,
+      "image_url": "https://i0.wp.com/indyweek.com/wp-content/uploads/2026/07/Encampment-scaled.jpg?fit=2560%2C1920&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfd5\ufe0f\u27a1\ufe0f\ud83c\udfe8\ud83e\udd1d",
+      "headline_split": "Residents Move from Oakwood Park Encampment into Hotel Rooms ",
+      "fake_endings": [
+        "with support from local charities",
+        "in partnership with city council"
+      ],
+      "fake_headline": "City Turns Abandoned School into Affordable Housing for Teachers",
+      "city": "Durham"
+    },
+    {
+      "id": "batch_20260727_194918__story_072",
+      "title": "Simple tweaks can make wastewater treatment less polluting",
+      "summary": "Wastewater treatment plants can accidentally release nitrous oxide, a powerful greenhouse gas. But Cobalt Water Global uses machine learning to tweak the process\u2014like aerating less\u2014and cut emissions by up to 90%, turning a pollution problem into a climate win.",
+      "extended_summary": "Nitrous oxide, a potent global warming and ozone-depleting gas, is an unintended byproduct of wastewater treatment. But Jose Porro's company Cobalt Water Global has found that simple adjustments\u2014like reducing aeration at certain times\u2014can slash emissions by 80-90%. Using machine learning to monitor and fine-tune the microbes that break down nitrogen, utilities can clean water without adding to atmospheric pollution. It's a low-tech fix with huge potential for every treatment plant on the planet.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://yaleclimateconnections.org/2026/07/simple-tweaks-can-make-wastewater-treatment-less-polluting/",
+      "source_name": "yaleclimateconnections.org",
+      "published_ts": 1784822400000,
+      "image_url": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/07/072326_wastewater_1600.jpg?fit=1600%2C900&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 4,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83d\udca7\ud83d\udd27\ud83c\udf3f\u2705",
+      "headline_split": "Simple tweaks can make wastewater treatment ",
+      "fake_endings": [
+        "more affordable for small towns",
+        "as clean as mountain spring water"
+      ],
+      "fake_headline": "Researchers Develop Edible Packaging Made from Seaweed, Eliminates Plastic Waste"
+    },
+    {
+      "id": "batch_20260727_194918__story_078",
+      "title": "The Future of Housing Is Being Printed in Georgetown, Texas",
+      "summary": "In Georgetown, Texas, a community of 100 homes was built mostly by 3D-printing robots. ICON's Vulcan printers laid down walls in continuous layers, proving that robotics and software can revolutionize home construction\u2014faster, cheaper, and with less waste.",
+      "extended_summary": "Wolf Ranch isn't a typical subdivision\u2014its 100 homes have walls printed by giant robots. ICON's Vulcan printer extruded cement-based material in layers to create the structural wall systems, while roofs, windows, and interiors were finished traditionally. The result: the world's largest 3D-printed neighborhood, completed in 2025. It's not sci-fi\u2014it's a practical demonstration that robotics can solve labor shortages, cut waste, and accelerate building. The homes look modern and feel solid, signaling that the future of housing might emerge from a printer nozzle.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://clclt.com/uncategorized/the-future-of-housing-is-being-printed-in-georgetown-texas/",
+      "source_name": "clclt.com",
+      "published_ts": 1784678881000,
+      "image_url": "https://i0.wp.com/clclt.com/wp-content/uploads/2025/08/cropped-background_image-Alex-Womack-cropped.png?fit=690%2C216&ssl=1",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 1,
+        "ai_entrepreneurship": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfe0\ud83d\udda8\ufe0f3\ufe0f\u20e3",
+      "headline_split": "The Future of Housing Is Being Printed in ",
+      "fake_endings": [
+        "a warehouse in Detroit",
+        "a high school workshop"
+      ],
+      "fake_headline": "Retired Teacher Builds Tiny Homes for Veterans Using 3D Printer in Garage",
+      "city": "Charlotte"
+    },
+    {
+      "id": "batch_20260727_194918__story_079",
+      "title": "UC Theatre prepares young people for careers in the live music industry",
+      "summary": "The UC Theatre's Concert Career Pathways program graduated its 10th cohort, with 80% of BIPOC graduates landing industry jobs within months. Founder David Mayeri created the program to level the playing field for youth facing barriers to the music business.",
+      "extended_summary": "At the UC Theatre in Berkeley, 77% of Concert Career Pathways graduates are BIPOC, and 80% find career-track jobs in the live music industry within 3-6 months. Over nine months, students ages 17-25 learn everything from stage management to sound engineering, all while working hands-on at a real concert venue. Founder David Mayeri, who started in the industry as a white teen with connections, wanted to remove those same barriers for others. The program doesn't just teach skills\u2014it opens doors. The 10th graduation was celebrated with the mayor's proclamation, and alumni are now working with acts like Green Day and Chappell Roan.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://eastbayexpress.com/uc-theatre-prepares-young-people-for-careers-in-the-live-music-industry/",
+      "source_name": "eastbayexpress.com",
+      "published_ts": 1784686816000,
+      "image_url": "https://eastbayexpress.com/wp-content/uploads/sites/15/2026/07/Founder-David-Mayeri-with-Senator-Jesse-Arreguin-for-web.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
       "headline_pull": 4,
       "read_time_min": 5,
       "image_position": "center",
@@ -724,160 +728,41 @@
         "impact_innovation"
       ],
       "section_scores": {
+        "ai_entrepreneurship": 1,
         "young_achievers": 1,
         "limelight": 5,
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 3
+        "impact_innovation": 4
       },
-      "emoji_clue": "\ud83d\udda4\ud83c\udfd8\ufe0f\ud83d\udcb0\ud83d\udd1f",
-      "headline_split": "Black Cultural Zone buys vacant East Oakland lot for ",
+      "emoji_clue": "\ud83c\udfa4\ud83c\udf93\ud83c\udfb5",
+      "headline_split": "UC Theatre prepares young people for careers in ",
       "fake_endings": [
-        "a symbolic fee",
-        "a tax break"
+        "culinary arts at music festivals",
+        "graphic design for album covers"
       ],
-      "fake_headline": "Historic Theater in Detroit Sold to Nonprofit for $1 to Save It"
+      "fake_headline": "Local Dance Studio Offers Free Classes to Seniors, Improves Balance and Social Connection",
+      "city": "Oakland"
     },
     {
-      "id": "batch_20260718_165638__story_007",
-      "title": "Bringing Women Out of the Shadows and Into a Global Marketplace",
-      "summary": "Ibu Movement founder Susan Hull Walker helps women artisans around the world turn traditional crafts into sustainable businesses. Through grants, training, and retail opportunities, the nonprofit has spent 13 years proving that investing in women's craftsmanship creates economic opportunity and preserves culture.",
-      "extended_summary": "After years as a minister, Susan Hull Walker went searching for women's voices\u2014and found them in textiles. In 2013, she launched Ibu Movement, a nonprofit that connects women artisans from Pakistan to Peru with global markets. Through design collaborations, grants for equipment, and a Bank of America program that mentors ten artisan leaders each year, Ibu helps scale small enterprises into sustainable businesses. Their grant even helped start a luxury store in Islamabad that supports women artisans. Thirteen years in, Ibu is still here\u2014proof that cultural preservation and economic power can be woven together.",
-      "category": "Transformation",
+      "id": "batch_20260727_194918__story_070",
+      "title": "Virtual fence may represent a win-win for cattle and conservation",
+      "summary": "Researchers at NDSU found that using virtual fencing for cattle grazing increases bee and butterfly populations compared to traditional methods. The technology allows precise control of grazing patterns, giving pastures rest periods. This win-win supports both cattle and conservation.",
+      "extended_summary": "At North Dakota State University's Central Grasslands Research Extension Center, researchers are testing virtual fencing\u2014collars that create invisible boundaries for cattle. Graduate student Taleigh Adrian found that pastures with virtual fencing had more bee and butterfly species than those using season-long or patch-burn grazing. The cattle spend 50 days in a quarter of the pasture, then move to the next quarter, allowing the rest to recover. Over four years, each quadrant gets different treatments, and so far, cattle weight gain hasn't suffered. 'Utilizing virtual fencing technology is actually really beneficial for that pollinator community,' Adrian said, showing that technology can help both ranchers and nature.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://thestoryexchange.org/bringing-women-out-of-the-shadows-and-into-a-global-marketplace/",
-      "source_name": "thestoryexchange.org",
-      "published_ts": 1784211627000,
-      "image_url": "https://thestoryexchange.org/wp-content/uploads/2026/07/Susan_Hull_walker_Headshot_1080x.webp",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 1,
-        "impact_innovation": 3,
-        "limelight": 5
-      },
-      "emoji_clue": "\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67\ud83d\udc64\ud83c\udf10",
-      "headline_split": "Bringing Women Out of the Shadows and Into ",
-      "fake_endings": [
-        "the Board of Directors",
-        "a Fortune 500 company"
-      ],
-      "fake_headline": "Teen Girls Invent Solar-Powered Water Filter for Developing Countries"
-    },
-    {
-      "id": "batch_20260718_165638__story_016",
-      "title": "Ditch your smartphone for a flip phone for a month? This group wants Seattleites to try",
-      "summary": "Almost 40 Seattleites are swapping their smartphones for flip phones for 35 days as part of a digital detox experiment. In the heart of tech country, it's a rebellious rethink of screen time.",
-      "extended_summary": "In a city home to Microsoft and Amazon, nearly 40 people have volunteered to ditch their smartphones for flip phones in a month-long experiment called Month Offline Seattle. Organizers expected only 10-20 participants but attracted the largest cohort outside the original cities. Weekly activities like bocce and bowling aim to rebuild real-world connections, challenging the tech-centric culture of the region.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
+        "Discovery"
       ],
       "tones": [
         "Surprise"
       ],
-      "source_url": "https://www.geekwire.com/2026/ditch-your-smartphone-for-a-flip-phone-for-a-month-this-group-wants-seattleites-to-try/",
-      "source_name": "geekwire.com",
-      "published_ts": 1784346539000,
-      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/07/wagar-1260x945.jpeg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 2,
-        "limelight": 5,
-        "impact_innovation": 3
-      },
-      "emoji_clue": "\ud83d\udcf1\u274c\ud83d\udcde\ud83d\uddd3\ufe0f",
-      "headline_split": "Ditch your smartphone for a flip phone for a month?",
-      "fake_endings": [
-        "Here's What Happens to Your Brain",
-        "This Tech Challenge Is Taking Over"
-      ],
-      "fake_headline": "Seattle Program Asks Residents to Give Up Social Media for 30 Days to Combat Loneliness"
-    },
-    {
-      "id": "batch_20260718_165638__story_081",
-      "title": "Grand Farm provides tech fix for farmers\u2019 most pressing needs",
-      "summary": "At the Grand Farm Innovation Campus in North Dakota, robots and AI are being tested to fight herbicide-resistant weeds. With over 20 startups and 90 partners, this hub is speeding up solutions for farmers' toughest challenges.",
-      "extended_summary": "Robots that kill herbicide-resistant weeds with pinpoint precision are being tested at the Grand Farm Innovation Campus in North Dakota. The 600-acre facility brings together researchers, startups, and farmers to tackle agriculture's biggest problems. With over 20 startups relocating and 90 partners, the campus is quickly turning tech ideas into real-world solutions for growers.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://www.devilslakejournal.com/news/13209/grand-farm-provides-tech-fix-for-farmers-most-pressing-needs/",
-      "source_name": "devilslakejournal.com",
-      "published_ts": 1784322000000,
-      "image_url": "https://www.devilslakejournal.com/wp-content/uploads/2026/07/132492848_web1_IMG_1166.webp",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 7,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 2,
-        "ai_entrepreneurship": 2,
-        "limelight": 2,
-        "impact_innovation": 3
-      },
-      "emoji_clue": "\ud83d\ude9c\ud83d\udcbb\ud83c\udf31\ud83d\udd27\u2705",
-      "headline_split": "Grand Farm provides tech fix for farmers\u2019 most pressing ",
-      "fake_endings": [
-        "issues",
-        "concerns"
-      ],
-      "fake_headline": "Community Garden Donates Over 5,000 Pounds of Fresh Produce to Local Food Banks",
-      "city": "Devils Lake"
-    },
-    {
-      "id": "batch_20260718_165638__story_057",
-      "title": "Guidance from Above: SDSU grad cracks into precision agriculture with home-grown tech",
-      "summary": "Davis Thompson started building auto steer units for tractors in his bedroom while a student at SDSU. His company Starr Guidance now sells low-cost precision agriculture tech to farmers in 12 states \u2014 making high-tech farming more accessible.",
-      "extended_summary": "Davis Thompson was a college student in Brookings when he began tinkering with tractor auto steer systems in his bedroom. That tinkering turned into Starr Guidance, a company that offers affordable precision agriculture tools for farmers. Thompson has already sold units to farmers across 12 states, helping them save money on inputs and make farming easier. What started as a dorm-room project is now a real business \u2014 proving that the next big farming innovation can come from a 20-something with a soldering iron.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://www.agweek.com/agribusiness/guidance-from-above-sdsu-grad-cracks-into-precision-agriculture-with-home-grown-tech",
+      "source_url": "https://www.agweek.com/livestock/cattle/virtual-fence-may-represent-a-win-win-for-cattle-and-conservation",
       "source_name": "agweek.com",
-      "published_ts": 1784165359000,
-      "image_url": "https://cdn.forumcomm.com/dims4/default/c53ee06/2147483647/strip/true/crop/720x406+0+0/resize/1890x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F61%2Fcc%2F110fa95f4a49b3eddb0889bc481d%2Fdavis-thompson-071526.jpg",
+      "published_ts": 1784647800000,
+      "image_url": "https://cdn.forumcomm.com/dims4/default/3946c18/2147483647/strip/true/crop/6000x4000+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F52%2F5a%2F2036bb184c5694c7db84347cc159%2Fimg-6161.JPG",
       "display_mode": "text",
       "display_reason": "medium image not worth the space",
       "image_confidence": "medium",
       "visual_affinity": 3,
-      "headline_pull": 4,
+      "headline_pull": 3,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -887,39 +772,202 @@
       ],
       "section_scores": {
         "ai_entrepreneurship": 1,
+        "young_achievers": 3,
         "limelight": 2,
-        "young_achievers": 4,
-        "impact_innovation": 3
+        "impact_innovation": 4
       },
-      "emoji_clue": "\ud83c\udf93\ud83c\udf3e\ud83d\udef0\ufe0f",
-      "headline_split": "Guidance from Above: SDSU grad cracks into precision agriculture ",
+      "emoji_clue": "\ud83d\udc04\ud83c\udf3f\ud83d\udcf1\ud83d\udd12",
+      "headline_split": "Virtual fence may represent a win-win for cattle and ",
       "fake_endings": [
-        "with satellite imagery",
-        "using machine learning"
+        "the local ecosystem",
+        "ranchers' bottom line"
       ],
-      "fake_headline": "City Opens First Vertical Farm in Former Warehouse",
+      "fake_headline": "Drone Technology Helps Replant Forests in Areas Hit by Wildfires",
       "city": "Grand Forks County"
     },
     {
-      "id": "batch_20260718_165638__story_026",
-      "title": "How A Columbia Falls Tragedy Inspired The Bar Fairies Movement",
-      "summary": "After a 21-year-old was killed by a drunk driver, a Montana community started 'Bar Fairies' \u2014 volunteers who leave coffee gift cards on cars parked overnight at bars, rewarding sober choices. Their TikTok videos have millions of views.",
-      "extended_summary": "Bobby Dewbre was celebrating his 21st birthday when a drunk driver struck and killed him. His death sparked something powerful: the Bar Fairies, a group that leaves coffee gift cards under windshield wipers of cars left overnight at bars. Their mission is to reward people who choose not to drink and drive. The idea caught fire on TikTok, with one video hitting 2 million views. It's a simple, creative way to turn tragedy into positive change.",
+      "id": "batch_20260727_194918__story_080",
+      "title": "West Side flooding reduction project\u00a0expected to be completed\u00a0in\u00a0fall",
+      "summary": "Chicago is installing underground stormwater storage tanks on the West Side to prevent flooding. A $12 million pilot will store 1.7 million gallons of water, protecting nearly 3,000 homes from the kind of catastrophic flooding that hit in 2023.",
+      "extended_summary": "After devastating floods in July 2023, Chicago's West Side is getting a $12 million underground fix. The Wing Storage Pilot Project uses concrete sections buried under side streets to hold stormwater, giving the overwhelmed sewer system room to breathe. The first tank on Maypole Avenue is already online; the second on LeMoyne Street wraps up this fall. Together they'll store 1.7 million gallons, protecting 2,900 homes in Austin, West Garfield Park, and Galewood. It's part of a $500 million citywide investment to upgrade aging sewers\u2014and a sign that underground innovation can keep neighborhoods dry.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://1075thepeak.com/ixp/12/p/montana-bar-fairies/",
-      "source_name": "1075thepeak.com",
-      "published_ts": 1784001695000,
-      "image_url": "https://townsquare.media/site/12/files/2026/07/attachment-aedrian-salazar-gl9fjzqlvmq-unsplash.jpg?w=1200&q=75&format=natural",
+      "source_url": "https://www.austinweeklynews.com/2026/07/27/mwrd-pilot-tank-construction/?utm_source=rss&utm_medium=rss&utm_campaign=mwrd-pilot-tank-construction",
+      "source_name": "austinweeklynews.com",
+      "published_ts": 1785186794000,
+      "image_url": "https://www.austinweeklynews.com/wp-content/uploads/2026/07/MWRD-Pilot-Tanks_07242026_Emma-Bradford-02.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
       "headline_pull": 3,
-      "read_time_min": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 3,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf0a\ud83d\uded1\ud83c\udfd7\ufe0f\ud83c\udf42",
+      "headline_split": "West Side flooding reduction project expected to be completed in ",
+      "fake_endings": [
+        "early summer ahead of schedule",
+        "winter after a funding boost"
+      ],
+      "fake_headline": "Community Volunteers Plant 10,000 Trees Along Riverbank to Prevent Erosion",
+      "city": "Chicago"
+    },
+    {
+      "id": "batch_20260727_194918__story_001",
+      "title": "19 years later, the Excel Center Adult High School helps her graduate with a hard-earned diploma",
+      "summary": "Nineteen years after a car accident derailed her education, Brittany Mills has finally earned her high school diploma and a dental assistant certification through the Excel Center Adult High School. Her story proves that removing barriers like childcare and transportation can open doors for adults to achieve their dreams.",
+      "extended_summary": "Brittany Mills didn't just graduate\u2014she became the first graduate of the Excel Center Adult High School at Melrose Plaza, 19 years after a car accident forced her to leave high school. Now, with her diploma and a dental assistant certification in hand, she's proof that it's never too late. The school, run by Goodwill Industries, offers free tuition, flexible schedules, life coaching, and even childcare. With 14,000 adults in the Roanoke Valley lacking diplomas, Mills's journey shows what's possible when support systems clear the way. She's already pursuing a career in dental hygiene.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://wfirnews.com/news/19-years-later-the-excel-center-adult-high-school-helps-her-graduate-with-a-hard-earned-diploma",
+      "source_name": "wfirnews.com",
+      "published_ts": 1784676149000,
+      "image_url": "https://wfirnews.com/wp-content/uploads/2018/02/News-Extra.png",
+      "display_mode": "image",
+      "display_reason": "hero always uses image mode (summary always visible)",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 3,
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf93\ud83d\udcda\u23f3\ud83d\udc69\u200d\ud83c\udf93\ud83c\udf89",
+      "headline_split": "19 years later, the Excel Center Adult High School helps her graduate ",
+      "fake_endings": [
+        "and become a role model for her kids",
+        "after dropping out three times before"
+      ],
+      "fake_headline": "Local Librarian Retires After 50 Years, Donates Entire Collection to Community Center",
+      "city": "Lynchburg city"
+    },
+    {
+      "id": "batch_20260727_194918__story_003",
+      "title": "A Renewables Project Led by A Historic Church in MA Aims to Bring Clean Energy to the Neighborhood",
+      "summary": "A historic Salem church, hit with a sudden $3,000 monthly gas bill after a meter fix, is turning crisis into green opportunity. The Heaven and Earth Project will use solar and geothermal energy to power downtown buildings and serve as a climate refuge for the community.",
+      "extended_summary": "When St. Peter's\u2013San Pedro Church in Salem got a new gas meter in 2022, their bill jumped from $100 to $3,000 a month overnight. Reverend Nathan Ives knew something radical had to happen. Enter the Heaven and Earth Project: a community renewable energy network using solar and geothermal power to serve two dozen buildings across downtown. The church will anchor the system and become a climate resilience hub\u2014a place to shelter during emergencies. It's a 300-year-old church leading a clean energy revolution.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://nonprofitquarterly.org/hed-a-renewables-project-led-by-a-historic-church-in-ma-aims-to-bring-clean-energy-to-the-neighborhood/",
+      "source_name": "nonprofitquarterly.org",
+      "published_ts": 1784734656000,
+      "image_url": "https://nonprofitquarterly.org/wp-content/uploads/2026/07/Saint_Peter_s_Episcopal_Renewable_RECO.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3,
+        "limelight": 5
+      },
+      "emoji_clue": "\u26ea\ud83c\udf31\u2600\ufe0f\ud83d\udd0b\ud83c\udfd8\ufe0f",
+      "headline_split": "A Renewables Project Led by A Historic Church in MA ",
+      "fake_endings": [
+        "installs solar panels on its historic steeple",
+        "hopes to inspire other churches to go green"
+      ],
+      "fake_headline": "Local Bakery Donates All Profits from One Day to Fund School Lunch Programs Across State"
+    },
+    {
+      "id": "batch_20260727_194918__story_005",
+      "title": "An old Atlanta railway is becoming a cool escape",
+      "summary": "Atlanta's Beltline is turning a neglected railway into a 22-mile green loop with the world\u2019s longest linear arboretum. Shaded paths, native trees, and wildlife habitat will connect 45 neighborhoods while cooling the city.",
+      "extended_summary": "What was once an overgrown railroad corridor is becoming Atlanta's green lifeline. The Beltline will eventually form a 22-mile loop around the city, linking parks, affordable housing, and public transit\u2014all beneath a canopy of trees. Trees Atlanta is planting hundreds of species to create the world's longest linear arboretum. The design keeps the path shaded and cool as temperatures rise, filters stormwater, and brings birds and insects back. Already half-built, the trail offers docent-led tours and educational signs, turning a commute into a walk through an oasis.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://yaleclimateconnections.org/2026/07/an-old-atlanta-railway-is-becoming-a-cool-escape/",
+      "source_name": "yaleclimateconnections.org",
+      "published_ts": 1784908800000,
+      "image_url": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/07/072426_path_1600.jpg?fit=1600%2C900&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\ude82\ud83c\udfd9\ufe0f\ud83c\udf33\ud83c\udf06\ud83e\uddd8",
+      "headline_split": "An old Atlanta railway is ",
+      "fake_endings": [
+        "being turned into a green park for locals",
+        "converted into a vibrant arts district"
+      ],
+      "fake_headline": "Abandoned Factory Revived as Indoor Farm, Provides Fresh Produce to City Residents"
+    },
+    {
+      "id": "batch_20260727_194918__story_081",
+      "title": "Ask an expert - STEVEN HENDLER, GASTROENTEROLOGIST",
+      "summary": "Dr. Steven Hendler co-founded Midwest Digestive Health and Nutrition to tackle healthcare's biggest problems: cost and access. The physician-led GI practice sees every patient within a week and eliminates facility fees, making quality care affordable and timely. It's a new model proving that healthcare can work better for everyone.",
+      "extended_summary": "No more waiting months for a colonoscopy or facing surprise facility fees. Dr. Steven Hendler and seven colleagues left a major Chicago hospital to create Midwest Digestive Health and Nutrition, a practice that sees every patient within a week and undercuts traditional pricing by dropping the biggest cost \u2014 facility fees. For three years, they've proven a physician-led model can deliver top-quality GI care without the bureaucratic bloat, serving Hinsdale, Schaumburg, and Des Plaines.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "HTTPS://www.thehinsdalean.com/story/2026/07/23/experts/ask-an-expert-steven-hendler-gastroenterologist/11145.html",
+      "source_name": "thehinsdalean.com",
+      "published_ts": 1784744040000,
+      "image_url": "https://www.thehinsdalean.com/home/cms_data/dfault/photos/stories/id/4/5/11145/s_top",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 2,
+      "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -929,37 +977,281 @@
       "section_scores": {
         "ai_entrepreneurship": 1,
         "young_achievers": 2,
-        "limelight": 5,
+        "limelight": 3,
         "impact_innovation": 3
       },
-      "emoji_clue": "\ud83c\udf7a\u2728\ud83d\udc7c",
-      "headline_split": "How A Columbia Falls Tragedy Inspired The ",
+      "emoji_clue": "\ud83e\ude7a\u2753\ud83d\udd0d\ud83c\udf4f",
+      "headline_split": "Ask an expert - STEVEN HENDLER, ",
       "fake_endings": [
-        "Community Mural Project",
-        "Kindness Rocks Campaign"
+        "shares heart-healthy tips",
+        "explains sleep remedies"
       ],
-      "fake_headline": "After Factory Closure, Town Comes Together to Build Free Skatepark for Kids"
+      "fake_headline": "Retired Nurse Starts Free Clinic for Homeless in Downtown Cleveland",
+      "city": "Hinsdale"
     },
     {
-      "id": "batch_20260718_165638__story_027",
-      "title": "How a 105-foot schooner is teaching teens the Detroit River\u2019s story",
-      "summary": "Detroit teens board a historic 105-foot schooner to learn the stories of the Detroit River \u2014 from its role in the Underground Railroad to its impact on the auto industry. For many, it's their first time on a boat, and they leave wanting more.",
-      "extended_summary": "On a scorching June day, 20 Detroit high schoolers stepped onto the Alliance, a three-masted tall ship, for a voyage down the Detroit River. For some, it was their first time on any boat. The University of Michigan's Detroit River Story Lab runs the program to connect young people with the river's rich heritage \u2014 from Anishinaabe history to the Underground Railroad to the auto industry. Students learn about Black boating history and the fight for clean water. 'I never knew how important this river was,' one said. 'Now I see it differently.'",
-      "category": "Discovery",
+      "id": "batch_20260727_194918__story_007",
+      "title": "At Ada and Simpson Streets, new and rehabbed homes are making a difference",
+      "summary": "On Ada and Simpson Streets in Kalamazoo, new and rehabbed homes are being sold below market value with a 99-year affordability clause. Families pay it forward, keeping housing affordable for generations.",
+      "extended_summary": "Kalamazoo Neighborhood Housing Services is transforming struggling blocks on the Northside by building five new homes that must remain affordable for 99 years. The twist: buyers agree to a deed restriction that keeps prices low for future families, essentially making the homes permanently affordable. Combined with rehabbing four existing houses, the effort is changing the neighborhood's character. Executive Director Beth McCann says the program is designed to outlast everyone involved. It's a community investment that locks in affordability for generations.",
+      "category": "Transformation",
       "categories": [
-        "Discovery"
+        "Transformation"
       ],
       "tones": [],
-      "source_url": "https://bridgemi.com/outdoors-life/how-a-105-foot-schooner-is-teaching-teens-the-detroit-rivers-story/",
-      "source_name": "bridgemi.com",
-      "published_ts": 1784253100000,
-      "image_url": "https://bridgemi.com/wp-content/uploads/2026/07/DetroitRiverSchooner_06292026_EM_11-scaled-e1784233021609.jpg",
+      "source_url": "https://watershedvoice.com/2026/07/22/at-ada-and-simpson-streets-new-and-rehabbed-homes-are-making-a-difference/",
+      "source_name": "watershedvoice.com",
+      "published_ts": 1784769244000,
+      "image_url": "https://dep780fn6in92.cloudfront.net/wp-content/uploads/2026/07/22102437/DSC_1204-scaled-e1784730400153.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfe1\ud83d\udd28\ud83d\udccd\ud83c\udfd8\ufe0f\u2728",
+      "headline_split": "At Ada and Simpson Streets, new and rehabbed homes ",
+      "fake_endings": [
+        "are revitalizing the entire neighborhood",
+        "are selling at affordable prices"
+      ],
+      "fake_headline": "Volunteers Renovate Abandoned School into Youth Center with Recording Studio and Gym"
+    },
+    {
+      "id": "batch_20260727_194918__story_018",
+      "title": "Employee Ownership Or Private Equity?",
+      "summary": "Instead of selling to a corporate giant, the owner of Windsor Animal Clinic handed the business to his technicians. Carrie Choiniere and James Conway are buying the practice through regular payments. It's a rare move in an industry dominated by private equity.",
+      "extended_summary": "Most vet practices are being bought up by corporations\u201430 to 50% now, up from 10% a decade ago. But Dr. Larry Pennington chose a different path. He spent years finding a lawyer to help him sell to his own employees. Now technicians Carrie Choiniere and James Conway are on their way to owning the clinic outright. They make regular payments toward the purchase, and soon they'll be the ones running everything. It's a quiet revolution in veterinary care\u2014one built on trust, not takeovers.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://ctnewsjunkie.com/2026/07/27/employee-ownership-or-private-equity/",
+      "source_name": "ctnewsjunkie.com",
+      "published_ts": 1785160800000,
+      "image_url": "https://i0.wp.com/ctnewsjunkie.com/wp-content/uploads/2026/07/animal-clinic-choiniere-pennington-conway-ldd-20260709-1200x1200-1.jpg?fit=1200%2C1200&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfe2 \ud83e\udd1d \ud83d\udcb0 \u2753",
+      "headline_split": "Employee Ownership Or ",
+      "fake_endings": [
+        "Corporate Buyout?",
+        "Public Offering?"
+      ],
+      "fake_headline": "Local Bakery Donates 1,000 Loaves of Bread to Food Bank Each Week"
+    },
+    {
+      "id": "batch_20260727_194918__story_082",
+      "title": "Forest Hills Stadium concertgoers raise over $16K for Queens Community House",
+      "summary": "Forest Hills Stadium concertgoers have raised over $16,000 for Queens Community House in the first month of the 'Making Cents for Queens' initiative. Every beer or cocktail sold donates 25 cents, turning a night out into support for youth training, senior centers, food pantries, and more. It's a simple way to strengthen neighborhoods one drink at a time.",
+      "extended_summary": "A beer at a concert is now feeding a homebound senior or helping a kid succeed in school. In just one month, Forest Hills Stadium's 'Making Cents for Queens' initiative funneled over $16,000 to Queens Community House \u2014 a quarter from every drink sold. The program supports everything from eviction prevention to youth workforce training, proving that small purchases can make a massive difference for the 30,000 Queens residents the nonprofit serves each year.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://qns.com/2026/07/forest-hills-stadium-queens-community-house-16k/",
+      "source_name": "qns.com",
+      "published_ts": 1784939746000,
+      "image_url": "https://qns.com/wp-content/uploads/2024/11/240604-Hozier_@Forest.Hills_.Stadium_by@Bryan.Kwon_.Photos-083.jpg?quality=51&w=1200&p=q",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 3,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfa4\ud83c\udfdf\ufe0f\ud83d\udcb0\ud83c\udfe0",
+      "headline_split": "Forest Hills Stadium concertgoers raise over $16K for ",
+      "fake_endings": [
+        "local food bank",
+        "animal shelter"
+      ],
+      "fake_headline": "Neighbors Organize Block Party to Build Community Garden in South Bronx",
+      "city": "Queens"
+    },
+    {
+      "id": "batch_20260727_194918__story_083",
+      "title": "From housing to small businesses to vibrant culture, here\u2019s what Richard Aguilar wants you to know about his community",
+      "summary": "Richard Aguilar grew up in Southwood Mobile Home Park, a poor Latino neighborhood in Virginia. Nearly 20 years later, Habitat for Humanity has transformed it into a mixed-income community with 500+ affordable homes. The $500 million, resident-led project is a national model for saving communities from displacement and building a brighter future.",
+      "extended_summary": "Richard Aguilar remembers the poverty of Southwood \u2014 a mobile home park that was the largest Latino neighborhood in central Virginia. But in 2007, Habitat for Humanity bought the land to stop developers from displacing its 1,500 residents. Now, nearly two decades later, that same dirt is becoming a $500 million, resident-led mixed-income community with at least 500 affordable homes. A $29.1 million HUD grant in December 2024 is fueling the next phase, proving that grassroots perseverance can rewrite the story of an entire neighborhood.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.cvilletomorrow.org/from-housing-to-small-businesses-to-vibrant-culture-heres-what-richard-aguilar-wants-you-to-know-about-his-community/",
+      "source_name": "cvilletomorrow.org",
+      "published_ts": 1784910480000,
+      "image_url": "https://www.cvilletomorrow.org/wp-content/uploads/2026/07/aguilar-portrait2-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 11,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83c\udfe0\ud83c\udfea\ud83c\udfad\ud83d\udde3\ufe0f",
+      "headline_split": "From housing to small businesses to vibrant culture, here\u2019s what Richard Aguilar wants you to know about ",
+      "fake_endings": [
+        "his journey as a chef",
+        "the best parks in town"
+      ],
+      "fake_headline": "Teenager Creates App to Connect Seniors with Local Volunteers"
+    },
+    {
+      "id": "batch_20260727_194918__story_020",
+      "title": "From shuttered church to vibrant community hub",
+      "summary": "A shuttered Lutheran church in Greenville, South Carolina is being transformed into Re:Center, a community hub for renewal, connection, and creativity. LGBTQ+ support groups are already using the space, which is a joint project of two denominations.",
+      "extended_summary": "When the congregation of Christ the King Lutheran Church aged out and disbanded, the building sat empty. But two ministers\u2014Rev. Ashley Twitchell from the ELCA and Rev. Dr. Jackie Putnam from the PCUSA\u2014had a bigger vision. They convinced their denominations to collaborate on Re:Center, a \"laboratory for art, spirit, community, wholeness and healing.\" Already, a transgender support group and an LGBTQ+ support group meet there. What was once a church is now a lifeline for the community, proving that sacred spaces can take new forms.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://qnotescarolinas.com/from-shuttered-church-to-vibrant-community-hub/",
+      "source_name": "qnotescarolinas.com",
+      "published_ts": 1784829600000,
+      "image_url": "https://i0.wp.com/qnotescarolinas.com/wp-content/uploads/2026/07/From-shuttered-church.png?fit=1200%2C675&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 2,
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\u26ea \ud83d\udd04 \ud83c\udf33 \ud83c\udfe0",
+      "headline_split": "From shuttered church to vibrant community hub ",
+      "fake_endings": [
+        "for local artists",
+        "and food pantry"
+      ],
+      "fake_headline": "High School Robotics Team Wins National Championship, Inspires Young Girls in STEM"
+    },
+    {
+      "id": "batch_20260727_194918__story_023",
+      "title": "Helping \u2018To Bring Loved Ones Home\u2019",
+      "summary": "When Roselyn Ryan wandered into the snow in the middle of the night, her husband felt helpless\u2014until a snow plow driver found her. That scare led them to Project Lifesaver, a program that uses radio frequency to quickly locate people with dementia. Now, families like the Ryans have peace of mind knowing help is never far away.",
+      "extended_summary": "In the early hours of a snowy January morning, Mike Ryan was jolted awake by a deputy's knock\u2014his wife Roselyn had been found wandering the roadside by a plow driver. Diagnosed with Parkinson's-related dementia shortly after, the couple discovered Project Lifesaver, a program that outfits vulnerable individuals with tracking devices. For the Ryans, it transformed a terrifying night into a story of hope, proving that proactive care can prevent tragedy and bring loved ones home safely.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://www.thenews-gazette.com/article/14777,helping-to-bring-loved-ones-home",
+      "source_name": "thenews-gazette.com",
+      "published_ts": 1784732460000,
+      "image_url": "https://static2.thenews-gazette.com/data/articles/xga-4x3-helping-to-bring-loved-ones-home-1784731058.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 4,
       "headline_pull": 4,
-      "read_time_min": 12,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\u2764\ufe0f\ud83c\udfe0\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\u2708\ufe0f",
+      "headline_split": "Helping ",
+      "fake_endings": [
+        "Families Reunite After Decades",
+        "Orphans Find Their Roots"
+      ],
+      "fake_headline": "Local Bakery Donates 10,000 Loaves of Bread to Food Banks During Holidays",
+      "city": "Rockbridge County"
+    },
+    {
+      "id": "batch_20260727_194918__story_028",
+      "title": "Inside the Navajo Nation School Teaching Kids to Grow, Cook, and Reclaim Their Food Heritage",
+      "summary": "At STAR School on the Navajo Nation, students grow vegetables in greenhouses, cook traditional foods, and reclaim their food heritage. What started as a way to get kids to eat their greens evolved into a full Food Sovereignty Program that strengthens cultural identity. The school is proving that education rooted in community and land can nourish both body and spirit.",
+      "extended_summary": "When STAR School noticed students tossing unfamiliar vegetables, they didn't give up\u2014they built greenhouses. In the high desert where the growing season is short, students now cultivate produce year-round, learning ancestral farming techniques alongside science. The program blends language revitalization, traditional recipes, and community partnerships, turning a lunchtime challenge into a movement that connects young Navajo to their roots and builds a healthier future for the entire Nation.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://nativenewsonline.net/health/inside-the-navajo-nation-school-teaching-kids-to-grow-cook-and-reclaim-their-food-heritage/",
+      "source_name": "nativenewsonline.net",
+      "published_ts": 1784929548000,
+      "image_url": "https://nativenewsonline.net/wp-content/uploads/2026/07/STAR-School-.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 4,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -969,36 +1261,279 @@
       "section_scores": {
         "ai_entrepreneurship": 1,
         "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf3e\ud83d\udc69\u200d\ud83c\udf3e\ud83c\udf72\ud83c\udfeb",
+      "headline_split": "Inside the Navajo Nation School Teaching Kids to Grow, Cook, and Reclaim Their Food ",
+      "fake_endings": [
+        "Culture",
+        "Roots"
+      ],
+      "fake_headline": "Homeless Veteran Reunites with Lost Service Dog After 2-Year Separation, Thanks to Social Media"
+    },
+    {
+      "id": "batch_20260727_194918__story_084",
+      "title": "Killing trees to save the forest: The deadly experiment to rescue the American elm",
+      "summary": "In a risky experiment, researchers are intentionally infecting 5,300 American elms with Dutch elm disease \u2014 to find the rare survivors. Those that resist the fungus could hold the key to restoring the species, which has been nearly wiped out by the pathogen. This project in Vermont is the most promising attempt yet to bring back the iconic tree.",
+      "extended_summary": "Gus Goodwin knelt in a Vermont forest, drilled a hole into a young American elm, and injected it with a deadly fungus. This wasn't vandalism \u2014 it was the most ambitious rescue mission ever attempted for the species. After more than a decade of nurture, nearly all 5,300 elms at this site will be intentionally infected with Dutch elm disease. The few that live could carry natural resistance, offering hope for restoring the tree that once defined American streets from coast to coast. It's a calculated gamble to save a species.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://vtdigger.org/2026/07/23/killing-trees-to-save-the-forest-the-deadly-experiment-to-rescue-the-american-elm/",
+      "source_name": "vtdigger.org",
+      "published_ts": 1784845694000,
+      "image_url": "https://vtdigger.org/wp-content/uploads/2026/07/elms-feat.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 5,
+      "read_time_min": 19,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 2,
+        "ai_entrepreneurship": 1,
         "young_achievers": 1,
         "impact_innovation": 3
       },
-      "emoji_clue": "\u26f5\ud83d\udc69\u200d\ud83c\udfeb\ud83c\udf0a",
-      "headline_split": "How a 105-foot schooner is teaching teens ",
+      "emoji_clue": "\ud83c\udf33\ud83d\udc80\ud83c\udf32\ud83d\udd2c",
+      "headline_split": "Killing trees to save the forest: The deadly experiment to rescue the ",
       "fake_endings": [
-        "about Marine Biology",
-        "the Great Lakes Ecosystem"
+        "California redwoods",
+        "Amazon rainforest"
       ],
-      "fake_headline": "Retired Teacher Turns School Bus into Mobile Science Lab for Inner-City Schools"
+      "fake_headline": "Local Beekeeper Develops New Method to Protect Honeybees from Pesticides",
+      "city": "Montpelier"
     },
     {
-      "id": "batch_20260718_165638__story_054",
-      "title": "Illinois creates legal pathway for immigrant children as deportations speed up",
-      "summary": "Illinois just passed Ashley's Law, creating a legal pathway for unaccompanied immigrant children to apply for Special Immigrant Juvenile Status. The law is named after a 17-year-old who fled to the U.S. alone after her father was murdered \u2014 and couldn't get protection because the state had no process.",
-      "extended_summary": "When Ashley arrived in the U.S. alone after her father's murder and mother's abandonment, she was eligible for Special Immigrant Juvenile Status \u2014 but Illinois had no legal pathway to apply while she was in federal custody. So lawmakers created one. Ashley's Law, the first bill signed by Governor Pritzker in June, now allows unaccompanied minors in federal custody to petition for protection. Immigration attorneys say the law arrives as deportations are being fast-tracked, making it a critical lifeline for vulnerable children.",
-      "category": "Rescue",
+      "id": "batch_20260727_194918__story_035",
+      "title": "Learning through Play",
+      "summary": "Philadelphia's Sister Cities Park now features a Playful Learning installation that turns playtime into brain food. Kids like 9-year-old Max Cortez run between posts while answering prompts like, 'What invention would you come up with?' It's a simple idea from the nonprofit Playful Learning Landscapes that gets families talking, moving, and dreaming\u2014all at once.",
+      "extended_summary": "9-year-old Max Cortez races through wooden posts at Sister Cities Park, then stops to describe his dream invention: a giant RV with a bedroom, video games, and a garage. That's the magic of Playful Learning\u2014a set of 11 installations across Center City designed to spark creativity through movement and conversation. The nonprofit Playful Learning Landscapes worked with kids and families to find themes that captivate. For Max, a simple question turned into a world-building adventure.",
+      "category": "Discovery",
       "categories": [
-        "Rescue"
+        "Discovery"
       ],
       "tones": [],
-      "source_url": "https://www.nbcchicago.com/news/local/illinois-creates-legal-pathway-for-immigrant-children-as-deportations-speed-up/3963176/",
-      "source_name": "nbcchicago.com",
-      "published_ts": 1784284618000,
-      "image_url": "https://media.nbcchicago.com/2026/07/0_04-WMAQ-430P-M-F-_-PKG-CHI-Investigates-Ashleys-Law.png?resize=1200%2C675&quality=85&strip=all",
+      "source_url": "https://thephiladelphiacitizen.org/the-citizen-recommends-learning-through-play/?utm_source=rss&utm_medium=rss&utm_campaign=the-citizen-recommends-learning-through-play",
+      "source_name": "thephiladelphiacitizen.org",
+      "published_ts": 1784645453000,
+      "image_url": "https://thephiladelphiacitizen.org/wp-content/uploads/2026/07/Playful-Learning-HED.jpg",
+      "display_mode": "text",
+      "display_reason": "headline needs summary support",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 2,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83e\uddd2\ud83c\udfb2\ud83d\udcda\ud83e\udde0",
+      "headline_split": "Learning ",
+      "fake_endings": [
+        "with Puppets",
+        "by Doing Nothing"
+      ],
+      "fake_headline": "Teacher Uses Dungeons & Dragons to Teach Math to Reluctant Students, Scores Soar",
+      "city": "Philadelphia"
+    },
+    {
+      "id": "batch_20260727_194918__story_085",
+      "title": "Minecraft is helping kids redesign their cities",
+      "summary": "After Beirut's 2020 port blast destroyed public stairs, kids used Minecraft to redesign them. The Block by Block Foundation and U.N.-Habitat facilitated workshops where 45 children dreamed up slides, speaking-tube handrails, and seating areas. The actual renovations brought those digital ideas to life, and now the stairs are buzzing with life again.",
+      "extended_summary": "The 2020 port explosion shattered Beirut's beloved stairways, leaving them 'trashy and unlivable.' But 14-year-old Georges Zahar and 44 other kids didn't just accept the loss \u2014 they rebuilt them in Minecraft. In workshops led by the Block by Block Foundation and U.N.-Habitat, they designed slides and speaking-tube railings that became real blueprints. Today, the St. Nicolas stairs are packed with children playing on the slide Corine Abiramia dreamed up as a 14-year-old. A video game transformed a wounded city's infrastructure into a symbol of resilience.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.westhawaiitoday.com/2026/07/27/nation-world-news/minecraft-is-helping-kids-redesign-their-cities/",
+      "source_name": "westhawaiitoday.com",
+      "published_ts": 1785164700000,
+      "image_url": "https://www.westhawaiitoday.com/wp-content/uploads/sites/8/2026/07/web1_MINECRAFT-CHILDREN-DESIGN-1.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 3,
+        "young_achievers": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfae\ud83c\udfd9\ufe0f\ud83d\udc67\ud83d\udc66",
+      "headline_split": "Minecraft is helping kids redesign their ",
+      "fake_endings": [
+        "schools",
+        "backyards"
+      ],
+      "fake_headline": "Students Use Virtual Reality to Recreate Ancient Ruins for History Class",
+      "city": "Kailua"
+    },
+    {
+      "id": "batch_20260727_194918__story_086",
+      "title": "NC Budget Offers Rural Childcare Businesses Financial Help They\u2019ve Sought for Years",
+      "summary": "North Carolina's new budget sends $97 million in federal funds to raise childcare subsidy rates, including a minimum rate that sends more money to rural providers. For businesses like Silver Bluff Kids in Haywood County, this is a lifeline after federal pandemic funds ran out, helping them keep staff and serve low-income families.",
+      "extended_summary": "Mary Moody's top-rated daycare, Silver Bluff Kids, had to cut retirement contributions and health benefits after pandemic funds dried up. But a new North Carolina budget just threw rural childcare providers a lifeline: $97 million in federal funds to raise subsidy rates, plus a 'rate floor' that ensures rural centers get more per child than before. For years, providers begged for this \u2014 rural areas collect fewer subsidy dollars per kid despite higher costs. This budget finally closes that gap, giving small-town childcare businesses a shot at long-term stability.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.the74million.org/zero2eight/nc-budget-offers-rural-childcare-businesses-financial-help-theyve-sought-for-years/",
+      "source_name": "the74million.org",
+      "published_ts": 1784842200000,
+      "image_url": "https://www.the74million.org/wp-content/uploads/2026/07/rural-childcare-north-carolina-825x495.jpg?cb=1035701",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 2,
-      "headline_pull": 3,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udcb0\ud83c\udfdb\ufe0f\ud83d\udc76\ud83c\udfe1",
+      "headline_split": "NC Budget Offers Rural Childcare Businesses Financial Help They\u2019ve Sought ",
+      "fake_endings": [
+        "From Private Donors",
+        "Through New Grants"
+      ],
+      "fake_headline": "State Program Provides Free College Tuition for Low-Income Families"
+    },
+    {
+      "id": "batch_20260727_194918__story_068",
+      "title": "Tackling the NC food deserts that Helene created",
+      "summary": "After Hurricane Helene destroyed Swannanoa's only grocery store, Bounty and Soul started a weekly produce market. Founder Ali Casparian, who experienced food insecurity herself, saw fresh produce going to waste at food banks and turned it into a free market. Now they serve the community every weekday across different locations.",
+      "extended_summary": "When Ali Casparian moved to Swannanoa after a traumatic experience, she faced food insecurity herself. Volunteering at food banks, she was disappointed to see mostly processed food\u2014but also walls of fresh produce going to waste at MANNA Food Bank. So she started a small free farmers market. Today, Bounty and Soul runs community markets five days a week, serving areas like Swannanoa where the only grocery store was destroyed by Hurricane Helene. 'We had summer squash, tomatoes, and watermelon last week,' Casparian said, showing that fresh food is possible even in a food desert.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://carolinapublicpress.org/76191/tackling-the-nc-food-deserts-that-helene-created-or-made-worse/",
+      "source_name": "carolinapublicpress.org",
+      "published_ts": 1785180720000,
+      "image_url": "https://carolinapublicpress.org/wp-content/uploads/2026/07/Tractor-FF-Hub-5-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 18,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 3,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf2a\ufe0f\ud83c\udf4e\ud83c\udfdc\ufe0f\ud83d\ude9a",
+      "headline_split": "Tackling the NC food deserts that Helene created ",
+      "fake_endings": [
+        "with rooftop gardens and mobile markets",
+        "through state-funded grocery vouchers"
+      ],
+      "fake_headline": "Community Builds Solar-Powered Greenhouses in Rural Alabama After Tornado"
+    },
+    {
+      "id": "batch_20260727_194918__story_087",
+      "title": "Why Some Foundations Are Lending, Not Just Giving",
+      "summary": "Some foundations are pairing grants with loans and investments to help nonprofits build lasting financial stability. For example, the Bush Foundation gave clean-energy cooperative Cooperative Energy Futures a $2.5 million investment and a $1.6 million grant. This 'catalytic capital' helps organizations cover early costs that banks won't fund.",
+      "extended_summary": "Cooperative Energy Futures helps low-income Minnesotans access solar power, but it needs cash before it can qualify for bank loans. The Bush Foundation didn't just write a grant \u2014 it paired $2.5 million in investments with a $1.6 million grant, a strategy more foundations are using. This 'catalytic capital' covers staff, data systems, and early project costs, proving that lending (not just giving) can turn nonprofits into sustainable engines of change. It's a shift from funding this year's budget to building decades of impact.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.philanthropy.com/news/why-some-foundations-are-lending-not-just-giving/",
+      "source_name": "philanthropy.com",
+      "published_ts": 1784922403000,
+      "image_url": "https://www.philanthropy.com/wp-content/uploads/2026/07/News-Beasley-NonGrants_15359873.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 1,
+      "headline_pull": 4,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udcb0\ud83e\udd1d\u27a1\ufe0f\ud83d\udcc8",
+      "headline_split": "Why Some Foundations Are Lending, Not Just ",
+      "fake_endings": [
+        "Philanthropy",
+        "Charity"
+      ],
+      "fake_headline": "Local Credit Union Launches Program to Help First-Time Homebuyers",
+      "city": "Washington"
+    },
+    {
+      "id": "batch_20260727_194918__story_071",
+      "title": "\u2018Aunt Manda\u2019s\u2019 Ring of Dreams doubles in size from first show four years ago to 2026",
+      "summary": "The Wood County Fair's Ring of Dreams livestock show has doubled in size since 2023, now featuring 90 participants with developmental disabilities and 76 junior fair mentors. Creator Amanda Barndt keeps expanding the program with special touches, proving inclusion and community support can make a huge impact.",
+      "extended_summary": "In its fourth year, the Ring of Dreams show at the Wood County Fair has grown from 43 participants to 90, thanks to creator Amanda Barndt's relentless dedication. Participants with developmental disabilities get to show animals alongside junior fair mentors, with every detail from sign-up to show time designed to celebrate ability, not limitation. The Wood County Board of Developmental Disabilities and local sponsors back the event, which now includes Let Your Abilities Shine Day. This isn't just a livestock show\u2014it's a movement of smiles, friendships, and real inclusion.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://bgindependentmedia.org/aunt-mandas-ring-of-dreams-doubles-in-size-from-first-show-four-years-ago-to-2026/?utm_source=rss&utm_medium=rss&utm_campaign=aunt-mandas-ring-of-dreams-doubles-in-size-from-first-show-four-years-ago-to-2026",
+      "source_name": "bgindependentmedia.org",
+      "published_ts": 1785190187000,
+      "image_url": "https://bgindependentmedia.org/wp-content/uploads/2026/07/IMG_6405-scaled.png",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "low",
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 4,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1009,186 +1544,17 @@
       ],
       "section_scores": {
         "ai_entrepreneurship": 1,
-        "impact_innovation": 3,
-        "young_achievers": 5,
-        "limelight": 3
-      },
-      "emoji_clue": "\ud83c\udfdb\ufe0f\ud83e\uddd2\ud83d\udcdd",
-      "headline_split": "Illinois creates legal pathway for immigrant children ",
-      "fake_endings": [
-        "with bipartisan support",
-        "to protect their rights"
-      ],
-      "fake_headline": "California Launches Free College Tuition for Low-Income Students",
-      "city": "Cook County"
-    },
-    {
-      "id": "batch_20260718_165638__story_036",
-      "title": "Montana Bar Fairies Inspire the Nation to Find a Sober Ride Home",
-      "summary": "In Montana, \"Bar Fairies\" leave coffee gift cards on cars left overnight at bar parking lots\u2014rewarding people who chose a sober ride home. The grassroots initiative honors Bobby Dewbre, killed by a repeat drunk driver, and promotes safe choices.",
-      "extended_summary": "Imagine finding a gift card under your windshield wiper at a bar parking lot\u2014that's the work of the Montana Bar Fairies, who reward sober drivers with free coffee. Founded in memory of Bobby Dewbre, who died in a drunk driving crash, the group leaves cards on cars left behind by people who found a ride home. Their mission: turn tragedy into action and inspire safer choices after a night out.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [
-        "Humor"
-      ],
-      "source_url": "https://ksenam.com/ixp/1106/p/montana-bar-fairies-2026/",
-      "source_name": "ksenam.com",
-      "published_ts": 1784142038000,
-      "image_url": "https://townsquare.media/site/1106/files/2026/07/attachment-the_barfairies-via-tiktok.jpg?w=1200&q=75&format=natural",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 1,
-        "young_achievers": 1,
-        "impact_innovation": 3,
-        "limelight": 5
-      },
-      "emoji_clue": "\ud83c\udf79\ud83e\uddda\u200d\u2640\ufe0f\ud83d\ude97\ud83c\udfe0",
-      "headline_split": "Montana Bar Fairies Inspire the Nation to",
-      "fake_endings": [
-        "Stop Drinking",
-        "Drive Safely"
-      ],
-      "fake_headline": "Teen Inventor Creates Water Purification Device for Developing Countries",
-      "city": "Toole County"
-    },
-    {
-      "id": "batch_20260718_165638__story_082",
-      "title": "RFK Jr. comes to Florida to roll out \u2018Make Hospital Food Healthier\u2019 pledge",
-      "summary": "Tampa General Hospital completely revamped its menu, ditching sugary treats for meals designed with a celebrity chef. Since the new menu launched, patient satisfaction with food quality jumped 53% \u2014 and now the White House is promoting the approach nationwide.",
-      "extended_summary": "Two years ago, Tampa General Hospital decided to overhaul its menu, replacing pudding and Jello with healthier options designed by celebrity chef Geoffrey Zakarian. Now, patients report a 53% increase in food quality. HHS Secretary RFK Jr. and USDA Secretary Rollins visited to celebrate the hospital signing the 'Make Hospital Food Healthier' pledge, part of a national push to improve hospital nutrition for the millions of patients who rely on it.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://www.orlandoweekly.com/news/florida-news/rfk-jr-comes-to-florida-to-roll-out-make-hospital-food-healthier-pledge/",
-      "source_name": "orlandoweekly.com",
-      "published_ts": 1784314817000,
-      "image_url": "https://www.orlandoweekly.com/wp-content/uploads/2026/07/shutterstock_2456684687.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 1,
-        "ai_entrepreneurship": 1,
-        "limelight": 2,
-        "impact_innovation": 3
-      },
-      "emoji_clue": "\ud83c\udfe5\ud83e\udd66\ud83c\udf34\ud83d\udcdc",
-      "headline_split": "RFK Jr. comes to Florida to roll out ",
-      "fake_endings": [
-        "\u2018Healthy Kitchens\u2019 pledge",
-        "\u2018Nutritious Meals\u2019 initiative"
-      ],
-      "fake_headline": "High School Robotics Club Builds Prosthetic Hands for Kids in Need",
-      "city": "Orlando"
-    },
-    {
-      "id": "batch_20260718_165638__story_046",
-      "title": "Steamboat Ski Resort Uses Snowmaking Guns to Soak Forest",
-      "summary": "Steamboat Ski Resort used 41 snow guns to soak nearby forest and slow the Fishhook Fire. In 90-degree July heat, the machines turned into a giant sprinkler system, showing how ski gear can fight wildfires.",
-      "extended_summary": "When the Fishhook Fire threatened Steamboat Ski Resort, the team got creative. They fired up 41 snow guns in July, turning them into sprinklers to wet down vegetation near Tomahawk and Spike trails. The tactic, also used by Idaho's Tamarack Resort during the 2025 Rock Fire, works on simple physics: wet forest doesn't burn easily. The resort's quick thinking helped keep the fire at bay.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://999thepoint.com/ixp/508/p/steamboat-ski-resort-fishhook-fire/",
-      "source_name": "999thepoint.com",
-      "published_ts": 1784080958000,
-      "image_url": "https://townsquare.media/site/508/files/2026/07/attachment-steamboat-snow-guns.jpg?w=1200&q=75&format=natural",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 5,
-      "headline_pull": 4,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 1,
-        "ai_entrepreneurship": 1,
-        "impact_innovation": 3,
-        "limelight": 5
-      },
-      "emoji_clue": "\u26f7\ufe0f\ud83c\udf32\ud83d\udca6\ud83d\udd2b",
-      "headline_split": "Steamboat Ski Resort Uses Snowmaking Guns ",
-      "fake_endings": [
-        "to Create Artificial Glaciers",
-        "to Prevent Avalanches"
-      ],
-      "fake_headline": "Mountain Town Bans Single-Use Plastics to Protect Wildlife",
-      "city": "Laramie County"
-    },
-    {
-      "id": "batch_20260718_165638__story_055",
-      "title": "Warrior Surf Foundation helps veterans find healing in the ocean",
-      "summary": "Clayton Merritt's mother died the same day he was supposed to graduate from a surf therapy program for veterans. Instead of giving up, he drove two hours back to Charleston \u2014 to surf. Now he leads the Warrior Surf Foundation, helping fellow veterans find peace through waves and yoga.",
-      "extended_summary": "On what should have been a celebration, Clayton Merritt got the worst news of his life. His mother had died. Instead of staying in his hometown, he drove straight back to Charleston and paddled into the ocean. That moment of surf therapy helped him process grief and later led him to become executive director of the Warrior Surf Foundation, a nonprofit that offers free surfing, yoga, and talk therapy to veterans. For Merritt, the wave isn't just a ride \u2014 it's a path to healing.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation"
-      ],
-      "tones": [],
-      "source_url": "https://charlestoncitypaper.com/2026/07/17/warrior-surf-foundation-helps-veterans-find-healing-in-the-ocean/",
-      "source_name": "charlestoncitypaper.com",
-      "published_ts": 1784291100000,
-      "image_url": "https://charlestoncitypaper.com/wp-content/uploads/2026/07/Copy-of-Nosara-110.png",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 5,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers",
-        "impact_innovation"
-      ],
-      "section_scores": {
         "limelight": 5,
-        "ai_entrepreneurship": 1,
-        "young_achievers": 5,
+        "young_achievers": 3,
         "impact_innovation": 3
       },
-      "emoji_clue": "\ud83c\udf0a\ud83c\udfc4\u200d\u2642\ufe0f\ud83c\udf96\ufe0f",
-      "headline_split": "Warrior Surf Foundation helps veterans find healing ",
+      "emoji_clue": "\ud83d\udc8d\ud83c\udf19\ud83d\udcc8\ud83c\udfaa",
+      "headline_split": "\u2018Aunt Manda\u2019s\u2019 Ring of Dreams doubles in size ",
       "fake_endings": [
-        "on the beach",
-        "through paddleboarding"
+        "thanks to a viral TikTok dance challenge",
+        "after adding a second venue in Las Vegas"
       ],
-      "fake_headline": "High School Student Creates App to Connect Neighbors for Snow Shoveling",
-      "city": "Charleston"
+      "fake_headline": "City Park Transforms Old Dump into Community Garden, Feeds 500 Families Weekly"
     }
   ]
 }
