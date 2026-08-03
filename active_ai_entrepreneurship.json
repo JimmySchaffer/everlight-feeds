@@ -1,24 +1,24 @@
 {
-  "batch_id": "batch_20260731_115909",
-  "created_at": "2026-07-31T11:59:09.644532",
+  "batch_id": "batch_20260803_174723",
+  "created_at": "2026-08-03T17:47:23.740455",
   "story_count": 2,
   "stories": [
     {
-      "id": "batch_20260727_194918__story_008",
-      "title": "BBOP Center Awards $10K to AI-Powered Sales Platform for Women",
-      "summary": "Kalilah Hudson won $10,000 in the BBOP Center's pitch competition for her AI-powered sales platform Clidelity, designed for women entrepreneurs. It's a win for inclusive innovation in the Inland Empire.",
-      "extended_summary": "Kalilah Hudson spent 14 years as a case manager helping thousands in foster care navigate complex systems. That experience inspired her to build Clidelity, an AI platform that guides women entrepreneurs through sales with a structured, relationship-based approach. At the Black and Brown Opportunities for Profit Center\u2019s pitch competition, she walked away with nearly $10,000 in cash and support. The win validated her vision that innovation can thrive in San Bernardino. Clidelity is now poised to help more women grow their businesses.",
-      "category": "Transformation",
+      "id": "batch_20260803_213142__story_130",
+      "title": "This Maryland startup wants to take the anxiety out of auto care \u2014 and prove your mechanic isn't ripping you off",
+      "summary": "Moving to Maryland showed Precious Jones how inconsistent car repair prices can be. So she built FairRide AI, a platform that grades mechanic estimates with a fairness score against local market rates. It's already helping 200 users \u2014 and won her $6,000 from Wells Fargo.",
+      "extended_summary": "After relocating to Maryland, Precious Jones noticed something unsettling: car repair estimates seemed to have no rhyme or reason. So she created FairRide AI, a platform that evaluates mechanic quotes with a fairness score from 1 to 100 based on local market rates. Users just upload their estimate and get an itemized breakdown showing typical price ranges for each service. Built with the Base44 vibecoding platform, the tool is already serving around 200 users. Jones took second place at the Greater Baltimore Urban League's pitch competition and won $6,000 from Wells Fargo \u2014 and she's now partnering with local mechanics to sharpen labor-cost accuracy. Her message: knowledge is power when it comes to auto care.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
+        "Discovery"
       ],
       "tones": [],
-      "source_url": "https://iecn.com/bbop-center-awards-ai-sales-platform-for-women/",
-      "source_name": "iecn.com",
-      "published_ts": 1784774812000,
-      "image_url": "https://i0.wp.com/iecn.com/wp-content/uploads/2026/07/Kalilah-Hudson-e1784756118290.jpeg",
+      "source_url": "https://technical.ly/entrepreneurship/fairride-ai-mechanic-overcharge-score/",
+      "source_name": "Technical.ly",
+      "published_ts": 1784073600000,
+      "image_url": "https://technically-wpengine.s3.us-east-1.amazonaws.com/technically/wp-content/uploads/2026/07/np_A-man-in-overalls-holds-clipboard.-Mechanic.-Car-inspection_bEB386_standard_photo-scaled.jpg",
       "display_mode": "image",
-      "display_reason": "strong image and headline",
+      "display_reason": "hero always uses image mode (summary always visible)",
       "image_confidence": "high",
       "visual_affinity": 2,
       "headline_pull": 4,
@@ -31,59 +31,47 @@
         "ai_entrepreneurship"
       ],
       "section_scores": {
-        "limelight": 5,
-        "young_achievers": 3,
+        "young_achievers": 4,
         "ai_entrepreneurship": 5,
+        "limelight": 4,
         "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83d\udcb0\ud83e\udd16\ud83d\udc69\u200d\ud83d\udcbc\ud83c\udfc6\ud83d\udcc8",
-      "headline_split": "BBOP Center Awards $10K to AI-Powered Sales Platform ",
-      "fake_endings": [
-        "to empower female founders",
-        "that supports women in tech"
-      ],
-      "fake_headline": "Teen Wins $50,000 Science Fair Prize for Invention That Cleans Ocean Microplastics",
-      "city": "San Bernardino"
+      }
     },
     {
-      "id": "batch_20260727_194918__story_072",
-      "title": "Simple tweaks can make wastewater treatment less polluting",
-      "summary": "Wastewater treatment plants can accidentally release nitrous oxide, a powerful greenhouse gas. But Cobalt Water Global uses machine learning to tweak the process\u2014like aerating less\u2014and cut emissions by up to 90%, turning a pollution problem into a climate win.",
-      "extended_summary": "Nitrous oxide, a potent global warming and ozone-depleting gas, is an unintended byproduct of wastewater treatment. But Jose Porro's company Cobalt Water Global has found that simple adjustments\u2014like reducing aeration at certain times\u2014can slash emissions by 80-90%. Using machine learning to monitor and fine-tune the microbes that break down nitrogen, utilities can clean water without adding to atmospheric pollution. It's a low-tech fix with huge potential for every treatment plant on the planet.",
-      "category": "Discovery",
+      "id": "batch_20260803_213142__story_063",
+      "title": "This lawyer believes in second chances. Now AI is providing a boost",
+      "summary": "Andrea Hsu Noella Sudbury is the founder of Rasa Legal, a startup that is using artificial intelligence to help tens of thousands of people seal or expunge their criminal records. Meredith Rizzo for NPR hide caption Stay up to date with our Up First newsletter sent every weekday morning. Since her days as a public defender in Utah, Noella Sudbury has been obsessed with solving a problem: How do yo",
+      "extended_summary": "Andrea Hsu Noella Sudbury is the founder of Rasa Legal, a startup that is using artificial intelligence to help tens of thousands of people seal or expunge their criminal records. Meredith Rizzo for NPR hide caption Stay up to date with our Up First newsletter sent every weekday morning. Since her days as a public defender in Utah, Noella Sudbury has been obsessed with solving a problem: How do you help someone with a criminal record get a job? Bottom line: It's really hard. Sudbury had grown frustrated seeing so many people dedicate themselves to changing their lives but still fail to secure housing or work once background checks were run. A history of arrests involving drugs or retail theft \u2014 the most common offenses \u2014 can scare off employers. \"They make assumptions that someone's dishon",
+      "category": "Transformation",
       "categories": [
-        "Discovery"
+        "Transformation"
       ],
       "tones": [],
-      "source_url": "https://yaleclimateconnections.org/2026/07/simple-tweaks-can-make-wastewater-treatment-less-polluting/",
-      "source_name": "yaleclimateconnections.org",
-      "published_ts": 1784822400000,
-      "image_url": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2026/07/072326_wastewater_1600.jpg?fit=1600%2C900&ssl=1",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
+      "source_url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
+      "source_name": "kiyu.com",
+      "published_ts": 1785769225000,
+      "image_url": "https://picsum.photos/seed/pre_0078/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 3,
       "headline_pull": 3,
-      "read_time_min": 1,
+      "read_time_min": 10,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
+        "limelight",
+        "young_achievers",
         "ai_entrepreneurship",
         "impact_innovation"
       ],
       "section_scores": {
-        "young_achievers": 1,
         "ai_entrepreneurship": 5,
-        "impact_innovation": 4,
-        "limelight": 2
+        "limelight": 5,
+        "young_achievers": 5,
+        "impact_innovation": 3
       },
-      "emoji_clue": "\ud83d\udca7\ud83d\udd27\ud83c\udf3f\u2705",
-      "headline_split": "Simple tweaks can make wastewater treatment ",
-      "fake_endings": [
-        "more affordable for small towns",
-        "as clean as mountain spring water"
-      ],
-      "fake_headline": "Researchers Develop Edible Packaging Made from Seaweed, Eliminates Plastic Waste"
+      "city": "Yukon-Koyukuk Census Area"
     }
   ]
 }
