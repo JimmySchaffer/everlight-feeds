@@ -1,77 +1,73 @@
 {
-  "batch_id": "batch_20260803_174723",
-  "created_at": "2026-08-03T17:47:23.740455",
+  "batch_id": "batch_20260811_173934",
+  "created_at": "2026-08-11T17:39:34.599702",
   "story_count": 2,
   "stories": [
     {
-      "id": "batch_20260803_213142__story_130",
-      "title": "This Maryland startup wants to take the anxiety out of auto care \u2014 and prove your mechanic isn't ripping you off",
-      "summary": "Moving to Maryland showed Precious Jones how inconsistent car repair prices can be. So she built FairRide AI, a platform that grades mechanic estimates with a fairness score against local market rates. It's already helping 200 users \u2014 and won her $6,000 from Wells Fargo.",
-      "extended_summary": "After relocating to Maryland, Precious Jones noticed something unsettling: car repair estimates seemed to have no rhyme or reason. So she created FairRide AI, a platform that evaluates mechanic quotes with a fairness score from 1 to 100 based on local market rates. Users just upload their estimate and get an itemized breakdown showing typical price ranges for each service. Built with the Base44 vibecoding platform, the tool is already serving around 200 users. Jones took second place at the Greater Baltimore Urban League's pitch competition and won $6,000 from Wells Fargo \u2014 and she's now partnering with local mechanics to sharpen labor-cost accuracy. Her message: knowledge is power when it comes to auto care.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://technical.ly/entrepreneurship/fairride-ai-mechanic-overcharge-score/",
-      "source_name": "Technical.ly",
-      "published_ts": 1784073600000,
-      "image_url": "https://technically-wpengine.s3.us-east-1.amazonaws.com/technically/wp-content/uploads/2026/07/np_A-man-in-overalls-holds-clipboard.-Mechanic.-Car-inspection_bEB386_standard_photo-scaled.jpg",
-      "display_mode": "image",
-      "display_reason": "hero always uses image mode (summary always visible)",
-      "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 4,
-      "read_time_min": 3,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers",
-        "ai_entrepreneurship"
-      ],
-      "section_scores": {
-        "young_achievers": 4,
-        "ai_entrepreneurship": 5,
-        "limelight": 4,
-        "impact_innovation": 2
-      }
-    },
-    {
-      "id": "batch_20260803_213142__story_063",
-      "title": "This lawyer believes in second chances. Now AI is providing a boost",
-      "summary": "Andrea Hsu Noella Sudbury is the founder of Rasa Legal, a startup that is using artificial intelligence to help tens of thousands of people seal or expunge their criminal records. Meredith Rizzo for NPR hide caption Stay up to date with our Up First newsletter sent every weekday morning. Since her days as a public defender in Utah, Noella Sudbury has been obsessed with solving a problem: How do yo",
-      "extended_summary": "Andrea Hsu Noella Sudbury is the founder of Rasa Legal, a startup that is using artificial intelligence to help tens of thousands of people seal or expunge their criminal records. Meredith Rizzo for NPR hide caption Stay up to date with our Up First newsletter sent every weekday morning. Since her days as a public defender in Utah, Noella Sudbury has been obsessed with solving a problem: How do you help someone with a criminal record get a job? Bottom line: It's really hard. Sudbury had grown frustrated seeing so many people dedicate themselves to changing their lives but still fail to secure housing or work once background checks were run. A history of arrests involving drugs or retail theft \u2014 the most common offenses \u2014 can scare off employers. \"They make assumptions that someone's dishon",
+      "id": "batch_20260811_173616__story_054",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "summary": "Chips running AI workloads are too hot: That\u2019s one reason why data centers consume so much electricity and require cooling systems. And, inevitably, entrepreneurs are turning to AI to solve the problem it created. Discovered Materials is the latest, with plans to use swarms of AI agents to find new materials that can be used to build more efficient integrated circuits. The startup said it recently",
+      "extended_summary": "Chips running AI workloads are too hot: That\u2019s one reason why data centers consume so much electricity and require cooling systems. And, inevitably, entrepreneurs are turning to AI to solve the problem it created. Discovered Materials is the latest, with plans to use swarms of AI agents to find new materials that can be used to build more efficient integrated circuits. The startup said it recently closed a $9 million seed round from Lightspeed India Partners after emerging from from Y Combinator, with investment from Peak XV Partners and angel investors Paul Graham, Gokul Rajaram, and Thariq Shihipar. Founders Advaith Sridhar and Akash Ramdas teamed up to launch the company, drawing on Ramdas\u2019 experience earning a doctorate in materials science from Stanford, and Sridhar\u2019s work on agents a",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
-      "source_name": "kiyu.com",
-      "published_ts": 1785769225000,
-      "image_url": "https://picsum.photos/seed/pre_0078/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
+      "source_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "source_name": "techcrunch.com",
+      "published_ts": 1786381200000,
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
       "visual_affinity": 3,
       "headline_pull": 3,
-      "read_time_min": 10,
+      "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "limelight",
         "young_achievers",
         "ai_entrepreneurship",
         "impact_innovation"
       ],
       "section_scores": {
-        "ai_entrepreneurship": 5,
-        "limelight": 5,
+        "limelight": 1,
         "young_achievers": 5,
+        "ai_entrepreneurship": 5,
         "impact_innovation": 3
-      },
-      "city": "Yukon-Koyukuk Census Area"
+      }
+    },
+    {
+      "id": "batch_20260811_173616__story_090",
+      "title": "\u2018Nobody Wanted to Give A Former Principal Money\u2019: How An Educator Built An Edtech AI Startup With $63M From VCs",
+      "summary": "Editor\u2019s note: The following is the first profile in a series of articles in coming weeks about startup founders from non-technical backgrounds who have launched successful venture-backed companies. In November 2022, Adeel Khan was doing something rare for a longtime educator: taking time off. Having launched his career as a teacher in Atlanta Public Schools, Khan became an assistant principal bef",
+      "extended_summary": "Editor\u2019s note: The following is the first profile in a series of articles in coming weeks about startup founders from non-technical backgrounds who have launched successful venture-backed companies. In November 2022, Adeel Khan was doing something rare for a longtime educator: taking time off. Having launched his career as a teacher in Atlanta Public Schools, Khan became an assistant principal before founding his own public high school in Denver. After a year spent coaching principals at the district office, he decided to take a \u201cpersonal sabbatical.\u201d Then, ChatGPT came out. Khan began tinkering with the new technology, fascinated by its potential. \u201cI actually went out to my old school building, the one that I founded, and started using it with teachers,\u201d Khan recalls. He ran workshops and",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
+      "source_name": "news.crunchbase.com",
+      "published_ts": 1785945641000,
+      "image_url": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 2,
+        "impact_innovation": 2,
+        "ai_entrepreneurship": 5,
+        "limelight": 2
+      }
     }
   ]
 }
