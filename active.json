@@ -1,27 +1,30 @@
 {
-  "batch_id": "batch_20260811_173934",
-  "created_at": "2026-08-11T17:39:34.466441",
+  "batch_id": "batch_20260815_142206",
+  "created_at": "2026-08-15T14:22:06.197544",
   "story_count": 50,
   "stories": [
     {
       "id": "batch_20260811_173616__story_001",
       "title": "'It is a bit utopian': Why Public Service is Brooklyn's favorite dance party",
-      "summary": "In 2022, Kendall Vidal had a double hip replacement. Just two years later, he found himself dancing center stage in Herbert Von King Park. \u201cYou know, I don't always get into the circle like that,\u201d Vidal said. \u201cBut this particular time, I went down and just had a blast. I lost my phone. Everything was falling out of my pockets. That\u2019s how much fun I was having. It was awesome.\u201d \u201cAfter my double hip",
-      "extended_summary": "In 2022, Kendall Vidal had a double hip replacement. Just two years later, he found himself dancing center stage in Herbert Von King Park. \u201cYou know, I don't always get into the circle like that,\u201d Vidal said. \u201cBut this particular time, I went down and just had a blast. I lost my phone. Everything was falling out of my pockets. That\u2019s how much fun I was having. It was awesome.\u201d \u201cAfter my double hip, I'm just out here just enjoying life, and, you know, Public Service is a big part of that,\u201d he said. Now in its fifth year, Public Service is a series of free, outdoor daytime parties co-founded by DJs Mickey Perez and Cesar Toribio. The event, which is funded through public donations on a GoFundMe page , builds on the long-standing tradition of New York City block parties, happening in parks ac",
+      "summary": "After a double hip replacement, Kendall Vidal found a new lease on life dancing at Public Service, Brooklyn's free outdoor dance parties. The events, now in their fifth year, bring together diverse crowds for pure, joyful movement in parks across the borough.",
+      "extended_summary": "Two years after a double hip replacement, Kendall Vidal was center stage at a Public Service dance party in Herbert Von King Park, losing his phone and having the time of his life. 'After my double hip, I'm just out here just enjoying life,' he said. Public Service, co-founded by DJs Mickey Perez and Cesar Toribio, is a series of free, outdoor daytime parties that build on NYC's block party tradition. With babies bobbing in earmuffs and bubbles floating over dancers, these events are a celebration of community and resilience, proving that joy and movement are for everyone.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
+        "Transformation",
+        "Sports"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://gothamist.com/arts-entertainment/it-is-a-bit-utopian-why-public-service-is-brooklyns-favorite-dance-party",
       "source_name": "gothamist.com",
       "published_ts": 1786116660000,
       "image_url": "https://api-prod.gothamist.com/images/358527/fill-1200x650|format-webp|webpquality-85/",
       "display_mode": "image",
-      "display_reason": "hero always uses image mode (summary always visible)",
+      "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 5,
+      "headline_pull": 4,
       "read_time_min": 7,
       "image_position": "center",
       "image_scale": 1.0,
@@ -34,16 +37,23 @@
         "impact_innovation": 2,
         "limelight": 5
       },
-      "city": "New York County"
+      "city": "New York County",
+      "emoji_clue": "\ud83d\udd7a\ud83d\udc83\ud83c\udf89\ud83c\udfd9\ufe0f",
+      "headline_split": "'It is a bit utopian': Why Public Service is Brooklyn's favorite ",
+      "fake_headline": "Brooklyn's New Library Offers Free Yoga Classes to All Residents",
+      "fake_endings": [
+        "coffee shop",
+        "community garden"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_002",
       "title": "'It's the ultimate gift': Why some people are donating their bodies to UVM and Dartmouth for science",
-      "summary": "When thinking about end-of-life plans, people often think in terms of being buried or cremated. But former Essex Junction resident Alberta Bundy had something else in mind. When she died of cancer last year at 86, her family was well aware she wanted to donate her body to science. \u201cShe really felt like she could help people in research and help people get a better handle on cancer and a cure for c",
-      "extended_summary": "When thinking about end-of-life plans, people often think in terms of being buried or cremated. But former Essex Junction resident Alberta Bundy had something else in mind. When she died of cancer last year at 86, her family was well aware she wanted to donate her body to science. \u201cShe really felt like she could help people in research and help people get a better handle on cancer and a cure for cancer,\u201d said Wanda Loven, one of Bundy\u2019s six children. Loven's sister died of cancer, and she thinks it\u2019s one of the reasons her mom was so interested in the Anatomical Gift Program at the University of Vermont Larner College of Medicine. \u201cShe would always say, \u2018Oh, they\u2019re going to learn a lot from my body,\u2019\u201d Loven said. \u201cMy mom was always a teacher by heart.\u201d It's hard to get an exact number, bu",
-      "category": "Transformation",
+      "summary": "More than 20,000 Americans a year donate their bodies to science, helping train future doctors and advance medical research. For families like Alberta Bundy's, it's a final act of generosity that turns loss into a legacy of learning.",
+      "extended_summary": "Alberta Bundy, a former teacher, always said, 'Oh, they're going to learn a lot from my body.' When she died of cancer at 86, her family honored her wish to donate her body to the University of Vermont's Anatomical Gift Program. She's one of over 20,000 Americans annually who choose this path, a number that's steadily rising. For Doug Lantz, donating to Dartmouth's Geisel School follows a family tradition\u2014his parents, aunt, uncle, and grandmother all did the same. These gifts are critical for teaching life-saving skills, turning a final act into a profound contribution to science and education.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
+        "Discovery"
       ],
       "tones": [],
       "source_url": "https://www.vermontpublic.org/local-news/2026-08-07/uvm-dartmouth-medical-schools-body-donation",
@@ -53,8 +63,8 @@
       "display_mode": "text",
       "display_reason": "medium image not worth the space",
       "image_confidence": "medium",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 2,
+      "headline_pull": 4,
       "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
@@ -67,27 +77,36 @@
         "impact_innovation": 2,
         "limelight": 5
       },
-      "city": "Chittenden County"
+      "city": "Chittenden County",
+      "emoji_clue": "\ud83e\udde0\ud83d\udd2c\ud83c\udf93\u26b0\ufe0f",
+      "headline_split": "'It's the ultimate gift': Why some people are donating their bodies to UVM and Dartmouth for ",
+      "fake_headline": "Vermont Town Builds First Community Solar Farm, Powers 500 Homes",
+      "fake_endings": [
+        "medical research",
+        "student training"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_003",
       "title": "2 years later, a lost cat finally finds his way home",
-      "summary": "DETROIT LAKES \u2014 A Detroit Lakes woman has been reunited with her cat after the feline went missing over two years ago. All thanks to another Detroit Lakes woman who helped trap the cat, a local animal shelter, and Facebook. ADVERTISEMENT Before this week, Cheryl Mollberg and Jericha Schermerhorn had never met, but now they're connected through a four-legged friend who recently found himself in Mol",
-      "extended_summary": "DETROIT LAKES \u2014 A Detroit Lakes woman has been reunited with her cat after the feline went missing over two years ago. All thanks to another Detroit Lakes woman who helped trap the cat, a local animal shelter, and Facebook. ADVERTISEMENT Before this week, Cheryl Mollberg and Jericha Schermerhorn had never met, but now they're connected through a four-legged friend who recently found himself in Mollberg's neighborhood. \"I've never seen a cat in my neighborhood out cruising around, and I've lived there for 15 years,\" Mollberg said. With a metal trap and wet food, Mollberg was able to capture five wandering cats. \"Locked them up in my guest bathroom. And frankly, he smelled too bad that I had to put him back in the cage outside,\" she said. One by one, Mollberg brought the cats to the Marshmal",
-      "category": "Transformation",
+      "summary": "After two long years, a cat named Boo-Boo Bear is finally home. A neighbor trapped him, a shelter matched him to an old Facebook post, and his owner's heart melted when he flopped over, recognizing her instantly.",
+      "extended_summary": "Boo-Boo Bear survived two harsh Minnesota winters after going missing, losing parts of his ears and tail to frostbite. When Cheryl Mollberg spotted him in her neighborhood, she trapped him and brought him to the Marshmallow Foundation. There, caretakers found a Facebook post from over two years ago and called Jericha Schermerhorn. The moment they met, Boo-Boo Bear flopped over, all lovey, and Schermerhorn knew it was him. 'Despite everything he'd been through, he was still alive,' she said. 'And after two long years, that's all that mattered.'",
+      "category": "Rescue",
       "categories": [
-        "Transformation"
+        "Rescue"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.perhamfocus.com/news/minnesota/2-years-later-a-lost-cat-finally-finds-his-way-home",
       "source_name": "perhamfocus.com",
       "published_ts": 1786177351000,
       "image_url": "https://cdn.forumcomm.com/dims4/default/58df411/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F77%2F3c%2Fa2d531d04ecb84c0fe13e5fe1174%2F08071804-catsdlpkg10-mp4-still006.jpg",
-      "display_mode": "text",
-      "display_reason": "medium image not worth the space",
+      "display_mode": "image",
+      "display_reason": "medium image but highly visual story",
       "image_confidence": "medium",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 5,
+      "headline_pull": 5,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -100,13 +119,20 @@
         "ai_entrepreneurship": 1,
         "impact_innovation": 1
       },
-      "city": "Perham"
+      "city": "Perham",
+      "emoji_clue": "\ud83d\udc31\ud83c\udfe0\ud83d\uddd3\ufe0f\u2764\ufe0f",
+      "headline_split": "2 years later, a lost cat finally finds his way ",
+      "fake_headline": "Local Dog Rescued from Shelter Becomes Therapy Animal for Veterans",
+      "fake_endings": [
+        "back home",
+        "to a new family"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_004",
       "title": "2-K Offers Are Out: 2,000 NYC Toddlers Get Spots, 5,700 Apply",
-      "summary": "Sign up for The 74 newsletter. Join our zero2eight Substack community for more discussion about the latest news in early care and education. Sign up today. Roughly 2,000 families received offers for a spot in the inaugural year of 2-K, New York City\u2019s new free childcare program for 2-year-olds, officials announced Tuesday. Around 5,700 families applied for the initial 2,000 seats , which were rest",
-      "extended_summary": "Sign up for The 74 newsletter. Join our zero2eight Substack community for more discussion about the latest news in early care and education. Sign up today. Roughly 2,000 families received offers for a spot in the inaugural year of 2-K, New York City\u2019s new free childcare program for 2-year-olds, officials announced Tuesday. Around 5,700 families applied for the initial 2,000 seats , which were restricted to priority neighborhoods in Manhattan, Brooklyn, Queens, and the Bronx. \u201cToday represents a monumental step on the path to universal childcare here in New York City,\u201d Mayor Zohran Mamdani said at a press conference Tuesday morning in the Bronx. Mamdani made expanding free childcare a key campaign pledge. \u201cWe are writing a better chapter for \u2026 the generations of New Yorkers many years from ",
+      "summary": "New York City's new 2-K program is off to a strong start, with 2,000 families receiving offers for free childcare for 2-year-olds. Mayor Zohran Mamdani calls it a 'monumental step' toward universal childcare, easing the burden on working families.",
+      "extended_summary": "In its inaugural year, New York City's 2-K program received 5,700 applications for 2,000 seats, a promising sign for Mayor Zohran Mamdani's push for universal childcare. The program, which offers free spots for 2-year-olds in priority neighborhoods, is part of a broader effort to support families. 'We are writing a better chapter for the generations of New Yorkers many years from now,' Mamdani said. The rollout included creative outreach like a '2K for 2-K' road race and a jingle contest judged by Cardi B and Lin-Manuel Miranda. For families, it's a chance to stay in their neighborhoods and jobs without the crushing cost of childcare.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -119,7 +145,7 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
+      "visual_affinity": 2,
       "headline_pull": 3,
       "read_time_min": 4,
       "image_position": "center",
@@ -132,18 +158,27 @@
         "ai_entrepreneurship": 1,
         "limelight": 5,
         "impact_innovation": 2
-      }
+      },
+      "emoji_clue": "\ud83d\udc76\ud83c\udf92\ud83c\udfeb\ud83d\udccb",
+      "headline_split": "2-K Offers Are Out: 2,000 NYC Toddlers Get Spots, 5,700 ",
+      "fake_headline": "City Opens 10 New Playgrounds in Underserved Neighborhoods",
+      "fake_endings": [
+        "apply for waitlist",
+        "remain on list"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_005",
       "title": "50's sock hop raises funds for foster children and families",
-      "summary": "Organizers Pam and Ron Iverson cheer on a young hula hooper at the Condon sock hop. Bobbie Jo Wolff showing Condon how the hula hoop is mastered ahead of the hula hooping competition. Condon Sock Hop for Child Bridge 2026 Dan and Kathy Colibri twisting and shouting at the Condon Sock Hop. The entrance to the Swan Valley Community Hall transformed into a portal to the 50's on July 25 with a sock ho",
-      "extended_summary": "Organizers Pam and Ron Iverson cheer on a young hula hooper at the Condon sock hop. Bobbie Jo Wolff showing Condon how the hula hoop is mastered ahead of the hula hooping competition. Condon Sock Hop for Child Bridge 2026 Dan and Kathy Colibri twisting and shouting at the Condon Sock Hop. The entrance to the Swan Valley Community Hall transformed into a portal to the 50's on July 25 with a sock hop celebration to raise funds for Child Bridge, a Bigfork-based nonprofit focused on supporting foster children and the families who take them in. Organizers Pam and Ron Iverson said this is the first time they've put together an event to raise money for Child Bridge, but the couple have supported the organization for years by harvesting Christmas trees to provide to nurseries and foundations acros",
+      "summary": "A 50s-themed sock hop in Condon raised over $50,000 for Child Bridge, supporting foster children and families in western Montana. With hula hoop contests and twist competitions, the community came together for a cause that changes lives.",
+      "extended_summary": "The Swan Valley Community Hall was transformed into a 1950s time warp on July 25 for a sock hop benefiting Child Bridge, a nonprofit supporting foster families. Organizers Pam and Ron Iverson, who have long supported the organization, helped raise over $50,000 through ticket sales, raffles, and hula hoop showdowns. Volunteers from the Seeley-Swan Blackhawks football team served popcorn, and raffle prizes included guided fishing trips. The funds will support programs for the 1,500+ children in western Montana's foster care system. 'Thank you for supporting kids and the foster families that support them here in Montana,' said Dan Minor, Child Bridge's director of donor relations.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Humor"
+      ],
       "source_url": "https://www.seeleylake.com/story/2026/08/06/news/50s-sock-hop-raises-funds-for-foster-children-and-families/12049.html",
       "source_name": "seeleylake.com",
       "published_ts": 1786026780000,
@@ -151,8 +186,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -165,18 +200,27 @@
         "young_achievers": 1,
         "impact_innovation": 1
       },
-      "city": "Seeley Lake"
+      "city": "Seeley Lake",
+      "emoji_clue": "\ud83d\udc5f\ud83d\udd7a\ud83d\udcb0\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+      "headline_split": "50's sock hop raises funds for foster children and ",
+      "fake_headline": "Retiree Bakes 1,000 Pies for Annual Charity Bake Sale",
+      "fake_endings": [
+        "families in need",
+        "local shelters"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_006",
       "title": "92-year-old knits thousands of baby caps, donating to Janesville maternity ward",
-      "summary": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video WALWORTH COUNTY, Wis. (CBS 58) -- Many say bringing a baby into the world is a gift... so, what do you give that gift? 92-year-old Beth Vold in Lake Geneva has figured that out, knitting thousands of baby caps, donating them to local maternity wards. Vold, a life-long resident in Walworth",
-      "extended_summary": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video WALWORTH COUNTY, Wis. (CBS 58) -- Many say bringing a baby into the world is a gift... so, what do you give that gift? 92-year-old Beth Vold in Lake Geneva has figured that out, knitting thousands of baby caps, donating them to local maternity wards. Vold, a life-long resident in Walworth County, has been knitting for about 80 years, ever since she was a \"little girl.\" She's perfected the craft of knitting joking with a laugh, \"it\u2019s not rocket science!\" Living in a retirement home, her room is filled with knitting needles and a variety of yarns. \"I keep everything in the little box, and I take it out when I when I use it,\" she said. One of the quilts made by Beth Vold Mark Cavin A",
+      "summary": "92-year-old Beth Vold has knitted thousands of baby caps for local maternity wards, turning her lifelong craft into a gift for new parents. She's been knitting for 80 years and jokes it's 'not rocket science.' Her room is filled with yarn, and she's donated caps to hospitals across Walworth County.",
+      "extended_summary": "At 92, Beth Vold's hands are still busy, knitting tiny caps for babies she'll never meet. She's been at it for 80 years, ever since she was a 'little girl,' and her retirement home room is a cozy chaos of needles and yarn. 'It's not rocket science!' she laughs. But her simple craft has become a lifeline for local maternity wards, where each cap arrives as a warm, handmade welcome. Vold, who switched from quilting to knitting when the quilts got too heavy, has now produced thousands of caps, proving that even in her tenth decade, she's still finding ways to give.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Humor"
+      ],
       "source_url": "https://cbs58.com/news/92-year-old-knits-thousands-of-baby-caps-donating-to-janesville-maternity-ward",
       "source_name": "cbs58.com",
       "published_ts": 1786294800000,
@@ -184,8 +228,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -198,18 +242,27 @@
         "ai_entrepreneurship": 1,
         "impact_innovation": 1
       },
-      "city": "Milwaukee County"
+      "city": "Milwaukee County",
+      "emoji_clue": "\ud83e\uddf6\ud83d\udc76\ud83c\udfe5\ud83c\udf81",
+      "headline_split": "92-year-old knits thousands of baby caps, donating to Janesville ",
+      "fake_headline": "Teen Volunteers Plant 500 Trees in City Parks Over Summer",
+      "fake_endings": [
+        "hospital nursery",
+        "local charities"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_007",
       "title": "A Wendy's manager was awarded a scholarship by his bosses. Now, he's heading to Yale",
-      "summary": "Thalles Winner DeSouza\u2019s aspirations have changed drastically in the past four years. \u201cI\u2019ll be majoring in political science, and my minor will be human rights,\u201d DeSouza tells TODAY.com. The 23-year-old is attending his first semester at Yale this fall. \u201cBut everything will be on the pre-law track because I want to go to law school. That\u2019s the plan.\u201d Stream San Diego News for free, 24/7, wherever ",
-      "extended_summary": "Thalles Winner DeSouza\u2019s aspirations have changed drastically in the past four years. \u201cI\u2019ll be majoring in political science, and my minor will be human rights,\u201d DeSouza tells TODAY.com. The 23-year-old is attending his first semester at Yale this fall. \u201cBut everything will be on the pre-law track because I want to go to law school. That\u2019s the plan.\u201d Stream San Diego News for free, 24/7, wherever you are with NBC 7. DeSouza moved to the U.S. from Brazil in 2016 and worked in fast food while attending high school. During his junior year, he worked at a Cape Cod Wendy\u2019s, where he was promoted to shift manager. \u201cMy senior year was when I talked to the owners of Wendy\u2019s and told them I was gonna leave,\u201d he recalls. \u201cMy plan was to go into construction.\u201d DeSouza\u2019s boss, Usama El-Sehrawey, who o",
+      "summary": "Thalles Winner DeSouza, a Wendy's manager from Brazil, is heading to Yale this fall thanks to his bosses' promise to pay his tuition. They set aside extra money for every hour he worked, turning his plan to go into construction into a shot at a law degree. 'Someone finally saw me,' he says.",
+      "extended_summary": "Four years ago, Thalles Winner DeSouza was planning to leave his Wendy's job for construction work, thinking it would pay better. But his boss, Usama El-Sehrawey, had a different vision: 'If you stay at Wendy's, I will make sure you go to college.' El-Sehrawey and his partner Ernest Smily set aside extra money for every hour DeSouza worked, then paid his tuition directly. Now 23, DeSouza is starting his first semester at Yale, majoring in political science with a minor in human rights, on a pre-law track. 'It changed my life,' he says. 'Someone finally saw me.'",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.nbcsandiego.com/news/national-international/former-wendys-manager-scholarship-yale/4058593/",
       "source_name": "nbc7.com",
       "published_ts": 1786094099000,
@@ -217,8 +270,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 5,
       "read_time_min": 4,
       "image_position": "center",
       "image_scale": 1.0,
@@ -231,13 +284,20 @@
         "young_achievers": 5,
         "ai_entrepreneurship": 1,
         "impact_innovation": 1
-      }
+      },
+      "emoji_clue": "\ud83c\udf54\ud83c\udf93\ud83c\udfeb\ud83c\udf1f",
+      "headline_split": "A Wendy's manager was awarded a scholarship by his bosses. Now, he's heading to ",
+      "fake_headline": "Barista Wins National Coffee Art Contest, Donates Prize to Local Library",
+      "fake_endings": [
+        "college",
+        "law school"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_008",
       "title": "A Winning Bid for the Federal Building \u2014 and a Long Road Ahead",
-      "summary": "MONTPELIER \u2014 A local development corporation formed to save Montpelier\u2019s former post office building at 87 State Street and won the auction with a $540,000 bid. Earlier this year, the Foundation for a Resilient Montpelier worked with the state to explore buying the former federal building at 87 State Street through a negotiated sale \u2014 a process giving state and local entities an early opportunity ",
-      "extended_summary": "MONTPELIER \u2014 A local development corporation formed to save Montpelier\u2019s former post office building at 87 State Street and won the auction with a $540,000 bid. Earlier this year, the Foundation for a Resilient Montpelier worked with the state to explore buying the former federal building at 87 State Street through a negotiated sale \u2014 a process giving state and local entities an early opportunity on federal property. But the Foundation walked away from the GSA\u2019s $2.4 million asking price, citing contamination concerns. \u201cThere was tremendous uncertainty about heading into a public auction,\u201d said Executive Director Jon Copans. \u201cAt that point, it\u2019s anyone\u2019s game. Anyone can participate and the outcome is extremely unpredictable.\u201d By the time the auction opened on June 15, a 10-member local de",
+      "summary": "A local development corporation in Montpelier won the auction for the former federal building with a $540,000 bid, far below the government's $2.4 million asking price. The group plans to redevelop the historic post office, despite contamination concerns. 'It's anyone's game,' said the executive director, but they pulled it off.",
+      "extended_summary": "When the GSA put Montpelier's former federal building up for auction, the asking price was $2.4 million\u2014but a local group had a different number in mind. The Foundation for a Resilient Montpelier walked away from the negotiated sale, citing contamination concerns, then formed a 10-member development corporation to bid at auction. After seven weeks of strategy and six offers, they won with $540,000, well under their $1 million cap. 'If we're going to be honest,' joked LDC President Ben Doyle, '$540,000 was probably $539,000 more than...' The group now faces the long road of redevelopment, but they've secured a historic piece of their city for the community.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -250,7 +310,7 @@
       "display_mode": "text",
       "display_reason": "no usable image",
       "image_confidence": "none",
-      "visual_affinity": 3,
+      "visual_affinity": 2,
       "headline_pull": 3,
       "read_time_min": 1,
       "image_position": "center",
@@ -263,13 +323,20 @@
         "young_achievers": 1,
         "limelight": 5,
         "impact_innovation": 2
-      }
+      },
+      "emoji_clue": "\ud83c\udfdb\ufe0f\ud83d\udd28\ud83c\udfd7\ufe0f\ud83d\udcbc",
+      "headline_split": "A Winning Bid for the Federal Building \u2014 and a Long Road ",
+      "fake_headline": "Historic Theater Reopens After Community Raises $2 Million for Renovation",
+      "fake_endings": [
+        "to restoration",
+        "of challenges"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_009",
       "title": "A broom, a bucket and a storm drain: Baraboo launches volunteer effort",
-      "summary": "The Clean Lakes alliance invited a Wisconsin State Journal reporter and photographer to observe one of its voyages out onto Lake Mendota to visit David Buoy, a UW-Madison water research vessel that bobs over the deepest part of the lake. A voluntary awareness program to raise awareness and spur community action to prevent flooding started in July in Baraboo. Rick Eilertson, of Baraboo, sweeps by t",
-      "extended_summary": "The Clean Lakes alliance invited a Wisconsin State Journal reporter and photographer to observe one of its voyages out onto Lake Mendota to visit David Buoy, a UW-Madison water research vessel that bobs over the deepest part of the lake. A voluntary awareness program to raise awareness and spur community action to prevent flooding started in July in Baraboo. Rick Eilertson, of Baraboo, sweeps by the curb on 1st Street on Baraboo\u2019s southeast side on Wednesday afternoon near a storm drain at an intersection with Elizabeth Street. Eilertson has sponsored more than 10 storm drains since the Adopt a Storm Drain program began in the city last month. Some of the 2,000+ storm drains in Baraboo are vane grates that enable water flow in a certain direction. Resident Rick Eilertson hopes to have this",
+      "summary": "Baraboo's new 'Adopt a Storm Drain' program is getting locals like Rick Eilertson to sweep curbs and maintain drains to prevent flooding. Eilertson has already sponsored more than 10 drains, hoping to improve water flow during heavy storms. It's a small act with big community impact.",
+      "extended_summary": "In Baraboo, a new volunteer effort is turning residents into storm drain stewards. Rick Eilertson, a local, has adopted more than 10 of the city's 2,000+ drains, sweeping curbs and checking grates to keep water flowing during heavy storms. The program, launched in July, aims to prevent flooding by getting the community involved in maintenance. Eilertson even hopes to have one vane grate turned to improve flow. It's a simple act\u2014a broom, a bucket, and a storm drain\u2014but it's already making a difference in how the city prepares for extreme weather.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -297,18 +364,28 @@
         "young_achievers": 1,
         "impact_innovation": 3
       },
-      "city": "Baraboo"
+      "city": "Baraboo",
+      "emoji_clue": "\ud83e\uddf9\ud83e\udea3\ud83c\udf27\ufe0f\ud83e\udd1d",
+      "headline_split": "A broom, a bucket and a storm drain: Baraboo launches volunteer ",
+      "fake_headline": "Neighbors Team Up to Build Wheelchair Ramp for Elderly Resident",
+      "fake_endings": [
+        "cleanup effort",
+        "flood prevention"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_010",
       "title": "A cancer survivor\u2019s journey to help kids fighting the disease",
-      "summary": "WRIGHTSVILLE BEACH, NC (WWAY) \u2014 In Wrightsville Beach, a man made his first stop on Saturday, as part of long sea journey to raise money for the National Pediatric Cancer Foundation. \u201cWhen I get home, it will be worth every nickel.\u201d That\u2019s the motto Captain Scott \u201cRed\u201d Flowers carried with him as he arrived in Wrightsville Beach to cheers, music and food \u2014 a welcome for a man taking on a journey t",
-      "extended_summary": "WRIGHTSVILLE BEACH, NC (WWAY) \u2014 In Wrightsville Beach, a man made his first stop on Saturday, as part of long sea journey to raise money for the National Pediatric Cancer Foundation. \u201cWhen I get home, it will be worth every nickel.\u201d That\u2019s the motto Captain Scott \u201cRed\u201d Flowers carried with him as he arrived in Wrightsville Beach to cheers, music and food \u2014 a welcome for a man taking on a journey that will span thousands of miles across America\u2019s waterways. The Great Loop Challenge is a nearly 7,000-mile boating journey connecting the Atlantic Coast, rivers, canals, the Great Lakes and the Gulf of Mexico. But for Flowers, the journey is about much more than the miles. It\u2019s personal. Flowers is a cancer survivor who battled stage 4 melanoma, a form of skin cancer. During his treatment, he an",
-      "category": "Transformation",
+      "summary": "Cancer survivor Captain Scott 'Red' Flowers is on a 7,000-mile boating journey to raise $1 million for pediatric cancer research. He's already raised over half a million, inspired by the children he saw during his own treatment. His motto: 'When I get home, it will be worth every nickel.'",
+      "extended_summary": "Captain Scott 'Red' Flowers survived stage 4 melanoma, but the children he saw across the hall during treatment stayed with him. Now he's on the Great Loop Challenge, a nearly 7,000-mile boating journey through America's waterways, to raise money for the National Pediatric Cancer Foundation. He's already passed the half-million mark toward his $1 million goal, and his arrival in Wrightsville Beach was met with cheers and music. 'When I get home, it will be worth every nickel,' he says. For Flowers, the journey is personal\u2014a way to turn his own survival into hope for kids still fighting.",
+      "category": "Rescue",
       "categories": [
+        "Rescue",
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.wwaytv3.com/a-cancer-survivors-journey-to-help-kids-fighting-the-disease/",
       "source_name": "wwaytv3.com",
       "published_ts": 1786332065000,
@@ -316,8 +393,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 5,
+      "headline_pull": 4,
       "read_time_min": 2,
       "image_position": "center",
       "image_scale": 1.0,
@@ -330,13 +407,20 @@
         "young_achievers": 1,
         "impact_innovation": 2
       },
-      "city": "New Hanover County"
+      "city": "New Hanover County",
+      "emoji_clue": "\ud83c\udf97\ufe0f\ud83d\udc76\ud83d\udcaa\u2764\ufe0f",
+      "headline_split": "A cancer survivor\u2019s journey to help kids fighting the ",
+      "fake_headline": "Teacher Runs Marathon in 50 States to Fund School Supplies",
+      "fake_endings": [
+        "disease",
+        "same battle"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_011",
       "title": "A decade of the arts",
-      "summary": "Courtesy photo Main Street Studios & Art Gallery is celebrating 10 years in Elkhorn on Saturday, Aug. 8. Above, visitors browse the gallery. ELKHORN \u2013 When Tyler Curnes first purchased the aging brick building in downtown Elkhorn twelve and a half years ago, he wasn\u2019t looking to open just another art gallery. He saw something much bigger. The building needed extensive work \u2013 two and a half years o",
-      "extended_summary": "Courtesy photo Main Street Studios & Art Gallery is celebrating 10 years in Elkhorn on Saturday, Aug. 8. Above, visitors browse the gallery. ELKHORN \u2013 When Tyler Curnes first purchased the aging brick building in downtown Elkhorn twelve and a half years ago, he wasn\u2019t looking to open just another art gallery. He saw something much bigger. The building needed extensive work \u2013 two and a half years of renovation before it could even open \u2013 but Curnes envisioned more than a place to display artwork. He imagined a creative anchor for a historic downtown, one that could encourage artists, attract visitors and help shape Elkhorn\u2019s identity for years to come. Ten years after Main Street Studios & Art Gallery first opened its doors, that vision has grown far beyond its walls. Today, the gallery has",
+      "summary": "Ten years ago, Tyler Curnes transformed a dilapidated building in downtown Elkhorn into Main Street Studios & Art Gallery. Today, it's a thriving creative hub with resident artists, public murals, and plans for a bronze sculpture trail, proving that art can anchor a community's identity.",
+      "extended_summary": "When Tyler Curnes bought an aging brick building in downtown Elkhorn, he didn't just see a fixer-upper\u2014he saw a future creative anchor. After two and a half years of renovations, Main Street Studios & Art Gallery opened its doors, and a decade later, it's become a destination for artists working in glass, bronze, and paint. Curnes has since helped establish a historic district, coordinated public murals, and is now working on a public bronze sculpture trail to draw families and tourists. 'There are plenty of art galleries that don't make it that long,' he says. 'So we're happy to be here still.'",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -349,7 +433,7 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
+      "visual_affinity": 4,
       "headline_pull": 3,
       "read_time_min": 8,
       "image_position": "center",
@@ -364,18 +448,28 @@
         "young_achievers": 2,
         "impact_innovation": 3
       },
-      "city": "Elkhorn"
+      "city": "Elkhorn",
+      "emoji_clue": "\ud83c\udfad\ud83c\udfa8\ud83c\udf9f\ufe0f\ud83d\uddbc\ufe0f\ud83c\udfaa",
+      "headline_split": "A decade of the arts: ",
+      "fake_headline": "A tiny bakery in Maine donates all its profits to fund local music lessons for kids",
+      "fake_endings": [
+        "how one city turned empty lots into galleries",
+        "why a small town's theater troupe went viral"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_012",
       "title": "A foster home for a pet could be the first step toward a home for a family",
-      "summary": "Marisa Dawson, Bennington Buzz Bear has been reunited with his owner after temporarily staying with Douglas County Sheriff Aaron Hanson and deputies. DOUGLAS COUNTY \u2013 A temporary foster placement for a beloved dog helped remove a major obstacle for a Douglas County woman working to secure stable housing, resulting in an emotional reunion later. The Douglas County Sheriff\u2019s Office announced that Be",
-      "extended_summary": "Marisa Dawson, Bennington Buzz Bear has been reunited with his owner after temporarily staying with Douglas County Sheriff Aaron Hanson and deputies. DOUGLAS COUNTY \u2013 A temporary foster placement for a beloved dog helped remove a major obstacle for a Douglas County woman working to secure stable housing, resulting in an emotional reunion later. The Douglas County Sheriff\u2019s Office announced that Bear, a foster dog who spent time in the care of deputies and Sheriff Aaron Hanson, has been reunited with his owner after she successfully connected with housing resources through the Stephen Center. According to the sheriff\u2019s office, Bear entered temporary foster care on July 10 while his owner, who has asked to remain anonymous, began working with outreach services aimed at helping her transition",
-      "category": "Transformation",
+      "summary": "When a Douglas County woman needed stable housing, her dog Bear found a temporary home with Sheriff Aaron Hanson and deputies. After she connected with housing resources, Bear was reunited with his owner\u2014a heartwarming reminder that community support can help both people and pets.",
+      "extended_summary": "Bear, a beloved dog, spent weeks with Douglas County Sheriff Aaron Hanson and deputies while his owner worked with outreach services to secure stable housing. The temporary foster arrangement removed a major obstacle for the woman, who has since moved into a home and been reunited with Bear. The effort was coordinated by the sheriff's office's Homelessness Services Coordinator, with help from the Stephen Center and Nebraska Humane Society. It's a story of how a community can come together to support both people and their furry family members.",
+      "category": "Rescue",
       "categories": [
+        "Rescue",
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.dcpostgazette.com/articles/a-foster-home-for-a-pet-could-be-the-first-step-toward-a-home-for-a-family/",
       "source_name": "dcpostgazette.com",
       "published_ts": 1786136752000,
@@ -383,8 +477,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 5,
+      "headline_pull": 4,
       "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
@@ -398,16 +492,23 @@
         "limelight": 5,
         "impact_innovation": 5
       },
-      "city": "Elkhorn"
+      "city": "Elkhorn",
+      "emoji_clue": "\ud83d\udc15\ud83c\udfe0\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\u2764\ufe0f",
+      "headline_split": "A foster home for a pet could be the first step toward ",
+      "fake_headline": "A retired teacher turns her backyard into a free summer camp for neighborhood children",
+      "fake_endings": [
+        "a new job for a struggling veteran",
+        "a cure for a rare animal disease"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_013",
       "title": "A new UVA clinic is helping patients navigate a long-ignored genetic disease",
-      "summary": "Many Ehlers-Danlos Syndrome patients seem to tell the same story: For years, even decades, doctors would tell them the symptoms they reported were all in their head. But the real problem lurked deeper in their bodies, often in places where doctors don\u2019t and can\u2019t look. A new UVA Health clinic, one of less than 20 nationwide, is offering EDS patients across Virginia and surrounding states new hope ",
-      "extended_summary": "Many Ehlers-Danlos Syndrome patients seem to tell the same story: For years, even decades, doctors would tell them the symptoms they reported were all in their head. But the real problem lurked deeper in their bodies, often in places where doctors don\u2019t and can\u2019t look. A new UVA Health clinic, one of less than 20 nationwide, is offering EDS patients across Virginia and surrounding states new hope for better care and healthier lives. \u201cIt\u2019s a good thing to be offering care for these conditions,\u201d says Margaret, in her 70s, who lives with EDS and hopes to get treated at the clinic. \u201cPeople living with them are famously slow to be identified and [diagnosed]. It can be incredibly frustrating and discouraging.\u201d (Like all patients interviewed for this story, she requested anonymity to protect her ",
-      "category": "Transformation",
+      "summary": "A new UVA Health clinic is one of fewer than 20 nationwide dedicated to Ehlers-Danlos Syndrome, a genetic disease often dismissed by doctors. For patients like Margaret, it's a long-awaited source of hope and proper care for a condition that affects every part of the body.",
+      "extended_summary": "For decades, many Ehlers-Danlos Syndrome patients were told their symptoms were 'all in their head.' But a new clinic at UVA Health is changing that, offering specialized care for a genetic disease that affects connective tissue throughout the body. Dr. Ina Stephens founded the clinic, one of fewer than 20 in the country, to help patients who often wait years for a correct diagnosis. 'It's a good thing to be offering care for these conditions,' says Margaret, a patient in her 70s. 'People living with them are famously slow to be identified.' The clinic is giving patients across Virginia new hope for better care and healthier lives.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
+        "Discovery"
       ],
       "tones": [],
       "source_url": "https://c-ville.com/a-new-uva-clinic-is-helping-patients-navigate-a-long-ignored-genetic-disease/",
@@ -417,7 +518,7 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
+      "visual_affinity": 2,
       "headline_pull": 3,
       "read_time_min": 6,
       "image_position": "center",
@@ -430,18 +531,27 @@
         "ai_entrepreneurship": 1,
         "limelight": 5,
         "impact_innovation": 2
-      }
+      },
+      "emoji_clue": "\ud83c\udfe5\ud83e\uddec\ud83d\udd2c\ud83d\udc69\u200d\u2695\ufe0f\ud83d\udccb",
+      "headline_split": "A new UVA clinic is helping patients navigate ",
+      "fake_headline": "A community garden in Detroit grows fresh produce for 500 families every summer",
+      "fake_endings": [
+        "a complex maze of insurance claims",
+        "a rare form of seasonal depression"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_014",
       "title": "After 130 years, three Fort Peck children are coming home",
-      "summary": "In the 1890s, Peter Howe, Richard Morgan, and Christine Redstone were taken from the Fort Peck Reservation to the Carlisle Indian Industrial School in Pennsylvania, where they died. Their journey home is soon to begin. Peter Howe, left, and Christine Redstone, right, died at the Carlisle Indian Industrial School in Pennsylvania. Now, more than 130 years later, they - along with Richard Morgan - ar",
-      "extended_summary": "In the 1890s, Peter Howe, Richard Morgan, and Christine Redstone were taken from the Fort Peck Reservation to the Carlisle Indian Industrial School in Pennsylvania, where they died. Their journey home is soon to begin. Peter Howe, left, and Christine Redstone, right, died at the Carlisle Indian Industrial School in Pennsylvania. Now, more than 130 years later, they - along with Richard Morgan - are being repatriated to the Fort Peck Reservation. Participants in the Repatriation Awareness Walk trekked the entirety of the Fort Peck Reservation, beginning on Porcupine Creek in Nashua. This photo was taken during the Valley County portion of their walk. Participants fuel up in Poplar for the Repatriation Awareness Walk. Peter Howe \u2013 a member of the Assiniboine nation \u2013 was taken to the Carlisl",
+      "summary": "After more than 130 years, three children taken from the Fort Peck Reservation to the Carlisle Indian Industrial School are finally coming home. Their repatriation marks a long-awaited healing for a community that never forgot them.",
+      "extended_summary": "In the 1890s, Peter Howe, Richard Morgan, and Christine Redstone were taken from the Fort Peck Reservation to the Carlisle Indian Industrial School in Pennsylvania, where they died far from home. Now, more than 130 years later, they are being repatriated to their reservation. The Repatriation Awareness Walk trekked the entire reservation to honor their journey home. For the Fort Peck Tribes, this is a moment of healing and justice, a chance to bring their children back to the land where they belong. It's a story of resilience and the enduring bond between a community and its ancestors.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Spiritual"
+      ],
       "source_url": "HTTPS://www.glasgowcourier.com/story/2026/08/05/news/after-130-years-three-fort-peck-children-are-coming-home/18665.html",
       "source_name": "glasgowcourier.com",
       "published_ts": 1785949740000,
@@ -449,8 +559,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 5,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -463,13 +573,20 @@
         "limelight": 5,
         "impact_innovation": 1
       },
-      "city": "Glasgow"
+      "city": "Glasgow",
+      "emoji_clue": "\ud83d\udc76\ud83c\udffd\ud83c\udfe0\ud83d\udd70\ufe0f\ud83c\udf3e",
+      "headline_split": "After 130 years, three Fort Peck children are ",
+      "fake_headline": "A lost diary from 1892 reunites a family with their great-great-grandmother's story",
+      "fake_endings": [
+        "finally getting a proper burial site",
+        "being honored with a new museum exhibit"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_015",
       "title": "After Helene, Transylvania nonprofit SparkPoint fosters connection and well-being",
-      "summary": "Recently, the supervisors at ALULA started noticing something about rain. The company, formerly Transylvania Vocational Services, has employed adults with disabilities here since 1967, blending and packaging granola pouches, dry mixes, supplements, and the dry milk that once went to the U.S. Agency for International Development ( USAID ). After Hurricane Helene, every time it rained, the people on",
-      "extended_summary": "Recently, the supervisors at ALULA started noticing something about rain. The company, formerly Transylvania Vocational Services, has employed adults with disabilities here since 1967, blending and packaging granola pouches, dry mixes, supplements, and the dry milk that once went to the U.S. Agency for International Development ( USAID ). After Hurricane Helene, every time it rained, the people on that line couldn\u2019t focus. Tasks went unfinished, the anxiety didn\u2019t lift, and their supervisors didn\u2019t know how to help. So they called SparkPoint , a Transylvania nonprofit fostering community well-being rooted in connection. Nobody trains a line supervisor in emotional recovery. ALULA\u2019s managers spotted the pattern and went looking for help. Having come through the same storm, \u201cThe managers had",
+      "summary": "After Hurricane Helene, ALULA's supervisors noticed their employees with disabilities couldn't focus when it rained. They called SparkPoint, a nonprofit that built emotional support workshops\u2014helping workers and managers alike heal from the storm's trauma.",
+      "extended_summary": "When it rained after Hurricane Helene, the workers at ALULA\u2014many of whom have disabilities\u2014couldn't focus. Their supervisors, themselves struggling with the storm's aftermath, didn't know how to help. So they called SparkPoint, a nonprofit that fosters community well-being through connection. SparkPoint designed 10 hour-long sessions to teach emotional regulation tools, a first for many of these blue-collar workers. 'Some of them never have received any emotional regulation tools or support,' says founder Sarah Hankey. The program is free for participating nonprofits, funded by grants, and it's helping a community heal together.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -495,18 +612,28 @@
         "ai_entrepreneurship": 1,
         "limelight": 5,
         "impact_innovation": 2
-      }
+      },
+      "emoji_clue": "\ud83c\udf2a\ufe0f\ud83c\udfde\ufe0f\ud83e\udd1d\ud83d\udc9a",
+      "headline_split": "After Helene, Transylvania nonprofit SparkPoint fosters ",
+      "fake_headline": "A small-town diner in Ohio pays off all its customers' layaway bills for the holidays",
+      "fake_endings": [
+        "a new community garden in the flood zone",
+        "a weekly support group for storm survivors"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_016",
       "title": "After surviving a gunshot to her spine, a Philly occupational therapist is making disability inclusion her mission",
-      "summary": "Amanda Parezo, who uses a wheelchair, advocates for more accessible spaces and adaptive activities like Life Rolls On surfing events. Amanda Parezo, who uses a wheelchair, advocates for more accessible spaces and adaptive activities like Life Rolls On surfing events. From Philly and the Pa. suburbs to South Jersey and Delaware, what would you like WHYY News to cover? Let us know! On a stretch of b",
-      "extended_summary": "Amanda Parezo, who uses a wheelchair, advocates for more accessible spaces and adaptive activities like Life Rolls On surfing events. Amanda Parezo, who uses a wheelchair, advocates for more accessible spaces and adaptive activities like Life Rolls On surfing events. From Philly and the Pa. suburbs to South Jersey and Delaware, what would you like WHYY News to cover? Let us know! On a stretch of beach in Wildwood, New Jersey, a couple of volunteers from Jefferson Health helped Amanda Parezo onto a 10-foot longboard surfboard in the sand. Parezo, who is paralyzed from the waist down, wore a bright pink rash guard and faced the ocean on her belly. A larger group of people soon formed a circle around her and bent down to grip the edges of the board. In unison, they lifted Parezo into the air ",
+      "summary": "After surviving a gunshot to her spine, Amanda Parezo is paralyzed from the waist down\u2014but that hasn't stopped her. She's now an advocate for disability inclusion, surfing at Life Rolls On events and pushing for more accessible spaces.",
+      "extended_summary": "Amanda Parezo, paralyzed from the waist down after a gunshot wound, recently surfed at a Life Rolls On event in Wildwood, New Jersey. Volunteers carried her into the ocean on a longboard, and she rode a wave back to shore as spectators cheered. Parezo, an occupational therapist, is now a passionate advocate for disability inclusion, working to make spaces more accessible and encouraging adaptive activities like surfing. Her story is one of resilience and joy, showing that life after a spinal injury can still be full of adventure and purpose.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
+        "Transformation",
+        "Sports"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://whyy.org/articles/disability-advocacy-gun-violence-survivor/",
       "source_name": "whyy.org",
       "published_ts": 1786372225000,
@@ -514,8 +641,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 5,
+      "headline_pull": 4,
       "read_time_min": 12,
       "image_position": "center",
       "image_scale": 1.0,
@@ -528,16 +655,23 @@
         "impact_innovation": 1,
         "young_achievers": 2
       },
-      "city": "New Castle County"
+      "city": "New Castle County",
+      "emoji_clue": "\u267f\ud83e\ude7a\ud83d\udcaa\ud83c\udfd9\ufe0f",
+      "headline_split": "After surviving a gunshot to her spine, a Philly occupational therapist is making ",
+      "fake_headline": "A blind barista in Seattle opens a coffee shop that hires only visually impaired staff",
+      "fake_endings": [
+        "a documentary about her recovery journey",
+        "a new line of adaptive workout gear"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_017",
       "title": "Akron Children\u2019s and Frontier Local launch in-school health partnership",
-      "summary": "NEW MATAMORAS \u2013 Students returning to school on Aug. 20 in the Frontier Local School District will have access to a variety of pediatric-focused health services through a new partnership between the district and Akron Children's School-Based Health Centers. \"With a parent's consent, a nurse practitioner can provide a wide range of medical exams and services to students in person or through telehea",
-      "extended_summary": "NEW MATAMORAS \u2013 Students returning to school on Aug. 20 in the Frontier Local School District will have access to a variety of pediatric-focused health services through a new partnership between the district and Akron Children's School-Based Health Centers. \"With a parent's consent, a nurse practitioner can provide a wide range of medical exams and services to students in person or through telehealth,\" said Dr. Lisa Miyatake, medical director of school-based health services for Akron Children's. \"SBHC is a very successful and proven approach to keeping children healthy in the classroom and is especially well suited for addressing minor illnesses.\" Akron Children's research has found each appointment saves a student, on average, two hours and 40 minutes of \"seat time,\" time that would be sp",
-      "category": "Transformation",
+      "summary": "Students in the Frontier Local School District will soon have access to pediatric health services right in school, thanks to a new partnership with Akron Children's. Nurse practitioners will offer in-person and telehealth appointments, saving families time and keeping kids in class.",
+      "extended_summary": "Starting Aug. 20, students in the Frontier Local School District will have access to pediatric-focused health services through a new partnership with Akron Children's School-Based Health Centers. Nurse practitioners will provide medical exams and services in person or via telehealth, with parental consent. The program is designed to keep children healthy and in the classroom, saving an average of two hours and 40 minutes of 'seat time' per appointment. Laken Shook and Stacey Greenup will be the nurse practitioners available, offering a convenient option for families in New Matamoras.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
+        "Discovery"
       ],
       "tones": [],
       "source_url": "https://www.mariettatimes.com/news/2026/08/akron-childrens-and-frontier-local-launch-in-school-health-partnership/",
@@ -547,7 +681,7 @@
       "display_mode": "text",
       "display_reason": "no usable image",
       "image_confidence": "low",
-      "visual_affinity": 3,
+      "visual_affinity": 2,
       "headline_pull": 3,
       "read_time_min": 1,
       "image_position": "center",
@@ -562,16 +696,24 @@
         "impact_innovation": 4,
         "limelight": 5
       },
-      "city": "Marietta"
+      "city": "Marietta",
+      "emoji_clue": "\ud83c\udfeb\ud83e\ude7a\ud83e\udd1d\ud83d\udcda",
+      "headline_split": "Akron Children\u2019s and Frontier Local launch ",
+      "fake_headline": "A high school in Texas starts a peer tutoring program that boosts graduation rates by 20%",
+      "fake_endings": [
+        "a mobile dental clinic for rural areas",
+        "a telehealth program for student athletes"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_018",
       "title": "An Ivy League inspiration: A community library finds a home in Mindanao",
-      "summary": "By Elaine Joy Edaya Degale Before the Library, there was Merienda. I founded Operation Merienda in 2020 while completing my graduate work at Teachers College, Columbia University. My academic work examined philanthropy through the frameworks of human rights and peace education. I was interested in how philanthropic projects could provide resources to communities without treating the people receivi",
-      "extended_summary": "By Elaine Joy Edaya Degale Before the Library, there was Merienda. I founded Operation Merienda in 2020 while completing my graduate work at Teachers College, Columbia University. My academic work examined philanthropy through the frameworks of human rights and peace education. I was interested in how philanthropic projects could provide resources to communities without treating the people receiving them simply as beneficiaries of charity, but instead as people with rights, dignity and agency. During the early stages of the COVID-19 pandemic, Operation Merienda provided meals to frontline workers at 20 clinics and hospitals across SOCCSKSARGEN Region XII. \u201cOperation Merienda made us feel like we also mattered,\u201d said a nurse in Javelosa Surallah Community Hospital. When schools shifted to r",
+      "summary": "What started as Operation Merienda, providing meals to frontline workers during COVID, has grown into a community library in Mindanao. Founder Elaine Joy Edaya Degale is bringing resources and dignity to students who need them most.",
+      "extended_summary": "Elaine Joy Edaya Degale founded Operation Merienda in 2020 to provide meals to frontline workers during the pandemic. But when schools shifted to remote learning, she saw a new need: students without internet or printers were being left behind. So she expanded to donate printer ink and paper to indigenous students, and eventually created a community library in Mindanao. The library is a place where students can access books and resources, and it's a testament to the power of community-driven philanthropy that respects the dignity of those it serves.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
+        "Transformation",
+        "Discovery"
       ],
       "tones": [],
       "source_url": "https://thefilam.net/archives/46596?utm_source=rss&utm_medium=rss&utm_campaign=an-ivy-league-inspiration-a-community-library-finds-a-home-in-mindanao",
@@ -595,18 +737,27 @@
         "limelight": 5,
         "ai_entrepreneurship": 1,
         "impact_innovation": 2
-      }
+      },
+      "emoji_clue": "\ud83c\udfdb\ufe0f\ud83d\udcda\ud83c\udf0f\ud83c\udfdd\ufe0f",
+      "headline_split": "An Ivy League inspiration: A community library finds a home in ",
+      "fake_headline": "A group of college students builds free Wi-Fi towers for remote villages in Nepal",
+      "fake_endings": [
+        "a converted shipping container in Alaska",
+        "a historic train station in rural Vermont"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_019",
       "title": "An elderly woman\u2019s card kept declining at Walmart. The teen cashier didn\u2019t hesitate for a second.",
-      "summary": "Brent Cabahug moved from the Philippines to Minnesota with his mom and sister . He\u2019s a high school senior at Stillwater Area High School , and Walmart is his first job . He\u2019s been saving up to buy a car. During a shift in late January, an elderly woman came through his checkout line and her card kept declining. The line grew restless. Cabahug walked around the register and paid her $80 grocery bil",
-      "extended_summary": "Brent Cabahug moved from the Philippines to Minnesota with his mom and sister . He\u2019s a high school senior at Stillwater Area High School , and Walmart is his first job . He\u2019s been saving up to buy a car. During a shift in late January, an elderly woman came through his checkout line and her card kept declining. The line grew restless. Cabahug walked around the register and paid her $80 grocery bill himself. Then he went back to work. Another customer in line, a mom of four named Dani Dircks, watched the whole thing happen, as reported by WCCO . \u201cI watched this cashier, knowing nothing about him, walk around, knowing nothing about that lady, and he didn\u2019t care,\u201d she said. \u201cHe didn\u2019t care in that moment who she was, who she loved, who she voted for.\u201d Dircks wanted to do something. She learne",
+      "summary": "When an elderly woman's card kept declining at Walmart, teen cashier Brent Cabahug paid her $80 grocery bill without hesitation. A customer saw it, started a GoFundMe, and raised over $15,000 for Cabahug's dreams\u2014proving kindness comes back around.",
+      "extended_summary": "Brent Cabahug, a high school senior and Walmart cashier, was working his shift when an elderly woman's card kept declining. The line grew restless, but Cabahug walked around the register and paid her $80 bill himself. Another customer, Dani Dircks, saw the act of kindness and started a GoFundMe to help Cabahug, who is saving for a car and plans to become a nurse. The fundraiser has raised over $15,000, far exceeding his expectations. Cabahug didn't pay expecting anything back\u2014he just saw someone struggling and did what felt right. The rest took care of itself.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.upworthy.com/pn-walmart-teen-cashier-pays-elderly-woman-groceries-ex1/",
       "source_name": "upworthy.com",
       "published_ts": 1786347246000,
@@ -614,8 +765,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 5,
       "read_time_min": 4,
       "image_position": "center",
       "image_scale": 1.0,
@@ -628,15 +779,23 @@
         "limelight": 5,
         "impact_innovation": 1,
         "young_achievers": 4
-      }
+      },
+      "emoji_clue": "\ud83d\udc75\ud83d\udcb3\ud83d\uded2\ud83e\uddd1\u200d\ud83d\udcbc\ud83d\ude0a",
+      "headline_split": "An elderly woman\u2019s card kept declining at Walmart. The teen cashier didn\u2019t hesitate ",
+      "fake_headline": "A young barista pays for a homeless man's meal and starts a chain of kindness that lasts all day",
+      "fake_endings": [
+        "to call his manager for help",
+        "to check if she had another card"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_020",
       "title": "Anglers invited to cast for a cause at Austin Gray Memorial Scholarship bass tournament",
-      "summary": "Published 12:20 pm Monday, August 10, 2026 By Virginia Pierce One cast can change a life, and that\u2019s exactly what the Austin Gray Memorial Scholarship Bass Tournament has been doing for years. The annual tournament returns to Lake Murvaul August 7-8, bringing anglers from across East Texas together for a weekend of fishing, fellowship, and giving back. More than just a bass tournament, the event h",
-      "extended_summary": "Published 12:20 pm Monday, August 10, 2026 By Virginia Pierce One cast can change a life, and that\u2019s exactly what the Austin Gray Memorial Scholarship Bass Tournament has been doing for years. The annual tournament returns to Lake Murvaul August 7-8, bringing anglers from across East Texas together for a weekend of fishing, fellowship, and giving back. More than just a bass tournament, the event honors the life and legacy of Austin Gray while raising scholarship money to help students pursue careers in the skilled trades. Austin was just 18 years old when he was killed by a drunk driver in Hallsville on July 4, 2018. Those who knew him say fishing wasn\u2019t just a hobby, it was his passion. He also loved visiting classrooms and spending time teaching children. His mother, Denise Gray, wanted ",
-      "category": "Transformation",
+      "summary": "The Austin Gray Memorial Scholarship Bass Tournament returns to Lake Murvaul, raising money for students pursuing skilled trades. Honoring Austin's passion for fishing, the event has raised over $100,000 in scholarships since 2018.",
+      "extended_summary": "The Austin Gray Memorial Scholarship Bass Tournament is back at Lake Murvaul, bringing anglers together for a weekend of fishing and giving back. The event honors Austin Gray, an 18-year-old who loved fishing and was killed by a drunk driver in 2018. His mother, Denise Gray, created the tournament to keep his memory alive and help students pursue careers in skilled trades. Since its start, the tournament has raised more than $100,000 in scholarships, with every dollar going directly to recipients' schools. It's a weekend of fellowship and purpose, celebrating a life that continues to make a difference.",
+      "category": "Sports",
       "categories": [
+        "Sports",
         "Transformation"
       ],
       "tones": [],
@@ -647,8 +806,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 4,
       "image_position": "center",
       "image_scale": 1.0,
@@ -660,13 +819,20 @@
         "young_achievers": 1,
         "limelight": 5,
         "impact_innovation": 1
-      }
+      },
+      "emoji_clue": "\ud83c\udfa3\ud83c\udfc6\ud83c\udf93\ud83d\udc99",
+      "headline_split": "Anglers invited to cast for a cause at Austin Gray Memorial Scholarship ",
+      "fake_headline": "A local bike shop hosts a charity ride that raises $50,000 for school art programs",
+      "fake_endings": [
+        "fishing derby on the lake",
+        "golf tournament in the park"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_021",
       "title": "As Michigan ages, are we overlooking a critical type of caregiver \u2013 the friend?",
-      "summary": "It never occurred to Mary and Bill Hase not to care for their friend, Ed Niemi, just as they did for his late brother, who had multiple health problems, after the brothers\u2019 mother died. \u201cMaybe that\u2019s why they call me a mother hen,\u201d says Mary Hase, who helps the Munising resident sort medications and clean house while her husband helps with yard work and nudges Ed \u2014 who can struggle with personal c",
-      "extended_summary": "It never occurred to Mary and Bill Hase not to care for their friend, Ed Niemi, just as they did for his late brother, who had multiple health problems, after the brothers\u2019 mother died. \u201cMaybe that\u2019s why they call me a mother hen,\u201d says Mary Hase, who helps the Munising resident sort medications and clean house while her husband helps with yard work and nudges Ed \u2014 who can struggle with personal care \u2014 that it\u2019s time to take a shower or change his clothes. \u201cIt\u2019s just who we are,\u201d she said. The words \u201ccare partner\u201d or \u201ccaregiver\u201d often conjure thoughts of family ties: a sandwich-generation child or an overwhelmed spouse. But Mary Hase, 67, is one of more than 2.4 million Americans who are quietly helping friends delay the need for social services and avoid nursing homes despite having no bl",
+      "summary": "Mary and Bill Hase are part of a growing network of friends who step up as caregivers, helping their buddy Ed stay independent and out of a nursing home. A new study highlights over 2.4 million Americans doing this quietly, and it's a game-changer for aging communities.",
+      "extended_summary": "When Ed Niemi's brother and mother passed, Mary and Bill Hase didn't hesitate to step in. Mary sorts Ed's meds and cleans his house, while Bill handles yard work and gently nudges him to shower. They're among 2.4 million Americans providing crucial care for friends, a role often overlooked. This 'care team' approach is vital in states like Michigan, where aging services are stretched thin and nursing home costs are high. Their story shows how friendship can be a lifeline, delaying the need for institutional care and keeping communities together.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -692,18 +858,28 @@
         "ai_entrepreneurship": 1,
         "impact_innovation": 2,
         "limelight": 5
-      }
+      },
+      "emoji_clue": "\ud83d\udc75\ud83e\udd1d\ud83e\uddd1\ud83e\udd1d\ud83e\uddd1\ud83d\udc9a",
+      "headline_split": "As Michigan ages, are we overlooking a critical type of caregiver \u2013 ",
+      "fake_headline": "Detroit Teen Starts Free Bike Repair Shop for Seniors, Fixing 500 Bikes in a Year",
+      "fake_endings": [
+        "the neighbor next door?",
+        "the family pet?"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_022",
       "title": "At White Hall Arts Academy, South L.A. Youth Learn How the Music Business Really Works",
-      "summary": "Tanisha Hall \u2019 s Music Creators Camp goes beyond songwriting and performance, giving young people hands-on access to concert production, marketing, branding and the people who make the live entertainment industry run. The music business has always been good at showing us the star at center stage. It is less generous about revealing the army behind the curtain \u2014 the producers, engineers, lighting d",
-      "extended_summary": "Tanisha Hall \u2019 s Music Creators Camp goes beyond songwriting and performance, giving young people hands-on access to concert production, marketing, branding and the people who make the live entertainment industry run. The music business has always been good at showing us the star at center stage. It is less generous about revealing the army behind the curtain \u2014 the producers, engineers, lighting designers, marketers, concert promoters, video crews and creative executives who make that spotlight possible. Tanisha Hall wants young people in South Los Angeles to see all of it. Hall, the music educator and founder of White Hall Arts Academy, has spent years creating pathways into an industry that can appear tantalizingly close in Los Angeles and still remain frustratingly out of reach. This su",
+      "summary": "At White Hall Arts Academy's Music Creators Camp, South L.A. kids aren't just learning to sing\u2014they're getting backstage access to the music industry. From concert production to marketing, they're discovering all the careers that make the magic happen.",
+      "extended_summary": "Forget just songwriting\u2014at this camp, 50 kids aged 9 to 17 are diving into the behind-the-scenes world of music. They're producing videos at Apple, learning concert promotion from AEG execs, and exploring lighting and staging at a pro studio. Founder Tanisha Hall wants to demystify an industry that feels close yet out of reach in L.A. By giving these students hands-on access, she's opening doors to careers they might never have imagined. It's not just a camp; it's a pathway to a future in the spotlight or behind it.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
+        "Transformation",
+        "Discovery"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://lasentinel.net/at-white-hall-arts-academy-south-l-a-youth-learn-how-the-music-business-really-works.html",
       "source_name": "lasentinel.net",
       "published_ts": 1786322449000,
@@ -711,8 +887,8 @@
       "display_mode": "text",
       "display_reason": "no usable image",
       "image_confidence": "none",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -726,18 +902,27 @@
         "impact_innovation": 3,
         "young_achievers": 2
       },
-      "city": "Los Angeles"
+      "city": "Los Angeles",
+      "emoji_clue": "\ud83c\udfb5\ud83c\udfeb\ud83c\udfa4\ud83c\udfa7\ud83c\udfb6",
+      "headline_split": "At White Hall Arts Academy, South L.A. Youth Learn How the Music Business ",
+      "fake_headline": "Brooklyn Librarian Turns Basement Into Recording Studio for Teens, Producing First Hit Single",
+      "fake_endings": [
+        "really works",
+        "can pay off"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_023",
       "title": "Beyond Santa: How SkyPark Rebuilt a California Landmark for a New Generation",
-      "summary": "It is thrilling, slightly unnerving and an apt symbol for what Michelle and Bill Johnson have spent more than a decade doing at SkyPark at Santa\u2019s Village: taking a relic from another California and giving it enough momentum to move forward. Santa\u2019s Village opened in Skyforest on Memorial Day weekend in 1955, six weeks before Disneyland. Built along the Rim of the World Highway near Lake Arrowhead",
-      "extended_summary": "It is thrilling, slightly unnerving and an apt symbol for what Michelle and Bill Johnson have spent more than a decade doing at SkyPark at Santa\u2019s Village: taking a relic from another California and giving it enough momentum to move forward. Santa\u2019s Village opened in Skyforest on Memorial Day weekend in 1955, six weeks before Disneyland. Built along the Rim of the World Highway near Lake Arrowhead, the park offered live reindeer, a miniature train, storybook cottages and elves making toys. For generations of Southern California families, the winding drive into the San Bernardino Mountains ended beneath candy-cane arches. But nostalgia could not keep the gates open. After years of financial trouble and changing ownership, Santa\u2019s Village closed in 1998. Rides were auctioned, electrical infr",
+      "summary": "SkyPark at Santa's Village isn't just a nostalgic trip\u2014it's a full-on rebirth. Michelle and Bill Johnson took a shuttered 1950s theme park and turned it into a mountain adventure hub, proving that even a relic can find new life.",
+      "extended_summary": "When the Johnsons bought the 230-acre property in 2014, they had no plans to resurrect Christmas. But after hearing from countless SoCal families who cherished the original park, they leaned in. Now, SkyPark blends the old charm with new thrills\u2014mountain biking trails, a village for gathering, and a nod to the past that keeps the magic alive. It's a story of listening to a community and daring to reimagine a landmark. The result? A place where nostalgia and adventure meet, drawing a new generation to the mountains.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://socalpulse.com/socal/beyond-santa-how-skypark-rebuilt-a-california-landmark-for-a-new-generation/",
       "source_name": "socalpulse.com",
       "published_ts": 1785881068000,
@@ -745,8 +930,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 6,
       "image_position": "center",
       "image_scale": 1.0,
@@ -759,13 +944,20 @@
         "impact_innovation": 2,
         "limelight": 5
       },
-      "city": "San Diego"
+      "city": "San Diego",
+      "emoji_clue": "\ud83c\udfa2\ud83c\udf32\ud83c\udfd4\ufe0f\ud83c\udfa1\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "headline_split": "Beyond Santa: How SkyPark Rebuilt a California Landmark for ",
+      "fake_headline": "Historic Ohio Amusement Park Reopens After 20 Years, Thanks to Volunteer Restoration Crew",
+      "fake_endings": [
+        "a new generation",
+        "the holidays"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_024",
       "title": "Bill and Oi's Farmers Market boasts a bountiful harvest",
-      "summary": "WORTHINGTON \u2014 Stacks of leafy greens, bunches of green-topped carrots, giant slicing cucumbers, colorful flowers, hot beverages, chicken tamales, clothing and beaded items filled the tables of vendors at Bill and Oi\u2019s Farmers Market, located in the former Westminster Presbyterian Church parking lot at the corner of Clary Street and Diagonal Road. It was 7:30 a.m. Saturday morning, and though the m",
-      "extended_summary": "WORTHINGTON \u2014 Stacks of leafy greens, bunches of green-topped carrots, giant slicing cucumbers, colorful flowers, hot beverages, chicken tamales, clothing and beaded items filled the tables of vendors at Bill and Oi\u2019s Farmers Market, located in the former Westminster Presbyterian Church parking lot at the corner of Clary Street and Diagonal Road. It was 7:30 a.m. Saturday morning, and though the market opened at 5, several early bird vendors were set up by 4:30 a.m. with lights strung from their canopies. ADVERTISEMENT Bill and Oi Baker, of rural Jackson, have sold their produce \u2014 and freshly processed chickens and ducks \u2014 at Worthington\u2019s ethnically-diverse Farmers Market for about 20 years, the last 10 years of which they've been at their present location. The Saturday morning market is ",
+      "summary": "Bill and Oi's Farmers Market in Worthington is more than just fresh produce\u2014it's a community hub. With new grants, they're giving kids and seniors tokens to shop, making healthy food accessible for everyone.",
+      "extended_summary": "At 5 a.m., vendors are already setting up, stringing lights and stacking greens for the Saturday market. Bill and Oi Baker have been at this for 20 years, and now they're expanding their impact. Thanks to grants from local foundations, they're handing out Power of Produce tokens\u2014$3 for kids, $4 for seniors\u2014so everyone can afford fresh, local food. It's a small gesture with a big ripple effect, supporting both the farmers and the families who need it most. This market isn't just a place to shop; it's a lifeline for the community.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -792,27 +984,36 @@
         "impact_innovation": 2,
         "limelight": 5
       },
-      "city": "Worthington"
+      "city": "Worthington",
+      "emoji_clue": "\ud83c\udf3d\ud83c\udf45\ud83e\udd55\ud83e\uddd1\u200d\ud83c\udf3e\ud83d\uded2",
+      "headline_split": "Bill and Oi's Farmers Market boasts a ",
+      "fake_headline": "Rural Vermont Co-op Launches Mobile Market, Bringing Fresh Produce to 12 Food Deserts",
+      "fake_endings": [
+        "bountiful harvest",
+        "record turnout"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_025",
       "title": "Byrdie's martini bar in Grafton is attracting big crowds",
-      "summary": "GRAFTON, N.D. \u2014 It's been a warm summer in Grafton, just like everywhere else. But downtown, Byrdie's martini bar is making people stop and look twice. ADVERTISEMENT One night a week, on Thursdays, people are putting on their cocktail dresses and fancy party clothes for martini night at Byrdie's, 500 Hill Ave. \"It is like a dream fulfilled. When you are putting together all the plans and materials",
-      "extended_summary": "GRAFTON, N.D. \u2014 It's been a warm summer in Grafton, just like everywhere else. But downtown, Byrdie's martini bar is making people stop and look twice. ADVERTISEMENT One night a week, on Thursdays, people are putting on their cocktail dresses and fancy party clothes for martini night at Byrdie's, 500 Hill Ave. \"It is like a dream fulfilled. When you are putting together all the plans and materials, you never are certain it will all go together,\" said Dr. Bobbie Ekman over the sound of a martini shaker. Ekman is a popular dentist in town, but she also owns a clothing-gift shop downtown. Next door was an old landmark. Polly's bar. Bobbi and her husband bought the building and began knocking down walls. \"When we first walked in here, it had all been modernized in the 1950s, so most people tod",
+      "summary": "In a small North Dakota town, a dentist and her husband turned an old bar into Byrdie's, a swanky martini lounge that's bringing the party back downtown. It's proof that a little fancy can go a long way.",
+      "extended_summary": "Dr. Bobbie Ekman had a dream: to give Grafton a place for date nights and cocktails. So she and her husband bought the old Polly's bar, knocked down walls, and uncovered a tin ceiling hidden since the '50s. Now, with wallpaper from Poland and a bar from Egypt, Byrdie's is packed every Thursday. Customers are thrilled to see downtown buzzing again, a rarity in many small towns. It's not just a bar\u2014it's a beacon of hope and a reminder that community spirit can revive even the quietest Main Street.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.watfordcitynd.com/news/north-dakota/byrdies-martini-bar-in-grafton-is-attracting-big-crowds",
       "source_name": "watfordcitynd.com",
       "published_ts": 1786033620000,
       "image_url": "https://cdn.forumcomm.com/dims4/default/65a944b/2147483647/strip/true/crop/1280x720+0+0/resize/1895x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F9d%2Fcb%2F38f2bf4240479307d563250ebb7e%2Fmartini-vo-10-still003.jpg",
-      "display_mode": "text",
-      "display_reason": "medium image not worth the space",
+      "display_mode": "image",
+      "display_reason": "medium image but highly visual story",
       "image_confidence": "medium",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -825,18 +1026,27 @@
         "impact_innovation": 2,
         "limelight": 5
       },
-      "city": "Watford City"
+      "city": "Watford City",
+      "emoji_clue": "\ud83c\udf78\ud83e\udd42\ud83c\udf52\ud83d\udd7a\ud83d\udc83",
+      "headline_split": "Byrdie's martini bar in Grafton is attracting ",
+      "fake_headline": "Small-Town Wisconsin Tavern Wins National Award for Best Homemade Pickle Recipe",
+      "fake_endings": [
+        "big crowds",
+        "celebrity guests"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_026",
       "title": "Camas student\u2019s project aims to tackle algae bloom in Fallen Leaf Lake",
-      "summary": "CAMAS \u2014 Many people view algae blooms as a problem too big for any one person to solve. Emily Jiang saw an opportunity to prove that one person still could make a difference. Jiang, a rising Camas High School senior, designed and built a \u201cfloating island\u201d \u2014 a 4-by-7-foot raft planted with native wetland species \u2014 to help combat toxic blue-green algae blooms in Fallen Leaf Lake. With assistance fro",
-      "extended_summary": "CAMAS \u2014 Many people view algae blooms as a problem too big for any one person to solve. Emily Jiang saw an opportunity to prove that one person still could make a difference. Jiang, a rising Camas High School senior, designed and built a \u201cfloating island\u201d \u2014 a 4-by-7-foot raft planted with native wetland species \u2014 to help combat toxic blue-green algae blooms in Fallen Leaf Lake. With assistance from her father, Lipin Wang, she placed the island into the lake on July 3. \u201cI\u2019ve always really enjoyed going to the lake, and during COVID it was my main way to get outside,\u201d she said. \u201cIt\u2019s a place so many people use and enjoy, but I kept hearing stories about people getting sick and dogs dying from the cyanobacteria toxins. I realized this is a real issue in our community and thought, \u2018If I can he",
-      "category": "Transformation",
+      "summary": "High schooler Emily Jiang built a floating island to fight toxic algae blooms in her local lake. It's a DIY solution that could help clean up waterways\u2014and she's just getting started.",
+      "extended_summary": "When Emily Jiang heard about dogs dying and people getting sick from algae in Fallen Leaf Lake, she didn't just worry\u2014she acted. The rising senior designed a 4-by-7-foot raft planted with native wetland species, which absorb excess nutrients that fuel blooms. With her dad's help, she launched it in July. Now she's monitoring plant growth and phosphorus levels to see if her island can scale up. It's a bold, community-driven experiment that shows one person's initiative can spark real change. Emily's not stopping at one island\u2014she's proving that science starts with a single step.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
+        "Discovery"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.camaspostrecord.com/news/2026/aug/06/camas-students-project-aims-to-tackle-algae-bloom-in-fallen-leaf-lake/",
       "source_name": "camaspostrecord.com",
       "published_ts": 1786046649000,
@@ -844,8 +1054,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
@@ -859,18 +1069,27 @@
         "young_achievers": 5,
         "impact_innovation": 2
       },
-      "city": "Camas"
+      "city": "Camas",
+      "emoji_clue": "\ud83c\udf0a\ud83e\uddea\ud83d\udd2c\ud83c\udf93\ud83c\udf3f",
+      "headline_split": "Camas student\u2019s project aims to tackle algae bloom in ",
+      "fake_headline": "High School Sophomore Invents Solar-Powered Water Purifier, Wins $50,000 Grant",
+      "fake_endings": [
+        "Fallen Leaf Lake",
+        "the local river"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_027",
       "title": "Chabad is giving a San Francisco mortuary a second life",
-      "summary": "On the southern edge of San Francisco\u2019s Mission District, there stands a massive cream, mint green and terra cotta edifice that has served the city\u2019s mourners for more than a century. The two-story Mediterranean-style building at 1465 Valencia St. has been a mortuary since it was built in 1915. But in April it held its final funeral, just a few weeks after Chabad of Noe Valley purchased the space ",
-      "extended_summary": "On the southern edge of San Francisco\u2019s Mission District, there stands a massive cream, mint green and terra cotta edifice that has served the city\u2019s mourners for more than a century. The two-story Mediterranean-style building at 1465 Valencia St. has been a mortuary since it was built in 1915. But in April it held its final funeral, just a few weeks after Chabad of Noe Valley purchased the space with plans to transform it into the largest Chabad center in San Francisco. The Hasidic outreach movement has seven other centers in the city and dozens more across Northern California. The $7.5 million acquisition marks the beginning of an ambitious project that includes plans to turn the 17,000 square-foot property into an expansion of Gan Noe Preschool, as well as the site of a new Jewish day s",
+      "summary": "A century-old mortuary in San Francisco is getting a second life as a vibrant Jewish community center. Chabad of Noe Valley is turning a place of mourning into a hub of joy, learning, and celebration.",
+      "extended_summary": "For over 100 years, the building at 1465 Valencia St. served the city's mourners. Now, it's being reborn. Chabad of Noe Valley purchased the 17,000-square-foot property and plans to transform it into their largest center, complete with a preschool, day school, library, and kosher kitchen. Rabbi Gedalia Potash sees deep symbolism: 'We transform challenge into beauty and death into life.' The project is a testament to renewal and community, turning a space once associated with endings into a place for new beginnings. It's a powerful reminder that even the most solemn places can be filled with light.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Spiritual"
+      ],
       "source_url": "https://jweekly.com/2026/08/05/chabad-is-breathing-new-life-into-a-mortuary-in-san-franciscos-mission-district/",
       "source_name": "jweekly.com",
       "published_ts": 1785977837000,
@@ -879,7 +1098,7 @@
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
-      "headline_pull": 3,
+      "headline_pull": 4,
       "read_time_min": 7,
       "image_position": "center",
       "image_scale": 1.0,
@@ -891,27 +1110,36 @@
         "ai_entrepreneurship": 1,
         "limelight": 5,
         "impact_innovation": 2
-      }
+      },
+      "emoji_clue": "\ud83d\udd4d\u26b0\ufe0f\ud83c\udf39\ud83d\udd04\u2728",
+      "headline_split": "Chabad is giving a San Francisco mortuary ",
+      "fake_headline": "Detroit Synagogue Converts Abandoned Theater Into Community Center, Hosts 200 Events Yearly",
+      "fake_endings": [
+        "a second life",
+        "a new purpose"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_028",
       "title": "Chicago\u2019s first-ever \u2018cat tour\u2019 brings a day of whimsy to Lincoln Square: \u2018I think people need it\u2019",
-      "summary": "Share On Saturday afternoon, a large crowd formed in Lincoln Square for an inaugural social gathering. Among them was Nox, a sweet, shy Pisces who loves cuddles. There was also Diane, a fierce Tennessee native who loves long naps and cleanliness. No, they weren\u2019t two singles at a dating event but two felines on the Lincoln Square Cat Tour . For two hours, attendees hopped from house to house to vi",
-      "extended_summary": "Share On Saturday afternoon, a large crowd formed in Lincoln Square for an inaugural social gathering. Among them was Nox, a sweet, shy Pisces who loves cuddles. There was also Diane, a fierce Tennessee native who loves long naps and cleanliness. No, they weren\u2019t two singles at a dating event but two felines on the Lincoln Square Cat Tour . For two hours, attendees hopped from house to house to view more than 125 residents\u2019 cats on porches, or in windows and yards . They wore cat ears and cat patterns on their clothes. They carried cat-themed posters and cardboard cut-outs. One participant rolled her own cat in a stroller. Some used the official Google Map to go rogue, while others joined one of four guided routes with relevant names: Chonk, Zoomies, Primordial Pouch and Toe Beans. More th",
+      "summary": "Chicago's first-ever cat tour took over Lincoln Square, with 125+ felines on display and hundreds of cat lovers in full whimsy mode. It's the purr-fect way to build community and escape the daily grind.",
+      "extended_summary": "On a sunny Saturday, Lincoln Square turned into a cat paradise. Over 60 people followed the 'Chonk' route alone, hopping from porch to porch to meet neighborhood cats like Nox and Diane. Organizers Christine Blevins and Kalin Webber wanted to bring a little lightness to a heavy world. With cat ears, cardboard cutouts, and even a stroller-riding kitty, the event was pure joy. It's part of a global trend, but this was Chicago's first\u2014and it won't be the last. Sometimes, all it takes is a bunch of cats to bring a community together.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Humor"
+      ],
       "source_url": "https://www.wbez.org/arts-culture/2026/08/10/cat-tour-lincoln-square-video-fest-davis-theater",
       "source_name": "wbez.org",
       "published_ts": 1786390780000,
       "image_url": "https://cst.brightspotcdn.com/dims4/default/0a94ff7/2147483647/strip/true/crop/7008x4000+0+336/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2F8a%2Fee67935440a8afe45e43f2239f4f%2Fcaturday-260809-10.jpg",
-      "display_mode": "text",
-      "display_reason": "medium image not worth the space",
+      "display_mode": "image",
+      "display_reason": "medium image but highly visual story",
       "image_confidence": "medium",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 5,
+      "headline_pull": 4,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -925,13 +1153,20 @@
         "limelight": 5,
         "impact_innovation": 3
       },
-      "city": "Chicago"
+      "city": "Chicago",
+      "emoji_clue": "\ud83d\udc31\ud83d\ude8c\ud83c\udfd9\ufe0f\ud83d\ude3a\ud83d\udcf8",
+      "headline_split": "Chicago\u2019s first-ever \u2018cat tour\u2019 brings a day of whimsy to Lincoln Square: ",
+      "fake_headline": "Portland Launches 'Dog Yoga in the Park' Series, Drawing 300 Participants Weekly",
+      "fake_endings": [
+        "\u2018I think people need it\u2019",
+        "\u2018Cats are the best\u2019"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_029",
       "title": "Chicopee and Holyoke prepare for back-to-school events",
-      "summary": "by Tyler Garnet | Aug 10, 2026 | Chicopee , Hampden County , Holyoke , Local News Chicopee and Holyoke are both preparing for their respective back-to-school events featuring free backpacks, services and supplies for students attending the gatherings. Chicopee Faded Barber Lounge will once again host its back-to-school event on Sunday, Aug. 23, from noon to 4 p.m. at Rivers Park. The initiative is",
-      "extended_summary": "by Tyler Garnet | Aug 10, 2026 | Chicopee , Hampden County , Holyoke , Local News Chicopee and Holyoke are both preparing for their respective back-to-school events featuring free backpacks, services and supplies for students attending the gatherings. Chicopee Faded Barber Lounge will once again host its back-to-school event on Sunday, Aug. 23, from noon to 4 p.m. at Rivers Park. The initiative is led by Ricardo Diaz, owner of Faded Barber Lounge, and aims to support students as they prepare to return to school. At past events, hundreds of haircuts have been distributed, and approximately 1,000 backpacks with school supplies have been distributed in sponsorship with Chicopee Public Schools and Cradles to Crayons. What started as a small event at the shop has turned into one of Diaz\u2019s favor",
+      "summary": "Ricardo Diaz's back-to-school event in Chicopee is back for its fifth year, offering free haircuts, backpacks, and supplies to hundreds of kids. It's a community tradition that's all about giving back.",
+      "extended_summary": "What started as a small shop event has grown into a massive community celebration. Faded Barber Lounge's Ricardo Diaz is hosting his fifth annual back-to-school bash at Rivers Park, with free haircuts, braids, manicures, and facials for youth. There's a VR bus, basketball tournament, face painting, and a live DJ\u2014plus around 1,000 backpacks stuffed with supplies. Diaz says it's about more than just free stuff; it's about showing kids they're supported. With resource tables and free food, the event is a one-stop shop for families gearing up for the school year. It's a day Diaz and his team look forward to all year.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -941,10 +1176,10 @@
       "source_name": "thereminder.com",
       "published_ts": 1786389700000,
       "image_url": "https://thereminder.com/wp-content/uploads/2025/10/Reminder-Logo-round.jpg",
-      "display_mode": "text",
-      "display_reason": "medium image not worth the space",
+      "display_mode": "image",
+      "display_reason": "medium image but highly visual story",
       "image_confidence": "medium",
-      "visual_affinity": 3,
+      "visual_affinity": 4,
       "headline_pull": 3,
       "read_time_min": 4,
       "image_position": "center",
@@ -959,18 +1194,27 @@
         "impact_innovation": 1,
         "young_achievers": 3
       },
-      "city": "Chicopee"
+      "city": "Chicopee",
+      "emoji_clue": "\ud83c\udf92\u270f\ufe0f\ud83c\udfeb\ud83c\udf89\ud83d\udc67\ud83d\udc66",
+      "headline_split": "Chicopee and Holyoke prepare for ",
+      "fake_headline": "Springfield Teachers Surprise Students with Free Bikes and Helmets Before First Day",
+      "fake_endings": [
+        "back-to-school events",
+        "a big parade"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_030",
       "title": "Chugwater Chili at 40: How Five Families Came Together And Saved Chugwater",
-      "summary": "Four decades ago, Chugwater was just one more dot on the map about to be swallowed by the modern economics of ranches consolidating and farms disappearing from \u201cthe flats.\u201d It didn\u2019t help when Interstate 25 came along in 1959 and whisked travelers past Main Street. By 1970, the population had dwindled to 188 residents. The town didn\u2019t take the trend lying down. They banded together to fight back a",
-      "extended_summary": "Four decades ago, Chugwater was just one more dot on the map about to be swallowed by the modern economics of ranches consolidating and farms disappearing from \u201cthe flats.\u201d It didn\u2019t help when Interstate 25 came along in 1959 and whisked travelers past Main Street. By 1970, the population had dwindled to 188 residents. The town didn\u2019t take the trend lying down. They banded together to fight back and some of them did something a little audacious. Five ranching families decided to bottle up their town\u2019s identity \u2014 grit, wind and all \u2014 and plaster it on a jar of Chugwater Chili spices. \u201cWe were just trying to think of any kind of a business just to keep Chugwater alive,\u201d Terry Baker recalled. \u201cWe were all farmers and ranchers who had been trying to think of ways we could help our Chugwater co",
+      "summary": "When Chugwater was on the brink of disappearing, five ranching families started a chili business to save their town. Forty years later, Chugwater Chili is a national brand\u2014and the town is thriving.",
+      "extended_summary": "In the 1970s, Chugwater, Wyoming, was fading fast\u2014population down to 188 and the interstate bypassing Main Street. But five families refused to give up. They brainstormed in the school gym and came up with a wild idea: bottle their town's spirit as chili seasoning. From a tiny trailer, Chugwater Chili grew into a warehouse shipping hundreds of thousands of mixes to 600 stores nationwide. Terry Baker, one of the founders, says they just wanted to keep their community alive. Forty years later, they've done more than that\u2014they've put Chugwater on the map and kept its story going strong.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://cowboystatedaily.com/2026/08/09/bottling-a-future-how-five-chugwater-families-turned-chili-into-40-year-lifeline/",
       "source_name": "cowboystatedaily.com",
       "published_ts": 1786323173000,
@@ -979,7 +1223,7 @@
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
-      "headline_pull": 3,
+      "headline_pull": 4,
       "read_time_min": 9,
       "image_position": "center",
       "image_scale": 1.0,
@@ -992,18 +1236,29 @@
         "ai_entrepreneurship": 1,
         "young_achievers": 1,
         "impact_innovation": 5
-      }
+      },
+      "emoji_clue": "\ud83c\udf36\ufe0f\ud83c\udf72\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83e\udd1d\ud83c\udfc6",
+      "headline_split": "Chugwater Chili at 40: How Five Families Came Together And ",
+      "fake_headline": "Tiny Nebraska Town Revives Annual Corn Festival, Attracting 10,000 Visitors After 15-Year Hiatus",
+      "fake_endings": [
+        "Saved Chugwater",
+        "Won the Cookoff"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_031",
       "title": "Colorado\u2019s first-ever \u2018Fat Marmot Week\u2019 aims to raise awareness for the charismatic, whistling mammals",
-      "summary": "News News | Aug 9, 2026 alongwell@summitdaily.com A population of Colorado marmots are gaining notoriety as the subject of a new OnlyFans page and weight gain competition to raise awareness and funds for long-term study of the species. Scientists from the Rocky Mountain Biological Laboratory in Gothic have launched a bracket-style competition to determine which yellow-bellied marmot from the local",
-      "extended_summary": "News News | Aug 9, 2026 alongwell@summitdaily.com A population of Colorado marmots are gaining notoriety as the subject of a new OnlyFans page and weight gain competition to raise awareness and funds for long-term study of the species. Scientists from the Rocky Mountain Biological Laboratory in Gothic have launched a bracket-style competition to determine which yellow-bellied marmot from the local population is the chunkiest of them all. The inaugural Fat Marmot Week was announced by the lab in late July as a way to raise awareness about the mammals and long-term research conducted at the site. \u201cIt\u2019s fun to root for the chunkiest marmot, but behind the fun and games is a deathly serious competition against nature to pile on fat to survive the long, cold winter,\u201d said Dan Blumstein, profess",
-      "category": "Transformation",
+      "summary": "Colorado's first-ever Fat Marmot Week is here, and it's a bracket-style competition to crown the chunkiest yellow-bellied marmot. Scientists are using the fun to raise awareness and funds for long-term research on these charismatic, whistling mammals, highlighting the serious survival challenges they face.",
+      "extended_summary": "Move over March Madness\u2014Colorado's marmots are getting their own bracket, and it's all about chunk. The Rocky Mountain Biological Laboratory launched Fat Marmot Week, a playful competition to find the chunkiest yellow-bellied marmot, complete with an OnlyFans page for the furry contenders. But behind the laughs is a serious mission: raising awareness and funds for research on how these charismatic creatures survive increasingly unpredictable winters. As climate change brings wild weather swings, every pound of fat counts for their survival, making this quirky contest a lifeline for science.",
+      "category": "Discovery",
       "categories": [
+        "Discovery",
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
       "source_url": "https://www.summitdaily.com/news/colorado-fat-marmot-week-whistling-mammals/",
       "source_name": "summitdaily.com",
       "published_ts": 1786327526000,
@@ -1011,8 +1266,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 5,
+      "headline_pull": 5,
       "read_time_min": 10,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1025,18 +1280,28 @@
         "impact_innovation": 2,
         "limelight": 5
       },
-      "city": "Frisco"
+      "city": "Frisco",
+      "emoji_clue": "\ud83d\udc39\ud83d\uddd3\ufe0f\ud83c\udfd4\ufe0f\ud83d\udce2",
+      "headline_split": "Colorado\u2019s first-ever \u2018Fat Marmot Week\u2019 aims to raise awareness for the charismatic, whistling ",
+      "fake_headline": "Ohio Town Declares \u2018Squirrel Appreciation Day\u2019 After Squirrels Save Mayor\u2019s Cat",
+      "fake_endings": [
+        "mammals and their habitats",
+        "creatures of the high peaks"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_032",
       "title": "Comment on Poppies from Flanders Fields now grow at Edmonds College by JaneAnne Wilder",
-      "summary": "Will you chip in to support our nonprofit newsroom with a donation today? Yes, I want to support My Edmonds News! One of the most enduring symbols to veterans is that of the poppy flower, made famous by the poem In Flanders Fields , written in 1915 by Lt. Col. John McCrae and inspired by the death of his friend, Lt. Alexis Helmer, The flower and the poem are deeply important to veterans because th",
-      "extended_summary": "Will you chip in to support our nonprofit newsroom with a donation today? Yes, I want to support My Edmonds News! One of the most enduring symbols to veterans is that of the poppy flower, made famous by the poem In Flanders Fields , written in 1915 by Lt. Col. John McCrae and inspired by the death of his friend, Lt. Alexis Helmer, The flower and the poem are deeply important to veterans because they honor fallen comrades, created as the global symbol of the red poppy, and passed down a solemn duty to remember those who died. And today that flower lives on at Edmonds College, from seeds brought from those very fields, thanks to former Edmonds College student and Navy veteran Gabriel Landry. The seeds for the flowers came here with Gabriel directly from Flanders Fields, a region in Belgium. ",
+      "summary": "Poppies from Flanders Fields now bloom at Edmonds College, thanks to Navy veteran Gabriel Landry. He brought seeds from the historic battlefields to create a living memorial for veterans, honoring the fallen with a symbol of remembrance that will grow for years to come.",
+      "extended_summary": "A piece of history is blooming at Edmonds College, where poppies grown from seeds brought directly from Flanders Fields now grace a veterans' memorial. Navy veteran and former student Gabriel Landry visited the Belgian battlefields and decided to bring back seeds, turning a symbol of sacrifice into a living tribute. With help from the college's horticulture department and Veterans Resource Center, the flowers now grow alongside the words of 'In Flanders Fields,' creating a poignant space for remembrance. It's a small but powerful way to keep the memory of fallen soldiers alive, one bloom at a time.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
+        "Transformation",
+        "Discovery"
       ],
-      "tones": [],
+      "tones": [
+        "Spiritual"
+      ],
       "source_url": "https://myedmondsnews.com/2026/08/poppies-from-flanders-fields-now-grow-at-edmonds-college/#comment-571318",
       "source_name": "myedmondsnews.com",
       "published_ts": 1786389251000,
@@ -1044,8 +1309,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1057,18 +1322,27 @@
         "ai_entrepreneurship": 1,
         "impact_innovation": 1,
         "young_achievers": 2
-      }
+      },
+      "emoji_clue": "\ud83c\udf39\ud83d\udcda\ud83c\udfeb\ud83d\udcac",
+      "headline_split": "Comment on Poppies from Flanders Fields now grow at Edmonds College by JaneAnne ",
+      "fake_headline": "Retired Teacher Plants 500 Sunflowers in Memory of Students, Creating a Living Memorial",
+      "fake_endings": [
+        "Wilder, a local historian",
+        "Wilder, a passionate gardener"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_033",
       "title": "Cruise ship helps stranded skiff and crew in Southeast Alaska as Zuckerberg yacht stands by",
-      "summary": "Editor\u2019s note: This article, initially published Friday, was updated Sunday morning with a statement from Zuckerberg. A small cruise ship operating in Southeast Alaska made an unexpected detour on Monday night to help a 21-foot skiff that ran out of fuel between Petersburg and Juneau. Michael Love, a software developer from New York City, was a passenger aboard the cruise ship and described the ev",
-      "extended_summary": "Editor\u2019s note: This article, initially published Friday, was updated Sunday morning with a statement from Zuckerberg. A small cruise ship operating in Southeast Alaska made an unexpected detour on Monday night to help a 21-foot skiff that ran out of fuel between Petersburg and Juneau. Michael Love, a software developer from New York City, was a passenger aboard the cruise ship and described the event on social media. What got his attention the most wasn\u2019t the rescue itself \u2014 it was when the captain announced that the yacht of billionaire Facebook owner Mark Zuckerberg was closer and hadn\u2019t answered the radio call for help. \u201cThere was near unanimous booing when the captain announced this,\u201d he said in a post on the social media network Bluesky. Vessel tracking services in the area back up th",
-      "category": "Transformation",
+      "summary": "A small cruise ship in Alaska made an unexpected detour to rescue a stranded skiff, while Mark Zuckerberg's nearby yacht didn't respond to the call. Passengers booed the billionaire's crew, but the Wilderness Legacy came through, towing the boat to safety.",
+      "extended_summary": "When a 21-foot skiff ran out of fuel in Southeast Alaska, the crew of the Wilderness Legacy didn't hesitate\u2014they steamed past a $300 million yacht to help. The yacht, owned by Mark Zuckerberg, was closer but didn't answer the radio call, prompting boos from passengers. The small cruise ship towed the stranded boat to safety, turning a routine rescue into a story about everyday heroes. Passengers praised the crew for their kindness, while social media buzzed about the missed opportunity for good PR. It's a reminder that sometimes the biggest help comes from the most unexpected places.",
+      "category": "Rescue",
       "categories": [
-        "Transformation"
+        "Rescue"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/",
       "source_name": "alaskabeacon.com",
       "published_ts": 1786214729000,
@@ -1076,8 +1350,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 5,
       "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1089,13 +1363,20 @@
         "young_achievers": 1,
         "limelight": 5,
         "impact_innovation": 1
-      }
+      },
+      "emoji_clue": "\ud83d\udea2\ud83d\udef6\ud83c\udf0a\ud83e\udd1d",
+      "headline_split": "Cruise ship helps stranded skiff and crew in Southeast Alaska as Zuckerberg yacht ",
+      "fake_headline": "Fishing Boat Rescues Family of Ducks, Then Ducks Lead Them to a Lost Wallet",
+      "fake_endings": [
+        "stands by watching",
+        "offers no assistance"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_034",
       "title": "Despite disinvestment, a longtime West Sider has stayed put with the help of block clubs",
-      "summary": "Share Helen King sits in her dining room in Chicago\u2019s West Garfield Park neighborhood. She\u2019s been living in the home for more than 50 years and chuckles at the couch and lampshades covered in plastic. \u201cCan you imagine that color if I didn\u2019t have plastic on? All the kids and stuff,\u201d she asked. King raised her children here with her late husband, Harry. She takes pride that her couches are still the",
-      "extended_summary": "Share Helen King sits in her dining room in Chicago\u2019s West Garfield Park neighborhood. She\u2019s been living in the home for more than 50 years and chuckles at the couch and lampshades covered in plastic. \u201cCan you imagine that color if I didn\u2019t have plastic on? All the kids and stuff,\u201d she asked. King raised her children here with her late husband, Harry. She takes pride that her couches are still their original shade of yellow. \u201cAlexa, play Ray Charles,\u201d she said as she walked over to the kitchen. The music takes her back to summer parties organized by her block club. Neighbors gathered outside for some barbecue and good company. \u201cWe all needed and wanted the same things,\u201d King said of her block club. \u201cWe wanted success, and we wanted our kids to be safe.\u201d People attend a block party organize",
+      "summary": "Helen King has lived in her West Garfield Park home for over 50 years, thanks to the power of block clubs. These neighbor-led groups have been the backbone of her community, organizing everything from summer parties to neighborhood improvements, proving that unity can overcome disinvestment.",
+      "extended_summary": "In a neighborhood often overlooked, Helen King's home is a testament to resilience\u2014and the block club that kept her community together. For over 50 years, King has watched her West Garfield Park block transform, but the spirit of togetherness never faded. Block clubs, like her 1300 Claremont Club, organized barbecues, raised funds for improvements, and created a support network that made the area feel like family. Today, these clubs still thrive, planting flowers and buying abandoned homes to boost the neighborhood. King's story is a reminder that even in the face of disinvestment, community bonds can hold strong.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -1122,15 +1403,23 @@
         "limelight": 5,
         "impact_innovation": 2
       },
-      "city": "Chicago"
+      "city": "Chicago",
+      "emoji_clue": "\ud83c\udfd8\ufe0f\ud83e\udd1d\ud83c\udfd9\ufe0f\u2764\ufe0f",
+      "headline_split": "Despite disinvestment, a longtime West Sider has stayed put with the help of block ",
+      "fake_headline": "After 50 Years, Barber Still Cuts Hair for Free on Sundays in His Hometown",
+      "fake_endings": [
+        "clubs and neighbors",
+        "parties and cookouts"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_035",
       "title": "Douglas County comes to the aid of Harney County",
-      "summary": "Photos courtesy of HC Cattlewomen On Saturday, Aug. 1, around 8 a.m., the Harney County Cattlewomen got a call that folks from Douglas County that they were headed to Harney County with pick-up trailers full of hay. The Harney County Cattlewomen thought the least they could do is send them back with lunch. Within 30 minutes and a few phone calls they had enough donation to make about 70 lunches; m",
-      "extended_summary": "Photos courtesy of HC Cattlewomen On Saturday, Aug. 1, around 8 a.m., the Harney County Cattlewomen got a call that folks from Douglas County that they were headed to Harney County with pick-up trailers full of hay. The Harney County Cattlewomen thought the least they could do is send them back with lunch. Within 30 minutes and a few phone calls they had enough donation to make about 70 lunches; meat filled sandwiches, cookies, snacks, drinks and even ice cream bars! They also had plenty of volunteers to assemble them and deliver when they pulled in about 11 a.m. There\u2019s a video on the Harney County Cattlewomen\u2019s Facebook page of all 15 trucks leaving and heading to Burns. The Douglas County crew were waving and smiling, happy to be helping out strangers here across the state. Rural Americ",
-      "category": "Transformation",
+      "summary": "When Douglas County ranchers heard Harney County needed hay, they loaded up 15 trucks and drove hundreds of miles to help. The Harney County Cattlewomen responded with 70 lunches, turning strangers into friends and proving rural America's generosity knows no bounds.",
+      "extended_summary": "In a heartwarming display of rural solidarity, 15 trucks from Douglas County rolled into Harney County loaded with hay for ranchers in need. The Harney County Cattlewomen, caught off guard, quickly rallied donations to send the drivers off with 70 lunches\u2014sandwiches, cookies, and even ice cream bars. As the hay was unloaded, strangers discovered shared friends and rodeo connections, turning a simple act of kindness into a community bond. The video of the convoy leaving is a testament to the power of neighbors helping neighbors, even from hundreds of miles away.",
+      "category": "Rescue",
       "categories": [
+        "Rescue",
         "Transformation"
       ],
       "tones": [],
@@ -1141,8 +1430,8 @@
       "display_mode": "text",
       "display_reason": "no usable image",
       "image_confidence": "low",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1155,18 +1444,28 @@
         "ai_entrepreneurship": 1,
         "impact_innovation": 1
       },
-      "city": "Burns"
+      "city": "Burns",
+      "emoji_clue": "\ud83e\udd1d\ud83c\udfde\ufe0f\ud83d\ude91\ud83c\udf3e",
+      "headline_split": "Douglas County comes to the aid of Harney ",
+      "fake_headline": "Neighboring Towns Unite to Rebuild Library Destroyed by Fire, One Book at a Time",
+      "fake_endings": [
+        "County during wildfire crisis",
+        "County with emergency funds"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_036",
       "title": "Duwamish Tribe Takes on Stewardship of Rematriated Land at Heron\u2019s Nest",
-      "summary": "A warm summer breeze carries the scent of wild flowers and fresh foliage from the surrounding forest through the clearing of Heron\u2019s Nest (spa\u0294q\u02b7a\u0294 \u010d\u0313a\u0294ac). This is the site of a successful community-led land effort returning 3.56 acres to the Duwamish Tribe, which lacks federal recognition. \u201cTo me, it seems like a huge piece of property because we are not federally recognized and do not have a re",
-      "extended_summary": "A warm summer breeze carries the scent of wild flowers and fresh foliage from the surrounding forest through the clearing of Heron\u2019s Nest (spa\u0294q\u02b7a\u0294 \u010d\u0313a\u0294ac). This is the site of a successful community-led land effort returning 3.56 acres to the Duwamish Tribe, which lacks federal recognition. \u201cTo me, it seems like a huge piece of property because we are not federally recognized and do not have a reservation,\u201d said Nancy Sackman, vice chair of the Duwamish Tribal Council and Duwamish tribal member. \u201cSo any land that we do get is a huge event.\u201d Through six years of building trusting relationships between the city of Seattle, the Duwamish Tribe and Shared Spaces Foundation the land is rematriated \u2013 a term that describes the process of \u201creturning to the sacred mother\u201d and the honoring of Indige",
+      "summary": "The Duwamish Tribe has taken stewardship of 3.56 acres of land in Seattle, transforming a hazardous waste zone into a thriving garden and gathering space. This 'rematriation' marks a historic return of ancestral land to a tribe without federal recognition.",
+      "extended_summary": "After six years of community effort, the Duwamish Tribe now holds stewardship of Heron's Nest, a 3.56-acre parcel that was once a hazardous waste site. The land, now a greenhouse garden and gathering space, was returned through a process called 'rematriation,' honoring Indigenous matrilineal systems. For a tribe without federal recognition or a reservation, this land is a monumental victory. Volunteers transformed the site into a place of healing and community, proving that land back initiatives can work. It's a powerful step toward justice and a testament to the resilience of the Duwamish people.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
+        "Transformation",
+        "Discovery"
       ],
-      "tones": [],
+      "tones": [
+        "Spiritual"
+      ],
       "source_url": "https://www.underscore.news/land/land-back/duwamish-tribe-takes-on-stewardship-of-rematriated-land-at-herons-nest/",
       "source_name": "underscore.news",
       "published_ts": 1785952800000,
@@ -1174,8 +1473,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 17,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1188,16 +1487,24 @@
         "limelight": 5,
         "young_achievers": 1,
         "impact_innovation": 5
-      }
+      },
+      "emoji_clue": "\ud83e\udd85\ud83c\udf3f\ud83c\udfde\ufe0f\ud83e\udd32",
+      "headline_split": "Duwamish Tribe Takes on Stewardship of Rematriated Land at Heron\u2019s ",
+      "fake_headline": "Local Students Adopt a Highway, Turn It Into a Pollinator Paradise",
+      "fake_endings": [
+        "Nest, a sacred site",
+        "Nest, a wildlife refuge"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_037",
       "title": "Elgin rider back in the saddle after severe kick, surgery",
-      "summary": "When a rescue horse severely injured one Elgin resident more than a year ago, it was her own longtime steed, Big Red, who helped bring her back in the saddle and to where she is today. According to Decotah Jackson, horses are all she has ever known. On horseback for the first time just two days after being born, Jackson said horses are all she\u2019s ever known. She now works as a horse trainer, rescue",
-      "extended_summary": "When a rescue horse severely injured one Elgin resident more than a year ago, it was her own longtime steed, Big Red, who helped bring her back in the saddle and to where she is today. According to Decotah Jackson, horses are all she has ever known. On horseback for the first time just two days after being born, Jackson said horses are all she\u2019s ever known. She now works as a horse trainer, rescuer, riding instructor, trick rider and rodeo competitor at Bar D Performance Horses, 436 Mundine Rd. Jackson was injured in December 2024 while evaluating a rescue horse for potential use in new rider training. The horse became spooked and tangled in a fence, and after Jackson dismounted to free it, the horse kicked her above the knee. She collapsed, unable to stand, but managed to call for help. \u201c",
+      "summary": "After a severe kick broke her femur, horse trainer Decotah Jackson was back in the saddle just 16 days later. Her longtime steed, Big Red, helped her recover and return to the rodeo, proving that the bond between horse and rider can heal even the toughest wounds.",
+      "extended_summary": "Decotah Jackson has been around horses her whole life, but a rescue horse's kick in December 2024 nearly ended her career. The injury broke her femur, requiring surgery and a steel rod, but Jackson was determined to ride again. Just 16 days later, she was back on her beloved horse, Big Red, the first horse she ever bought. Big Red's steady presence helped her regain confidence and strength, and now she's back to training, rescuing, and competing. It's a story of resilience and the unbreakable bond between a rider and her horse.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
+        "Transformation",
+        "Sports"
       ],
       "tones": [],
       "source_url": "https://www.elgincourier.com/article/4800,elgin-rider-back-in-the-saddle-after-severe-kick-surgery",
@@ -1207,8 +1514,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 5,
+      "headline_pull": 4,
       "read_time_min": 2,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1222,18 +1529,27 @@
         "young_achievers": 3,
         "limelight": 5
       },
-      "city": "Elgin"
+      "city": "Elgin",
+      "emoji_clue": "\ud83d\udc0e\ud83c\udfc7\ud83d\udcaa\ud83c\udf1f",
+      "headline_split": "Elgin rider back in the saddle after severe kick, ",
+      "fake_headline": "After Losing Leg in Accident, Teen Becomes Paralympic Hopeful in Cycling",
+      "fake_endings": [
+        "surgery and recovery",
+        "a long hospital stay"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_038",
       "title": "Escambia County sheriff awards medal for pilot instructor who landed plane on I-10",
-      "summary": "Video above: \u2018News 5 Now\u2019 \u2014 Top Stories from Aug. 6, 2026 ESCAMBIA COUNTY, Fla. (WKRG) \u2014 The Escambia County Sheriff's Office Sheriff's Medal was awarded to Emily Shelton, a pilot and instructor, for successfully landing an aircraft on I-10 during an emergency on Aug. 4. \"This morning, Sheriff Chip W. Simmons presented pilot/instructor Emily [...]",
-      "extended_summary": "Video above: \u2018News 5 Now\u2019 \u2014 Top Stories from Aug. 6, 2026 ESCAMBIA COUNTY, Fla. (WKRG) \u2014 The Escambia County Sheriff's Office Sheriff's Medal was awarded to Emily Shelton, a pilot and instructor, for successfully landing an aircraft on I-10 during an emergency on Aug. 4. \"This morning, Sheriff Chip W. Simmons presented pilot/instructor Emily [...]",
-      "category": "Transformation",
+      "summary": "Pilot instructor Emily Shelton was awarded the Sheriff's Medal for landing her plane on I-10 during an emergency. Her quick thinking and skill saved lives, earning her recognition from the Escambia County Sheriff's Office.",
+      "extended_summary": "When Emily Shelton's plane experienced an emergency mid-flight, she didn't panic\u2014she landed it on a highway. The pilot instructor safely touched down on I-10, avoiding a potential disaster. Her heroic actions earned her the Sheriff's Medal from the Escambia County Sheriff's Office, a rare honor for a civilian. Shelton's composure under pressure is a testament to her skill and training, and her story is a reminder of the everyday heroes among us.",
+      "category": "Rescue",
       "categories": [
-        "Transformation"
+        "Rescue"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.wkrg.com/northwest-florida/escambia-county/escambia-county-sheriff-awards-medal-for-pilot-instructor-who-landed-plane-on-i-10/",
       "source_name": "wkrg.com",
       "published_ts": 1786052506000,
@@ -1241,8 +1557,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 5,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1255,18 +1571,27 @@
         "young_achievers": 2,
         "limelight": 5
       },
-      "city": "Mobile County"
+      "city": "Mobile County",
+      "emoji_clue": "\ud83c\udf96\ufe0f\u2708\ufe0f\ud83d\udee3\ufe0f\ud83d\udc68\u200d\u2708\ufe0f",
+      "headline_split": "Escambia County sheriff awards medal for pilot instructor who landed plane on ",
+      "fake_headline": "Bus Driver Praised for Calmly Evacuating 40 Kids During Bridge Collapse",
+      "fake_endings": [
+        "I-10, saving lives",
+        "a busy highway"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_039",
       "title": "Faithful around US craft World Mission Rosaries for Archbishop Sheen\u2019s beatification",
-      "summary": "By Mary-Catherine Kinslow The Record, OSV News JEFFERSONTOWN, Ky. \u2014 A parish-based rosary-making ministry in Kentucky is on a mission to create 1,000 World Mission Rosaries for the beatification of Venerable Fulton J. Sheen. The apostolate, called the Brothers and Sisters of St. Edward, is among many U.S. groups whose rosaries will be donated to people attending the Sept. 24 beatification of Archb",
-      "extended_summary": "By Mary-Catherine Kinslow The Record, OSV News JEFFERSONTOWN, Ky. \u2014 A parish-based rosary-making ministry in Kentucky is on a mission to create 1,000 World Mission Rosaries for the beatification of Venerable Fulton J. Sheen. The apostolate, called the Brothers and Sisters of St. Edward, is among many U.S. groups whose rosaries will be donated to people attending the Sept. 24 beatification of Archbishop Sheen in St. Louis. The Pontifical Mission Societies issued a call for rosaries on May 1, asking individuals and groups to donate 1,000 or more rosaries to the cause as a collective effort. The society\u2019s goal is to have more than 70,000 rosaries by Sept. 15 so they can be distributed to all those present on the day of the beatification. \u201cThe challenge is real. More than 75,000 rosaries are n",
+      "summary": "Faithful across the U.S. are crafting World Mission Rosaries for Archbishop Sheen's beatification, aiming to create 75,000 by September. Each rosary will be blessed and distributed to attendees, a collective act of prayer and devotion.",
+      "extended_summary": "In Jeffersontown, Kentucky, the Brothers and Sisters of St. Edward are on a mission to craft 1,000 World Mission Rosaries for Archbishop Fulton J. Sheen's beatification. They're part of a nationwide effort to create 75,000 rosaries, each to be blessed and given to attendees at the September ceremony. The rosaries, designed by Sheen himself, symbolize a collective act of prayer for peace. For the volunteers, it's a labor of love, turning beads and thread into a tangible connection to faith and history.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Spiritual"
+      ],
       "source_url": "https://texascatholic.com/faithful-around-us-craft-world-mission-rosaries-for-archbishop-sheens-beatification/",
       "source_name": "texascatholic.com",
       "published_ts": 1786021200000,
@@ -1287,16 +1612,24 @@
         "ai_entrepreneurship": 1,
         "limelight": 5,
         "impact_innovation": 1
-      }
+      },
+      "emoji_clue": "\ud83d\udcff\ud83d\ude4f\ud83c\uddfa\ud83c\uddf8\u2728",
+      "headline_split": "Faithful around US craft World Mission Rosaries for Archbishop Sheen\u2019s ",
+      "fake_headline": "Knitting Circle Creates 1,000 Blankets for Homeless Shelters Across the Country",
+      "fake_endings": [
+        "beatification ceremony",
+        "upcoming sainthood"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_040",
       "title": "Family medicine residents at Texas Tech Physicians of El Paso Transmountain create a model for physician wellness",
-      "summary": "When Dr. Arushee Bhatnagar arrived in El Paso for her family medicine residency, she understood how isolating it could feel to begin a demanding new chapter far from home. \u201cYou are away from your family, you are in a new country, and you do not know how things function here,\u201d Bhatnagar said. \u201cThat can be very isolating.\u201d That shared experience inspired Bhatnagar and her fellow resident physicians ",
-      "extended_summary": "When Dr. Arushee Bhatnagar arrived in El Paso for her family medicine residency, she understood how isolating it could feel to begin a demanding new chapter far from home. \u201cYou are away from your family, you are in a new country, and you do not know how things function here,\u201d Bhatnagar said. \u201cThat can be very isolating.\u201d That shared experience inspired Bhatnagar and her fellow resident physicians at Texas Tech Physicians of El Paso at Transmountain to create the Wellness Passport, a program that encourages international medical graduates to explore the region, build friendships and care for their mental and physical well-being. Now, the El Paso-grown initiative is gaining national attention. Intealth, a national organization that supports internationally educated healthcare professionals, ",
+      "summary": "Family medicine residents at Texas Tech Physicians of El Paso created the Wellness Passport to help international medical graduates combat isolation. The program, now gaining national attention, encourages exploration and friendship, and just won a $5,000 grant to expand.",
+      "extended_summary": "When Dr. Arushee Bhatnagar moved to El Paso for her residency, she felt the isolation of being far from home. That experience sparked the Wellness Passport, a program helping international medical graduates explore the region and build connections. Nearly 90% of the residents are IMGs, facing the double challenge of a new country and demanding training. The program, which includes activities and social events, was one of only three selected from 66 proposals for a $5,000 grant from Intealth. It's a model for how residency programs can support physician well-being, one passport stamp at a time.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
+        "Transformation",
+        "Discovery"
       ],
       "tones": [],
       "source_url": "https://elpasomatters.org/2026/08/06/family-medicine-residents-at-texas-tech-physicians-of-el-paso-transmountain-create-a-model-for-physician-wellness/",
@@ -1306,7 +1639,7 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
+      "visual_affinity": 2,
       "headline_pull": 3,
       "read_time_min": 4,
       "image_position": "center",
@@ -1321,16 +1654,23 @@
         "ai_entrepreneurship": 1,
         "young_achievers": 5,
         "impact_innovation": 4
-      }
+      },
+      "emoji_clue": "\ud83e\ude7a\ud83d\udcbc\ud83c\udf31\ud83e\uddd8",
+      "headline_split": "Family medicine residents at Texas Tech Physicians of El Paso Transmountain create a model for physician ",
+      "fake_headline": "Hospital Staff Start Community Garden to Boost Morale and Feed Patients",
+      "fake_endings": [
+        "wellness and resilience",
+        "wellness in the workplace"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_041",
       "title": "Farmers learn how to grow crops with dramatically less water",
-      "summary": "Transcript: Winters in western Oregon tend to be cool and rainy. But summers are usually very dry. So many farmers in the region irrigate their crops. And much of the water they use comes from rivers that are fed by mountain snowpack. But as the climate warms, that snowpack is shrinking. Roesch-McNally: \u201cIt is, over time, going to really impact how people irrigate their crops.\u201d That\u2019s Gabrielle Ro",
-      "extended_summary": "Transcript: Winters in western Oregon tend to be cool and rainy. But summers are usually very dry. So many farmers in the region irrigate their crops. And much of the water they use comes from rivers that are fed by mountain snowpack. But as the climate warms, that snowpack is shrinking. Roesch-McNally: \u201cIt is, over time, going to really impact how people irrigate their crops.\u201d That\u2019s Gabrielle Roesch-McNally of the Dry Farming Institute . Her group helps farmers in the region learn how to grow crops including tomatoes, melons, beans, and squash without irrigating during the dry summer season. For example, they can help their soil retain moisture from winter rains by mulching and adding compost to their fields. And spacing plants more widely can help them develop longer roots to access wat",
-      "category": "Transformation",
+      "summary": "Farmers in western Oregon are learning to grow crops with less water thanks to the Dry Farming Institute. By mulching, composting, and spacing plants wider, they can help soil retain winter moisture and grow deeper roots. This helps them adapt to shrinking snowpack and drier summers.",
+      "extended_summary": "As climate change shrinks the mountain snowpack that feeds western Oregon's rivers, farmers are facing a future with less water for irrigation. The Dry Farming Institute is teaching them to adapt by growing tomatoes, melons, beans, and squash without summer irrigation. Techniques like mulching, adding compost, and spacing plants wider help the soil hold onto winter rains and encourage roots to reach deeper moisture. The institute also tests crop varieties to find which ones thrive in dry conditions, and encourages farmers to experiment and share what works. Even if they don't stop watering entirely, these methods help farmers reduce their reliance on irrigation as water becomes scarcer.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
+        "Discovery"
       ],
       "tones": [],
       "source_url": "https://yaleclimateconnections.org/2026/08/farmers-learn-how-to-grow-crops-with-dramatically-less-water/",
@@ -1341,7 +1681,7 @@
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
-      "headline_pull": 3,
+      "headline_pull": 4,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1354,18 +1694,28 @@
         "young_achievers": 1,
         "ai_entrepreneurship": 1,
         "impact_innovation": 4
-      }
+      },
+      "emoji_clue": "\ud83c\udf3e\ud83d\udca7\ud83d\udcc9\ud83d\ude9c",
+      "headline_split": "Farmers learn how to grow crops with dramatically less ",
+      "fake_headline": "Urban Rooftop Garden in Chicago Feeds 500 Families With Hydroponics",
+      "fake_endings": [
+        "water and more sunshine",
+        "fertilizer and more love"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_042",
       "title": "First She Lost Her Vision, Then She Earned a Bronze Medal in Blind Baseball",
-      "summary": "Kiana Glanton won't step to the plate without a fresh swipe of red lipstick and a pair of hoop earrings. Only then does she feel ready to enter the batter's box. To most, these accessories may seem optional, but when Glanton decided to join to the US Blind Baseball Association (USBBA), she promised to do it her way. \"Blind is my circumstance, but Kiana is who I am primarily,\" she tells Popsugar in",
-      "extended_summary": "Kiana Glanton won't step to the plate without a fresh swipe of red lipstick and a pair of hoop earrings. Only then does she feel ready to enter the batter's box. To most, these accessories may seem optional, but when Glanton decided to join to the US Blind Baseball Association (USBBA), she promised to do it her way. \"Blind is my circumstance, but Kiana is who I am primarily,\" she tells Popsugar in an exclusive interview. It's taken years for her to arrive at that perspective. At age 4, Glanton was diagnosed with an autoimmune condition called sarcoidosis , where inflammatory cells in the body attack it from within. For Glanton, the condition resulted in intense skin and joint discomfort, rheumatoid arthritis , and inflammation of the eye. Over time that inflammation became increasingly mor",
-      "category": "Transformation",
+      "summary": "Kiana Glanton lost most of her vision but didn't let that stop her from becoming a champion. She joined the US Blind Baseball Association and earned a bronze medal, proving that blindness is just a circumstance, not her identity. Her story is one of resilience and determination.",
+      "extended_summary": "Kiana Glanton steps to the plate with red lipstick and hoop earrings, a promise she made to herself to do things her way. After losing her vision to sarcoidosis, she found a new purpose in blind baseball. Glanton, who has no vision in her left eye and only 20/800 in her right, describes seeing the world like a snowy TV screen. But she didn't let that stop her. She joined the US Blind Baseball Association and earned a bronze medal, proving that her identity goes far beyond her blindness. Her journey from diagnosis to champion is a testament to her strength and refusal to be defined by her circumstances.",
+      "category": "Sports",
       "categories": [
+        "Sports",
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://www.popsugar.com/fitness/blind-baseball-player-bronze-medalist-49481413",
       "source_name": "popsugar.com",
       "published_ts": 1786142104000,
@@ -1373,8 +1723,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 5,
+      "headline_pull": 5,
       "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1388,16 +1738,23 @@
         "impact_innovation": 1,
         "young_achievers": 4
       },
-      "city": "New York"
+      "city": "New York",
+      "emoji_clue": "\ud83d\udc69\ud83e\uddaf\ud83e\udd49\u26be\ufe0f\ud83c\udfc5",
+      "headline_split": "First She Lost Her Vision, Then She Earned a Bronze Medal in ",
+      "fake_headline": "After Losing Her Hearing, She Became a Grammy-Winning Sign Language Performer",
+      "fake_endings": [
+        "swimming at the Paralympics",
+        "chess at the World Championship"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_043",
       "title": "Free Library teaches Philadelphians how to disable unwanted AI features",
-      "summary": "The Free Library of Philadelphia is running a series of free workshops that teach residents how to turn off artificial intelligence features creeping into their phones, search engines and everyday software. The second event in the library system\u2019s Critical AI Literacy series, \u201cAvoiding AI: A Hands-on Workshop,\u201d was held Tuesday. Participants learned how to disable unwanted AI features in operating",
-      "extended_summary": "The Free Library of Philadelphia is running a series of free workshops that teach residents how to turn off artificial intelligence features creeping into their phones, search engines and everyday software. The second event in the library system\u2019s Critical AI Literacy series, \u201cAvoiding AI: A Hands-on Workshop,\u201d was held Tuesday. Participants learned how to disable unwanted AI features in operating systems and popular apps while protecting their personal data. Charlie Bailey, a librarian at the South Philadelphia Library, said people are increasingly frustrated as AI features appear across websites and apps, changing familiar interfaces without users choosing to enable them. \u201cWith AI specifically, it feels like it\u2019s everywhere all at once in places \u2026 and it\u2019s not something that people are e",
-      "category": "Transformation",
+      "summary": "The Free Library of Philadelphia is teaching residents how to turn off unwanted AI features in their apps and devices. Through hands-on workshops, people learn to protect their data and privacy while navigating the growing presence of AI in everyday technology.",
+      "extended_summary": "Tired of AI features popping up in your phone and apps without asking? The Free Library of Philadelphia is here to help. Their 'Avoiding AI' workshop teaches residents how to disable unwanted AI features and protect their personal data. Librarian Charlie Bailey partnered with the Library Freedom Project to help people understand how AI works and its risks. The workshop is part of a series on critical AI literacy, covering everything from privacy to the social and environmental impacts of AI. It's a natural extension of the library's role as a community resource, helping people navigate the digital world with confidence.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
+        "Discovery"
       ],
       "tones": [],
       "source_url": "https://northeasttimes.com/2026/08/10/free-library-teaches-philadelphians-how-to-disable-unwanted-ai-features/",
@@ -1407,7 +1764,7 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
+      "visual_affinity": 2,
       "headline_pull": 3,
       "read_time_min": 3,
       "image_position": "center",
@@ -1422,13 +1779,20 @@
         "limelight": 5,
         "young_achievers": 2
       },
-      "city": "Bucks County"
+      "city": "Bucks County",
+      "emoji_clue": "\ud83d\udcda\ud83e\udd16\ud83d\udeab\ud83d\udd27\ud83c\udfd9\ufe0f",
+      "headline_split": "Free Library teaches Philadelphians how to disable unwanted ",
+      "fake_headline": "Local Teen Builds App to Help Seniors Navigate Smartphones Safely",
+      "fake_endings": [
+        "spam emails and robocalls",
+        "subscriptions and pop-ups"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_044",
       "title": "From the county fair: the Hamer Lodge fish booth fundraises for school scholarships",
-      "summary": "Every year for a century, the Clermont County Fairgrounds opens its gates for an entire week in the summer to hold the annual Clermont County Fair. Attracting thousands of local residents and droves of folks from neighboring counties, the fair is a historic staple of the community, and one of the oldest in Ohio. Just around the corner, up on Main Street right here in Owensville, and just as histor",
-      "extended_summary": "Every year for a century, the Clermont County Fairgrounds opens its gates for an entire week in the summer to hold the annual Clermont County Fair. Attracting thousands of local residents and droves of folks from neighboring counties, the fair is a historic staple of the community, and one of the oldest in Ohio. Just around the corner, up on Main Street right here in Owensville, and just as historic is Hamer Masonic Lodge. Locals may know the Lodge as the gathering place of a monthly community breakfast, held every third Saturday, which brings dozens of friends, family and neighbors together to enjoy bacon, eggs, famous sausage gravy, waffles, orange juice and fellowship. In the heart of the fairgrounds, just behind the grandstands, Hamer Lodge has operated a fish booth for more than 40 ye",
+      "summary": "For over 40 years, the Hamer Lodge fish booth at the Clermont County Fair has been serving up famous cod sandwiches and raising money for local scholarships. The booth has provided $20,000 in funds for students at Clermont Northeastern High School, making a big impact on the community.",
+      "extended_summary": "At the Clermont County Fair, the Hamer Lodge fish booth is a beloved tradition, serving up famous cod sandwiches and cheap drinks for over 40 years. But what many fairgoers don't know is that every sandwich helps fund a scholarship for a local student. Each year, the booth raises $500 for a student at Clermont Northeastern High School, totaling $20,000 in scholarships since 1985. The booth is run by the Hamer Masonic Lodge, a historic community staple known for its monthly breakfasts. So next time you're at the fair, grab a cod sandwich and know you're supporting a great cause.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -1455,18 +1819,27 @@
         "limelight": 5,
         "impact_innovation": 1
       },
-      "city": "Batavia"
+      "city": "Batavia",
+      "emoji_clue": "\ud83c\udfaa\ud83d\udc1f\ud83c\udf93\ud83d\udcb0\ud83c\udfeb",
+      "headline_split": "From the county fair: the Hamer Lodge fish booth fundraises for ",
+      "fake_headline": "Small-Town Bakery Donates All Weekend Profits to Build Community Garden",
+      "fake_endings": [
+        "new fishing equipment",
+        "local animal shelters"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_045",
       "title": "From vacation to vocation: Kids at the center of former Farms woman\u2019s heart",
-      "summary": "Photos courtesy of Monica Loveley Monica Loveley and students pose for a photo on top of a bus during a visit to a playground. Education Plus\u2019 small playground is the only playground in the community, but there are nice playgrounds a bus trip away at the capital. Loveley met Priscila Castillo on the street and learned she wasn\u2019t in school because she didn\u2019t have a pencil. The side yard of Castillo",
-      "extended_summary": "Photos courtesy of Monica Loveley Monica Loveley and students pose for a photo on top of a bus during a visit to a playground. Education Plus\u2019 small playground is the only playground in the community, but there are nice playgrounds a bus trip away at the capital. Loveley met Priscila Castillo on the street and learned she wasn\u2019t in school because she didn\u2019t have a pencil. The side yard of Castillo\u2019s home served as Education Plus\u2019 first school. This is part one of a two-part series. There\u2019s not much ordinary about Monica Loveley\u2019s life. Born in 1983 in an orphanage in Korea, she came to the United States with a group of adopted orphans. She was adopted at 4 months old by Edward and Susan Lovely and grew up in Grosse Pointe Farms with a brother and a sister. \u201cI was pretty sheltered,\u201d she sai",
+      "summary": "Monica Loveley, adopted from Korea, turned her life-changing visit to her orphanage into a mission to help kids in Colombia. She started Education Plus, a school that began in a side yard and now provides education to children who otherwise wouldn't have the chance.",
+      "extended_summary": "Monica Loveley's life came full circle when she visited the Korean orphanage she was adopted from at age 24. That experience sparked a deep desire to give back. After traveling the world and teaching, she founded Education Plus in Colombia, starting with a school in a side yard. She met a girl named Priscila Castillo who wasn't in school because she didn't have a pencil, and that encounter fueled her mission. Education Plus now provides education to children in a community with no other playground or school, giving them opportunities they never had. Loveley's journey from orphan to educator is a powerful story of transformation and purpose.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Spiritual"
+      ],
       "source_url": "https://www.grossepointenews.com/articles/from-vacation-to-vocation-kids-at-the-center-of-former-farms-womans-heart/",
       "source_name": "grossepointenews.com",
       "published_ts": 1785960226000,
@@ -1474,8 +1847,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 8,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1488,13 +1861,20 @@
         "young_achievers": 1,
         "impact_innovation": 2
       },
-      "city": "Grosse Pointe Farms"
+      "city": "Grosse Pointe Farms",
+      "emoji_clue": "\ud83c\udfd6\ufe0f\u2764\ufe0f\ud83d\udc67\ud83d\udc66\ud83c\udfe1",
+      "headline_split": "From vacation to vocation: Kids at the center of former Farms woman\u2019s ",
+      "fake_headline": "Retired Teacher Turns Backyard Into Free Summer Camp for Neighborhood Kids",
+      "fake_endings": [
+        "new bakery business",
+        "travel blog adventure"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_046",
       "title": "Full Circle: After a Career Built in Atlanta, Construction Entrepreneur Opens Office in Her Native Colombia",
-      "summary": "International at its core, the law firm of Wasserman West LLC is the presenting sponsor of Global Atlanta's Latin America Channel . Sign up here for monthly newsletters on Latin American trade and investment connections to Georgia. For more than 20 years, Guiomar Obreg\u00f3n has sought to give fellow Colombian engineers the same chances she enjoyed. Ms. Obregon and her husband, Carlos Sanchez, built c",
-      "extended_summary": "International at its core, the law firm of Wasserman West LLC is the presenting sponsor of Global Atlanta's Latin America Channel . Sign up here for monthly newsletters on Latin American trade and investment connections to Georgia. For more than 20 years, Guiomar Obreg\u00f3n has sought to give fellow Colombian engineers the same chances she enjoyed. Ms. Obregon and her husband, Carlos Sanchez, built civil engineering and construction firm P2K from the ground up from 1998, but she never forgot the substantial support from family, friends and the Georgia university system that made it possible. Born in Boston when her father was studying at MIT , Ms. Obregon grew up in Colombia and then returned to the U.S. in the 1990s, earning a degree in civil engineering at Georgia Tech, and later an MBA. So",
+      "summary": "Guiomar Obreg\u00f3n built a successful engineering firm in Atlanta and is now giving back to her native Colombia. Through internships and a fellowship at Georgia Tech, she's helping Colombian engineers get the same opportunities she had, creating a full-circle success story.",
+      "extended_summary": "Guiomar Obreg\u00f3n came to the U.S. from Colombia, earned degrees at Georgia Tech, and built a thriving engineering firm, P2K, with her husband. But she never forgot the support she received along the way. Now, she's paying it forward by creating opportunities for Colombian engineers. P2K started an internship program in 2006 to bring Colombian students to Atlanta for real-world training, and donated nearly $100,000 to create a fellowship at Georgia Tech for Colombian students. Obreg\u00f3n's journey from immigrant to successful entrepreneur to philanthropist is a testament to the power of giving back and creating a full circle of opportunity.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -1508,7 +1888,7 @@
       "display_reason": "no usable image",
       "image_confidence": "none",
       "visual_affinity": 3,
-      "headline_pull": 3,
+      "headline_pull": 4,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1521,13 +1901,20 @@
         "ai_entrepreneurship": 1,
         "young_achievers": 2,
         "impact_innovation": 3
-      }
+      },
+      "emoji_clue": "\ud83c\udfd7\ufe0f\ud83c\udf06\u2708\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udfe0",
+      "headline_split": "Full Circle: After a Career Built in Atlanta, Construction Entrepreneur Opens Office in Her Native ",
+      "fake_headline": "After 30 Years in New York, Chef Returns to Mexico to Open Culinary School",
+      "fake_endings": [
+        "city of Savannah",
+        "state of Georgia"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_047",
       "title": "Germantown Resident Launches Volunteer Program to Clean Storm Drains",
-      "summary": "A Germantown resident has launched a volunteer program that invites people to adopt and clean storm drains to mitigate flash flooding in neighborhoods like Torresdale, Germantown, Chestnut Hill, Roxborough, and\u2026 A Germantown resident has launched a volunteer program that invites people to adopt and clean storm drains to mitigate flash flooding in neighborhoods like Torresdale, Germantown, Chestnut",
-      "extended_summary": "A Germantown resident has launched a volunteer program that invites people to adopt and clean storm drains to mitigate flash flooding in neighborhoods like Torresdale, Germantown, Chestnut Hill, Roxborough, and\u2026 A Germantown resident has launched a volunteer program that invites people to adopt and clean storm drains to mitigate flash flooding in neighborhoods like Torresdale, Germantown, Chestnut Hill, Roxborough, and Andorra. According to a Northeast Times report , Kadafi El-Kardah started Drain Buddies this summer with $7,500 in grant money. The program provides cleaning kits and requires volunteers to check their adopted drain at least twice a month. Volunteers report conditions through a dashboard that tracks drains, litter collected, and 311 requests. Each cleanup kit includes a litt",
+      "summary": "Kadafi El-Kardah started Drain Buddies, a volunteer program in Germantown that helps prevent flash flooding by keeping storm drains clean. Volunteers adopt a drain, clean it regularly, and track their efforts online, making a real difference in their neighborhoods.",
+      "extended_summary": "Flash flooding is a big problem in Philadelphia, and trash in storm drains makes it worse. Kadafi El-Kardah decided to do something about it. He launched Drain Buddies, a volunteer program that lets residents adopt a storm drain and keep it clean. With $7,500 in grant money, the program provides cleaning kits and a dashboard to track progress. Volunteers check their drains at least twice a month, clearing away litter that can clog the system and cause flooding. It's a simple idea with a big impact, helping to protect neighborhoods and the environment. And it's a great example of how one person can make a difference.",
       "category": "Transformation",
       "categories": [
         "Transformation"
@@ -1556,18 +1943,27 @@
         "young_achievers": 3,
         "impact_innovation": 3
       },
-      "city": "Philadelphia County"
+      "city": "Philadelphia County",
+      "emoji_clue": "\ud83c\udf27\ufe0f\ud83e\uddf9\ud83d\udea7\ud83c\udfd8\ufe0f\ud83d\udca7",
+      "headline_split": "Germantown Resident Launches Volunteer Program to Clean ",
+      "fake_headline": "Retired Firefighter Starts Program to Teach Kids Water Safety at Local Pools",
+      "fake_endings": [
+        "local parks and trails",
+        "neighborhood streets"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_048",
       "title": "Great River Honor Flight to fly second direct mission from Quincy to DC",
-      "summary": "Published 3:22 pm Friday, August 7, 2026 By STAFF REPORT QUINCY \u2014 Great River Honor Flight will send 17 veterans directly from Quincy to Washington, D.C., on Aug. 20 for the organization\u2019s 83rd mission, marking the second time the nonprofit has flown a direct route from Quincy Regional Airport. The veterans will depart Quincy aboard a Contour Airlines jet bound for Dulles International Airport. Fi",
-      "extended_summary": "Published 3:22 pm Friday, August 7, 2026 By STAFF REPORT QUINCY \u2014 Great River Honor Flight will send 17 veterans directly from Quincy to Washington, D.C., on Aug. 20 for the organization\u2019s 83rd mission, marking the second time the nonprofit has flown a direct route from Quincy Regional Airport. The veterans will depart Quincy aboard a Contour Airlines jet bound for Dulles International Airport. Fifteen of the veterans served during the Vietnam era, while the remaining two served in other periods between or after the conflicts of that era. Together, they represent the Army, Navy, Air Force, Marines, and Navy Reserves. The mission will bring the total number of veterans who have flown with Great River Honor Flight to more than 2,644 since the program\u2019s first flight in 2010. The veterans on t",
+      "summary": "Great River Honor Flight is sending 17 veterans on a direct flight from Quincy to Washington, D.C., to visit the memorials built in their honor. This 83rd mission brings the total to over 2,644 veterans flown since 2010, giving them a well-deserved tribute.",
+      "extended_summary": "Seventeen veterans from Illinois, Missouri, and Iowa are getting the trip of a lifetime. Great River Honor Flight is flying them directly from Quincy to Washington, D.C., to visit the memorials dedicated to their service. This is the second direct mission from Quincy, and it brings the total number of veterans flown to over 2,644 since 2010. The veterans served in various roles, from food service to infantry, during the Vietnam era and beyond. For many, it's a chance to honor their service and connect with fellow veterans. The trip is a powerful reminder of the sacrifices these men and women made for their country.",
       "category": "Transformation",
       "categories": [
         "Transformation"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://hannibal.net/2026/08/07/great-river-honor-flight-to-fly-second-direct-mission-from-quincy-to-dc/",
       "source_name": "hannibal.net",
       "published_ts": 1786134129000,
@@ -1575,8 +1971,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 4,
       "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1589,18 +1985,28 @@
         "ai_entrepreneurship": 1,
         "impact_innovation": 1
       },
-      "city": "Hannibal"
+      "city": "Hannibal",
+      "emoji_clue": "\u2708\ufe0f\ud83c\udf96\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\udfdb\ufe0f\ud83c\udf09",
+      "headline_split": "Great River Honor Flight to fly second direct mission from Quincy to ",
+      "fake_headline": "Local Veterans Group Organizes Free Bus Trips to National Monuments",
+      "fake_endings": [
+        "Chicago for a parade",
+        "Springfield for a ceremony"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_049",
       "title": "Group of California elementary schoolers create hotline full of encouraging messages",
-      "summary": "HOME BLOG Aug 6, 2026, 8:08 AM | Updated: 10:28 am BY JENNY D KOSI 101.1 A group of elementary schoolers in California accidentally created the hotline we didn\u2019t know we needed. Students at West Side Elementary School in Healdsburg, California, launched the \u201cPeptoc Hotline\u201d \u2014 a phone line full of encouraging messages recorded by actual children. The name? A misspelling of \u201cpep talk\u201d by the kids th",
-      "extended_summary": "HOME BLOG Aug 6, 2026, 8:08 AM | Updated: 10:28 am BY JENNY D KOSI 101.1 A group of elementary schoolers in California accidentally created the hotline we didn\u2019t know we needed. Students at West Side Elementary School in Healdsburg, California, launched the \u201cPeptoc Hotline\u201d \u2014 a phone line full of encouraging messages recorded by actual children. The name? A misspelling of \u201cpep talk\u201d by the kids themselves. And honestly? That\u2019s already the best part. The public art project features a menu of uplifting \u2014 and unintentionally hilarious \u2014 messages designed to help anyone having a rough day. Whether you\u2019re stressed, overwhelmed, or just really tired of making lunches for people who won\u2019t eat the crusts, these tiny humans have something to say to you. And somehow, it works. Look, if a group of el",
-      "category": "Transformation",
+      "summary": "Elementary schoolers in California created the Peptoc Hotline, a phone line full of encouraging messages recorded by kids. It's accidentally hilarious and surprisingly uplifting, offering a dose of positivity to anyone having a rough day.",
+      "extended_summary": "Need a pep talk? Call the Peptoc Hotline, created by students at West Side Elementary School in Healdsburg, California. The name is a misspelling of 'pep talk' by the kids themselves, and that's just the beginning of the charm. The hotline offers a menu of encouraging messages recorded by actual children, designed to help anyone feeling stressed or overwhelmed. It's unintentionally hilarious and surprisingly effective. If a group of elementary schoolers can remind you that life is going to be okay, maybe it actually is. Give it a call \u2014 it's the pick-me-up you didn't know you needed.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
+        "Discovery"
       ],
-      "tones": [],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
       "source_url": "https://kosi101.com/a-group-of-elementary-schoolers-in-california-accidentally-created-the-hotline-we-didnt-know-we-needed/",
       "source_name": "kosi101.com",
       "published_ts": 1786043310000,
@@ -1608,8 +2014,8 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
+      "visual_affinity": 4,
+      "headline_pull": 5,
       "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1622,18 +2028,28 @@
         "young_achievers": 2,
         "impact_innovation": 2
       },
-      "city": "Arapahoe County"
+      "city": "Arapahoe County",
+      "emoji_clue": "\ud83d\udcde\ud83d\ude0a\ud83c\udfa8\ud83d\udc67\ud83c\udfeb",
+      "headline_split": "Group of California elementary schoolers create hotline full of ",
+      "fake_headline": "Middle School Students Start Podcast to Share Positive News From Around the World",
+      "fake_endings": [
+        "funny jokes and riddles",
+        "homework help tips"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_050",
       "title": "Hanberry risked life in yellow fever experiment in 1901",
-      "summary": "James Leonard Hanberry, who served as an Orangeburg County Courthouse bailiff for many years, earned the Congressional Medal of Honor in 1929 for voluntarily risking his life while a private in the U.S. Army in an experiment to find the cause of yellow fever, or malaria. This story originally appeared in the December 27, 2014 edition of The Times and Demcrat. With a weekly newsletter looking back ",
-      "extended_summary": "James Leonard Hanberry, who served as an Orangeburg County Courthouse bailiff for many years, earned the Congressional Medal of Honor in 1929 for voluntarily risking his life while a private in the U.S. Army in an experiment to find the cause of yellow fever, or malaria. This story originally appeared in the December 27, 2014 edition of The Times and Demcrat. With a weekly newsletter looking back at local history. Staff Writer/Obits Keep up with the photographs from our Vintage Orangeburg series here.",
-      "category": "Transformation",
+      "summary": "James Leonard Hanberry, a former Orangeburg County bailiff, earned the Congressional Medal of Honor in 1929 for risking his life in a yellow fever experiment in 1901. His bravery helped find the cause of the deadly disease, saving countless lives.",
+      "extended_summary": "In 1901, James Leonard Hanberry was a private in the U.S. Army when he volunteered for a dangerous experiment to find the cause of yellow fever. He risked his life to help understand a disease that was killing thousands. For his bravery, he was awarded the Congressional Medal of Honor in 1929. Hanberry later served as a bailiff at the Orangeburg County Courthouse for many years. His story is a reminder of the sacrifices made by everyday heroes in the name of science and public health. His contribution helped pave the way for medical breakthroughs that saved countless lives.",
+      "category": "Rescue",
       "categories": [
-        "Transformation"
+        "Rescue",
+        "Discovery"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://thetandd.com/news/local/history/article_bd289355-ed1f-4c3f-8159-1291108290bb.html",
       "source_name": "thetandd.com",
       "published_ts": 1786268700000,
@@ -1642,7 +2058,7 @@
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
-      "headline_pull": 3,
+      "headline_pull": 4,
       "read_time_min": 5,
       "image_position": "center",
       "image_scale": 1.0,
@@ -1655,7 +2071,14 @@
         "limelight": 5,
         "young_achievers": 2
       },
-      "city": "Orangeburg"
+      "city": "Orangeburg",
+      "emoji_clue": "\ud83e\udd9f\ud83e\uddea\ud83d\udc89\ud83d\udc68\u200d\u2695\ufe0f\ud83c\udfc6",
+      "headline_split": "Hanberry risked life in yellow fever experiment in ",
+      "fake_headline": "Nurse Who Volunteered for Polio Vaccine Trials in 1955 Honored With Medal",
+      "fake_endings": [
+        "the jungles of Africa",
+        "a secret government lab"
+      ]
     }
   ]
 }

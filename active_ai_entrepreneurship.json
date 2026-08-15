@@ -1,16 +1,16 @@
 {
-  "batch_id": "batch_20260811_173934",
-  "created_at": "2026-08-11T17:39:34.599702",
+  "batch_id": "batch_20260815_142206",
+  "created_at": "2026-08-15T14:22:06.334054",
   "story_count": 2,
   "stories": [
     {
       "id": "batch_20260811_173616__story_054",
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "summary": "Chips running AI workloads are too hot: That\u2019s one reason why data centers consume so much electricity and require cooling systems. And, inevitably, entrepreneurs are turning to AI to solve the problem it created. Discovered Materials is the latest, with plans to use swarms of AI agents to find new materials that can be used to build more efficient integrated circuits. The startup said it recently",
-      "extended_summary": "Chips running AI workloads are too hot: That\u2019s one reason why data centers consume so much electricity and require cooling systems. And, inevitably, entrepreneurs are turning to AI to solve the problem it created. Discovered Materials is the latest, with plans to use swarms of AI agents to find new materials that can be used to build more efficient integrated circuits. The startup said it recently closed a $9 million seed round from Lightspeed India Partners after emerging from from Y Combinator, with investment from Peak XV Partners and angel investors Paul Graham, Gokul Rajaram, and Thariq Shihipar. Founders Advaith Sridhar and Akash Ramdas teamed up to launch the company, drawing on Ramdas\u2019 experience earning a doctorate in materials science from Stanford, and Sridhar\u2019s work on agents a",
-      "category": "Transformation",
+      "summary": "A startup is using AI to hunt for new materials that could make computer chips cooler and more efficient. Discovered Materials just raised $9 million to speed up the search for next-gen tech.",
+      "extended_summary": "AI is solving a problem it helped create: Discovered Materials is deploying swarms of AI agents to find new materials for more efficient integrated circuits. The startup, which just raised $9 million, uses AI to generate thousands of material leads daily, a process that used to take a PhD student weeks. This could lead to cooler, more energy-efficient chips, tackling the heat problem in data centers head-on.",
+      "category": "Discovery",
       "categories": [
-        "Transformation"
+        "Discovery"
       ],
       "tones": [],
       "source_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
@@ -20,7 +20,7 @@
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
+      "visual_affinity": 2,
       "headline_pull": 3,
       "read_time_min": 5,
       "image_position": "center",
@@ -35,18 +35,28 @@
         "young_achievers": 5,
         "ai_entrepreneurship": 5,
         "impact_innovation": 3
-      }
+      },
+      "emoji_clue": "\ud83e\udd16\ud83d\udd0d\ud83e\uddca\ud83d\udcbb\ud83d\udd25",
+      "headline_split": "Discovered Materials is playing AI whack-a-mole to hunt ",
+      "fake_headline": "Local Bakery Uses AI to Perfect Gluten-Free Bread, Wins National Award",
+      "fake_endings": [
+        "for rare earth elements in e-waste",
+        "down bugs in their new software"
+      ]
     },
     {
       "id": "batch_20260811_173616__story_090",
       "title": "\u2018Nobody Wanted to Give A Former Principal Money\u2019: How An Educator Built An Edtech AI Startup With $63M From VCs",
-      "summary": "Editor\u2019s note: The following is the first profile in a series of articles in coming weeks about startup founders from non-technical backgrounds who have launched successful venture-backed companies. In November 2022, Adeel Khan was doing something rare for a longtime educator: taking time off. Having launched his career as a teacher in Atlanta Public Schools, Khan became an assistant principal bef",
-      "extended_summary": "Editor\u2019s note: The following is the first profile in a series of articles in coming weeks about startup founders from non-technical backgrounds who have launched successful venture-backed companies. In November 2022, Adeel Khan was doing something rare for a longtime educator: taking time off. Having launched his career as a teacher in Atlanta Public Schools, Khan became an assistant principal before founding his own public high school in Denver. After a year spent coaching principals at the district office, he decided to take a \u201cpersonal sabbatical.\u201d Then, ChatGPT came out. Khan began tinkering with the new technology, fascinated by its potential. \u201cI actually went out to my old school building, the one that I founded, and started using it with teachers,\u201d Khan recalls. He ran workshops and",
+      "summary": "Former principal Adeel Khan turned his ChatGPT experiments into a $63M edtech startup. Despite early rejections, he's now helping teachers everywhere harness AI.",
+      "extended_summary": "Adeel Khan, a former principal, took a sabbatical in 2022 and stumbled upon ChatGPT. After testing it with teachers, he saw a divide: some were transformed, others indifferent. Determined to make AI accessible to all educators, he founded an edtech startup that has raised $63M from VCs. Khan's journey from 'nobody wanted to give a former principal money' to leading a venture-backed company is a testament to the power of innovative thinking in education.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
+        "Transformation",
+        "Discovery"
       ],
-      "tones": [],
+      "tones": [
+        "Surprise"
+      ],
       "source_url": "https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
       "source_name": "news.crunchbase.com",
       "published_ts": 1785945641000,
@@ -55,7 +65,7 @@
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
-      "headline_pull": 3,
+      "headline_pull": 4,
       "read_time_min": 7,
       "image_position": "center",
       "image_scale": 1.0,
@@ -67,7 +77,14 @@
         "impact_innovation": 2,
         "ai_entrepreneurship": 5,
         "limelight": 2
-      }
+      },
+      "emoji_clue": "\ud83c\udf93\ud83d\udcbc\ud83e\udd16\ud83d\udcb0\ud83d\ude80",
+      "headline_split": "\u2018Nobody Wanted to Give A Former Principal Money\u2019: How An Educator Built An Edtech AI Startup With ",
+      "fake_headline": "Retired Teacher Turns Classroom Trash Into Eco-Friendly Building Materials, Raises $5M",
+      "fake_endings": [
+        "$63M from VCs",
+        "a $10K crowdfunding campaign"
+      ]
     }
   ]
 }
