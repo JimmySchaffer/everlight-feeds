@@ -1,90 +1,135 @@
 {
-  "batch_id": "batch_20260815_142206",
-  "created_at": "2026-08-15T14:22:06.334054",
-  "story_count": 2,
+  "batch_id": "batch_20260820_045041",
+  "created_at": "2026-08-20T04:50:41.875870",
+  "story_count": 3,
   "stories": [
     {
-      "id": "batch_20260811_173616__story_054",
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "summary": "A startup is using AI to hunt for new materials that could make computer chips cooler and more efficient. Discovered Materials just raised $9 million to speed up the search for next-gen tech.",
-      "extended_summary": "AI is solving a problem it helped create: Discovered Materials is deploying swarms of AI agents to find new materials for more efficient integrated circuits. The startup, which just raised $9 million, uses AI to generate thousands of material leads daily, a process that used to take a PhD student weeks. This could lead to cooler, more energy-efficient chips, tackling the heat problem in data centers head-on.",
+      "id": "batch_20260820_084815__story_057",
+      "title": "My Dad Is in Prison. Here\u2019s Why I Built an AI Chatbot for His Electronic Tablet.",
+      "summary": "CJ Jones built an AI chatbot for his incarcerated father, turning a personal need into a company called Beyond Bars AI. It's helping families stay connected and informed.",
+      "extended_summary": "CJ Jones, a technology analyst, created an AI chatbot named Nova for his father who is in prison. What started as a way to help his dad get answers has grown into Beyond Bars AI, a for-profit company. While the tool has limitations, it's a creative solution to the challenges of incarceration, offering support and information to families navigating the criminal-legal system.",
       "category": "Discovery",
       "categories": [
-        "Discovery"
+        "Discovery",
+        "Transformation"
       ],
       "tones": [],
-      "source_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "source_name": "techcrunch.com",
-      "published_ts": 1786381200000,
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+      "source_url": "https://www.themarshallproject.org/2026/08/14/prison-ai-chatbot-nova-cj-jones",
+      "source_name": "themarshallproject.org",
+      "published_ts": 1786719631000,
+      "image_url": "https://mirrorball.themarshallproject.org/4HH0Tz5Wg8ZussNyUM10l-9QOcSZrJcwfppnDe5JAYs/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC9vdG1vZjV2bTIx/MzJzaDM5dHBxczZh/bzQ0a212L0FTUkFU/X0xJLVBSSVNPTi1B/SV9pbGx1c3RyYXRp/b25fc29jaWFsXzI2/MDgxMy5wbmc.webp",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 2,
-      "headline_pull": 3,
-      "read_time_min": 5,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers",
-        "ai_entrepreneurship",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "limelight": 1,
-        "young_achievers": 5,
-        "ai_entrepreneurship": 5,
-        "impact_innovation": 3
-      },
-      "emoji_clue": "\ud83e\udd16\ud83d\udd0d\ud83e\uddca\ud83d\udcbb\ud83d\udd25",
-      "headline_split": "Discovered Materials is playing AI whack-a-mole to hunt ",
-      "fake_headline": "Local Bakery Uses AI to Perfect Gluten-Free Bread, Wins National Award",
-      "fake_endings": [
-        "for rare earth elements in e-waste",
-        "down bugs in their new software"
-      ]
-    },
-    {
-      "id": "batch_20260811_173616__story_090",
-      "title": "\u2018Nobody Wanted to Give A Former Principal Money\u2019: How An Educator Built An Edtech AI Startup With $63M From VCs",
-      "summary": "Former principal Adeel Khan turned his ChatGPT experiments into a $63M edtech startup. Despite early rejections, he's now helping teachers everywhere harness AI.",
-      "extended_summary": "Adeel Khan, a former principal, took a sabbatical in 2022 and stumbled upon ChatGPT. After testing it with teachers, he saw a divide: some were transformed, others indifferent. Determined to make AI accessible to all educators, he founded an edtech startup that has raised $63M from VCs. Khan's journey from 'nobody wanted to give a former principal money' to leading a venture-backed company is a testament to the power of innovative thinking in education.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
-      "source_name": "news.crunchbase.com",
-      "published_ts": 1785945641000,
-      "image_url": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
       "headline_pull": 4,
       "read_time_min": 7,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "ai_entrepreneurship"
+        "limelight",
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
       ],
       "section_scores": {
-        "young_achievers": 2,
-        "impact_innovation": 2,
+        "limelight": 5,
         "ai_entrepreneurship": 5,
-        "limelight": 2
+        "young_achievers": 5,
+        "impact_innovation": 3
       },
-      "emoji_clue": "\ud83c\udf93\ud83d\udcbc\ud83e\udd16\ud83d\udcb0\ud83d\ude80",
-      "headline_split": "\u2018Nobody Wanted to Give A Former Principal Money\u2019: How An Educator Built An Edtech AI Startup With ",
-      "fake_headline": "Retired Teacher Turns Classroom Trash Into Eco-Friendly Building Materials, Raises $5M",
+      "emoji_clue": "\ud83d\udc68\u200d\ud83d\udc67\ud83d\udd12\ud83e\udd16\ud83d\udcf1\ud83d\udcac",
+      "headline_split": "My Dad Is in Prison. Here\u2019s Why I Built an AI Chatbot for His Electronic ",
       "fake_endings": [
-        "$63M from VCs",
-        "a $10K crowdfunding campaign"
-      ]
+        "watch",
+        "notebook"
+      ],
+      "fake_headline": "Teen Creates App to Help Grandparents Video Call Grandkids, Wins Tech Award"
+    },
+    {
+      "id": "batch_20260820_084815__story_085",
+      "title": "Startup Spotlight: Tech consultant returns to the farm with Reroot, connecting growers with consumers",
+      "summary": "Genevieve Priebe traded her tech consulting career for farming and built Reroot, a startup connecting local growers with consumers. Her app maps 50,000 producers, and her voice-powered tool lets farmers update their stores hands-free. It's a homecoming that's changing how we buy food.",
+      "extended_summary": "Genevieve Priebe used to advise Seattle's tech giants; now she bottle-feeds baby goats between business meetings. She's the solo founder of Reroot, a marketplace that makes local food as easy to buy as anything online. Her patent-pending Walk & Talk tool lets farmers update their stores by voice, even without cell service. It's a fourth-generation farm kid's dream, rebuilt for the digital age.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.geekwire.com/2026/startup-spotlight-tech-consultant-returns-to-the-farm-with-reroot-connecting-growers-with-consumers/",
+      "source_name": "geekwire.com",
+      "published_ts": 1787111214000,
+      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/08/reroot-1-1260x945.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 5,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udcbb\ud83c\udf3e\ud83d\ude9c\ud83e\udd1d\ud83e\udd55",
+      "headline_split": "Startup Spotlight: Tech consultant returns to the farm with Reroot, connecting ",
+      "fake_endings": [
+        "Farmers To Silicon Valley",
+        "Chefs To Urban Gardens"
+      ],
+      "fake_headline": "Retired Teacher Opens Free Coding Bootcamp for Underprivileged Youth"
+    },
+    {
+      "id": "batch_20260820_084815__story_070",
+      "title": "Steven Jiang Is Teaching Kids to Question AI Before They Touch the Screen",
+      "summary": "Steven Jiang's Overture teaches kids AI literacy with paper-and-pencil lessons, no screens. The program, in 50+ schools, helps students spot AI mistakes and think critically before they ever touch a tool.",
+      "extended_summary": "Kids are already using AI, but few understand it. Steven Jiang is fixing that with Overture, an education company that teaches AI literacy in over 50 schools \u2014 using only paper and pencil. No dashboards, no prompt boxes, just critical thinking. 'Kids are growing up around AI but not getting a proper introduction to understanding it,' he says. The lessons help students spot mistakes and create with confidence, preparing them for a world where AI is everywhere. It's a screen-free approach to a digital future.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.distractify.com/p/steven-jiang-is-teaching-kids-to-question-ai-before-they-touch-the-screen",
+      "source_name": "distractify.com",
+      "published_ts": 1787009838000,
+      "image_url": "https://media.distractify.com/brand-img/W8jT7Icq6/1200x628/stevenj1200x628moreheadroom-1787089105184.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 4,
+        "impact_innovation": 3,
+        "ai_entrepreneurship": 4
+      },
+      "emoji_clue": "\ud83e\udd16\ud83e\uddd2\ud83d\udcf1\ud83d\udcad",
+      "headline_split": "Steven Jiang Is Teaching Kids to Question AI Before They Touch the Screen: ",
+      "fake_endings": [
+        "his class now builds their own robots",
+        "he makes them write code by hand first"
+      ],
+      "fake_headline": "Grandpa Starts Coding Club at 80, Now Kids Build Apps for Local Shelters"
     }
   ]
 }
