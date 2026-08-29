@@ -1,0 +1,2018 @@
+{
+  "batch_id": "batch_20260820_045041",
+  "created_at": "2026-08-20T04:50:41.917053",
+  "story_count": 49,
+  "stories": [
+    {
+      "id": "batch_20260820_084815__story_087",
+      "title": "California\u2019s new tire efficiency rules could save drivers $1B a year",
+      "summary": "California just passed the nation's first tire efficiency standards, which could save drivers $1 billion a year. The rule ensures replacement tires are as efficient as original ones and adds a 'leaf' rating label. It's a win for your wallet and the planet.",
+      "extended_summary": "Your replacement tires might be costing you more than you think. California just became the first state to regulate tire efficiency, ensuring replacements are as good as what came on your car. The new 'leaf' rating label makes it easy to spot the best options. Drivers could save $1 billion a year, and the state projects a 2-million-ton cut in CO2 emissions \u2014 like taking 400,000 cars off the road.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
+      "source_name": "grist.org",
+      "published_ts": 1787026793000,
+      "image_url": "https://grist.org/wp-content/uploads/2026/08/california-tires.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\ude97\ud83d\udede\ud83d\udcb5\ud83c\udf3f\ud83d\udcc9",
+      "headline_split": "California\u2019s new tire efficiency rules could save drivers ",
+      "fake_endings": [
+        "Millions In Gas Costs",
+        "Hours In Traffic Jams"
+      ],
+      "fake_headline": "Colorado's Solar Panel Rebate Program Cuts Energy Bills by 30%"
+    },
+    {
+      "id": "batch_20260820_084815__story_088",
+      "title": "Can a chatbot be a responsible therapist? Dartmouth professor aims to find out",
+      "summary": "Dartmouth psychiatrist Michael Heinz is testing Therabot, the first generative AI chatbot to show clinical results in a published trial. It's designed to be a companion for therapy, guiding patients through exercises between sessions. The future of mental health care might have a chatbot in it.",
+      "extended_summary": "Seventy years after Dartmouth birthed the term 'artificial intelligence,' a Dartmouth psychiatrist is testing whether a machine can do therapy. Therabot, built at the university's Center for Technology and Behavioral Health, is the first generative AI chatbot to show clinical results in a published trial. It's not a replacement for a therapist \u2014 it's a companion that guides patients through exercises between sessions. The trial is a bold step into a future where AI supports mental health care.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://vtdigger.org/2026/08/15/can-a-chatbot-be-a-responsible-therapist-dartmouth-professor-aims-to-find-out/",
+      "source_name": "vtdigger.org",
+      "published_ts": 1786809240000,
+      "image_url": "https://vtdigger.org/wp-content/uploads/2026/08/Valley-News-AI-Chatbot-Therapy.webp",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 11,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83e\udd16\ud83d\udcac\ud83e\uddd1\u200d\u2695\ufe0f\u2764\ufe0f\ud83c\udf93",
+      "headline_split": "Can a chatbot be a responsible therapist? Dartmouth professor aims to ",
+      "fake_endings": [
+        "Create A Robot Pet",
+        "Teach AI To Cook"
+      ],
+      "fake_headline": "Stanford Study Finds Meditation App Reduces Stress in College Students",
+      "city": "Montpelier"
+    },
+    {
+      "id": "batch_20260820_084815__story_089",
+      "title": "Climate Champs: The Desert Fence Busters",
+      "summary": "The Desert Fence Busters in Tucson are tearing down 95 miles of abandoned barbed wire fences that trap wildlife. Working with state and federal agencies, they've cleared 98,000 pounds of fencing across 16,000 acres. It's a volunteer-powered win for desert animals.",
+      "extended_summary": "In the Sonoran desert, abandoned barbed wire fences are deadly traps for wildlife. The Desert Fence Busters, a volunteer group in Tucson, decided to do something about it. They've already removed 95 miles of fencing \u2014 98,000 pounds of wire \u2014 across 16,000 acres, working with the Arizona Game and Fish Department and the National Parks Service. Every mile cleared is a safer path for animals to roam free.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://bluedotliving.com/climate-champs-the-desert-fence-busters/",
+      "source_name": "bluedotliving.com",
+      "published_ts": 1787189107000,
+      "image_url": "https://bluedotliving.com/wp-content/uploads/2023/05/Dear_Dot_Final.jpg.webp",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 5,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83c\udfdc\ufe0f\ud83e\uddf1\ud83d\udea7\ud83e\udd8e\ud83c\udf35",
+      "headline_split": "Climate Champs: The Desert Fence ",
+      "fake_endings": [
+        "Builders",
+        "Painters"
+      ],
+      "fake_headline": "Volunteers Plant 10,000 Trees in Deforested Amazon Region"
+    },
+    {
+      "id": "batch_20260820_084815__story_090",
+      "title": "For Early Prostate Cancer \u2018Active Surveillance\u2019 Is Now #1 Choice",
+      "summary": "Active surveillance is now the #1 choice for veterans with low-risk prostate cancer, thanks to UCSF's pioneering work. In 2024, 93% of veterans chose monitoring over treatment, up from 27% in 2005. It's a shift that spares thousands from unnecessary procedures.",
+      "extended_summary": "Three decades after UCSF pioneered 'active surveillance' for low-risk prostate cancer, it's now the standard of care. A new study of 73,000 veterans shows 93% chose monitoring over treatment in 2024, up from just 27% in 2005. The approach uses regular tests to watch slow-growing cancers, avoiding unnecessary surgery or radiation. It's a testament to how a single institution's research can transform national medical practice.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.ucsf.edu/news/2026/08/432386/early-prostate-cancer-active-surveillance-now-first-choice",
+      "source_name": "ucsf.edu",
+      "published_ts": 1787008363000,
+      "image_url": "https://www.ucsf.edu/sites/default/files/2026-08/health-surveillance-illustration.jpg",
+      "display_mode": "text",
+      "display_reason": "medium image not worth the space",
+      "image_confidence": "medium",
+      "visual_affinity": 1,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83e\ude7a\ud83d\udc68\u200d\u2695\ufe0f\ud83d\udccb\ud83d\udd70\ufe0f\u2705",
+      "headline_split": "For Early Prostate Cancer \u2018Active Surveillance\u2019 Is Now ",
+      "fake_endings": [
+        "The Only Option",
+        "A Risky Gamble"
+      ],
+      "fake_headline": "New Blood Test Detects Alzheimer's Years Before Symptoms Appear",
+      "city": "San Francisco County"
+    },
+    {
+      "id": "batch_20260820_084815__story_049",
+      "title": "In New Hampshire, a race to insulate vulnerable neighborhoods against sea-level rise",
+      "summary": "A New Hampshire neighborhood has significantly reduced flooding from sea-level rise thanks to $4.3 million in infrastructure upgrades. Residents who advocated for over two decades now see a 75% decrease in flood events, protecting their homes and community.",
+      "extended_summary": "Tom Bassett and his neighbors in Hampton, New Hampshire, spent over 20 years advocating for flood protection, and their efforts have paid off. A $4.3 million project, including new drainage pipes and a repurposed pump station, has cut flooding by about 75%. The upgrades, funded by local, state, and federal dollars, are a model for vulnerable coastal communities. While the changes are mostly underground, their impact is clear: roads stay dry, and homes are safer from the encroaching sea.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://newhampshirebulletin.com/2026/08/19/in-hampton-a-race-to-insulate-vulnerable-neighborhoods-against-sea-level-rise/",
+      "source_name": "ehn.org",
+      "published_ts": 1787176403000,
+      "image_url": "https://newhampshirebulletin.com/wp-content/uploads/2026/08/IMG_2603-2048x1536.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83c\udfe0\ud83c\udf0a\ud83e\uddf1\ud83c\udfc3\u200d\u2642\ufe0f\ud83c\udf0d",
+      "headline_split": "In New Hampshire, a race to insulate vulnerable neighborhoods against ",
+      "fake_endings": [
+        "sea-level rise",
+        "extreme weather"
+      ],
+      "fake_headline": "Coastal Town in Maine Builds Floating Gardens to Combat Flooding"
+    },
+    {
+      "id": "batch_20260820_084815__story_050",
+      "title": "Insect fans are all abuzz about this week\u2019s pollinator count, which helps the ag industry bloom",
+      "summary": "Citizen scientists across the Southeast are spending 15 minutes to count pollinators, helping researchers understand and support these vital insects. The Great Southeast Pollinator Census has grown to include six states and thousands of participants.",
+      "extended_summary": "This week, thousands of citizen scientists in the Southeast are taking 15 minutes to count pollinators as part of the University of Georgia's Great Southeast Pollinator Census. Last year, over 27,000 participants logged more than 500,000 insects, providing valuable data for agriculture and conservation. The event, now in its eighth year, has expanded to six states and includes schools, aquariums, and even the Daughters of the American Revolution. It's a fun, accessible way for anyone to contribute to science and help the environment.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://georgiarecorder.com/briefs/insect-enthusiasts-are-all-abuzz-about-this-weeks-pollinator-census-which-helps-ag-industry-bloom/",
+      "source_name": "georgiarecorder.com",
+      "published_ts": 1787184810000,
+      "image_url": "https://georgiarecorder.com/wp-content/uploads/2026/08/West-Fannin-1-2048x1536.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc1d\ud83c\udf3c\ud83d\udd0d\ud83d\udcca\ud83c\udf3e",
+      "headline_split": "Insect fans are all abuzz about this week\u2019s pollinator count, which helps the ag industry ",
+      "fake_endings": [
+        "bloom",
+        "grow"
+      ],
+      "fake_headline": "Beekeepers in Oregon Team Up to Save Declining Bee Population"
+    },
+    {
+      "id": "batch_20260820_084815__story_065",
+      "title": "Instagram-Born Book Club Walks Its Way Across Los Angeles",
+      "summary": "Preoccupied LA started as an Instagram roundup to fix underattended book events and grew into a 7,000-strong community. Their monthly Walking Book Club brings online followers together for neighborhood strolls with authors, ending at local bookstores.",
+      "extended_summary": "Samantha Dockser and Morgan Messing noticed a problem: great author talks in LA were happening to empty rooms. So they built Preoccupied LA, an Instagram account that aggregates every literary event in the city. It exploded, now connecting readers in eight cities with plans for a Canadian chapter. The heart of it is the Walking Book Club, where followers meet a featured author for a walk before heading to an indie bookstore for a chat and signing. 'It's just a nice way to take that online community and bring it offline,' Dockser says. It's turning social media followers into real-life book lovers.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.smdp.com/instagram-born-book-club-walks-its-way-across-los-angeles/",
+      "source_name": "smdp.com",
+      "published_ts": 1787173200000,
+      "image_url": "https://storage.ghost.io/c/55/9f/559f9abc-8372-4a2e-8c2d-27386da4e363/content/images/size/w1200/2026/08/COVER---Samantha-and-Morgan-at-Walking-Book-Club-1.JPEG",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udcda\ud83d\udeb6\u200d\u2640\ufe0f\ud83c\udf06\ud83d\udc65",
+      "headline_split": "Instagram-Born Book Club Walks Its Way Across Los Angeles: ",
+      "fake_endings": [
+        "members read while hiking every trail",
+        "now it's a city-wide scavenger hunt"
+      ],
+      "fake_headline": "Coffee Shop Barista Memorizes Every Regular's Order, Now Serves 500 by Name",
+      "city": "Santa Monica"
+    },
+    {
+      "id": "batch_20260820_084815__story_091",
+      "title": "Jay Peak Recruits Goats to Clean Up Ski Slopes",
+      "summary": "Jay Peak Resort has hired a four-legged landscaping crew to munch through overgrown trails. The 'Chew Crew' of goats and sheep are clearing 15 acres of grass and poison ivy, cutting the resort's carbon footprint by 300 pounds of CO2. It's eco-friendly, adorable, and award-winning!",
+      "extended_summary": "Move over, lawnmowers\u2014Jay Peak's newest employees have four legs and a serious appetite. The resort's 'Chew Crew' of goats and sheep from Cloud Brook Farm are back for a second year, chomping through 15 acres of grass, poison ivy, and goldenrod to keep ski trails in top shape. The animals even wear GPS collars and get a herding dog for overnight security. Last year's pilot cut the resort's carbon footprint by 300 pounds of CO2, and the program just snagged a Golden Eagle Award for innovation. Who knew sustainability could be this adorable?",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://www.sevendaysvt.com/news/802much/jay-peak-recruits-goats-to-clean-up-ski-slopes/",
+      "source_name": "sevendaysvt.com",
+      "published_ts": 1787165280000,
+      "image_url": "https://i0.wp.com/www.sevendaysvt.com/wp-content/uploads/2026/08/802true1-1.jpg?fit=2400%2C1601&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 4,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83d\udc10\u26f7\ufe0f\ud83c\udfd4\ufe0f\ud83e\uddf9",
+      "headline_split": "Jay Peak Recruits Goats to Clean Up ",
+      "fake_endings": [
+        "the lodge's messy kitchen",
+        "the parking lot after winter"
+      ],
+      "fake_headline": "Colorado Town Hires Alpacas to Deliver Mail to Remote Mountain Homes",
+      "city": "Burlington"
+    },
+    {
+      "id": "batch_20260820_084815__story_092",
+      "title": "Mental Health millage means help for more people \u2014 and a healthier community",
+      "summary": "A property tax millage in Washtenaw County has transformed mental health care access, boosting adult services by 147% and youth services by 104%. The funding expands care beyond clinical settings, reaching residents who previously didn't qualify. It's a community-wide win for well-being.",
+      "extended_summary": "Seven years ago, Washtenaw County voters approved a millage that's now reshaping mental health care for thousands. Adult services have jumped 147% and youth services 104%, thanks to $5-7 million in annual funding. The money supports crisis response, housing, youth programs, and partnerships with local organizations, extending care to people who once fell through the cracks. 'It's really huge for just about everybody in the county,' says one expert. This isn't just a policy win\u2014it's a healthier, more connected community.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://secondwavemedia.com/mental-health-millage-means-help-for-more-people-and-a-healthier-community/",
+      "source_name": "secondwavemedia.com",
+      "published_ts": 1787188179000,
+      "image_url": "https://d1773um9yf4e9u.cloudfront.net/wp-content/uploads/2026/08/18093231/Washtenaw-County-Community-Mental-Health-555-Towner-Ypsilanti-2.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83e\udde0\ud83d\udc9a\ud83c\udfd8\ufe0f\ud83e\udd1d",
+      "headline_split": "Mental Health millage means help for more people \u2014 and ",
+      "fake_endings": [
+        "a bigger budget for parks",
+        "free coffee for everyone"
+      ],
+      "fake_headline": "New City Program Offers Free Yoga Classes to All Residents Over 60"
+    },
+    {
+      "id": "batch_20260820_084815__story_093",
+      "title": "Second affordable housing project on church land opens in Colorado Springs",
+      "summary": "A church in Colorado Springs donated land to build Sunrise at Shiloh Mesa, a 50-unit affordable housing complex for seniors. The partnership between Greccio Housing and Woodmen Valley Chapel turns unused church land into stable homes, showing how faith and community can create real change.",
+      "extended_summary": "What happens when a church has extra land and a nonprofit has a mission? In Colorado Springs, it becomes Sunrise at Shiloh Mesa\u2014a 50-unit affordable housing complex for seniors 62 and older. Woodmen Valley Chapel donated 1.1 acres valued at $900,000 to Greccio Housing, which built the development with extra services to help residents age in place. 'Most churches don't realize they have land just sitting there,' says one board member. This partnership proves that faith and action can build more than a congregation\u2014they can build homes.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Spiritual"
+      ],
+      "source_url": "https://www.coloradopolitics.com/2026/08/17/second-affordable-housing-project-on-church-land-opens-in-colorado-springs/",
+      "source_name": "coloradopolitics.com",
+      "published_ts": 1787029666000,
+      "image_url": "https://www.coloradopolitics.com/wp-content/uploads/2025/06/ae535b22-b250-11ea-82f6-ab962d97a568.webp",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 10,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83c\udfe0\u26ea\ud83c\udf31\ud83c\udfd4\ufe0f",
+      "headline_split": "Second affordable housing project on church land opens in ",
+      "fake_endings": [
+        "downtown Denver",
+        "a quiet suburb"
+      ],
+      "fake_headline": "Tiny Home Village for Veterans Opens on Former Golf Course in Ohio"
+    },
+    {
+      "id": "batch_20260820_084815__story_094",
+      "title": "The Auburn Mall Is Coming Back, Baby!",
+      "summary": "The Auburn Mall in Maine is making a comeback! After years of empty storefronts, a few Facebook posts sparked a wave of interest, filling the mall from 40% empty to nearly 90% full in just weeks. Nostalgia and community spirit are bringing this local landmark back to life.",
+      "extended_summary": "Remember when the Auburn Mall was the hangout spot? Well, it's making a comeback, and it all started with a couple of Facebook posts. Longtime tenant Jeff Mitchell shared available storefronts and rental prices online, reaching over 325,000 people. The response was overwhelming\u2014the mall went from 40% empty to nearly 90% full in just a few weeks. New businesses are moving in, and the community is buzzing with excitement. It's proof that sometimes, all it takes is a little social media magic to revive a beloved local landmark.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://wjbq.com/ixp/695/p/auburn-mall-revitalization-maine/",
+      "source_name": "wjbq.com",
+      "published_ts": 1786990308000,
+      "image_url": "https://townsquare.media/site/695/files/2026/08/attachment-untitled-design-2026-08-17t081636-733.jpg?w=1200&q=75&format=natural",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 5,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83d\udecd\ufe0f\ud83d\udd04\ud83c\udf89\ud83c\udfec",
+      "headline_split": "The Auburn Mall Is Coming Back, ",
+      "fake_endings": [
+        "with a new food court",
+        "as a tech hub"
+      ],
+      "fake_headline": "Historic Theater in Maine Reopens After 20 Years as Community Arts Center",
+      "city": "Cumberland County"
+    },
+    {
+      "id": "batch_20260820_084815__story_095",
+      "title": "The movement to remake school playgrounds as urban climate oases",
+      "summary": "Schoolyards across the U.S. are being transformed from barren blacktop into green, shaded oases. The Trust for Public Land has helped create 420 such spaces in 26 states, providing cooler, nature-filled play areas for kids and communities. It's a win for climate resilience and childhood joy.",
+      "extended_summary": "At Adolph S. Ochs school in Manhattan, the schoolyard is now a canopy of trees, painted sea turtles, and a green turf field\u2014a far cry from the black asphalt it was 11 years ago. It's one of 420 schoolyards across 26 states transformed by the Trust for Public Land into welcoming oases. These spaces aren't just prettier; they're cooler, offering shade and nature-based play for kids and neighbors. The movement is turning urban heat islands into community havens, one schoolyard at a time.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://hechingerreport.org/the-movement-to-remake-school-playgrounds-as-urban-climate-oases/",
+      "source_name": "hechingerreport.org",
+      "published_ts": 1786914060000,
+      "image_url": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2026/08/community-schoolyards-1-scaled.jpg?fit=2560%2C1920&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 12,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83c\udfeb\ud83c\udf33\ud83c\udf26\ufe0f\ud83c\udfc3",
+      "headline_split": "The movement to remake school playgrounds as urban ",
+      "fake_endings": [
+        "community gardens",
+        "sports complexes"
+      ],
+      "fake_headline": "City Turns Vacant Lots into Mini Forests to Cool Down Neighborhoods"
+    },
+    {
+      "id": "batch_20260820_084815__story_096",
+      "title": "The test that could save your young athlete\u2019s life, and it\u2019s free",
+      "summary": "A free EKG screening program in Miami-Dade is helping prevent sudden cardiac death in young athletes. The simple five-minute test catches heart issues that routine physicals miss, boosting detection rates from 30% to 80%. It's a lifesaving addition to sports physicals.",
+      "extended_summary": "A routine sports physical might not be enough to keep young athletes safe. That's why Dr. Madeleen Mas is leading a push to bring free EKG screenings to every student athlete in Miami-Dade County. The five-minute test can detect hidden heart conditions that physicals miss\u2014catching issues 60-80% of the time compared to just 7-30% with a physical alone. Sudden cardiac death is rare, but as Dr. Mas says, 'Even one life saved is worth it.' This simple, painless procedure could be the difference between life and death for a young athlete.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Rescue"
+      ],
+      "tones": [],
+      "source_url": "https://www.miamitimesonline.com/lifestyles/health_wellness/the-test-that-could-save-your-young-athlete-s-life-and-it-s-free/article_48f84355-ef71-49b9-9053-3a5dd074e7e4.html",
+      "source_name": "miamitimesonline.com",
+      "published_ts": 1787108400000,
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/miamitimesonline.com/content/tncms/assets/v3/editorial/8/ca/8ca778dd-e6c6-4f89-aaaf-cf33a6556a29/6a8551e27b978.image.jpg?crop=1680%2C882%2C0%2C119&resize=1200%2C630&order=crop%2Cresize",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 5,
+        "limelight": 5
+      },
+      "emoji_clue": "\u2764\ufe0f\ud83c\udfc3\u200d\u2642\ufe0f\ud83e\ude7a\ud83d\udcaf",
+      "headline_split": "The test that could save your young athlete\u2019s life, and it\u2019s ",
+      "fake_endings": [
+        "available at all schools",
+        "covered by insurance"
+      ],
+      "fake_headline": "Free Heart Screenings Offered at High School Sports Events Across Texas",
+      "city": "Miami"
+    },
+    {
+      "id": "batch_20260820_084815__story_072",
+      "title": "We Energies, Milwaukee Schools Partnership Opens Career Doors for Students",
+      "summary": "Mickey Critton wasn't on track to graduate, but a deal with his mom led him to an internship at We Energies. Now he's a full-time line mechanic, and the program is opening doors for dozens of students every year. It's a second chance that's changing lives.",
+      "extended_summary": "Mickey Critton's path to a career started with a deal: go back to high school or join an internship. He chose the latter, and it changed everything. We Energies' program with Milwaukee schools takes about 30 students a year, teaching them skills in line mechanics, gas tech, and design. Many, like Critton, end up with full-time jobs. It's a win-win that's building futures and keeping talent local.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://urbanmilwaukee.com/2026/08/17/we-energies-milwaukee-schools-partnership-opens-career-doors-for-students/",
+      "source_name": "urbanmilwaukee.com",
+      "published_ts": 1787015476000,
+      "image_url": "https://urbanmilwaukee.com/wp-content/uploads/2026/08/260812_WEENERGIES01-scaled-1-1024x682.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "impact_innovation": 5
+      },
+      "emoji_clue": "\ud83c\udfeb\ud83d\udd27\ud83d\udc77\ud83c\udf93\ud83e\udd1d",
+      "headline_split": "We Energies, Milwaukee Schools Partnership Opens ",
+      "fake_endings": [
+        "new science labs",
+        "a robotics club"
+      ],
+      "fake_headline": "Retired Teacher Builds Free Library in Her Backyard, Stocked With 5,000 Books",
+      "city": "Milwaukee"
+    },
+    {
+      "id": "batch_20260820_084815__story_003",
+      "title": "A Black DeKalb Community Fought a Massive Data Center for Nearly a Year and Won",
+      "summary": "After nearly a year of community organizing, residents of Ellenwood, Georgia, a majority-Black neighborhood, successfully blocked a massive data center project that threatened their air quality and health. Led by Jackie Malcom and the DeKalb Citizens Coalition, they turned back the development, winning a major victory for environmental justice.",
+      "extended_summary": "Jackie Malcom and her neighbors in Ellenwood, Georgia, faced a daunting challenge: a 2 million square foot data center proposed for their community, which already suffered from poor air quality due to nearby industry and the airport. For almost a year, they organized, protested, and voiced their concerns about the environmental and health impacts. In August, the DeKalb County Board of Commissioners rejected the project, a huge win for the community. Malcom, who couldn't even sit outside without sinus issues, celebrated the decision as a victory for her neighbors, especially those with asthma. It was a testament to the power of collective action.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://atlanta.capitalbnews.org/dekalb-county-ellenwood-data-center-rejected/",
+      "source_name": "atlanta.capitalbnews.org",
+      "published_ts": 1787095800000,
+      "image_url": "https://i0.wp.com/atlanta.capitalbnews.org/wp-content/uploads/2026/08/IMG_7187-1-scaled.jpeg?fit=2560%2C1920&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfd8\ufe0f\u270a\ud83c\udfff\ud83d\udcbb\ud83d\udeab\ud83c\udfc6",
+      "headline_split": "A Black DeKalb Community Fought a Massive Data Center for Nearly a Year and ",
+      "fake_endings": [
+        "finally got a library",
+        "won a new park"
+      ],
+      "fake_headline": "Small Town Beats Tech Giant in Court, Saves Historic Orchard From Development"
+    },
+    {
+      "id": "batch_20260820_084815__story_011",
+      "title": "After Major Storms, East Lansing\u2019s Tree Pruning Program Shows Its Value",
+      "summary": "East Lansing's proactive tree pruning program proved its worth after a major storm, with pruned trees coming through nearly unscathed while others suffered damage. The program, which cares for about 1,200 public trees each year, is saving the city money on cleanup and reactive maintenance.",
+      "extended_summary": "While surveying the aftermath of a 2025 storm, East Lansing's Environmental Sustainability Manager Cliff Walls spotted a clear winner: trees that had been pruned through the city's proactive program stood strong, while unpruned ones were littered with fallen branches. The program, which began in 2024, focuses on healthy growth and removing dead wood, and it's already paying off in avoided cleanup costs and damage. With a seven-year cycle covering all public trees, the city is proving that a little preventive care goes a long way in weathering the storm.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://eastlansinginfo.news/east-lansings-tree-pruning-program-gets-ahead-of-the-next-storm/",
+      "source_name": "eastlansinginfo.news",
+      "published_ts": 1787184000000,
+      "image_url": "https://eastlansinginfo.news/wp-content/uploads/2024/03/Walls-3-5.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf33\u2702\ufe0f\ud83c\udf27\ufe0f\ud83c\udfd8\ufe0f",
+      "headline_split": "After Major Storms, East Lansing\u2019s Tree Pruning Program Shows ",
+      "fake_endings": [
+        "a New Community Garden",
+        "the Power of Volunteers"
+      ],
+      "fake_headline": "Local Beekeeper Turns Rooftop Into Thriving Honey Farm, Donates 500 Jars to Food Bank",
+      "city": "East Lansing"
+    },
+    {
+      "id": "batch_20260820_084815__story_098",
+      "title": "Amid renewable energy backlash, some Nebraska communities are making millions",
+      "summary": "Nebraska communities are making millions from renewable energy projects, turning backlash into economic opportunity. Schools and towns are seeing new revenue streams that fund expansions and improvements, proving that green energy can be a financial win.",
+      "extended_summary": "After a decade of discussions and a failed bond issue, the O'Neill Public School District finally got its expansion\u2014thanks to renewable energy. Nebraska communities are cashing in on wind and solar projects, generating millions in revenue that fund schools, infrastructure, and local improvements. It's a surprising twist in the renewable energy debate: what was once a source of contention is now a financial lifeline. These communities are showing that going green can also mean going green\u2014in the wallet.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "HTTPS://www.summerlandadvocate.com/story/2026/08/19/news/amid-renewable-energy-backlash-some-nebraska-communities-are-making-millions/9767.html",
+      "source_name": "summerlandadvocate.com",
+      "published_ts": 1787157780000,
+      "image_url": "https://www.summerlandadvocate.com/home/cms_data/dfault/photos/stories/id/6/7/9767/s_top",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 1
+      },
+      "emoji_clue": "\ud83c\udf3e\ud83d\udcb5\u26a1\ud83c\udfde\ufe0f",
+      "headline_split": "Amid renewable energy backlash, some Nebraska communities are making ",
+      "fake_endings": [
+        "new solar farms",
+        "big political moves"
+      ],
+      "fake_headline": "Small Town in Iowa Earns Record Profits from Wind Turbines on Farmland",
+      "city": "Clearwater"
+    },
+    {
+      "id": "batch_20260820_084815__story_017",
+      "title": "Bend family get keys to new home, First Story\u2019s fifth this year",
+      "summary": "A Bend family received the keys to their new home, built by First Story, an organization that provides attainable housing for working families. The community raised $9,000 for the project, and the home offers stability and a fresh start, with no down payment and a zero-interest mortgage.",
+      "extended_summary": "Kimberly Hammons and her family now have the keys to their new south Bend home, a milestone made possible by First Story, an organization dedicated to building homes for working families. The community raised $9,000 in materials and labor, and the home was dedicated in a ceremony where kids ran around showing off their new rooms. 'The home is perfect and I haven't even been inside yet,' Hammons said. With no down payment and a zero-interest 30-year mortgage, the home provides a foundation for stability, changing the perspective of families who've moved from apartment to apartment. This is the 133rd home First Story has built, and it's already making a difference.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://bendbulletin.com/2026/08/19/bend-family-get-keys-to-new-home-first-storys-fifth-this-year/",
+      "source_name": "bendbulletin.com",
+      "published_ts": 1787187703000,
+      "image_url": "https://bendbulletin.com/wp-content/uploads/sites/10/2026/08/IMG_1146.jpeg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udd11\ud83c\udfe0\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83c\udf89",
+      "headline_split": "Bend family get keys to new home, First Story\u2019s fifth ",
+      "fake_endings": [
+        "home in the city",
+        "project this year"
+      ],
+      "fake_headline": "Community Rallies to Build Playground for Disabled Kids, Opens With Ribbon-Cutting",
+      "city": "Bend"
+    },
+    {
+      "id": "batch_20260820_084815__story_031",
+      "title": "Columbus First U.S. City To Offer Free Period Products At All Major Sports Venues",
+      "summary": "Columbus is making history as the first U.S. city to offer free period products at all major sports venues, from baseball to soccer. With 165 dispensers installed, the city is setting a new standard for inclusivity and fan comfort. This move is part of a bigger push to make public spaces more accessible for everyone.",
+      "extended_summary": "When you're at a game, the last thing you want to worry about is a period emergency. Columbus just made sure that's a thing of the past. Huntington Park, home of the Columbus Clippers, is the final major venue to join the city-wide initiative, making Columbus the first in the nation to offer free period products at all its major sports venues. With 165 Aunt Flow dispensers now installed, the city is raising the bar for inclusivity and guest experience. This milestone is especially timely as Columbus gears up to host major women's sporting events in 2027 and 2028, proving that accessibility and fan comfort go hand in hand.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://facilityexecutive.com/columbus-first-u-s-city-to-offer-free-period-products-at-all-major-sports-venues/",
+      "source_name": "facilityexecutive.com",
+      "published_ts": 1787096699000,
+      "image_url": "https://facilityexecutive.com/wp-content/uploads/2026/08/Aunt-Flow-2-CROP.jpeg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4,
+        "young_achievers": 3
+      },
+      "emoji_clue": "\ud83c\udfdf\ufe0f\ud83e\ude78\ud83d\udeba\ud83c\udd93\ud83c\udfd9\ufe0f",
+      "headline_split": "Columbus First U.S. City To Offer Free Period Products At All Major Sports Venues",
+      "fake_endings": [
+        "After Fan Complaint Goes Viral",
+        "Thanks To Local Teen's Petition"
+      ],
+      "fake_headline": "Denver Becomes First City to Offer Free Sunscreen at All Public Parks"
+    },
+    {
+      "id": "batch_20260820_084815__story_032",
+      "title": "Comment on Volunteers Build Fence to Expand Swimming Access at Stissing Lake by County Closes Stissing Lake Adult Swim Lane Closed Over Permit Concerns - The New Pine Plains Herald",
+      "summary": "Volunteers in Pine Plains built a 400-foot fence to expand public access to Stissing Lake, saving the town about $7,000. Led by Trevor Roush, the team used donated materials and their own skills to create a new pathway to the water. It's a community effort that's making the lake more welcoming for everyone.",
+      "extended_summary": "A new 400-foot fence in Pine Plains isn't just a boundary\u2014it's a bridge to the lake. Volunteers, led by Trevor Roush, spent two days building the fence to create a second public entry point to Stissing Lake. The project was a true community effort: Roush and Scott Hoffman donated black locust posts from a logging job, saving the town around $7,000. Each volunteer brought their own expertise, from driving posts to measuring planks. The result is a rustic fence that reflects the town's agricultural roots and opens up more opportunities for residents and visitors to enjoy the water.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.newpineplainsherald.org/volunteers-build-fence-to-expand-swimming-access-at-stissing-lake/#comment-3148",
+      "source_name": "newpineplainsherald.org",
+      "published_ts": 1786695695000,
+      "image_url": "https://www.newpineplainsherald.org/wp-content/uploads/2025/07/Keith-Sisco-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83e\uddf1\ud83c\udfca\u200d\u2642\ufe0f\ud83c\udf0a\ud83d\udc65\ud83d\udd28",
+      "headline_split": "Volunteers Build Fence to Expand Swimming Access at Stissing Lake",
+      "fake_endings": [
+        "After County Approves Permit",
+        "To Protect Swimmers From Boats"
+      ],
+      "fake_headline": "Community Members Plant 500 Trees Along River to Restore Wildlife Habitat"
+    },
+    {
+      "id": "batch_20260820_084815__story_033",
+      "title": "DC painting special coating on roads in hopes of cooling \u2018urban heat islands'",
+      "summary": "D.C. is testing a cool new way to beat the heat: a reflective coating on roads that can lower temperatures by up to 20 degrees. The pilot program targets 'urban heat islands' where pavement makes things extra toasty. It's a simple idea with a big impact for some of the city's hottest neighborhoods.",
+      "extended_summary": "On a scorching summer day, the pavement can make you feel like you're walking on a griddle. D.C. is fighting back with a simple yet powerful tool: a light-colored, solar-reflective coating applied to roads in five 'urban heat islands.' The pilot program, which started in late July, aims to reduce air temperatures by up to 20 degrees by reflecting sunlight instead of absorbing it. Neighborhoods like Brightwood and Ivy City are getting the treatment, which could make a real difference for residents who live in areas with fewer trees and more asphalt. It's a low-tech solution with the potential for a big impact on public health and comfort.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://www.nbcwashington.com/news/local/dc-painting-special-coating-on-roads-in-hopes-of-cooling-urban-heat-islands/4143495/",
+      "source_name": "nbcwashington.com",
+      "published_ts": 1787038047000,
+      "image_url": "https://media.nbcwashington.com/2026/08/ddot-painting.jpg?quality=85&strip=all&resize=1200%2C675",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udee3\ufe0f\ud83c\udfa8\ud83c\udf21\ufe0f\ud83c\udfd9\ufe0f\u2744\ufe0f",
+      "headline_split": "DC Painting Special Coating on Roads in Hopes of Cooling",
+      "fake_endings": [
+        "The City's Busiest Intersections",
+        "Downtown During Summer Heatwaves"
+      ],
+      "fake_headline": "Phoenix Installs Solar-Powered Shade Structures at Bus Stops to Beat Heat",
+      "city": "District of Columbia"
+    },
+    {
+      "id": "batch_20260820_084815__story_039",
+      "title": "Free bus rides for Detroit students to continue in new school year",
+      "summary": "Detroit students can ride the bus for free again this school year, thanks to the Ride to Rise program. It's not just for getting to school\u2014it's for getting to tutoring, jobs, and after-school activities. With 50 transit ambassadors on board, the city is making sure students feel safe and supported.",
+      "extended_summary": "For Detroit students, the bus just became a ticket to opportunity. The Ride to Rise program, which started as a pilot in April, is back for the new school year, offering free DDOT rides to students ages 5 to 18. Mayor Mary Sheffield announced the program's continuation, backed by $1 million in state funds. This isn't just about getting to school\u2014it's about connecting students to tutoring, after-school programs, libraries, and jobs. Student ridership doubled in the first two months, showing just how needed this program is. To address safety concerns, the city has deployed 50 transit ambassadors to ride buses during peak hours, ensuring students feel secure on their journeys.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.bridgedetroit.com/free-bus-rides-for-detroit-students-to-continue-in-new-school-year/",
+      "source_name": "bridgedetroit.com",
+      "published_ts": 1787014866000,
+      "image_url": "https://www.bridgedetroit.com/wp-content/uploads/2026/08/55191568269_d9c266cc64_o-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\ude8c\ud83c\udf92\ud83e\uddd1\u200d\ud83c\udf93\ud83c\udd93\ud83d\udcc5",
+      "headline_split": "Free Bus Rides for Detroit Students to Continue in New",
+      "fake_endings": [
+        "School Year After Funding",
+        "Academic Term Thanks to Grant"
+      ],
+      "fake_headline": "City of Cleveland Extends Free Bike-Share Program for Students Through Summer"
+    },
+    {
+      "id": "batch_20260820_084815__story_063",
+      "title": "Getting the Scoop",
+      "summary": "Ice cream trucks are ditching the old neighborhood routes for festivals, private events, and social media to survive. Richmond's Tierra McLaurin turned her water ice business into a destination by posting her location online, drawing crowds from blocks away.",
+      "extended_summary": "The classic ice cream truck jingle might be fading, but the business is getting a modern makeover. With kids spending less time outdoors and costs rising, operators like Tierra McLaurin are reinventing the model. She started The Sweet Xscape from the trunk of her 2008 Nissan Altima in 2020, and now parks her truck at strategic spots, letting a simple social media post bring the customers to her. 'Regardless of where I'm going, as long as I make a post on social media, they're coming,' she says. It's a sweet comeback for a nostalgic industry.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://richmondmagazine.com/restaurants-in-richmond/food-news/ice-cream-trucks/",
+      "source_name": "richmondmagazine.com",
+      "published_ts": 1787176920000,
+      "image_url": "https://richmondmagazine.com/downloads/48846/download/gelati-celesti_courtesy_teaser.jpg?cb=07a4dcc2081f18e067802ca316b4b72a&w=900",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 8,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "young_achievers": 4,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf66\ud83c\udf68\ud83e\udd44\ud83d\ude0b",
+      "headline_split": "Getting the Scoop: ",
+      "fake_endings": [
+        "local ice cream shop hires only grandmas",
+        "new flavor wins national taste test"
+      ],
+      "fake_headline": "Neighborhood Baker Turns Leftover Bread Into Free Breakfast for School Kids"
+    },
+    {
+      "id": "batch_20260820_084815__story_042",
+      "title": "Ghost Town Trail opens up recreation along coal mining communities",
+      "summary": "The Ghost Town Trail, a 54-mile bike path through Pennsylvania's coal country, has been completed after 32 years of effort. It transforms old railroad beds and cleaned-up coal waste piles into a scenic recreational route, revitalizing communities affected by mining's decline.",
+      "extended_summary": "Cliff Kitner, executive director of the Cambria County Conservation and Recreation Authority, celebrates the completion of the Ghost Town Trail's 32-mile loop, a project that took over three decades. The trail, built on donated railroad beds and cleaned-up coal waste piles, connects Ebensburg to Blacklick, offering scenic views and recreational opportunities. It's a testament to community perseverance, turning a legacy of industrial pollution into a path for health and connection.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.farmanddairy.com/news/ghost-town-trail-opens-up-recreation-along-coal-mining-communities/925085.html",
+      "source_name": "farmanddairy.com",
+      "published_ts": 1786661028000,
+      "image_url": "https://d27p2a3djqwgnt.cloudfront.net/wp-content/uploads/2026/08/cliff-next-to-ghost-town-sign-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "young_achievers": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\ude82\u26cf\ufe0f\ud83c\udf32\ud83c\udfde\ufe0f\ud83d\udc5f",
+      "headline_split": "Ghost Town Trail opens up recreation along ",
+      "fake_endings": [
+        "abandoned railway lines",
+        "forgotten mining towns"
+      ],
+      "fake_headline": "Volunteers Rebuild 100-Year-Old Bridge in Rural Vermont"
+    },
+    {
+      "id": "batch_20260820_084815__story_046",
+      "title": "How Mexican Fiesta Uplifts the Hispanic Community",
+      "summary": "Mexican Fiesta in Milwaukee is more than a cultural celebration\u2014it's a fundraiser that has raised over $2 million for Hispanic scholarships. The festival also supports local nonprofits and brings artisans from Mexico, uplifting the community in multiple ways.",
+      "extended_summary": "Mexican Fiesta, one of Milwaukee's longest-running ethnic festivals, is a sensory delight of music, dance, and food. But its core mission is to fund the Wisconsin Hispanic Scholarship Foundation, which has awarded over $2 million since 1987. Scholarship recipients volunteer at the festival, and local nonprofits run concessions to raise funds. The fest also flies in chefs and artisans from Mexico, supporting communities back home. It's a celebration that gives back in meaningful ways.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.milwaukeemag.com/here-is-how-mexican-fiesta-uplifts-the-hispanic-community/?utm_source=rss&utm_medium=rss&utm_campaign=here-is-how-mexican-fiesta-uplifts-the-hispanic-community",
+      "source_name": "milwaukeemag.com",
+      "published_ts": 1787084228000,
+      "image_url": "https://www.milwaukeemag.com/wp-content/uploads/2026/08/0826-414-PPT-MF-Gate-Volunteers_Yarek-Locia-1-e1787065933776.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf89\ud83c\udf2e\ud83d\udc83\ud83c\udffd\ud83c\uddf2\ud83c\uddfd\u2764\ufe0f",
+      "headline_split": "How Mexican Fiesta Uplifts the ",
+      "fake_endings": [
+        "Hispanic community",
+        "local economy"
+      ],
+      "fake_headline": "Mariachi Band Plays Free Concerts for Nursing Home Residents",
+      "city": "Milwaukee"
+    },
+    {
+      "id": "batch_20260820_084815__story_099",
+      "title": "MIT Students Can Now Borrow Works by Jennie C. Jones and Nayland Blake",
+      "summary": "MIT students can now borrow museum-quality art for free through the Student Lending Art Program. New works by Jennie C. Jones and Nayland Blake join over 700 pieces available for students to display in their dorms. It's art for everyone, no purchase required.",
+      "extended_summary": "For 49 years, MIT's Student Lending Art Program has let students borrow museum-quality contemporary art for their living spaces\u2014for free. This year, nine new acquisitions join the collection, including works by Jennie C. Jones and Nayland Blake. Students can view the entire collection at the List Center in September and apply through a lottery system. It's a unique program that brings art into everyday student life, proving that you don't need a gallery to appreciate great art\u2014just a dorm room wall.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://hyperallergic.com/mit-students-can-now-borrow-works-by-jennie-c-jones-and-nayland-blake/",
+      "source_name": "hyperallergic.com",
+      "published_ts": 1787171003000,
+      "image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/size/w1200/2026/08/2023_SLAP_Exhibition_Student_edit.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfa8\ud83d\udcda\ud83c\udf93\ud83d\uddbc\ufe0f",
+      "headline_split": "MIT Students Can Now Borrow Works by Jennie C. Jones and ",
+      "fake_endings": [
+        "other local artists",
+        "famous painters"
+      ],
+      "fake_headline": "Harvard Library Now Lends Out Pianos and Guitars to Students for Practice"
+    },
+    {
+      "id": "batch_20260820_084815__story_100",
+      "title": "Minnesota invests $41 million in teacher pipeline grants to bolster the state\u2019s number of teachers",
+      "summary": "Minnesota is investing $41 million in teacher pipeline grants to help more people become educators. The program has already supported over 2,800 people, many of them people of color, with an 88-93% completion rate. It's removing barriers and building a more diverse teaching force.",
+      "extended_summary": "Minnesota is tackling the teacher shortage head-on with $41 million in pipeline grants. The funding helps districts support aspiring teachers, removing barriers like cost and training. In the 2024-2025 school year, over 2,800 people benefited, most of them people of color. The program boasts an 88-93% completion rate, a significant return on investment. For educators like Dr. Talisha Jackson, a single mom who credits the grant with helping her succeed, it's life-changing. 'It's going to be a great year,' she says\u2014and for Minnesota's students, it will be too.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://kstp.com/kstp-news/top-news/minnesota-invests-41-million-in-teacher-pipeline-grants-to-bolster-the-states-number-of-teachers/",
+      "source_name": "kstp.com",
+      "published_ts": 1787200010000,
+      "image_url": "https://kstp.com/wp-content/uploads/2025/10/TEACHER-SALARIES_PKG_00.00.43.56.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 4,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83c\udf4e\ud83d\udcda\ud83d\udcb5\ud83c\udfeb",
+      "headline_split": "Minnesota invests $41 million in teacher pipeline grants to bolster the state\u2019s number of ",
+      "fake_endings": [
+        "qualified substitutes",
+        "new school buildings"
+      ],
+      "fake_headline": "Ohio Doubles Funding for Student Teacher Stipends to Address Shortage",
+      "city": "Douglas County"
+    },
+    {
+      "id": "batch_20260820_084815__story_101",
+      "title": "Murals a \u201cwow statement\u201d in downtown Great Falls, eighth anual festival underway",
+      "summary": "Great Falls is getting a colorful makeover as the eighth annual mural festival brings artists from around the world to paint over 65 murals downtown. The vibrant art is turning the town into a destination, with some people even moving there because it's become a 'funky art town.' It's proof that a little paint can transform a community.",
+      "extended_summary": "Downtown Great Falls is buzzing with color as the eighth annual Great Walls mural festival takes over the streets. Curated by internationally known muralist Cameron Moberg, the festival has grown from a small collaboration into a massive collection of over 65 murals painted by artists from across the globe. The murals aren't just pretty\u2014they're a 'wow statement' that's attracting new businesses, workers, and even residents to the area. Moberg says the art shows the town is active and fun, and it's becoming a recruiting tool for companies looking to draw talent. The festival also targets walls that are frequently tagged with graffiti, turning them into canvases that deter vandalism and beautify the community.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://theelectricgf.com/2026/08/19/murals-a-wow-statement-in-downtown-great-falls-eighth-anual-festival-underway/?utm_source=rss&utm_medium=rss&utm_campaign=murals-a-wow-statement-in-downtown-great-falls-eighth-anual-festival-underway",
+      "source_name": "theelectricgf.com",
+      "published_ts": 1787192579000,
+      "image_url": "https://i0.wp.com/theelectricgf.com/wp-content/uploads/2026/08/wp-17871745040057961145464657822609.jpg?fit=2000%2C1500&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udfa8\ud83c\udfd9\ufe0f\ud83c\udf89\ud83d\udd8c\ufe0f",
+      "headline_split": "Murals a \u201cwow statement\u201d in downtown Great Falls, eighth annual festival ",
+      "fake_endings": [
+        "draws record crowds downtown",
+        "paints the town red with joy"
+      ],
+      "fake_headline": "Local Bakery\u2019s \u2018World\u2019s Largest Pie\u2019 Feeds 5,000 at County Fair"
+    },
+    {
+      "id": "batch_20260820_084815__story_102",
+      "title": "National park signs on women and LGBTQ+ history are disappearing. Librarians are preserving the record",
+      "summary": "When national park signs about women and LGBTQ+ history started disappearing, librarians stepped up to preserve the record. They're archiving the removed materials so these important stories aren't lost. It's a quiet but powerful act of resistance to keep history alive for everyone.",
+      "extended_summary": "Jenny McBurney, a librarian specializing in government publications, was in Washington, D.C., when she learned that the Department of Interior had removed materials deemed 'disparaging' or 'unrelated to beauty' from national park sites. The removed signs included those highlighting women's and LGBTQ+ history. Rather than let these stories vanish, McBurney and other librarians are working to preserve the record, archiving the materials so they remain accessible to the public. Their efforts ensure that the full, diverse history of America's parks isn't erased, even as official narratives shift. It's a reminder that librarians are often the unsung guardians of knowledge and history.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://19thnews.org/2026/08/national-park-signs-women-lgbtq-history/",
+      "source_name": "19thnews.org",
+      "published_ts": 1786674386000,
+      "image_url": "https://picsum.photos/seed/pre_0351/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "impact_innovation": 4,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83c\udfdb\ufe0f\ud83d\udcda\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83d\udc69\u200d\ud83d\udcbc",
+      "headline_split": "National park signs on women and LGBTQ+ history are disappearing. Librarians are ",
+      "fake_endings": [
+        "fighting to save them all",
+        "creating digital backups now"
+      ],
+      "fake_headline": "Teen Volunteers Rebuild 200-Year-Old Covered Bridge in Just 3 Weeks"
+    },
+    {
+      "id": "batch_20260820_084815__story_103",
+      "title": "Silent film festival will showcase Maine films unseen for over 100 years",
+      "summary": "Maine's silent film history is being brought back to life at a festival showcasing movies unseen for over a century. Restorer Ed Lorusso found these forgotten films in archives, some even decomposing, and digitized them. Now audiences can glimpse what Maine looked like in the early 1900s\u2014a true blast from the past.",
+      "extended_summary": "Before Hollywood dominated the film industry, Maine was a silent movie hotspot, with its forests, lakes, and coastline serving as the perfect backdrop. Local film expert Ed Lorusso has spent years hunting down these forgotten films in archives, some of which were beginning to decompose. He's digitized six of the 25 films made by Edgar Jones Productions in the early 1920s, and three will be screened at the 4th annual 'Up in Maine' festival. The theme, 'Saved from Oblivion,' captures the mission perfectly\u2014these films are windows into a bygone era, showing scenes of Maine over a century ago. It's a rare chance to see history come alive on the big screen.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.pressherald.com/2026/08/19/silent-film-festival-will-showcase-maine-films-unseen-for-over-100-years/",
+      "source_name": "pressherald.com",
+      "published_ts": 1787166000000,
+      "image_url": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/08/Three-Girl-e1787068416203.jpg?w=780",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83c\udf9e\ufe0f\ud83d\udcfd\ufe0f\ud83c\udfde\ufe0f\ud83d\udc7b",
+      "headline_split": "Silent film festival will showcase Maine films unseen for over 100 ",
+      "fake_endings": [
+        "years of local history",
+        "years in a dusty vault"
+      ],
+      "fake_headline": "Retired Teacher Discovers Lost Beethoven Manuscript in Attic, Donates to Museum",
+      "city": "New Portland"
+    },
+    {
+      "id": "batch_20260820_084815__story_082",
+      "title": "The IP Moat: How Sahara Lotti Built and Defended Lashify",
+      "summary": "Sahara Lotti turned a personal beauty problem into Lashify, a $8 million business in its first year. She built a patent fortress with over 700 global patents and won a landmark $30.5 million legal victory against copycats. Her story shows how protecting your ideas can build generational wealth.",
+      "extended_summary": "Sahara Lotti started Lashify with $300 and a frustration: no at-home lash extensions existed. She invented the category, grew it to $8 million in year one, and then defended it fiercely. With 700+ patents and a $30.5 million court win against overseas manufacturers, Lotti turned intellectual property into a moat. Her journey is a masterclass in building and protecting a brand in a copycat industry.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.adweek.com/brand-marketing/the-ip-moat-how-sahara-lotti-built-and-defended-lashify/",
+      "source_name": "adweek.com",
+      "published_ts": 1787070000000,
+      "image_url": "https://static-www.adweek.com/wp-content/uploads/2025/10/adspeak-article-image-1.webp?w=600&h=315&crop=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "impact_innovation": 4,
+        "young_achievers": 3
+      },
+      "emoji_clue": "\ud83d\udee1\ufe0f\ud83d\udcbc\ud83c\udff0\ud83d\udd12\ud83d\udcb0",
+      "headline_split": "The IP Moat: How Sahara Lotti Built and Defended ",
+      "fake_endings": [
+        "Her Own Island Nation",
+        "A Secret Underground Bunker"
+      ],
+      "fake_headline": "Teen Inventor's Solar-Powered Backpack Wins National Science Fair"
+    },
+    {
+      "id": "batch_20260820_084815__story_104",
+      "title": "The Next \u201cLittle Free Libraries\u201d Are Mini-Blockbusters . . . for DVDs",
+      "summary": "Remember Blockbuster? Well, it's making a comeback in the form of 'Free Blockbusters'\u2014little free libraries for DVDs, VHS, and Blu-rays. Started by a former Blockbuster employee, these nostalgic boxes are popping up across the U.S., and you can even start your own. It's a fun, retro way to share physical media.",
+      "extended_summary": "The little free library trend is getting a nostalgic twist with 'Free Blockbusters'\u2014miniature blue-and-yellow boxes that look just like the iconic video rental stores. The first one was created by a former Blockbuster employee and VHS collector in California, who painted an old newspaper dispenser to look like the store. Now, dozens of these free media-sharing spots have popped up across the country, and there's even a website where you can get a pre-painted dispenser for $420 or make your own with stencils. The website keeps a map of all the locations, and Blockbuster LLC apparently doesn't mind the homage. It's a fun, community-driven way to keep physical media alive and share movies with neighbors.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://www.1063thegroove.com/nick/the-next-little-free-libraries-are-mini-blockbusters-for-dvds/",
+      "source_name": "1063thegroove.com",
+      "published_ts": 1787140994000,
+      "image_url": "https://www.1063thegroove.com/wp-content/uploads/2026/08/Little-Library.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 5,
+      "read_time_min": 1,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 3,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udcc0\ud83c\udfe0\ud83d\udcda\ud83c\udfac",
+      "headline_split": "The Next \u201cLittle Free Libraries\u201d Are Mini-Blockbusters . . . for ",
+      "fake_endings": [
+        "DVDs in every town",
+        "movies on your street"
+      ],
+      "fake_headline": "City\u2019s First \u2018Seed Library\u2019 Lets Residents Borrow Rare Heirloom Tomatoes",
+      "city": "Pima County"
+    },
+    {
+      "id": "batch_20260820_084815__story_105",
+      "title": "Two Hours of Sleep Restored in Alzheimer\u2019s Brains in Research Breakthrough",
+      "summary": "In a groundbreaking study, researchers at the University of Kentucky discovered that microglia\u2014the brain's immune cells\u2014are the main culprits behind sleep loss in Alzheimer's. By temporarily removing these cells in animal models, they restored over two hours of sleep per day. This 'paradigm shifting' finding opens a new target for treating the disease.",
+      "extended_summary": "Imagine a small fire in your kitchen, but before you can put it out, the sprinklers turn on and soak your entire house. That's what happens in Alzheimer's brains, according to researchers at the University of Kentucky. Amyloid plaques are the fire, and microglia\u2014the brain's immune cells\u2014are the sprinklers, causing widespread damage. The team, led by Shannon L. Macauley, Ph.D., discovered that these microglia are the primary drivers of sleep loss in Alzheimer's. By using a drug to temporarily remove these cells in animal models, they successfully restored over two hours of sleep per day. This finding, published in the journal Alzheimer's & Dementia, is described as 'paradigm shifting' and offers a new target for treating the disease. It's a hopeful step forward in understanding and potentially alleviating one of the most challenging symptoms of Alzheimer's.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.goodnewsnetwork.org/two-hours-of-sleep-restored-in-alzheimers-brains-in-research-breakthrough/",
+      "source_name": "goodnewsnetwork.org",
+      "published_ts": 1786906857000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Senior-sleeping-old-aging-eye-mask-sick-in-bed-by-A-C-For-Unsplash-pZVOgkmBM0Y.jpeg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 5,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 2,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83e\udde0\ud83d\udca4\u23f0\u2728",
+      "headline_split": "Two Hours of Sleep Restored in Alzheimer\u2019s Brains in Research ",
+      "fake_endings": [
+        "breakthrough for patients",
+        "miracle that gives hope"
+      ],
+      "fake_headline": "Scientists Teach Parrots to Video-Call Each Other, Curing Loneliness"
+    },
+    {
+      "id": "batch_20260820_084815__story_106",
+      "title": "What makes a park organic?",
+      "summary": "Durango, Colorado, is proving that parks can be beautiful without synthetic chemicals. Through its Organically Managed Lands Program, the city uses organic fertilizers and biological weed control to keep green spaces healthy. It's a growing movement, with other Colorado towns following suit to create safer, more sustainable parks.",
+      "extended_summary": "At first glance, Fanto Park in Durango looks like any other city park\u2014green grass, mowed lawns, and shady trees. But a small sign reveals a big difference: it's organically managed. Since 2012, Durango has been transitioning parks to organic practices, using natural fertilizers and biological methods to control weeds instead of synthetic herbicides. The program started with nine parks and now maintains eight, with crews hand-cutting weeds like thistle and relying on insects and fungi to suppress unwanted plants. Durango isn't alone\u2014Boulder has maintained over 60 parks without synthetic pesticides, and Longmont, Golden, and Lakewood are experimenting with similar practices. It's a growing movement that shows you don't need chemicals to keep public spaces vibrant and healthy.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.rmpbs.org/blogs/science-environment/organic-parks-durango",
+      "source_name": "rmpbs.org",
+      "published_ts": 1786899600000,
+      "image_url": "https://cdn.builder.io/api/v1/image/assets%2Fcc0dc7f878294229b6e5d2dece1e16de%2Ff8ad9a1bb590442c875f9f12b585e97d",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4,
+        "limelight": 4
+      },
+      "emoji_clue": "\ud83c\udf33\ud83c\udf43\ud83c\udfde\ufe0f\u2753",
+      "headline_split": "What makes a park ",
+      "fake_endings": [
+        "truly green and clean",
+        "a natural wonderland"
+      ],
+      "fake_headline": "Community Garden Grows 1,000 Pounds of Free Produce for Food Bank",
+      "city": "Arapahoe County"
+    },
+    {
+      "id": "batch_20260820_084815__story_107",
+      "title": "\u2018Street medicine\u2019 has arrived in Springfield",
+      "summary": "A four-woman street medicine team in Springfield is bringing healthcare directly to the homeless. By meeting people where they are and building trust, they're not just treating medical issues\u2014they're helping people get housed for the first time. It's a patient-driven approach that's changing lives.",
+      "extended_summary": "For many homeless individuals, seeing a doctor is a rare or even impossible occurrence. But SIU Medicine's new street medicine team in Springfield is changing that. Led by Dr. Kami Harless, the four-woman team hits the streets to meet homeless individuals where they are, offering medical care and building trusting relationships. The approach is patient-driven, with priorities set by the patients themselves, allowing for deeper conversations about substance use, mental health, and chronic diseases. The team's efforts are already paying off\u2014one person who had been on the streets for a long time is about to be housed for the first time ever. 'It was the relationships,' said nurse LaDorise Ramsey. 'They're proud to come tell us, I've got my key.' It's a powerful reminder that healthcare is about more than just medicine\u2014it's about human connection.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://capitolcitynow.com/news/248842-street-medicine-has-arrived-in-springfield/",
+      "source_name": "wtax.com",
+      "published_ts": 1786996745000,
+      "image_url": "https://capitolcitynow.com/wp-content/blogs.dir/284/files/2026/08/8-11-26-street-medicine-dd.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 2,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\ude91\ud83c\udfd9\ufe0f\ud83d\udc89\u2764\ufe0f",
+      "headline_split": "\u2018Street medicine\u2019 has arrived in Springfield, bringing ",
+      "fake_endings": [
+        "care to the homeless",
+        "doctors to the streets"
+      ],
+      "fake_headline": "Mobile Vet Clinic Offers Free Checkups for Pets of the Unhoused",
+      "city": "Sangamon County"
+    },
+    {
+      "id": "batch_20260820_084815__story_052",
+      "title": "A Data Center Threatened a 17-Year-Old's Hometown, So She Turned to TikTok",
+      "summary": "17-year-old Sadie Esperanza Cisneros went viral on TikTok for protesting a massive data center in her hometown. Her passionate speech at a city council meeting is rallying her community to protect their health and environment.",
+      "extended_summary": "Sadie Esperanza Cisneros, a 17-year-old lash-tech entrepreneur, turned her TikTok into a platform for activism when a 76-acre data center threatened her Pittsburg, California hometown. Her viral videos show her delivering a powerful speech at a city council meeting, questioning the water and power usage that could harm her community. She's inspiring others to think critically and unite for their future.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.teenvogue.com/story/a-data-center-threatened-a-17-year-olds-hometown-so-she-turned-to-tiktok",
+      "source_name": "teenvogue.com",
+      "published_ts": 1787101726000,
+      "image_url": "https://assets.teenvogue.com/photos/6a84a37e2819acee33f96e0d/16:9/w_1280,c_limit/SadieDataCenter_HEADER.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 5,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83c\udfed\ud83d\udcf1\ud83c\udfa4\ud83c\udfd8\ufe0f\ud83d\udcbb",
+      "headline_split": "A Data Center Threatened a 17-Year-Old's Hometown, So She Turned to ",
+      "fake_endings": [
+        "her local newspaper",
+        "a town hall meeting"
+      ],
+      "fake_headline": "High School Student's Science Fair Project Wins $50K Grant to Clean Local River"
+    },
+    {
+      "id": "batch_20260820_084815__story_108",
+      "title": "A boring tile wants to fix the worst problem of ultra-fast mmWave 5G connections for you",
+      "summary": "Researchers at UC San Diego have come up with a surprisingly simple fix for 5G's millimeter-wave signal problems: cheap reflective tiles that bounce signals around obstacles. No batteries, no electronics\u2014just 3D-printed tiles that redirect signals where they need to go. It could make ultra-fast 5G much more reliable indoors.",
+      "extended_summary": "Millimeter-wave 5G promises blazing-fast speeds, but it has a major weakness: signals struggle to get around walls, furniture, and even people. Researchers at UC San Diego have developed a surprisingly low-tech solution\u2014passive metasurfaces, essentially 3D-printed reflective tiles that redirect mmWave signals. These tiles don't need batteries, power supplies, or control electronics; they simply bounce signals to where they're needed. This could eliminate the need for expensive additional access points or powered relays, making ultra-fast 5G more practical for indoor use. It's a clever, cost-effective approach that might just solve one of 5G's biggest headaches.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.digitaltrends.com/cool-tech/uc-san-diego-5g-mmwave-reflective-tiles/",
+      "source_name": "digitaltrends.com",
+      "published_ts": 1787186597000,
+      "image_url": "https://www.digitaltrends.com/tachyon/2026/08/Wuqiong-Zhao-UC-San-Diego-PhD-student-and-study-co-author-holds-a-reflective-tile.jpg?resize=1200%2C630",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udcf6\ud83d\udd27\ud83c\udfe0\u2728",
+      "headline_split": "A boring tile wants to fix the worst problem of ultra-fast mmWave 5G connections for ",
+      "fake_endings": [
+        "everyone in your home",
+        "people in big cities"
+      ],
+      "fake_headline": "Teen Invents Solar-Powered Backpack That Charges Phone While Walking"
+    },
+    {
+      "id": "batch_20260820_084815__story_008",
+      "title": "A celebration of abundance",
+      "summary": "The Evanston Friends (Quakers) hosted an 'Abundance Fair' where community members brought items they didn't need and took home things they could use\u2014no money involved. It's a celebration of sharing, simplicity, and reducing consumption. A simple idea with a powerful message.",
+      "extended_summary": "In Evanston, the Quaker community organized an 'Abundance Fair' with a simple premise: bring what you don't need, take what you will use. Despite rain moving the event indoors, a few dozen people participated, exchanging items like toys, puzzles, and games. Organizer Julia Pantoga said the idea came from discussions about consumption and the desire to celebrate abundance rather than excess. The fair aligns with Quaker principles of stewardship and simplicity, offering a practical way to declutter and share. It's a model that could easily be replicated, proving that community and generosity can thrive without commerce.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://evanstonroundtable.com/2026/08/19/a-celebration-of-abundance/",
+      "source_name": "evanstonroundtable.com",
+      "published_ts": 1787181438000,
+      "image_url": "https://evanstonroundtable.com/wp-content/uploads/2026/08/DSC5983-1-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf3e\ud83c\udf4e\ud83e\udd55\ud83c\udf81\ud83d\ude4c",
+      "headline_split": "A celebration of ",
+      "fake_endings": [
+        "community",
+        "harvest"
+      ],
+      "fake_headline": "Town Throws Surprise Party for 100-Year-Old Mail Carrier Who Never Missed a Day",
+      "city": "Evanston"
+    },
+    {
+      "id": "batch_20260820_084815__story_109",
+      "title": "A new plan to preserve Georgia\u2019s marshes: Give them space to migrate",
+      "summary": "Georgia's marshes are disappearing due to rising tides, but a new plan offers hope: give them space to migrate. Instead of building walls, communities are using 'living shorelines' that mimic nature to combat erosion. It's a forward-thinking approach to preserving these vital ecosystems.",
+      "extended_summary": "In coastal Liberty County, Georgia, a creekside park is losing ground to high tide, with erosion eating away six to eight feet of land. But local leaders are trying a new approach: instead of building hard walls, they're creating 'living shorelines' that mimic natural marshland. These living shorelines use plants and natural materials to stabilize the soil and absorb wave energy, giving the marsh room to migrate inland as sea levels rise. The project is a response to past failed attempts that relied on concrete and other hard structures. By working with nature rather than against it, the hope is to preserve Georgia's marshes for future generations. It's a smart, sustainable solution to a problem that's only going to get more pressing.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://thecurrentga.org/2026/08/18/a-new-plan-to-preserve-georgias-marshes-give-them-space-to-migrate/",
+      "source_name": "thecurrentga.org",
+      "published_ts": 1787095965000,
+      "image_url": "https://thecurrentga.org/wp-content/uploads/2026/08/BRWK_AWhitfield_0010-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 2,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf3e\ud83c\udfde\ufe0f\ud83e\udd86\ud83c\udf0a",
+      "headline_split": "A new plan to preserve Georgia\u2019s marshes: Give them space to ",
+      "fake_endings": [
+        "grow and thrive again",
+        "move with the tides"
+      ],
+      "fake_headline": "Volunteers Plant 10,000 Oysters to Clean Up Local Waterways"
+    },
+    {
+      "id": "batch_20260820_084815__story_013",
+      "title": "After a 10-year hiatus, a Philly microgranting project comes back to the table for community fundraising",
+      "summary": "Philly Stake, a community microgranting project, is back after a 10-year hiatus. Attendees enjoy a meal, listen to pitches for creative community projects, and vote on which ones get funded. It's like 'Shark Tank' for altruistic Philadelphians, raising small amounts to seed big ideas.",
+      "extended_summary": "After a decade away, Philly Stake is returning to Bartram's Garden, bringing its unique blend of dining and democracy back to Philadelphia. At this ticketed luncheon, attendees hear pitches for creative community projects and vote on which ones receive the proceeds\u2014think 'Shark Tank' for altruists. Co-founder Theresa Rose expects to raise about $1,700, which will go to three winning projects. It's a small-scale approach to supporting the city's creative community, proving that even modest funds can make a big difference.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://whyy.org/articles/philly-stake-microgrants-community-fundraising/",
+      "source_name": "whyy.org",
+      "published_ts": 1787192298000,
+      "image_url": "https://whyy.org/wp-content/uploads/2026/08/Theresa-X-RAIR_-Billy-resized.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 5,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf7d\ufe0f\ud83d\udcb0\ud83c\udfd8\ufe0f\ud83e\udd1d",
+      "headline_split": "After a 10-year hiatus, a Philly microgranting project comes back to the table for ",
+      "fake_endings": [
+        "a city-wide cleanup",
+        "a new youth program"
+      ],
+      "fake_headline": "Retired Teacher's 'Book Bike' Brings Free Library to 15 Parks, Inspires Kids to Read",
+      "city": "New Castle County"
+    },
+    {
+      "id": "batch_20260820_084815__story_110",
+      "title": "At the No Mercy film series, you\u2019ve got 60 seconds to win the audience\u2019s heart",
+      "summary": "Tired of traditional film festivals? The No Mercy series in Long Beach lets the audience decide in 60 seconds if a film is worth watching. If they shout 'no mercy,' it's cut off. It's a democratic, fast-paced way to discover new talent and give filmmakers instant feedback.",
+      "extended_summary": "At DiPiazza's restaurant in Long Beach, the audience is the judge, and they're not shy about it. The No Mercy film series gives filmmakers 60 seconds to win over the crowd\u2014if they fail, the film is cut off with a chorus of 'no mercy!' shouts. Organizer Kyle Waters Geller started the series as a reaction to the traditional festival circuit, which he found exclusive and impersonal. Here, films are judged by the people, not a select few curators. The format is raw, immediate, and democratic, giving artists a chance to see how their work lands with a live audience. It's a refreshing take on film showcasing that puts the power back in the hands of the viewers.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://lbpost.com/eat-see-do-2/see/no-mercy-film-series-long-beach-60-seconds-short-movies",
+      "source_name": "lbpost.com",
+      "published_ts": 1787105766000,
+      "image_url": "https://img.lbpost.com/wp-content/uploads/sites/3/2026/08/15195409/15aug26-movie-63-459895-brnauzod-202031-RQNxJk0O.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 2,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfac\u23f1\ufe0f\u2764\ufe0f\ud83c\udfa5",
+      "headline_split": "At the No Mercy film series, you\u2019ve got 60 seconds to win the audience\u2019s ",
+      "fake_endings": [
+        "heart with your story",
+        "vote for the best film"
+      ],
+      "fake_headline": "Local Filmmaker\u2019s 5-Minute Short Wins International Award, Inspires Youth",
+      "city": "Long Beach"
+    },
+    {
+      "id": "batch_20260820_084815__story_019",
+      "title": "Billings Food Truck Battle Returns With 40+ Trucks, Live Music and More",
+      "summary": "The 8th annual Food Truck Battle on the Yellowstone returns with over 40 food trucks, live music, and a Kid's Zone. This family-friendly fundraiser has raised over $300,000 for Montana nonprofits supporting veterans since 2018, combining great food with a great cause.",
+      "extended_summary": "Get ready for a foodie showdown with a purpose: the 8th annual Food Truck Battle on the Yellowstone is back, featuring over 40 food and beverage trucks, live music, and a Kid's Zone. Hosted by the Breakfast Exchange Club of Billings, the event donates 10% of gross food truck sales, plus gate and beer sales, to Montana nonprofits supporting veterans. Since 2018, it's raised more than $300,000 for local charities. This year, admission is a suggested $5 donation, with veterans and kids under 12 free. It's a day of delicious eats and community support, proving that good food can do a lot of good.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://billingsmix.com/ixp/109/p/food-truck-battle-billings-2/",
+      "source_name": "billingsmix.com",
+      "published_ts": 1787186880000,
+      "image_url": "https://townsquare.media/site/109/files/2026/08/attachment-8-18.jpg?w=1200&q=75&format=natural",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\ude9a\ud83c\udf2e\ud83c\udfb6\ud83c\udf89",
+      "headline_split": "Billings Food Truck Battle Returns With 40+ Trucks, Live Music and ",
+      "fake_endings": [
+        "a charity auction",
+        "a kids' zone"
+      ],
+      "fake_headline": "Small Town's 'Soup Swap' Feeds 300 Neighbors, Becomes Annual Tradition"
+    },
+    {
+      "id": "batch_20260820_084815__story_111",
+      "title": "Boston Chefs Open Restaurants in Suburbs to Cut Costs, Find Stable Workers",
+      "summary": "Boston chefs are moving to the suburbs, finding lower rents and a stable workforce. This shift is transforming the suburban dining scene, proving that quality food can thrive outside the city.",
+      "extended_summary": "Chefs like Tony Susi and Erin Miller are bucking the trend by opening restaurants in Boston's suburbs, where lower rents and a reliable labor pool make it easier to sustain their craft. Despite initial doubts, suburban diners have embraced city-caliber fare, as Ian Calhoun discovered with his Concord restaurant. This movement is reshaping the culinary landscape, bringing gourmet experiences to communities that once had to travel for them.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://wror.com/2026/08/17/boston-chefs-open-restaurants-in-suburbs-to-cut-costs-find-stable-workers/",
+      "source_name": "wror.com",
+      "published_ts": 1786983720000,
+      "image_url": "https://wror.com/uploads/2026/08/GettyImages-1173998970.jpeg?auto=webp&width=2000&height=1333",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "limelight": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf5d\ud83c\udfd9\ufe0f\ud83d\ude9a\ud83c\udfd8\ufe0f\ud83d\udcbc",
+      "headline_split": "Boston Chefs Open Restaurants in Suburbs to Cut Costs, Find ",
+      "fake_endings": [
+        "a New Culinary Frontier",
+        "the Secret to Perfect Pasta"
+      ],
+      "fake_headline": "Detroit Teachers Turn Abandoned Lot Into Community Garden Feeding 500 Families Weekly",
+      "city": "Suffolk County"
+    },
+    {
+      "id": "batch_20260820_084815__story_034",
+      "title": "Detroit Nonprofit Uses Golf To Break Barriers, Foster Community and Mental Health",
+      "summary": "Golfing Around Detroit is a new nonprofit using golf to boost mental health and break down barriers. Co-founder Alan Jones started it after being left out of a work event because he didn't know how to play. Now, the group is growing fast, offering clinics for men, women, and families to learn the game together.",
+      "extended_summary": "Alan Jones knows what it feels like to be on the outside looking in. After being shut out of a work event because he'd never swung a club, he decided to change the game. He teamed up with Ashton Cade to launch Golfing Around Detroit, a nonprofit that uses golf to improve mental health and foster community. What started as a small group chat has exploded from five to 35 members in just a month. Now, the organization offers clinics for men, women, and families, giving people the chance to learn a sport that has often felt exclusive. Jones's mission is simple: 'We don't lose. We find a way.'",
+      "category": "Sports",
+      "categories": [
+        "Sports",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://detroitpraisenetwork.com/2026/08/18/detroit-nonprofit-uses-golf-to-break-barriers-foster-community-and-mental-health/",
+      "source_name": "praise1027detroit.com",
+      "published_ts": 1787103594000,
+      "image_url": "https://detroitpraisenetwork.com/uploads/2026/08/GettyImages-943587044.jpg?auto=webp&width=2000&height=1333",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 2,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "young_achievers",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 4,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\u26f3\ud83e\udde0\ud83e\udd1d\ud83c\udfd9\ufe0f\u2764\ufe0f",
+      "headline_split": "Detroit Nonprofit Uses Golf To Break Barriers, Foster Community and",
+      "fake_endings": [
+        "Build Lasting Friendships",
+        "Teach Kids Life Skills"
+      ],
+      "fake_headline": "Chicago Charity Uses Chess to Unite Seniors and Students in Weekly Matches",
+      "city": "Wayne County"
+    },
+    {
+      "id": "batch_20260820_084815__story_044",
+      "title": "Going With the Flow",
+      "summary": "Friends of Deckers Creek has transformed a polluted creek, once a dumping ground, into a thriving habitat where trout now swim. Through decades of cleanup and restoration, the organization has treated acid mine drainage and restored streambanks, bringing life back to the water.",
+      "extended_summary": "Thirty years ago, Deckers Creek was so polluted that only hardy carp could survive, and volunteers hauled out tractor tires and appliances. Today, thanks to Friends of Deckers Creek, the creek is clean enough for trout, which are stocked annually. The organization has treated all major sources of acid mine drainage and recently completed a streambank restoration project. It's a remarkable environmental turnaround, showing what dedicated community action can achieve.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://morgantownmag.com/going-with-the-flow/?utm_source=rss&utm_medium=rss&utm_campaign=going-with-the-flow",
+      "source_name": "morgantownmag.com",
+      "published_ts": 1787180607000,
+      "image_url": "https://morgantownmag.com/wp-content/uploads/9-11-2006-045-1-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 5,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udf0a\ud83c\udfc4\u2642\ufe0f\ud83e\uddd8\u200d\u2640\ufe0f\ud83c\udf05",
+      "headline_split": "Going With the ",
+      "fake_endings": [
+        "tide of change",
+        "flow of life"
+      ],
+      "fake_headline": "Surfer Dude Turns Plastic Waste Into Art to Clean Up Beaches"
+    },
+    {
+      "id": "batch_20260820_084815__story_112",
+      "title": "How many bears are there in CT? Here\u2019s what it takes to find out.",
+      "summary": "Researchers are using DNA from hair samples to count Connecticut's black bear population for the first time in over a decade. This innovative method could reveal surprising numbers and help manage the species.",
+      "extended_summary": "In a twist on traditional wildlife surveys, scientists are collecting bear hair from barbed wire traps across western Connecticut to identify individual bears by their DNA. This forensic approach, led by Mississippi State University, will provide the first scientific estimate of the state's bear population in over a decade. The data will help wildlife officials understand bear distribution and behavior, potentially leading to better conservation strategies.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://ctmirror.org/2026/08/13/ct-black-bears-survey/",
+      "source_name": "ctmirror.org",
+      "published_ts": 1786629600000,
+      "image_url": "https://ctmirror.org/wp-content/uploads/2026/08/BEAR-CENSUS-0804-JL-018.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 3,
+      "read_time_min": 12,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83d\udc3b\ud83d\udd0d\ud83d\uddfa\ufe0f\ud83d\udd22\u2753",
+      "headline_split": "How many bears are there in CT? Here\u2019s what it takes to ",
+      "fake_endings": [
+        "count them all",
+        "find out for sure"
+      ],
+      "fake_headline": "Vermont Beekeepers Use Drones to Plant Wildflowers, Boosting Bee Population by 40%"
+    },
+    {
+      "id": "batch_20260820_084815__story_113",
+      "title": "Inside Safe is a success",
+      "summary": "Mayor Karen Bass's Inside Safe program has brought over 40 unhoused individuals into stable housing and cleared nearly 32 tons of debris from LA streets. This initiative continues to make a tangible difference in the city.",
+      "extended_summary": "In two recent operations, the Inside Safe team moved more than 40 unhoused Angelenos into safe housing, while removing nearly 32 tons of debris from encampments in the San Fernando Valley and Wilmington. This marks the 137th and 138th operations since the program's launch, bringing the total to over 6,000 people housed citywide. Mayor Bass emphasizes the importance of sustained outreach and safe housing in addressing homelessness, a strategy that is proving effective.",
+      "category": "Rescue",
+      "categories": [
+        "Rescue",
+        "Transformation"
+      ],
+      "tones": [],
+      "source_url": "https://www.ourweekly.com/2026/08/18/inside-safe-in-a-success/",
+      "source_name": "ourweekly.com",
+      "published_ts": 1787114993000,
+      "image_url": "https://i0.wp.com/www.ourweekly.com/wp-content/uploads/2025/10/karen-bass.jpg?fit=900%2C900&ssl=1",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "limelight": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83c\udfe0\ud83d\udee1\ufe0f\u2705\ud83c\udf1f",
+      "headline_split": "Inside Safe is a ",
+      "fake_endings": [
+        "new housing program",
+        "community initiative"
+      ],
+      "fake_headline": "Ohio Town Turns Old Mall Into Indoor Skate Park, Youth Crime Drops 60%",
+      "city": "Los Angeles"
+    },
+    {
+      "id": "batch_20260820_084815__story_114",
+      "title": "Jackson State University Breaks New Ground For HBCUs In The World Of Research",
+      "summary": "Jackson State University is pioneering research with tiny sensors on oyster shells to monitor environmental changes, aiming for top-tier research status. This work could protect a $100 million industry and boost the HBCU's national standing.",
+      "extended_summary": "At Jackson State University, Professor Kamal Ali and his students are attaching tiny sensors to oyster shells to track how these animals respond to environmental shifts. This project is part of a broader effort to elevate the HBCU to the highest tier of research institutions, which would bring more funding and recognition. The research is vital for the Mississippi Gulf Coast, where oysters are a key indicator of ecosystem health and a once-thriving industry. This innovative work is just one of 400 research projects at the university, showcasing its growing impact.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://1053rnb.com/6266904/jackson-state-university-research/",
+      "source_name": "oldschool1053.com",
+      "published_ts": 1787179564000,
+      "image_url": "https://newsone.com/wp-content/uploads/sites/22/2026/08/1787160863063.jpg?quality=80&strip=all&w=1024&crop=0,0,100,706px",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "ai_entrepreneurship": 1,
+        "impact_innovation": 3,
+        "limelight": 2
+      },
+      "emoji_clue": "\ud83c\udfeb\ud83d\udd2c\ud83d\udcda\ud83d\ude80\ud83c\udf0d",
+      "headline_split": "Jackson State University Breaks New Ground For HBCUs In The World Of ",
+      "fake_endings": [
+        "academic excellence",
+        "scientific discovery"
+      ],
+      "fake_headline": "Historically Black College in Alabama Launches First Satellite Built Entirely by Students",
+      "city": "Mecklenburg County"
+    },
+    {
+      "id": "batch_20260820_084815__story_115",
+      "title": "Las Vegas Elementary School Operates Only Zoo in Clark County School District",
+      "summary": "An elementary school in Las Vegas runs the only zoo in the Clark County School District, giving students hands-on animal care experience. This unique program is preparing kids for careers they never imagined.",
+      "extended_summary": "Mabel Hoggard Math & Science Magnet Elementary School is home to the district's only on-site zoo, where students feed, care for, and observe animals as part of the A Squared program. This hands-on approach blends animal and agriculture education with standard curriculum, offering students exposure to career paths rarely seen in elementary school. As exotic animal attractions dwindle in Las Vegas, the school's zoo has become even more valuable, providing kids with opportunities to connect with wildlife and learn responsibility.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery",
+        "Transformation"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://963kklz.com/2026/08/18/las-vegas-elementary-school-operates-only-zoo-in-clark-county-school-district/",
+      "source_name": "963kklz.com",
+      "published_ts": 1787078462000,
+      "image_url": "https://963kklz.com/uploads/2026/08/GettyImages-1036529146.jpg?auto=webp&width=2000&height=1333",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 3,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 1,
+        "young_achievers": 1,
+        "impact_innovation": 3,
+        "limelight": 5
+      },
+      "emoji_clue": "\ud83c\udfeb\ud83e\udd81\ud83d\udc12\ud83d\udc0d\ud83c\udf9f\ufe0f",
+      "headline_split": "Las Vegas Elementary School Operates Only Zoo in Clark County School ",
+      "fake_endings": [
+        "District's history",
+        "System's boundaries"
+      ],
+      "fake_headline": "Rural Montana School Turns Old Bus Into Mobile Library, Reaches 200 Isolated Kids",
+      "city": "Clark County"
+    }
+  ]
+}

@@ -1,135 +1,92 @@
 {
-  "batch_id": "batch_20260820_045041",
-  "created_at": "2026-08-20T04:50:41.875870",
-  "story_count": 3,
+  "batch_id": "batch_20260829_063021",
+  "created_at": "2026-08-29T06:30:21.769590",
+  "story_count": 2,
   "stories": [
     {
-      "id": "batch_20260820_084815__story_057",
-      "title": "My Dad Is in Prison. Here\u2019s Why I Built an AI Chatbot for His Electronic Tablet.",
-      "summary": "CJ Jones built an AI chatbot for his incarcerated father, turning a personal need into a company called Beyond Bars AI. It's helping families stay connected and informed.",
-      "extended_summary": "CJ Jones, a technology analyst, created an AI chatbot named Nova for his father who is in prison. What started as a way to help his dad get answers has grown into Beyond Bars AI, a for-profit company. While the tool has limitations, it's a creative solution to the challenges of incarceration, offering support and information to families navigating the criminal-legal system.",
+      "id": "batch_20260829_071204__story_048",
+      "title": "Free Money Meister Uses AI to Help Students Graduate with Less Debt",
+      "summary": "Free Money Meister uses AI to help students find scholarships and graduate with less debt. Founder Kiara Scott, who funded five years of education and graduated debt-free, created the platform to make her repeatable system accessible to all.",
+      "extended_summary": "Kiara Scott turned her personal success into a tool for others. After funding five years of higher education and graduating with $0 in student loan debt, she realized her method was a repeatable system, not luck. That's why she created Free Money Meister, an AI-powered platform that helps students find, prioritize, and apply for scholarships with less confusion. The platform replaces outdated databases with a personalized approach, guiding students toward funding options that fit their profiles. As a Black woman entrepreneur, Scott is also addressing financial and educational inequities, making the path to debt-free education clearer for everyone.",
       "category": "Discovery",
       "categories": [
         "Discovery",
         "Transformation"
       ],
       "tones": [],
-      "source_url": "https://www.themarshallproject.org/2026/08/14/prison-ai-chatbot-nova-cj-jones",
-      "source_name": "themarshallproject.org",
-      "published_ts": 1786719631000,
-      "image_url": "https://mirrorball.themarshallproject.org/4HH0Tz5Wg8ZussNyUM10l-9QOcSZrJcwfppnDe5JAYs/w:1200/aHR0cHM6Ly9kMm0x/OXBtdnRzNWJvYi5j/bG91ZGZyb250Lm5l/dC9vdG1vZjV2bTIx/MzJzaDM5dHBxczZh/bzQ0a212L0FTUkFU/X0xJLVBSSVNPTi1B/SV9pbGx1c3RyYXRp/b25fc29jaWFsXzI2/MDgxMy5wbmc.webp",
+      "source_url": "https://baltimoretimes-online.com/detail/free-money-meister-uses-ai-to-help-students-graduate-with-less-debt",
+      "source_name": "baltimoretimes-online.com",
+      "published_ts": 1787943387000,
+      "image_url": "https://mmcxchange.s3.us-east-2.amazonaws.com/uploads/cover_photo/1787891167_472482f3ad35ee94.webp",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 2,
-      "headline_pull": 4,
-      "read_time_min": 7,
+      "headline_pull": 3,
+      "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
         "limelight",
         "young_achievers",
-        "ai_entrepreneurship",
-        "impact_innovation"
+        "ai_entrepreneurship"
       ],
       "section_scores": {
-        "limelight": 5,
         "ai_entrepreneurship": 5,
-        "young_achievers": 5,
-        "impact_innovation": 3
+        "young_achievers": 4,
+        "limelight": 5,
+        "impact_innovation": 2
       },
-      "emoji_clue": "\ud83d\udc68\u200d\ud83d\udc67\ud83d\udd12\ud83e\udd16\ud83d\udcf1\ud83d\udcac",
-      "headline_split": "My Dad Is in Prison. Here\u2019s Why I Built an AI Chatbot for His Electronic ",
+      "emoji_clue": "\ud83e\udd16\ud83d\udcb8\ud83c\udf93\ud83d\udcda\ud83c\udf89",
+      "headline_split": "Free Money Meister Uses AI to Help Students Graduate with ",
       "fake_endings": [
-        "watch",
-        "notebook"
+        "better grades",
+        "more scholarships"
       ],
-      "fake_headline": "Teen Creates App to Help Grandparents Video Call Grandkids, Wins Tech Award"
+      "fake_headline": "College Professor Creates App That Finds Unclaimed Scholarships for Students",
+      "city": "Baltimore"
     },
     {
-      "id": "batch_20260820_084815__story_085",
-      "title": "Startup Spotlight: Tech consultant returns to the farm with Reroot, connecting growers with consumers",
-      "summary": "Genevieve Priebe traded her tech consulting career for farming and built Reroot, a startup connecting local growers with consumers. Her app maps 50,000 producers, and her voice-powered tool lets farmers update their stores hands-free. It's a homecoming that's changing how we buy food.",
-      "extended_summary": "Genevieve Priebe used to advise Seattle's tech giants; now she bottle-feeds baby goats between business meetings. She's the solo founder of Reroot, a marketplace that makes local food as easy to buy as anything online. Her patent-pending Walk & Talk tool lets farmers update their stores by voice, even without cell service. It's a fourth-generation farm kid's dream, rebuilt for the digital age.",
+      "id": "batch_20260829_071204__story_130",
+      "title": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
+      "summary": "Sarah Buchner went from teenage carpenter to founder of a booming AI construction startup. After a tragedy on her site, she built tech that reads millions of pages of docs, saving time and lives.",
+      "extended_summary": "Sarah Buchner started swinging a hammer as a teenager in Austria, eventually running massive construction projects. But when a worker died on her watch, she walked away to build something safer. Now her startup, Trunk Tools, uses AI to digest the millions of pages of blueprints and contracts on every job site, catching costly mistakes before they happen. With 100+ employees and revenue up 4x, she's proving that the future of building is digital.",
       "category": "Transformation",
       "categories": [
-        "Transformation"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://www.geekwire.com/2026/startup-spotlight-tech-consultant-returns-to-the-farm-with-reroot-connecting-growers-with-consumers/",
-      "source_name": "geekwire.com",
-      "published_ts": 1787111214000,
-      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/08/reroot-1-1260x945.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 4,
-      "headline_pull": 4,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "ai_entrepreneurship",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "young_achievers": 1,
-        "limelight": 5,
-        "ai_entrepreneurship": 5,
-        "impact_innovation": 3
-      },
-      "emoji_clue": "\ud83d\udcbb\ud83c\udf3e\ud83d\ude9c\ud83e\udd1d\ud83e\udd55",
-      "headline_split": "Startup Spotlight: Tech consultant returns to the farm with Reroot, connecting ",
-      "fake_endings": [
-        "Farmers To Silicon Valley",
-        "Chefs To Urban Gardens"
-      ],
-      "fake_headline": "Retired Teacher Opens Free Coding Bootcamp for Underprivileged Youth"
-    },
-    {
-      "id": "batch_20260820_084815__story_070",
-      "title": "Steven Jiang Is Teaching Kids to Question AI Before They Touch the Screen",
-      "summary": "Steven Jiang's Overture teaches kids AI literacy with paper-and-pencil lessons, no screens. The program, in 50+ schools, helps students spot AI mistakes and think critically before they ever touch a tool.",
-      "extended_summary": "Kids are already using AI, but few understand it. Steven Jiang is fixing that with Overture, an education company that teaches AI literacy in over 50 schools \u2014 using only paper and pencil. No dashboards, no prompt boxes, just critical thinking. 'Kids are growing up around AI but not getting a proper introduction to understanding it,' he says. The lessons help students spot mistakes and create with confidence, preparing them for a world where AI is everywhere. It's a screen-free approach to a digital future.",
-      "category": "Discovery",
-      "categories": [
+        "Transformation",
         "Discovery"
       ],
       "tones": [],
-      "source_url": "https://www.distractify.com/p/steven-jiang-is-teaching-kids-to-question-ai-before-they-touch-the-screen",
-      "source_name": "distractify.com",
-      "published_ts": 1787009838000,
-      "image_url": "https://media.distractify.com/brand-img/W8jT7Icq6/1200x628/stevenj1200x628moreheadroom-1787089105184.jpg",
+      "source_url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
+      "source_name": "Crunchbase News",
+      "published_ts": 1786579200000,
+      "image_url": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups.jpg",
       "display_mode": "image",
-      "display_reason": "strong image and headline",
+      "display_reason": "hero always uses image mode (summary always visible)",
       "image_confidence": "high",
-      "visual_affinity": 2,
+      "visual_affinity": 3,
       "headline_pull": 4,
-      "read_time_min": 6,
+      "read_time_min": 8,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
-        "limelight",
         "young_achievers",
         "ai_entrepreneurship",
         "impact_innovation"
       ],
       "section_scores": {
-        "limelight": 5,
-        "young_achievers": 4,
+        "ai_entrepreneurship": 5,
         "impact_innovation": 3,
-        "ai_entrepreneurship": 4
+        "limelight": 2,
+        "young_achievers": 5
       },
-      "emoji_clue": "\ud83e\udd16\ud83e\uddd2\ud83d\udcf1\ud83d\udcad",
-      "headline_split": "Steven Jiang Is Teaching Kids to Question AI Before They Touch the Screen: ",
+      "emoji_clue": "\ud83e\ude9a\ud83d\udc77\u200d\u2642\ufe0f\ud83e\udd16\ud83c\udfd7\ufe0f\ud83d\udca1",
+      "headline_split": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools \u2014 ",
       "fake_endings": [
-        "his class now builds their own robots",
-        "he makes them write code by hand first"
+        "And Now Builds Homes For The Homeless",
+        "After Winning A $1 Million Pitch Contest"
       ],
-      "fake_headline": "Grandpa Starts Coding Club at 80, Now Kids Build Apps for Local Shelters"
+      "fake_headline": "Retired Teacher Opens Free Coding School For Seniors In Her Garage, Graduates 200 Students"
     }
   ]
 }
