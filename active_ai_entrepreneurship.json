@@ -1,27 +1,66 @@
 {
-  "batch_id": "batch_20260829_063021",
-  "created_at": "2026-08-29T06:30:21.769590",
+  "batch_id": "batch_20260906_193543",
+  "created_at": "2026-09-06T19:35:43.048155",
   "story_count": 2,
   "stories": [
     {
-      "id": "batch_20260829_071204__story_048",
-      "title": "Free Money Meister Uses AI to Help Students Graduate with Less Debt",
-      "summary": "Free Money Meister uses AI to help students find scholarships and graduate with less debt. Founder Kiara Scott, who funded five years of education and graduated debt-free, created the platform to make her repeatable system accessible to all.",
-      "extended_summary": "Kiara Scott turned her personal success into a tool for others. After funding five years of higher education and graduating with $0 in student loan debt, she realized her method was a repeatable system, not luck. That's why she created Free Money Meister, an AI-powered platform that helps students find, prioritize, and apply for scholarships with less confusion. The platform replaces outdated databases with a personalized approach, guiding students toward funding options that fit their profiles. As a Black woman entrepreneur, Scott is also addressing financial and educational inequities, making the path to debt-free education clearer for everyone.",
+      "id": "batch_20260906_043011__story_068",
+      "title": "Startup Spotlight: Food photographer uses 25-year archive to build an AI tool that eliminates costly reshoots",
+      "summary": "Seattle photographer Scott Pitts uses his 25-year archive to train Pallat, an AI tool that lets art directors modify campaign photos in minutes. It eliminates costly reshoots while keeping studio craft central.",
+      "extended_summary": "Scott Pitts spent 25 years photographing food for major brands. Now, he's using that archive to train Pallat, an AI system that lets art directors tweak images\u2014like adding tomatoes to a burger\u2014without a reshoot. 'We're making sure those outputs look photoreal, that they're not going to get labeled as AI slop,' Pitts says. His non-technical background and photographic eye set Pallat apart from generic AI platforms. For a recent steakhouse shoot, Pallat saved the day, proving that domain expertise is key in generative tech.",
       "category": "Discovery",
       "categories": [
-        "Discovery",
-        "Transformation"
+        "Discovery"
       ],
       "tones": [],
-      "source_url": "https://baltimoretimes-online.com/detail/free-money-meister-uses-ai-to-help-students-graduate-with-less-debt",
-      "source_name": "baltimoretimes-online.com",
-      "published_ts": 1787943387000,
-      "image_url": "https://mmcxchange.s3.us-east-2.amazonaws.com/uploads/cover_photo/1787891167_472482f3ad35ee94.webp",
+      "source_url": "https://www.geekwire.com/2026/startup-spotlight-food-photographer-uses-25-year-archive-to-build-an-ai-tool-that-eliminates-costly-reshoots/",
+      "source_name": "geekwire.com",
+      "published_ts": 1788550200000,
+      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/pallatburger-1.png",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 2,
+      "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "limelight": 1,
+        "young_achievers": 1,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 4
+      },
+      "emoji_clue": "\ud83d\udcf7\ud83e\udd16\ud83d\udcbe\ud83d\udcb0",
+      "headline_split": "Startup Spotlight: Food photographer uses 25-year archive to build an AI tool that eliminates ",
+      "fake_endings": [
+        "Costly Photo Reshoots",
+        "Wasted Ingredients"
+      ],
+      "fake_headline": "Chef Launches App to Reduce Restaurant Food Waste"
+    },
+    {
+      "id": "batch_20260906_043011__story_018",
+      "title": "City Lens NYC featured at CUNY PIT pop-up",
+      "summary": "CUNY student Ashley Peguero built City Lens NYC, an AI-powered platform that makes complex city data accessible to everyday New Yorkers. From displacement risk to policy summaries, it's bridging the gap between data and community understanding.",
+      "extended_summary": "Ashley Peguero, a first-generation college student at CUNY, created City Lens NYC to help her Bronx community understand the data behind neighborhood changes. The platform combines over 50 public data sources with AI and interactive mapping, offering tools like a permit reader that flags displacement risk and a translator that turns dense policy text into plain language. Peguero's journey\u2014from leaving high school at 17 to earning her GED at 24\u2014fuels her mission to \"bridge the gap between data and understanding and real life.\" Her work was recently showcased at a CUNY Public Interest Technology Lab pop-up at the Oculus.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://theticker.org/19511/science/city-lens-nyc-featured-at-cuny-pit-pop-up/",
+      "source_name": "theticker.org",
+      "published_ts": 1788199285000,
+      "image_url": "https://theticker.org/wp-content/uploads/2026/08/MANISH-KUMAR-I-THE-TICKER.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
       "headline_pull": 3,
       "read_time_min": 1,
       "image_position": "center",
@@ -32,61 +71,19 @@
         "ai_entrepreneurship"
       ],
       "section_scores": {
-        "ai_entrepreneurship": 5,
-        "young_achievers": 4,
+        "young_achievers": 5,
+        "impact_innovation": 2,
         "limelight": 5,
-        "impact_innovation": 2
+        "ai_entrepreneurship": 4
       },
-      "emoji_clue": "\ud83e\udd16\ud83d\udcb8\ud83c\udf93\ud83d\udcda\ud83c\udf89",
-      "headline_split": "Free Money Meister Uses AI to Help Students Graduate with ",
+      "emoji_clue": "\ud83d\udcf8\ud83d\uddfd\ud83c\udfd9\ufe0f\ud83c\udfa8",
+      "headline_split": "City Lens NYC featured at ",
       "fake_endings": [
-        "better grades",
-        "more scholarships"
+        "a new gallery",
+        "a photo festival"
       ],
-      "fake_headline": "College Professor Creates App That Finds Unclaimed Scholarships for Students",
-      "city": "Baltimore"
-    },
-    {
-      "id": "batch_20260829_071204__story_130",
-      "title": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools",
-      "summary": "Sarah Buchner went from teenage carpenter to founder of a booming AI construction startup. After a tragedy on her site, she built tech that reads millions of pages of docs, saving time and lives.",
-      "extended_summary": "Sarah Buchner started swinging a hammer as a teenager in Austria, eventually running massive construction projects. But when a worker died on her watch, she walked away to build something safer. Now her startup, Trunk Tools, uses AI to digest the millions of pages of blueprints and contracts on every job site, catching costly mistakes before they happen. With 100+ employees and revenue up 4x, she's proving that the future of building is digital.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/",
-      "source_name": "Crunchbase News",
-      "published_ts": 1786579200000,
-      "image_url": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups.jpg",
-      "display_mode": "image",
-      "display_reason": "hero always uses image mode (summary always visible)",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 8,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers",
-        "ai_entrepreneurship",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 5,
-        "impact_innovation": 3,
-        "limelight": 2,
-        "young_achievers": 5
-      },
-      "emoji_clue": "\ud83e\ude9a\ud83d\udc77\u200d\u2642\ufe0f\ud83e\udd16\ud83c\udfd7\ufe0f\ud83d\udca1",
-      "headline_split": "How A Teenage Carpenter Became The Founder Of AI Construction Startup Trunk Tools \u2014 ",
-      "fake_endings": [
-        "And Now Builds Homes For The Homeless",
-        "After Winning A $1 Million Pitch Contest"
-      ],
-      "fake_headline": "Retired Teacher Opens Free Coding School For Seniors In Her Garage, Graduates 200 Students"
+      "fake_headline": "A Blind Photographer's Work Is Now on Display at the Museum of Modern Art",
+      "city": "New York County"
     }
   ]
 }
