@@ -1,89 +1,50 @@
 {
-  "batch_id": "batch_20260906_193543",
-  "created_at": "2026-09-06T19:35:43.048155",
-  "story_count": 2,
+  "batch_id": "batch_20260922_021521",
+  "created_at": "2026-09-22T02:15:21.232184",
+  "story_count": 1,
   "stories": [
     {
-      "id": "batch_20260906_043011__story_068",
-      "title": "Startup Spotlight: Food photographer uses 25-year archive to build an AI tool that eliminates costly reshoots",
-      "summary": "Seattle photographer Scott Pitts uses his 25-year archive to train Pallat, an AI tool that lets art directors modify campaign photos in minutes. It eliminates costly reshoots while keeping studio craft central.",
-      "extended_summary": "Scott Pitts spent 25 years photographing food for major brands. Now, he's using that archive to train Pallat, an AI system that lets art directors tweak images\u2014like adding tomatoes to a burger\u2014without a reshoot. 'We're making sure those outputs look photoreal, that they're not going to get labeled as AI slop,' Pitts says. His non-technical background and photographic eye set Pallat apart from generic AI platforms. For a recent steakhouse shoot, Pallat saved the day, proving that domain expertise is key in generative tech.",
+      "id": "batch_20260922_060958__story_082",
+      "title": "\u2018Don\u2019t shoot. Listen\u2019: The AI-aided quest to understand Yellowstone\u2019s wolves",
+      "summary": "Jeff Reed grew up believing you shoot wolves on sight. Then one night on his Montana farm, a gray wolf stood 10 yards from his truck and just looked at him. He fired over its back instead \u2014 and that moment turned him into a collaborator on the Cry Wolf Project, using AI and bioacoustics to decode wolf howls in Yellowstone.",
+      "extended_summary": "The wolf stood broadside in Jeff Reed's headlights, 10 yards away, and didn't move. Reed grabbed his rifle, aimed \u2014 and then something cracked open. \"What the hell am I doing? Why am I doing this?\" He shot over its back. The wolf didn't bolt. It just trotted alongside him and kept going. That night turned a lifelong wolf-hater into an unlikely ally of the world's longest-running wolf research effort. Reed, a Ph.D. linguist who spent years leading software engineering in Silicon Valley, now helps power the Cry Wolf Project \u2014 a Yellowstone-based effort using artificial intelligence and bioacoustics to understand what wolves are actually saying to each other. He calls that night his Apostle Paul moment. The wolf, it turns out, was talking. Reed just had to learn how to listen.",
       "category": "Discovery",
       "categories": [
         "Discovery"
       ],
-      "tones": [],
-      "source_url": "https://www.geekwire.com/2026/startup-spotlight-food-photographer-uses-25-year-archive-to-build-an-ai-tool-that-eliminates-costly-reshoots/",
-      "source_name": "geekwire.com",
-      "published_ts": 1788550200000,
-      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/09/pallatburger-1.png",
+      "tones": [
+        "Surprise",
+        "Spiritual"
+      ],
+      "source_url": "https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/",
+      "source_name": "news.mongabay.com",
+      "published_ts": 1789613600000,
+      "image_url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/16130943/1-Wolf-907-Evan-Stout-BANNER-PHOTO-1200x800.png",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 6,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "ai_entrepreneurship",
-        "impact_innovation"
-      ],
-      "section_scores": {
-        "limelight": 1,
-        "young_achievers": 1,
-        "ai_entrepreneurship": 5,
-        "impact_innovation": 4
-      },
-      "emoji_clue": "\ud83d\udcf7\ud83e\udd16\ud83d\udcbe\ud83d\udcb0",
-      "headline_split": "Startup Spotlight: Food photographer uses 25-year archive to build an AI tool that eliminates ",
-      "fake_endings": [
-        "Costly Photo Reshoots",
-        "Wasted Ingredients"
-      ],
-      "fake_headline": "Chef Launches App to Reduce Restaurant Food Waste"
-    },
-    {
-      "id": "batch_20260906_043011__story_018",
-      "title": "City Lens NYC featured at CUNY PIT pop-up",
-      "summary": "CUNY student Ashley Peguero built City Lens NYC, an AI-powered platform that makes complex city data accessible to everyday New Yorkers. From displacement risk to policy summaries, it's bridging the gap between data and community understanding.",
-      "extended_summary": "Ashley Peguero, a first-generation college student at CUNY, created City Lens NYC to help her Bronx community understand the data behind neighborhood changes. The platform combines over 50 public data sources with AI and interactive mapping, offering tools like a permit reader that flags displacement risk and a translator that turns dense policy text into plain language. Peguero's journey\u2014from leaving high school at 17 to earning her GED at 24\u2014fuels her mission to \"bridge the gap between data and understanding and real life.\" Her work was recently showcased at a CUNY Public Interest Technology Lab pop-up at the Oculus.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://theticker.org/19511/science/city-lens-nyc-featured-at-cuny-pit-pop-up/",
-      "source_name": "theticker.org",
-      "published_ts": 1788199285000,
-      "image_url": "https://theticker.org/wp-content/uploads/2026/08/MANISH-KUMAR-I-THE-TICKER.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 1,
+      "visual_affinity": 5,
+      "headline_pull": 4,
+      "read_time_min": 17,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
         "limelight",
-        "young_achievers",
         "ai_entrepreneurship"
       ],
       "section_scores": {
-        "young_achievers": 5,
+        "young_achievers": 2,
         "impact_innovation": 2,
-        "limelight": 5,
-        "ai_entrepreneurship": 4
+        "ai_entrepreneurship": 4,
+        "limelight": 5
       },
-      "emoji_clue": "\ud83d\udcf8\ud83d\uddfd\ud83c\udfd9\ufe0f\ud83c\udfa8",
-      "headline_split": "City Lens NYC featured at ",
+      "emoji_clue": "\ud83d\udc3a\ud83c\udf99\ufe0f\ud83e\udd16\ud83c\udfde\ufe0f",
+      "headline_split": "'Don't shoot. Listen': The AI-aided quest to understand ",
       "fake_endings": [
-        "a new gallery",
-        "a photo festival"
+        "the secret language of migrating whales",
+        "why songbirds are vanishing from cities"
       ],
-      "fake_headline": "A Blind Photographer's Work Is Now on Display at the Museum of Modern Art",
-      "city": "New York County"
+      "fake_headline": "Volunteers Use Drones to Replant 1 Million Trees After Devastating Wildfire"
     }
   ]
 }
