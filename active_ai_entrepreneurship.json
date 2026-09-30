@@ -1,50 +1,52 @@
 {
-  "batch_id": "batch_20260922_021521",
-  "created_at": "2026-09-22T02:15:21.232184",
+  "batch_id": "batch_20260930_114549",
+  "created_at": "2026-09-30T11:45:49.426035",
   "story_count": 1,
   "stories": [
     {
-      "id": "batch_20260922_060958__story_082",
-      "title": "\u2018Don\u2019t shoot. Listen\u2019: The AI-aided quest to understand Yellowstone\u2019s wolves",
-      "summary": "Jeff Reed grew up believing you shoot wolves on sight. Then one night on his Montana farm, a gray wolf stood 10 yards from his truck and just looked at him. He fired over its back instead \u2014 and that moment turned him into a collaborator on the Cry Wolf Project, using AI and bioacoustics to decode wolf howls in Yellowstone.",
-      "extended_summary": "The wolf stood broadside in Jeff Reed's headlights, 10 yards away, and didn't move. Reed grabbed his rifle, aimed \u2014 and then something cracked open. \"What the hell am I doing? Why am I doing this?\" He shot over its back. The wolf didn't bolt. It just trotted alongside him and kept going. That night turned a lifelong wolf-hater into an unlikely ally of the world's longest-running wolf research effort. Reed, a Ph.D. linguist who spent years leading software engineering in Silicon Valley, now helps power the Cry Wolf Project \u2014 a Yellowstone-based effort using artificial intelligence and bioacoustics to understand what wolves are actually saying to each other. He calls that night his Apostle Paul moment. The wolf, it turns out, was talking. Reed just had to learn how to listen.",
+      "id": "batch_20260930_072716__story_032",
+      "title": "Built to Be Put Down: How Scribbi Is Reclaiming Kid-Tech from the Dopamine Engine",
+      "summary": "A Provo startup turned down investor money because the guy wanted them to make their kids' tablet more addictive. Instead, Scribbi's e-ink device treats a child's mistakes as data \u2014 quietly flagging patterns for parents without ever telling a kid they got it wrong.",
+      "extended_summary": "An investor sat across from Katarina and Keller Seamons with a simple pitch: make your kids' tablet more addictive and it'll be worth way more. They said no. That refusal is the whole point of Scribbi, the Provo startup's e-ink tablet built to be put down. When their daughter writes her S's backwards, most software would mark it wrong \u2014 Scribbi quietly flags the pattern for a parent and helps her fix it without ever telling her, in the moment, that she failed. It's a small design choice that flips the entire logic of kid-tech: a child's mistakes are information worth noticing, not noise for an algorithm to correct.",
       "category": "Discovery",
       "categories": [
-        "Discovery"
+        "Discovery",
+        "Transformation"
       ],
       "tones": [
-        "Surprise",
-        "Spiritual"
+        "Surprise"
       ],
-      "source_url": "https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/",
-      "source_name": "news.mongabay.com",
-      "published_ts": 1789613600000,
-      "image_url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/16130943/1-Wolf-907-Evan-Stout-BANNER-PHOTO-1200x800.png",
+      "source_url": "https://www.techbuzznews.com/scribbi-reclaims-kid-tech/",
+      "source_name": "techbuzznews.com",
+      "published_ts": 1790206440000,
+      "image_url": "https://storage.ghost.io/c/26/16/2616455e-be3a-46f1-a11e-812af2bc0f59/content/images/size/w1200/2026/09/WhatsApp-Image-2026-05-21-at-9.0.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 5,
+      "visual_affinity": 3,
       "headline_pull": 4,
-      "read_time_min": 17,
+      "read_time_min": 10,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
         "limelight",
-        "ai_entrepreneurship"
+        "young_achievers",
+        "ai_entrepreneurship",
+        "impact_innovation"
       ],
       "section_scores": {
-        "young_achievers": 2,
-        "impact_innovation": 2,
-        "ai_entrepreneurship": 4,
-        "limelight": 5
+        "limelight": 5,
+        "young_achievers": 4,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 3
       },
-      "emoji_clue": "\ud83d\udc3a\ud83c\udf99\ufe0f\ud83e\udd16\ud83c\udfde\ufe0f",
-      "headline_split": "'Don't shoot. Listen': The AI-aided quest to understand ",
+      "emoji_clue": "\ud83e\uddf8\ud83d\udcf5\ud83d\uded1\ud83e\udde0",
+      "headline_split": "Built to Be Put Down: How Scribbi Is Reclaiming Kid-Tech from ",
       "fake_endings": [
-        "the secret language of migrating whales",
-        "why songbirds are vanishing from cities"
+        "the clutches of screen-addicted toddlers",
+        "a warehouse full of forgotten fidget spinners"
       ],
-      "fake_headline": "Volunteers Use Drones to Replant 1 Million Trees After Devastating Wildfire"
+      "fake_headline": "New Board Game Designed to Be Finished in One Sitting, Then Passed to a Friend"
     }
   ]
 }
