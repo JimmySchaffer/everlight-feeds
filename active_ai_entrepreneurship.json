@@ -1,73 +1,31 @@
 {
-  "batch_id": "batch_20261007_120154",
-  "created_at": "2026-10-07T12:01:54.548661",
-  "story_count": 3,
+  "batch_id": "batch_20261014_192242",
+  "created_at": "2026-10-14T19:22:42.038576",
+  "story_count": 1,
   "stories": [
     {
-      "id": "batch_20261007_081441__story_013",
-      "title": "AI Turns the Entire Bible Into More Than 30,000 Songs",
-      "summary": "A 28-year-old Nashville entrepreneur used AI to turn every single verse of the Bible into music \u2014 over 30,000 songs across 11 genres in English and three in Spanish. It started when his pastor dad asked for one chapter set to music for a sermon.",
-      "extended_summary": "What started as a favor for his pastor father \u2014 set 1 John 4 to music for a sermon illustration \u2014 became 30,000 songs. Micah Fiechter's app Music Bible uses AI to turn every verse of Scripture into music without changing a single word, instead reshaping the music to fit the text. There's hip-hop, pop, country, children's music, 11 genres in English and three in Spanish, with more languages planned. The goal isn't catchy worship hits \u2014 it's helping people actually remember what they're hearing.",
+      "id": "batch_20261014_223504__story_190",
+      "title": "Startup Spotlight: Porchlight uses AI to help foster human connection in senior care",
+      "summary": "A one-person Seattle startup called Porchlight is using AI to help caregivers actually know the people they care for. Residents tap a button, answer a question, and their memories get turned into a 'Know Your Resident' briefing \u2014 so a former machinist or dancer isn't just a room number. Founder Patrick Donahue built it after his father's death, asking how much of a person's story goes with them unless someone asks in time.",
+      "extended_summary": "Patrick Donahue watched his father die and couldn't shake one question: how much of a person's story goes with them unless someone asks while there's still time? So the Seattle software engineer built Porchlight \u2014 a tool where a memory care resident taps one button, hears a question, and records a memory. AI transcription turns those answers into a 'Know Your Resident' briefing, so every caregiver walks in already knowing the former machinist, the dancer, the veteran. Families get a private audio page to listen and reply. Donahue deliberately stripped marketing claims off his own site when they described features he hadn't built yet, and keeps the tool free while communities test it. His line: 'Nothing in it pretends to be a person.'",
       "category": "Discovery",
       "categories": [
-        "Discovery"
+        "Discovery",
+        "Transformation"
       ],
       "tones": [
-        "Surprise",
         "Spiritual"
       ],
-      "source_url": "https://detroitpraisenetwork.com/2026/09/30/ai-turns-the-entire-bible-into-more-than-30000-songs/",
-      "source_name": "praise1027detroit.com",
-      "published_ts": 1790803135000,
-      "image_url": "https://detroitpraisenetwork.com/uploads/2026/09/digital-age-many-people-now-worship-online-merging-faith-in-god-with-technology-.jpg?auto=webp&width=2000&height=1334",
+      "source_url": "https://www.geekwire.com/2026/startup-spotlight-porchlight-uses-ai-to-help-foster-human-connection-in-senior-care/",
+      "source_name": "GeekWire",
+      "published_ts": 1790812800000,
+      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/patrick-donahue-headshot-1260x845.png",
       "display_mode": "image",
-      "display_reason": "strong image and headline",
+      "display_reason": "hero always uses image mode (summary always visible)",
       "image_confidence": "high",
-      "visual_affinity": 2,
-      "headline_pull": 5,
-      "read_time_min": 4,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "limelight",
-        "young_achievers",
-        "ai_entrepreneurship"
-      ],
-      "section_scores": {
-        "young_achievers": 4,
-        "ai_entrepreneurship": 5,
-        "limelight": 5,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83e\udd16\ud83d\udcd6\ud83c\udfb5\ud83d\ude4f",
-      "headline_split": "AI Turns the Entire Bible Into ",
-      "fake_endings": [
-        "a single, continuous 24-hour audiobook",
-        "a virtual reality experience for Sunday school"
-      ],
-      "fake_headline": "Local Choir Records Album of Original Songs Inspired by Grandparents' Love Letters",
-      "city": "Wayne County"
-    },
-    {
-      "id": "batch_20261007_081441__story_070",
-      "title": "Seattle software engineer turned general contractor built an AI guide to the patchwork of permit rules",
-      "summary": "Seattle software engineer Pascal Matta built a free AI tool to decode the confusing patchwork of municipal permit rules after struggling with his own deck project. The site covers 457 verified rules across 80 jurisdictions, saving homeowners from endless PDFs and guesswork.",
-      "extended_summary": "Pascal Matta has a background building software for tech giants like Google and T-Mobile. But when he wanted to have a deck added to his Seattle home, he discovered that municipal code was far trickier than software code. After trying to sort through a mess of permitting regulations for a deck he never had built, Matta decided to tackle the problem himself in two ways. First, he started Kolmo Construction, his own Seattle-based general contracting company. Second, he built a free online tool to decipher convoluted permit rules in the city and elsewhere. The site, kolmo.io/permits, serves as an un-gated database designed to answer the questions that usually send homeowners into a spiral of municipal PDFs. The AI-powered tool covers 457 verified rules across 80 jurisdictions in King, Pierce, and Snohomish counties, linking each rule directly to specific city source pages and exact wording rather than forcing users to rely on rough guesses and Google searches. 'It exists because the information genuinely isn't anywhere else,' Matta says.",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://www.geekwire.com/2026/seattle-software-engineer-turned-general-contractor-built-an-ai-guide-to-the-patchwork-of-permit-rules/",
-      "source_name": "geekwire.com",
-      "published_ts": 1790970176000,
-      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/kolmopermits.png",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
+      "visual_affinity": 3,
       "headline_pull": 3,
-      "read_time_min": 4,
+      "read_time_min": 6,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -78,59 +36,17 @@
       ],
       "section_scores": {
         "ai_entrepreneurship": 5,
-        "young_achievers": 4,
         "limelight": 5,
-        "impact_innovation": 4
+        "young_achievers": 4,
+        "impact_innovation": 3
       },
-      "emoji_clue": "\ud83d\udc77\u200d\u2642\ufe0f\ud83d\udcbb\ud83d\udccb\ud83c\udfd7\ufe0f\ud83e\udd16",
-      "headline_split": "Seattle software engineer turned general contractor built an AI guide to ",
+      "emoji_clue": "\ud83c\udfe0\ud83d\udca1\ud83e\udd16\ud83d\udc75\ud83e\udd1d",
+      "headline_split": "Startup Spotlight: Porchlight uses AI to help foster human connection in ",
       "fake_endings": [
-        "the best coffee shops near every construction site",
-        "negotiating with stubborn homeowners"
+        "the competitive world of online dating",
+        "remote teams scattered across the globe"
       ],
-      "fake_headline": "Former Teacher Creates App That Translates School Forms for Immigrant Parents"
-    },
-    {
-      "id": "batch_20261007_081441__story_051",
-      "title": "At 16, Parker Fawcett Is Building Software\u2014and Testing the Limits of AI Coding Agents",
-      "summary": "At just 16, Parker Fawcett is already an AI engineer at CHG Healthcare, building an ed-tech startup, and researching how AI coding agents actually build software. His open-source project Rebuild Dossier tackles a tricky question: if an AI passes its tests, how do you really know the code works?",
-      "extended_summary": "Most 16-year-olds are stressing about homework. Parker Fawcett is working as an AI engineer at one of the largest healthcare staffing companies in the US, running his own ed-tech startup, and doing original research on how AI coding agents build software. It started when he noticed AI models generating working code while quietly leaving behind dead code and junk endpoints. Instead of asking the AI to clean up after itself, he extracted the app's expected behavior and rebuilt it from scratch in a separate environment. That experiment became Rebuild Dossier, an open-source project now chasing a deceptively hard question: if an AI coding agent passes its tests, how do you actually know the software is sound?",
-      "category": "Discovery",
-      "categories": [
-        "Discovery"
-      ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://www.techbuzznews.com/at-16-parker-fawcett-is-building-software-and-testing-the-limits-of-ai-coding-agents/",
-      "source_name": "techbuzznews.com",
-      "published_ts": 1791248302000,
-      "image_url": "https://storage.ghost.io/c/26/16/2616455e-be3a-46f1-a11e-812af2bc0f59/content/images/size/w1200/2026/10/1000004411--1--1.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 11,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "young_achievers",
-        "ai_entrepreneurship"
-      ],
-      "section_scores": {
-        "young_achievers": 5,
-        "limelight": 2,
-        "ai_entrepreneurship": 4,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83e\uddd1\u200d\ud83d\udcbb\ud83e\udd16\u26a1\ud83e\uddea",
-      "headline_split": "At 16, Parker Fawcett Is Building Software\u2014and Testing ",
-      "fake_endings": [
-        "the Patience of His High School Teachers",
-        "His Mom's WiFi Router to Its Breaking Point"
-      ],
-      "fake_headline": "14-Year-Old Inventor From Boise Patents Solar Backpack That Charges Laptops for Rural Students"
+      "fake_headline": "Teen Inventor Creates Solar-Powered Backpack That Charges Laptops for Students in Rural Kenya"
     }
   ]
 }
