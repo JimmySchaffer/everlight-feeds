@@ -1,52 +1,89 @@
 {
-  "batch_id": "batch_20261014_192242",
-  "created_at": "2026-10-14T19:22:42.038576",
-  "story_count": 1,
+  "batch_id": "batch_20261022_114025",
+  "created_at": "2026-10-22T11:40:25.693966",
+  "story_count": 2,
   "stories": [
     {
-      "id": "batch_20261014_223504__story_190",
-      "title": "Startup Spotlight: Porchlight uses AI to help foster human connection in senior care",
-      "summary": "A one-person Seattle startup called Porchlight is using AI to help caregivers actually know the people they care for. Residents tap a button, answer a question, and their memories get turned into a 'Know Your Resident' briefing \u2014 so a former machinist or dancer isn't just a room number. Founder Patrick Donahue built it after his father's death, asking how much of a person's story goes with them unless someone asks in time.",
-      "extended_summary": "Patrick Donahue watched his father die and couldn't shake one question: how much of a person's story goes with them unless someone asks while there's still time? So the Seattle software engineer built Porchlight \u2014 a tool where a memory care resident taps one button, hears a question, and records a memory. AI transcription turns those answers into a 'Know Your Resident' briefing, so every caregiver walks in already knowing the former machinist, the dancer, the veteran. Families get a private audio page to listen and reply. Donahue deliberately stripped marketing claims off his own site when they described features he hadn't built yet, and keeps the tool free while communities test it. His line: 'Nothing in it pretends to be a person.'",
+      "id": "batch_20261022_050500__story_081",
+      "title": "AI company behind micro data center plan in Concord says its design is \u2018the way of the future'",
+      "summary": "A new micro data center in Concord could be one of the first of its kind, using immersion cooling and repurposed heat to warm sidewalks and greenhouses instead of wasting water and power. The company behind it says this sustainable design is 'the way of the future.'",
+      "extended_summary": "Instead of guzzling water and roaring like a jet engine, the micro data center planned for East Concord would recycle its own heat to warm winter sidewalks and greenhouses. Levitate Inc. CEO Ryan Howard says the closed-loop immersion cooling system is a direct response to the excesses of hyperscale data centers \u2014 and he hopes to break ground before the end of the year. It's one of three pilot projects nationwide, including a converted sugar plant in Montana and a plum farm in Washington.",
       "category": "Discovery",
       "categories": [
-        "Discovery",
-        "Transformation"
+        "Discovery"
       ],
-      "tones": [
-        "Spiritual"
-      ],
-      "source_url": "https://www.geekwire.com/2026/startup-spotlight-porchlight-uses-ai-to-help-foster-human-connection-in-senior-care/",
-      "source_name": "GeekWire",
-      "published_ts": 1790812800000,
-      "image_url": "https://cdn.geekwire.com/wp-content/uploads/2026/10/patrick-donahue-headshot-1260x845.png",
-      "display_mode": "image",
-      "display_reason": "hero always uses image mode (summary always visible)",
-      "image_confidence": "high",
+      "tones": [],
+      "source_url": "https://www.nhpr.org/nh-news/2026-10-20/ai-micro-data-center-proposal-concord-newhampshire",
+      "source_name": "nhpr.org",
+      "published_ts": 1792547999000,
+      "image_url": "https://npr.brightspotcdn.com/dims4/default/8c2191e/2147483647/strip/true/crop/780x410+0+86/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2F3a%2F71e211904d24a38b83de2d4c932e%2Fai-6051.jpg",
+      "display_mode": "text",
+      "display_reason": "medium image not worth the space",
+      "image_confidence": "medium",
       "visual_affinity": 3,
       "headline_pull": 3,
-      "read_time_min": 6,
+      "read_time_min": 7,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "ai_entrepreneurship": 4,
+        "young_achievers": 2,
+        "limelight": 2,
+        "impact_innovation": 2
+      },
+      "emoji_clue": "\ud83e\udd16\ud83c\udfe2\ud83c\udf06\ud83d\udd2e",
+      "headline_split": "AI company behind micro data center plan in Concord says its design is ",
+      "fake_endings": [
+        "already winning awards across New England",
+        "a model for affordable housing nationwide"
+      ],
+      "fake_headline": "Vermont Town Votes to Replace Aging Bridge With One Built Entirely From Recycled Wind Turbine Blades",
+      "city": "Merrimack County"
+    },
+    {
+      "id": "batch_20261022_050500__story_082",
+      "title": "This Louisiana founder is building tools to help rural hospitals stay open",
+      "summary": "After 25 years in medical billing, single mother Nicole Oliver founded Medvient to help rural hospitals stay afloat. Her tool Recon flags underpayments and denials in about a minute \u2014 and it's already in pilot programs as dozens of Louisiana hospitals face closure.",
+      "extended_summary": "Nicole Oliver spent 25 years watching small billing problems snowball before anyone noticed \u2014 so she built a tool that catches them in about a minute. Her startup Medvient's first product, Recon, uploads a year of insurance claims and instantly flags underpayments, repeated denials, and overdue payments, then hands billing staff a prioritized action plan. With 43% of Louisiana's rural inpatient hospitals at risk of closing, that kind of speed could be the difference between staying open and shutting down.",
+      "category": "Transformation",
+      "categories": [
+        "Transformation",
+        "Discovery"
+      ],
+      "tones": [],
+      "source_url": "https://technical.ly/entrepreneurship/medvient-nicole-oliver-rural-hospital-billing/",
+      "source_name": "technical.ly",
+      "published_ts": 1792509300000,
+      "image_url": "https://technically-wpengine.s3.us-east-1.amazonaws.com/technically/wp-content/uploads/2026/10/Nicole-O.-pic.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 3,
+      "headline_pull": 4,
+      "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
         "limelight",
-        "young_achievers",
         "ai_entrepreneurship",
         "impact_innovation"
       ],
       "section_scores": {
-        "ai_entrepreneurship": 5,
-        "limelight": 5,
-        "young_achievers": 4,
-        "impact_innovation": 3
+        "young_achievers": 2,
+        "impact_innovation": 3,
+        "ai_entrepreneurship": 3,
+        "limelight": 5
       },
-      "emoji_clue": "\ud83c\udfe0\ud83d\udca1\ud83e\udd16\ud83d\udc75\ud83e\udd1d",
-      "headline_split": "Startup Spotlight: Porchlight uses AI to help foster human connection in ",
+      "emoji_clue": "\ud83c\udfe5\ud83c\udf3e\ud83d\udca1\ud83d\ude91",
+      "headline_split": "This Louisiana founder is building tools to help rural hospitals ",
       "fake_endings": [
-        "the competitive world of online dating",
-        "remote teams scattered across the globe"
+        "recruit nurses from overseas faster",
+        "share expensive MRI machines with neighbors"
       ],
-      "fake_headline": "Teen Inventor Creates Solar-Powered Backpack That Charges Laptops for Students in Rural Kenya"
+      "fake_headline": "Former School Bus Driver Opens Free Laundromat in Memphis So Kids Can Show Up to Class in Clean Clothes"
     }
   ]
 }
