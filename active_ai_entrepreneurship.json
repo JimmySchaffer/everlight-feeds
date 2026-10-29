@@ -1,69 +1,28 @@
 {
-  "batch_id": "batch_20261022_114025",
-  "created_at": "2026-10-22T11:40:25.693966",
-  "story_count": 2,
+  "batch_id": "batch_20261029_190518",
+  "created_at": "2026-10-29T19:05:18.627369",
+  "story_count": 1,
   "stories": [
     {
-      "id": "batch_20261022_050500__story_081",
-      "title": "AI company behind micro data center plan in Concord says its design is \u2018the way of the future'",
-      "summary": "A new micro data center in Concord could be one of the first of its kind, using immersion cooling and repurposed heat to warm sidewalks and greenhouses instead of wasting water and power. The company behind it says this sustainable design is 'the way of the future.'",
-      "extended_summary": "Instead of guzzling water and roaring like a jet engine, the micro data center planned for East Concord would recycle its own heat to warm winter sidewalks and greenhouses. Levitate Inc. CEO Ryan Howard says the closed-loop immersion cooling system is a direct response to the excesses of hyperscale data centers \u2014 and he hopes to break ground before the end of the year. It's one of three pilot projects nationwide, including a converted sugar plant in Montana and a plum farm in Washington.",
+      "id": "batch_20261029_225037__story_082",
+      "title": "Citizen Portal Uses AI to Make Local Government Easier to Follow",
+      "summary": "Ancestry.com co-founder Paul Allen's Citizen Portal has cataloged over 2 million government meetings and is on pace to transcribe 625,000 hours of proceedings this year. The AI platform turns endless city council and school board sessions into searchable summaries linked straight to the source.",
+      "extended_summary": "Two million meetings and counting \u2014 that's how much local government Citizen Portal has already cataloged, with 625,000 hours of proceedings set to be transcribed in 2026 alone. Founder Paul Allen, an Ancestry.com co-founder, and GM Thomas Dyches showed how the platform turns marathon city council and school board sessions into AI summaries that link back to the original records. Community editors can now cover public meetings they'd never have time to sit through, and residents can search transcripts for exactly what their government said.",
       "category": "Discovery",
       "categories": [
         "Discovery"
       ],
       "tones": [],
-      "source_url": "https://www.nhpr.org/nh-news/2026-10-20/ai-micro-data-center-proposal-concord-newhampshire",
-      "source_name": "nhpr.org",
-      "published_ts": 1792547999000,
-      "image_url": "https://npr.brightspotcdn.com/dims4/default/8c2191e/2147483647/strip/true/crop/780x410+0+86/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2F3a%2F71e211904d24a38b83de2d4c932e%2Fai-6051.jpg",
-      "display_mode": "text",
-      "display_reason": "medium image not worth the space",
-      "image_confidence": "medium",
-      "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 7,
-      "image_position": "center",
-      "image_scale": 1.0,
-      "sections": [
-        "ai_entrepreneurship"
-      ],
-      "section_scores": {
-        "ai_entrepreneurship": 4,
-        "young_achievers": 2,
-        "limelight": 2,
-        "impact_innovation": 2
-      },
-      "emoji_clue": "\ud83e\udd16\ud83c\udfe2\ud83c\udf06\ud83d\udd2e",
-      "headline_split": "AI company behind micro data center plan in Concord says its design is ",
-      "fake_endings": [
-        "already winning awards across New England",
-        "a model for affordable housing nationwide"
-      ],
-      "fake_headline": "Vermont Town Votes to Replace Aging Bridge With One Built Entirely From Recycled Wind Turbine Blades",
-      "city": "Merrimack County"
-    },
-    {
-      "id": "batch_20261022_050500__story_082",
-      "title": "This Louisiana founder is building tools to help rural hospitals stay open",
-      "summary": "After 25 years in medical billing, single mother Nicole Oliver founded Medvient to help rural hospitals stay afloat. Her tool Recon flags underpayments and denials in about a minute \u2014 and it's already in pilot programs as dozens of Louisiana hospitals face closure.",
-      "extended_summary": "Nicole Oliver spent 25 years watching small billing problems snowball before anyone noticed \u2014 so she built a tool that catches them in about a minute. Her startup Medvient's first product, Recon, uploads a year of insurance claims and instantly flags underpayments, repeated denials, and overdue payments, then hands billing staff a prioritized action plan. With 43% of Louisiana's rural inpatient hospitals at risk of closing, that kind of speed could be the difference between staying open and shutting down.",
-      "category": "Transformation",
-      "categories": [
-        "Transformation",
-        "Discovery"
-      ],
-      "tones": [],
-      "source_url": "https://technical.ly/entrepreneurship/medvient-nicole-oliver-rural-hospital-billing/",
-      "source_name": "technical.ly",
-      "published_ts": 1792509300000,
-      "image_url": "https://technically-wpengine.s3.us-east-1.amazonaws.com/technically/wp-content/uploads/2026/10/Nicole-O.-pic.jpg",
+      "source_url": "https://www.techbuzznews.com/citizen-portal-ai-local-government-news/",
+      "source_name": "techbuzznews.com",
+      "published_ts": 1792836120000,
+      "image_url": "https://storage.ghost.io/c/26/16/2616455e-be3a-46f1-a11e-812af2bc0f59/content/images/size/w1200/2026/10/_DSC2072.jpg",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
-      "visual_affinity": 3,
-      "headline_pull": 4,
-      "read_time_min": 3,
+      "visual_affinity": 2,
+      "headline_pull": 3,
+      "read_time_min": 6,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -72,18 +31,18 @@
         "impact_innovation"
       ],
       "section_scores": {
+        "ai_entrepreneurship": 4,
         "young_achievers": 2,
-        "impact_innovation": 3,
-        "ai_entrepreneurship": 3,
-        "limelight": 5
+        "impact_innovation": 4,
+        "limelight": 3
       },
-      "emoji_clue": "\ud83c\udfe5\ud83c\udf3e\ud83d\udca1\ud83d\ude91",
-      "headline_split": "This Louisiana founder is building tools to help rural hospitals ",
+      "emoji_clue": "\ud83c\udfdb\ufe0f\ud83d\udcbb\ud83d\udd0d\ud83d\udccb",
+      "headline_split": "Citizen Portal Uses AI to Make Local Government",
       "fake_endings": [
-        "recruit nurses from overseas faster",
-        "share expensive MRI machines with neighbors"
+        "Meetings Shorter by Automatically Muting Long-Winded Speeches",
+        "Feel Like a Video Game With Points for Attending Council Sessions"
       ],
-      "fake_headline": "Former School Bus Driver Opens Free Laundromat in Memphis So Kids Can Show Up to Class in Clean Clothes"
+      "fake_headline": "New App Translates City Budget Documents Into Plain English for Curious Residents"
     }
   ]
 }
