@@ -1,28 +1,28 @@
 {
-  "batch_id": "batch_20261029_190518",
-  "created_at": "2026-10-29T19:05:18.627369",
+  "batch_id": "batch_20261105_153933",
+  "created_at": "2026-11-05T15:39:33.860115",
   "story_count": 1,
   "stories": [
     {
-      "id": "batch_20261029_225037__story_082",
-      "title": "Citizen Portal Uses AI to Make Local Government Easier to Follow",
-      "summary": "Ancestry.com co-founder Paul Allen's Citizen Portal has cataloged over 2 million government meetings and is on pace to transcribe 625,000 hours of proceedings this year. The AI platform turns endless city council and school board sessions into searchable summaries linked straight to the source.",
-      "extended_summary": "Two million meetings and counting \u2014 that's how much local government Citizen Portal has already cataloged, with 625,000 hours of proceedings set to be transcribed in 2026 alone. Founder Paul Allen, an Ancestry.com co-founder, and GM Thomas Dyches showed how the platform turns marathon city council and school board sessions into AI summaries that link back to the original records. Community editors can now cover public meetings they'd never have time to sit through, and residents can search transcripts for exactly what their government said.",
+      "id": "batch_20261105_201903__story_074",
+      "title": "Startup uses motion sensors and AI to tell families when an aging parent\u2019s routine changes",
+      "summary": "A Bellevue startup called Thessai is using motion sensors and AI \u2014 no cameras, microphones, or wearables \u2014 to learn an aging parent's daily routine and flag when something's off. Founder Michael Nassirian built it after his mother-in-law fell and told no one until the next day.",
+      "extended_summary": "Michael Nassirian's mother-in-law fell at home and had a phone and emergency button within reach \u2014 but she didn't use them, and didn't tell anyone until the next day when she needed an ambulance. That silence, he learned, is common: older adults say 'I'm OK,' don't want to be a bother, and above all don't want to advertise a fall. So Nassirian, a former Microsoft HoloLens exec, bought motion sensors at Home Depot and wrote software to alert his wife if her mother stopped moving. That became Thessai, a system that learns a person's normal patterns and flags anything unusual \u2014 all without cameras, microphones, or wearables seniors tend to refuse.",
       "category": "Discovery",
       "categories": [
         "Discovery"
       ],
       "tones": [],
-      "source_url": "https://www.techbuzznews.com/citizen-portal-ai-local-government-news/",
-      "source_name": "techbuzznews.com",
-      "published_ts": 1792836120000,
-      "image_url": "https://storage.ghost.io/c/26/16/2616455e-be3a-46f1-a11e-812af2bc0f59/content/images/size/w1200/2026/10/_DSC2072.jpg",
-      "display_mode": "image",
-      "display_reason": "strong image and headline",
-      "image_confidence": "high",
-      "visual_affinity": 2,
+      "source_url": "https://www.geekwire.com/2026/startup-uses-motion-sensors-and-ai-to-tell-families-when-an-aging-parents-routine-changes/",
+      "source_name": "geekwire.com",
+      "published_ts": 1793658680000,
+      "image_url": "https://picsum.photos/seed/pre_0278/800/600",
+      "display_mode": "text",
+      "display_reason": "no usable image",
+      "image_confidence": "none",
+      "visual_affinity": 3,
       "headline_pull": 3,
-      "read_time_min": 6,
+      "read_time_min": 1,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
@@ -31,18 +31,20 @@
         "impact_innovation"
       ],
       "section_scores": {
-        "ai_entrepreneurship": 4,
+        "ai_entrepreneurship": 5,
         "young_achievers": 2,
-        "impact_innovation": 4,
-        "limelight": 3
+        "limelight": 5,
+        "impact_innovation": 3
       },
-      "emoji_clue": "\ud83c\udfdb\ufe0f\ud83d\udcbb\ud83d\udd0d\ud83d\udccb",
-      "headline_split": "Citizen Portal Uses AI to Make Local Government",
+      "emoji_clue": "\ud83d\udce1\ud83e\uddd3\ud83d\udc75\ud83d\udcf1",
+      "headline_split": "Startup uses motion sensors and AI to tell families when ",
       "fake_endings": [
-        "Meetings Shorter by Automatically Muting Long-Winded Speeches",
-        "Feel Like a Video Game With Points for Attending Council Sessions"
+        "the dog has learned to open the fridge",
+        "grandma starts baking cookies at 3 a.m."
       ],
-      "fake_headline": "New App Translates City Budget Documents Into Plain English for Curious Residents"
+      "fake_headline": "New App Uses Smart Speakers to Remind Seniors to Take Their Pills and Call Their Grandkids",
+      "source_domain": "geekwire.com",
+      "attribution_checked": true
     }
   ]
 }
