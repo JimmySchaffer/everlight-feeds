@@ -1,49 +1,54 @@
 {
-  "batch_id": "batch_20261105_153933",
-  "created_at": "2026-11-05T15:39:33.860115",
+  "batch_id": "batch_20261113_123934",
+  "created_at": "2026-11-13T12:39:34.933343",
   "story_count": 1,
   "stories": [
     {
-      "id": "batch_20261105_201903__story_074",
-      "title": "Startup uses motion sensors and AI to tell families when an aging parent\u2019s routine changes",
-      "summary": "A Bellevue startup called Thessai is using motion sensors and AI \u2014 no cameras, microphones, or wearables \u2014 to learn an aging parent's daily routine and flag when something's off. Founder Michael Nassirian built it after his mother-in-law fell and told no one until the next day.",
-      "extended_summary": "Michael Nassirian's mother-in-law fell at home and had a phone and emergency button within reach \u2014 but she didn't use them, and didn't tell anyone until the next day when she needed an ambulance. That silence, he learned, is common: older adults say 'I'm OK,' don't want to be a bother, and above all don't want to advertise a fall. So Nassirian, a former Microsoft HoloLens exec, bought motion sensors at Home Depot and wrote software to alert his wife if her mother stopped moving. That became Thessai, a system that learns a person's normal patterns and flags anything unusual \u2014 all without cameras, microphones, or wearables seniors tend to refuse.",
+      "id": "batch_20261113_114346__story_055",
+      "title": "Interpreting Autistic Cues Is Difficult, a Teen Built an App That\u2019s Helping Hundreds of Families",
+      "summary": "Watching adults constantly misread his autistic cousin's cues, New Jersey teen Shashank Madala taught himself machine learning and built Kora \u2014 a free app that offers caregivers multiple possible readings of what a child might be feeling. It's now used by 700+ families in 12 countries.",
+      "extended_summary": "Shashank Madala was 15, with exactly one computer science class behind him, when he decided to fix something he'd watched his whole life: adults guessing wrong about what his autistic cousin was feeling. He taught himself machine learning and built Kora, a free app that offers caregivers several possible interpretations of a child's cues \u2014 no scores, no diagnoses, no judgments. Early versions gave one confident answer, but Madala realized that repeated the exact mistake his family made, so he rebuilt it to slow adults down and surface uncertainty. The result: 700+ users across 12 countries, reaching families through autism therapy centers, all free. His philosophy flips the script \u2014 technology shouldn't change the child, it should help adults look closer.",
       "category": "Discovery",
       "categories": [
-        "Discovery"
+        "Discovery",
+        "Transformation"
       ],
-      "tones": [],
-      "source_url": "https://www.geekwire.com/2026/startup-uses-motion-sensors-and-ai-to-tell-families-when-an-aging-parents-routine-changes/",
-      "source_name": "geekwire.com",
-      "published_ts": 1793658680000,
-      "image_url": "https://picsum.photos/seed/pre_0278/800/600",
-      "display_mode": "text",
-      "display_reason": "no usable image",
-      "image_confidence": "none",
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
+      "source_name": "Good News Network",
+      "published_ts": 1794259823000,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Shashank-Madala-stands-with-his-Congressional-recognition-credit-courtesy-of-Shashank-Madala.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
       "visual_affinity": 3,
-      "headline_pull": 3,
-      "read_time_min": 1,
+      "headline_pull": 4,
+      "read_time_min": 3,
       "image_position": "center",
       "image_scale": 1.0,
       "sections": [
         "limelight",
+        "young_achievers",
         "ai_entrepreneurship",
         "impact_innovation"
       ],
       "section_scores": {
-        "ai_entrepreneurship": 5,
-        "young_achievers": 2,
         "limelight": 5,
-        "impact_innovation": 3
+        "young_achievers": 5,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 5
       },
-      "emoji_clue": "\ud83d\udce1\ud83e\uddd3\ud83d\udc75\ud83d\udcf1",
-      "headline_split": "Startup uses motion sensors and AI to tell families when ",
+      "emoji_clue": "\ud83d\udcf1\ud83e\udde9\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\ud83d\udca1",
+      "headline_split": "Interpreting Autistic Cues Is Difficult, a Teen Built an App That\u2019s Helping ",
       "fake_endings": [
-        "the dog has learned to open the fridge",
-        "grandma starts baking cookies at 3 a.m."
+        "thousands of teachers understand sign language",
+        "hundreds of hospitals train new nurses faster"
       ],
-      "fake_headline": "New App Uses Smart Speakers to Remind Seniors to Take Their Pills and Call Their Grandkids",
-      "source_domain": "geekwire.com",
+      "fake_headline": "12-Year-Old Invents Smart Cane That Helps Blind Students Navigate School Hallways",
+      "source_domain": "goodnewsnetwork.org",
+      "author": "Andy Corbley",
       "attribution_checked": true
     }
   ]
