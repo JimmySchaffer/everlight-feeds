@@ -1,29 +1,116 @@
 {
-  "batch_id": "batch_20261113_123934",
-  "created_at": "2026-11-13T12:39:34.933343",
-  "story_count": 1,
+  "batch_id": "batch_20261120_131509",
+  "created_at": "2026-11-20T13:15:09.211190",
+  "story_count": 3,
   "stories": [
     {
-      "id": "batch_20261113_114346__story_055",
-      "title": "Interpreting Autistic Cues Is Difficult, a Teen Built an App That\u2019s Helping Hundreds of Families",
-      "summary": "Watching adults constantly misread his autistic cousin's cues, New Jersey teen Shashank Madala taught himself machine learning and built Kora \u2014 a free app that offers caregivers multiple possible readings of what a child might be feeling. It's now used by 700+ families in 12 countries.",
-      "extended_summary": "Shashank Madala was 15, with exactly one computer science class behind him, when he decided to fix something he'd watched his whole life: adults guessing wrong about what his autistic cousin was feeling. He taught himself machine learning and built Kora, a free app that offers caregivers several possible interpretations of a child's cues \u2014 no scores, no diagnoses, no judgments. Early versions gave one confident answer, but Madala realized that repeated the exact mistake his family made, so he rebuilt it to slow adults down and surface uncertainty. The result: 700+ users across 12 countries, reaching families through autism therapy centers, all free. His philosophy flips the script \u2014 technology shouldn't change the child, it should help adults look closer.",
+      "id": "batch_20261120_073734__story_075",
+      "title": "Aspen Landscapers Let the Bots Do the Paperwork so the Crew Stays on the Lawn",
+      "summary": "Aspen landscaper Jeff Margulies deployed AI across a dozen parts of his business so his 60-to-70-person crew can stay on the lawn instead of buried in paperwork. Real-time job costing, progress photos, and automated scheduling have helped Good Earth grow sixfold.",
+      "extended_summary": "Jeff Margulies calls it \"tickling the bots.\" The Aspen landscaper has wired Claude-based AI into roughly a dozen parts of Good Earth Landscaping\u2014from field photos and clock-ins to real-time job costing checked against the budget on the spot. The goal isn't fewer workers; it's keeping his 60-to-70-person crew on the lawn instead of drowning in admin. Since he bought into the company in 2018, Good Earth has grown sixfold, and the paperwork now mostly handles itself.",
       "category": "Discovery",
       "categories": [
-        "Discovery",
-        "Transformation"
+        "Discovery"
       ],
-      "tones": [
-        "Surprise"
-      ],
-      "source_url": "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/",
-      "source_name": "Good News Network",
-      "published_ts": 1794259823000,
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Shashank-Madala-stands-with-his-Congressional-recognition-credit-courtesy-of-Shashank-Madala.jpg",
+      "tones": [],
+      "source_url": "https://thecherrycreeknews.com/aspen-landscapers-let-the-bots-do-the-paperwork-so-the-crew-stays-on-the-lawn/",
+      "source_name": "The Cherry Creek News",
+      "published_ts": 1794683978000,
+      "image_url": "https://i0.wp.com/thecherrycreeknews.com/wp-content/uploads/2026/11/openai-business-hub-chatgpt-2026-11-10.jpg?fit=1200%2C675&ssl=1",
       "display_mode": "image",
       "display_reason": "strong image and headline",
       "image_confidence": "high",
       "visual_affinity": 3,
+      "headline_pull": 3,
+      "read_time_min": 4,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "ai_entrepreneurship",
+        "impact_innovation"
+      ],
+      "section_scores": {
+        "young_achievers": 1,
+        "limelight": 2,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 3
+      },
+      "emoji_clue": "\ud83e\udd16\ud83c\udf31\ud83d\udccb\ud83d\ude9c",
+      "headline_split": "Aspen Landscapers Let the Bots Do the Paperwork so",
+      "fake_endings": [
+        "the Owners Can Finally Take Vacations",
+        "the Grass Gets Cut Twice as Fast"
+      ],
+      "fake_headline": "Vermont Dairy Farmers Hand the Night Shift to Robots and Sleep Through the Night",
+      "source_domain": "thecherrycreeknews.com",
+      "attribution_checked": true
+    },
+    {
+      "id": "batch_20261120_073734__story_076",
+      "title": "Fracking wastewater as source of critical minerals? North Dakota startup uses AI-engineered proteins to turn a liability into an asset",
+      "summary": "A North Dakota startup is using AI-designed proteins to pull critical minerals out of fracking wastewater\u2014turning a toxic liability into a national-security asset. HydroBIND's founder wants to give farmers and ranchers something positive from water that's long been their bane.",
+      "extended_summary": "Fracking wastewater has long been the bane of North Dakota farmers\u2014too salty, too toxic, too much of it. Steve Kemp wants to flip that. His Williston startup, HydroBIND, uses AI to precision-engineer proteins that bind to valuable minerals and only those minerals, pulling critical materials out of produced water that the country desperately needs for EV batteries and electronics. \"Boy, wouldn't it be nice if we could develop something positive for the landowners and the farmers and the ranchers,\" Kemp says. It's a liability-to-asset play sitting right in the heart of the Bakken.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Surprise"
+      ],
+      "source_url": "https://technical.ly/entrepreneurship/hydrobind-extracts-critical-minerals-oilfield-proteins/",
+      "source_name": "Technical.ly",
+      "published_ts": 1795018500000,
+      "image_url": "https://technically-wpengine.s3.us-east-1.amazonaws.com/technically/wp-content/uploads/2026/11/hydrobind-startup-profile-header-scaled.jpg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 2,
+      "headline_pull": 4,
+      "read_time_min": 6,
+      "image_position": "center",
+      "image_scale": 1.0,
+      "sections": [
+        "limelight",
+        "ai_entrepreneurship"
+      ],
+      "section_scores": {
+        "young_achievers": 2,
+        "ai_entrepreneurship": 5,
+        "impact_innovation": 2,
+        "limelight": 3
+      },
+      "emoji_clue": "\ud83d\udee2\ufe0f\ud83e\uddec\u26cf\ufe0f\ud83e\udd16",
+      "headline_split": "Fracking wastewater as source of critical minerals? North Dakota startup uses AI-engineered proteins to",
+      "fake_endings": [
+        "clean the water for local farms",
+        "cut drilling costs in half"
+      ],
+      "fake_headline": "Montana Teens Turn Old Mine Tailings Into Paint Pigments Sold in 40 States",
+      "source_domain": "technical.ly",
+      "author": "Ben Sailer",
+      "attribution_checked": true
+    },
+    {
+      "id": "batch_20261120_073734__story_050",
+      "title": "From payphone to playtime: Grocer\u2019s Daughter gives old technology new life",
+      "summary": "A Michigan chocolate shop turned an eBay payphone into an AI-powered mystery: pick up the receiver and interrogate nine characters\u2014including Mr. Sprinkles the Cat\u2014to solve who destroyed a chocolate cake.",
+      "extended_summary": "Pick up the payphone outside Grocer's Daughter Chocolate in Empire, Michigan, and an AI operator answers\u2014begging for your help solving a crime: someone destroyed a chocolate cake. Dial 1 through 9 to interrogate nine suspects, each with a different attitude and alibi, including the Chef and Mr. Sprinkles the Cat. Co-owner DC Hayden bought the phone on eBay and built the whole thing with a tech-savvy friend, using Google Studio characters that respond so naturally you forget you're talking to a robot. Kids figured it out instantly; Hayden had to tweak it to be more intuitive for everyone else. It's a relic of the past rewired into pure neighborhood play.",
+      "category": "Discovery",
+      "categories": [
+        "Discovery"
+      ],
+      "tones": [
+        "Humor",
+        "Surprise"
+      ],
+      "source_url": "https://glenarborsun.com/from-payphone-to-playtime-grocers-daughter-gives-old-technology-new-life/",
+      "source_name": "Glen Arbor Sun",
+      "published_ts": 1794989696000,
+      "image_url": "https://glenarborsun.com/wp-content/uploads/2026/11/DCHayden-GrocersDaughterPayphone-e1794971681218.jpeg",
+      "display_mode": "image",
+      "display_reason": "strong image and headline",
+      "image_confidence": "high",
+      "visual_affinity": 4,
       "headline_pull": 4,
       "read_time_min": 3,
       "image_position": "center",
@@ -31,24 +118,23 @@
       "sections": [
         "limelight",
         "young_achievers",
-        "ai_entrepreneurship",
-        "impact_innovation"
+        "ai_entrepreneurship"
       ],
       "section_scores": {
+        "young_achievers": 3,
         "limelight": 5,
-        "young_achievers": 5,
-        "ai_entrepreneurship": 5,
-        "impact_innovation": 5
+        "impact_innovation": 2,
+        "ai_entrepreneurship": 4
       },
-      "emoji_clue": "\ud83d\udcf1\ud83e\udde9\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\ud83d\udca1",
-      "headline_split": "Interpreting Autistic Cues Is Difficult, a Teen Built an App That\u2019s Helping ",
+      "emoji_clue": "\ud83d\udcde\ud83c\udfa0\ud83d\udee0\ufe0f\ud83d\udc67",
+      "headline_split": "From payphone to playtime: Grocer's Daughter gives old technology ",
       "fake_endings": [
-        "thousands of teachers understand sign language",
-        "hundreds of hospitals train new nurses faster"
+        "a fresh coat of paint and a new home",
+        "to local schools for hands-on learning"
       ],
-      "fake_headline": "12-Year-Old Invents Smart Cane That Helps Blind Students Navigate School Hallways",
-      "source_domain": "goodnewsnetwork.org",
-      "author": "Andy Corbley",
+      "fake_headline": "From Typewriter to Toy: Retired Teacher Turns Vintage Office Equipment Into Playground Sculptures",
+      "city": "Glen Arbor",
+      "source_domain": "glenarborsun.com",
       "attribution_checked": true
     }
   ]
